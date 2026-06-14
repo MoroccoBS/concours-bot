@@ -963,7 +963,8 @@
       "needsReview": false
     }
   ],
-  "warnings": [
-    "Duplicate question number: 21"
-  ]
+  "warnings": ["Duplicate question number: 21"],
+  "examTitle": "Examen d'aptitude professionnelle",
+  "specialty": "Radiologie",
+  "year": 2012
 }
