@@ -1,0 +1,1046 @@
+{
+  "sourceFile": "Concours-Radiologie-Aptitude-2017.pdf",
+  "language": "fr",
+  "questions": [
+    {
+      "number": 1,
+      "text": "Parmi les composantes de l'extrémité supérieure de l'humérus il y a:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tête humérale;"
+        },
+        {
+          "letter": "B",
+          "text": "Le col anatomique;"
+        },
+        {
+          "letter": "C",
+          "text": "Le tubercule majeur ou la grande tubérosité (trochiter);"
+        },
+        {
+          "letter": "D",
+          "text": "Le tubercule mineur ou la petite tubérosité (trochin)."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 2,
+      "text": "L'astragale s'articule avec:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "le tibia;"
+        },
+        {
+          "letter": "B",
+          "text": "le péroné;"
+        },
+        {
+          "letter": "C",
+          "text": "Le cuboïde."
+        },
+        {
+          "letter": "D",
+          "text": "Les cunéiformes."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 3,
+      "text": "Les incidences qui permettent d'explorer le scaphoïde sont:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'incidence de face du poignet avec une forte déviation cubitale;"
+        },
+        {
+          "letter": "B",
+          "text": "L'incidence de face du poignet avec une forte déviation radiale;"
+        },
+        {
+          "letter": "C",
+          "text": "Schreck I;"
+        },
+        {
+          "letter": "D",
+          "text": "Schreck II."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 4,
+      "text": "L'incidence de Lacquerrière et Pierquin permet de radiographier:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le canal carpien;"
+        },
+        {
+          "letter": "B",
+          "text": "L'olécrane;"
+        },
+        {
+          "letter": "C",
+          "text": "L'apophyse coronoïde;"
+        },
+        {
+          "letter": "D",
+          "text": "L'apophyse coracoïde."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 5,
+      "text": "Les critères de réussite de l'incidence du genou de face sont:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'interligne fémoro-tibiale bien visible;"
+        },
+        {
+          "letter": "B",
+          "text": "La rotule est centrée au milieu des 2 condyles;"
+        },
+        {
+          "letter": "C",
+          "text": "Le dégagement de l'échancrure inter condylienne;"
+        },
+        {
+          "letter": "D",
+          "text": "La projection correcte du plateau tibiale."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 6,
+      "text": "Le centrage de l'incidence de la clavicule « défilée » est:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le rayon directeur est ascendant de 20° à 30°"
+        },
+        {
+          "letter": "B",
+          "text": "Le rayon directeur est descendant de 20° à 30° ;"
+        },
+        {
+          "letter": "C",
+          "text": "Le rayon directeur est verticale;"
+        },
+        {
+          "letter": "D",
+          "text": "Le rayon directeur est horizontal;"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 7,
+      "text": "L'incidence de Bernageau est réalisée comme suit :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Patient debout ou assis;"
+        },
+        {
+          "letter": "B",
+          "text": "Epaule contre la table;"
+        },
+        {
+          "letter": "C",
+          "text": "Bras en élévation complète ou sur la tête;"
+        },
+        {
+          "letter": "D",
+          "text": "Rayon directeur descendant de 25° à 30° centré sur l'acromion."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 8,
+      "text": "La radiographie de l'épaule de face sans rotation est réalisée comme suit :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debout ou assis, torse nue et pas de collier,"
+        },
+        {
+          "letter": "B",
+          "text": "Dos contre la table radiologique;"
+        },
+        {
+          "letter": "C",
+          "text": "Main en supination;"
+        },
+        {
+          "letter": "D",
+          "text": "Inclinaison cranio-podale du rayon directeur de 20° à 25° et centré sur la fossette sous-acromiale."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 9,
+      "text": "L'incidence de Blondeau est utilisée :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pour la visualisation de la base du crane;"
+        },
+        {
+          "letter": "B",
+          "text": "Pour la visualisation de la mandibule;"
+        },
+        {
+          "letter": "C",
+          "text": "Pour une bonne visualisation du massif facial;"
+        },
+        {
+          "letter": "D",
+          "text": "Dans les bilans de sinusite."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 10,
+      "text": "La face haute est réalisée comme suit :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Appui front-nez"
+        },
+        {
+          "letter": "B",
+          "text": "OM -50°;"
+        },
+        {
+          "letter": "C",
+          "text": "S - 0°;"
+        },
+        {
+          "letter": "D",
+          "text": "Le centrage au niveau de l'acanthion;"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 11,
+      "text": "Les contres indications des incidences de HIRTZ sont:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le traumatisme cervical;"
+        },
+        {
+          "letter": "B",
+          "text": "L'hypertension intracrânienne;"
+        },
+        {
+          "letter": "C",
+          "text": "Les céphalées;"
+        },
+        {
+          "letter": "D",
+          "text": "L'arthrose cervicale."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 12,
+      "text": "Le vertex, est:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le point d'union de l'os frontal et les os propres du nez;"
+        },
+        {
+          "letter": "B",
+          "text": "Le point qui correspond au sommet de la voûte crânienne;"
+        },
+        {
+          "letter": "C",
+          "text": "La saillie aplatie située en avant et en dehors du conduit auditif externe;"
+        },
+        {
+          "letter": "D",
+          "text": "La base du nez."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 13,
+      "text": "L'intérêt d'un cliche pulmonaire pris en expiration forcée, il permet:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "D'étudier la cinétique endothoracique;"
+        },
+        {
+          "letter": "B",
+          "text": "D'étudier la cinétique diaphragmatique;"
+        },
+        {
+          "letter": "C",
+          "text": "L'étude de la mobilisation d'un épanchement pleural;"
+        },
+        {
+          "letter": "D",
+          "text": "De mettre en évidence un petit pneumothorax qui peut être masqué par l'aération parenchymateuse."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 14,
+      "text": "Les incidences qui permettent de dégager les sommets pulmonaires sont:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La radiographie pulmonaire de face stricte;"
+        },
+        {
+          "letter": "B",
+          "text": "Le patient en A/P, en hyperlordose de 30° RDH centre à 10 cm au-dessous de la fourchette sternale."
+        },
+        {
+          "letter": "C",
+          "text": "Le patient debout en A/P, RD ascendant de 20° à 30°."
+        },
+        {
+          "letter": "D",
+          "text": "Le patient debout en P/A, RD descendant de 20° à 30° en regard D2, D3."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 15,
+      "text": "Les cliches fondamentaux lorsqu'il s'agit d'une urgence abdominale sont:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un ASP de face debout avec RDH;"
+        },
+        {
+          "letter": "B",
+          "text": "Un ASP de face en décubitus dorsal avec RDV;"
+        },
+        {
+          "letter": "C",
+          "text": "Un poumon de face debout en P/A;"
+        },
+        {
+          "letter": "D",
+          "text": "Un poumon de face debout en A/P;"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 16,
+      "text": "Parmi les indications de l'UIV:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les lithiases des voies urinaires;"
+        },
+        {
+          "letter": "B",
+          "text": "Les tumeurs des voies urinaires;"
+        },
+        {
+          "letter": "C",
+          "text": "L'hématurie;"
+        },
+        {
+          "letter": "D",
+          "text": "Les malformations de l'appareil urinaire."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 17,
+      "text": "Parmi les contres indication de L'Hystérosalpingographie:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La grossesse;"
+        },
+        {
+          "letter": "B",
+          "text": "les avortements à répétition;"
+        },
+        {
+          "letter": "C",
+          "text": "L'aménorrhée;"
+        },
+        {
+          "letter": "D",
+          "text": "L'infection génitale."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 18,
+      "text": "Les incidences standards en mammographie :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incidence de face;"
+        },
+        {
+          "letter": "B",
+          "text": "Incidence oblique externe en prenant le prolongement axillaire;"
+        },
+        {
+          "letter": "C",
+          "text": "Incidence oblique interne;"
+        },
+        {
+          "letter": "D",
+          "text": "Incidence localisée"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 19,
+      "text": "Le centrage de l'incidence de face en antéro-postérieur du rachis cervical:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "RD descendant de 15° à 20°;"
+        },
+        {
+          "letter": "B",
+          "text": "RD ascendant de 15° à 20° ;"
+        },
+        {
+          "letter": "C",
+          "text": "RD vise C4;"
+        },
+        {
+          "letter": "D",
+          "text": "RD vise la pomme d'Adam."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 20,
+      "text": "La position du patient lors de l'incidence de profil du rachis lombaire en station verticale est comme suit:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debout en profil strict ;"
+        },
+        {
+          "letter": "B",
+          "text": "Pieds nus bien stables et symétriques ;"
+        },
+        {
+          "letter": "C",
+          "text": "Bras croisés sur la poitrine;"
+        },
+        {
+          "letter": "D",
+          "text": "Mains sur les épaules."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 21,
+      "text": "Les critères de réussite de l'incidence de face du sacrum:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ligne des épineux biens médians;"
+        },
+        {
+          "letter": "B",
+          "text": "La superposition de la pointe de coccyx et de la symphyse pubienne;"
+        },
+        {
+          "letter": "C",
+          "text": "La visualisation de l'ensemble des structures depuis la colonne lombo-sacré jusqu'au coccyx;"
+        },
+        {
+          "letter": "D",
+          "text": "La bonne visualisation des contours de sacrum et des trous sacrés."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 22,
+      "text": "Pendant la prise du cliché oblique des cotes :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le coté à radiographier est en contact du plan d'examen;"
+        },
+        {
+          "letter": "B",
+          "text": "Le coté à radiographier s'écarte du plan d'examen;"
+        },
+        {
+          "letter": "C",
+          "text": "Le cliché est pris en inspiration forcée et bloquée;"
+        },
+        {
+          "letter": "D",
+          "text": "Le cliché est pris en expiration forcée."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 23,
+      "text": "Le numéro atomique Z correspond:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A la somme des nombres de protons et de neutrons dans le noyau;"
+        },
+        {
+          "letter": "B",
+          "text": "A la somme des nombres de protons et des électrons dans le noyau;"
+        },
+        {
+          "letter": "C",
+          "text": "Au nombre de protons dans le noyau;"
+        },
+        {
+          "letter": "D",
+          "text": "Au nombre de neutrons dans le noyau."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 24,
+      "text": "Les rayonnements X:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sont constitués de photons énergétiques issus des couches atomiques;"
+        },
+        {
+          "letter": "B",
+          "text": "Sont des rayonnements directement ionisants;"
+        },
+        {
+          "letter": "C",
+          "text": "Ayant un pouvoir de pénétration important;"
+        },
+        {
+          "letter": "D",
+          "text": "Dans leurs applications médicales sont produits par des générateurs électriques."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 25,
+      "text": "Les principes de la radioprotection sont:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La justification;"
+        },
+        {
+          "letter": "B",
+          "text": "L'optimisation;"
+        },
+        {
+          "letter": "C",
+          "text": "La limitation;"
+        },
+        {
+          "letter": "D",
+          "text": "La distance."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 26,
+      "text": "Les effets cellulaires des rayonnements ionisants :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aucun effet;"
+        },
+        {
+          "letter": "B",
+          "text": "La mort cellulaire;"
+        },
+        {
+          "letter": "C",
+          "text": "Le cancer;"
+        },
+        {
+          "letter": "D",
+          "text": "Les effets héréditaires."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 27,
+      "text": "L'injection du produit de contraste pendant un examen scanographique:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est systématique;"
+        },
+        {
+          "letter": "B",
+          "text": "N'est pas systématique;"
+        },
+        {
+          "letter": "C",
+          "text": "Peut être dangereuse chez les patients diabétiques;"
+        },
+        {
+          "letter": "D",
+          "text": "Est utile à la recherche des calcifications."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 28,
+      "text": "Les caractéristiques d'un produit de contraste:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Il propose le meilleur contraste possible;"
+        },
+        {
+          "letter": "B",
+          "text": "Il ne doit pas être métabolisé;"
+        },
+        {
+          "letter": "C",
+          "text": "Il ne doit pas être stocké dans l'organisme;"
+        },
+        {
+          "letter": "D",
+          "text": "Il doit être totalement éliminé."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 29,
+      "text": "Préparation et position du patient en cas d'un scanner cérébral:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enlever tous les objets métalliques;"
+        },
+        {
+          "letter": "B",
+          "text": "Décubitus dorsal, bras le long du corps;"
+        },
+        {
+          "letter": "C",
+          "text": "Matériel de contention n'est pas nécessaire;"
+        },
+        {
+          "letter": "D",
+          "text": "Centrage strict de la tête."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 30,
+      "text": "Les produits de contraste utilisés en IRM :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les produits de contraste iodés;"
+        },
+        {
+          "letter": "B",
+          "text": "les dérivés de la baryte;"
+        },
+        {
+          "letter": "C",
+          "text": "La gastroraphine;"
+        },
+        {
+          "letter": "D",
+          "text": "Les dérivés du gadolinium."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 31,
+      "text": "Le volume irradié en radiothérapie signifie:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le volume de tissus limité par la surface isodose;"
+        },
+        {
+          "letter": "B",
+          "text": "Le volume de tissu recevant une dose au moins égale à 50% de la dose au volume cible;"
+        },
+        {
+          "letter": "C",
+          "text": "Le volume tumoral et les zones présentant un risque élevé d'envahissement;"
+        },
+        {
+          "letter": "D",
+          "text": "Le volume cible prévisionnel."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 32,
+      "text": "Durant la simulation, on définit:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La position du malade et les systèmes de contention;"
+        },
+        {
+          "letter": "B",
+          "text": "Le volume cible anatomoclinique;"
+        },
+        {
+          "letter": "C",
+          "text": "La technique de traitement;"
+        },
+        {
+          "letter": "D",
+          "text": "Le nombre, l'orientation et les dimensions des faisceaux d'irradiation."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 33,
+      "text": "La fiche de traitement en radiothérapie précise:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La position du malade;"
+        },
+        {
+          "letter": "B",
+          "text": "La nature des systèmes de contention utilisés;"
+        },
+        {
+          "letter": "C",
+          "text": "Le bilan radiologique et biologique du malade;"
+        },
+        {
+          "letter": "D",
+          "text": "Les modalités du centrage."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 34,
+      "text": "Les inconvénients de la curiethérapie :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nécessité d'une anesthésie locorégionale ou générale;"
+        },
+        {
+          "letter": "B",
+          "text": "Une hospitalisation est obligatoire pour la curiethérapie à bas débit de dose;"
+        },
+        {
+          "letter": "C",
+          "text": "Nécessité de l'accessibilité de la tumeur;"
+        },
+        {
+          "letter": "D",
+          "text": "Des réactions aigues souvent intenses voire des nécroses osseuses ou muqueuses."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 35,
+      "text": "Les caractéristiques de l'Ir192:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Source radioactive scellée"
+        },
+        {
+          "letter": "B",
+          "text": "Émet Rayon γ d'énergie : 612 KeV"
+        },
+        {
+          "letter": "C",
+          "text": "Période T1/2 = 60 jours"
+        },
+        {
+          "letter": "D",
+          "text": "Présentations : fils souples de 0,3 ou 0,5 mm de diamètre"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 36,
+      "text": "Les différentes modalités d'acquisition d'images scintigraphiques:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vues statiques ou planaires;"
+        },
+        {
+          "letter": "B",
+          "text": "Balayages corps entier;"
+        },
+        {
+          "letter": "C",
+          "text": "Acquisition dynamique;"
+        },
+        {
+          "letter": "D",
+          "text": "Tomographies."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 37,
+      "text": "La scintigraphie rénale au DMSA consiste:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A faire une injection IV du 99mtc-DMSA;"
+        },
+        {
+          "letter": "B",
+          "text": "A réaliser une imagerie planaire entre 2h et 3h après l'injection pour l'adulte;"
+        },
+        {
+          "letter": "C",
+          "text": "A réaliser une imagerie planaire entre 2h et 6h après l'injection pour l'enfant;"
+        },
+        {
+          "letter": "D",
+          "text": "A l'acquisition d'images tardives à 24 heures."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 38,
+      "text": "La molécule vectrice utilisée pour la scintigraphie parathyroïdienne:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "DMSA;"
+        },
+        {
+          "letter": "B",
+          "text": "Sestamibi ou MIBI;"
+        },
+        {
+          "letter": "C",
+          "text": "DTPA;"
+        },
+        {
+          "letter": "D",
+          "text": "MAG3."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 5,
+      "reviewNotes": []
+    },
+    {
+      "number": 39,
+      "text": "Le rôle d'un traceur en médecine nucléaire est:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "D'assurer la protection du marqueur;"
+        },
+        {
+          "letter": "B",
+          "text": "De traiter l'organe à explorer;"
+        },
+        {
+          "letter": "C",
+          "text": "D'acheminer le marqueur vers l'organe à explorer;"
+        },
+        {
+          "letter": "D",
+          "text": "D'émettre des rayons gamma susceptibles d'être détectés."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 5,
+      "reviewNotes": []
+    },
+    {
+      "number": 40,
+      "text": "Le rôle d'un marqueur en médecine nucléaire est:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "D'assurer la protection du vecteur;"
+        },
+        {
+          "letter": "B",
+          "text": "De traiter l'organe à explorer;"
+        },
+        {
+          "letter": "C",
+          "text": "D'acheminer le marqueur vers l'organe à explorer;"
+        },
+        {
+          "letter": "D",
+          "text": "D'émettre des rayons gamma susceptibles d'être détectés."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 5,
+      "reviewNotes": []
+    }
+  ]
+}

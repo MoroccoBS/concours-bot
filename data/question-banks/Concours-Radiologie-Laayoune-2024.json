@@ -1,0 +1,1473 @@
+{
+  "sourceFile": "Concours-Radiologie-Laayoune-2024.pdf",
+  "language": "fr",
+  "questions": [
+    {
+      "number": 1,
+      "text": "Pour un coude de face :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cupule radiale empiète de moitié sur la coronoïde."
+        },
+        {
+          "letter": "B",
+          "text": "L'interligne condyle-tête radiale visible"
+        },
+        {
+          "letter": "C",
+          "text": "Epitrochlée et épicondyle bien dégagés"
+        },
+        {
+          "letter": "D",
+          "text": "Superposition épitrochlée -épicondyle"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 2,
+      "text": "L'incidence de l'avant-bras de face :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Membres supérieurs en extension"
+        },
+        {
+          "letter": "B",
+          "text": "Membres supérieurs en flexion"
+        },
+        {
+          "letter": "C",
+          "text": "RDV vise le milieu de l'avant-bras."
+        },
+        {
+          "letter": "D",
+          "text": "Palette humérale et poignet bien de face"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 3,
+      "text": "L'incidence de l'épaule de face en rotation externe :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bras en très légère abduction"
+        },
+        {
+          "letter": "B",
+          "text": "Avant-bras en supination"
+        },
+        {
+          "letter": "C",
+          "text": "L'épaule opposée est avancée de 35° à 40° par rapport au plan d'examen"
+        },
+        {
+          "letter": "D",
+          "text": "Trochin en dedans"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 4,
+      "text": "Le profil podo-cranial de l'épaule :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Patient debout ou en DD"
+        },
+        {
+          "letter": "B",
+          "text": "RDH vise le sommet de l'aisselle"
+        },
+        {
+          "letter": "C",
+          "text": "Cassette verticalement posée en contact de la face sup de l'épaule"
+        },
+        {
+          "letter": "D",
+          "text": "Bras en abduction de 135° avec le plan sagittal"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 5,
+      "text": "L'incidence de l'épaule utile dans l'étude de la luxation récidivante :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incidence de dédiée"
+        },
+        {
+          "letter": "B",
+          "text": "Incidence de bloom-obata"
+        },
+        {
+          "letter": "C",
+          "text": "Incidence de Neer"
+        },
+        {
+          "letter": "D",
+          "text": "Incidence de Lamy"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 6,
+      "text": "Quelle est la projection radiologique standard pour visualiser le fémur dans son entier ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Projection axiale"
+        },
+        {
+          "letter": "B",
+          "text": "Projection de profil"
+        },
+        {
+          "letter": "C",
+          "text": "Projection en AP (antéropostérieure)"
+        },
+        {
+          "letter": "D",
+          "text": "Projection en oblique"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 7,
+      "text": "Quelle est l'importance de la technique du profil de Ducroquet dans l'imagerie de la hanche ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permet de mesurer l'angle d'antéversion fémoral"
+        },
+        {
+          "letter": "B",
+          "text": "Dépistage des luxations traumatiques de la hanche"
+        },
+        {
+          "letter": "C",
+          "text": "C'est un bon profil chez un sujet immobilisable"
+        },
+        {
+          "letter": "D",
+          "text": "Il permet de situer les fragments osseux dans un plan antéro-postérieur"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 8,
+      "text": "Lors de la radiographie du bassin, pourquoi est-il important de positionner les membres inférieurs en rotation interne ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pour réduire les artefacts d'image"
+        },
+        {
+          "letter": "B",
+          "text": "Pour mieux visualiser les fractures du fémur"
+        },
+        {
+          "letter": "C",
+          "text": "Pour aligner correctement les articulations sacro-iliaques"
+        },
+        {
+          "letter": "D",
+          "text": "Pour obtenir une meilleure vue des structures de la hanche et du col du fémur"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 9,
+      "text": "Quels sont les angles de flexion du genou recommandés pour une meilleure évaluation des défilés rotuliens ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10-20-30 degrés"
+        },
+        {
+          "letter": "B",
+          "text": "30-60-90 degrés"
+        },
+        {
+          "letter": "C",
+          "text": "30-50-90 degrés"
+        },
+        {
+          "letter": "D",
+          "text": "30-60-80 degrés"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 10,
+      "text": "Quel est le positionnement correct du patient pour une radiographie du calcanéum en vue de grenouille ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En décubitus dorsal avec les jambes étendues et les pieds en rotation interne"
+        },
+        {
+          "letter": "B",
+          "text": "En décubitus dorsal avec les jambes fléchies et les pieds en rotation externe"
+        },
+        {
+          "letter": "C",
+          "text": "En position assise avec les jambes croisées"
+        },
+        {
+          "letter": "D",
+          "text": "En décubitus latéral avec les pieds en flexion dorsale"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 11,
+      "text": "Parmi les incidences suivantes, lesquelles permettent d'étudier seulement les deux premières vertèbres cervicales :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incidence du rachis cervical de face"
+        },
+        {
+          "letter": "B",
+          "text": "Incidence du Rachis cervical en obliques antéropostérieur droit et gauche"
+        },
+        {
+          "letter": "C",
+          "text": "Incidence de la charnière cervico-occipital de face"
+        },
+        {
+          "letter": "D",
+          "text": "Incidence de la charnière cervico-occipital de profil"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 12,
+      "text": "Pour dégager les arcs postérieurs des côtes, le patient prend la position :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Face en A/P"
+        },
+        {
+          "letter": "B",
+          "text": "Oblique en A/P"
+        },
+        {
+          "letter": "C",
+          "text": "Face en P/A"
+        },
+        {
+          "letter": "D",
+          "text": "Oblique en P/A"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 13,
+      "text": "L'incidence de Hirtz :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le centrage est au niveau de la ligne biauriculaire"
+        },
+        {
+          "letter": "B",
+          "text": "Indiquée en cas d'une insuffisance vertébro-basilaire"
+        },
+        {
+          "letter": "C",
+          "text": "L'angle formé par le rayon directeur et le plan sagittal médian est 0°"
+        },
+        {
+          "letter": "D",
+          "text": "L'angle formé par le rayon directeur est le plan orbito-méatal est de -150°"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 14,
+      "text": "Parmi les critères de réussite de l'incidence Schuller II :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La lame quadrilatère de la selle turcique se projette dans la moitié postérieure du trou occipital"
+        },
+        {
+          "letter": "B",
+          "text": "Les bords supérieurs des rochers confondus avec les rebords orbitaires inférieurs"
+        },
+        {
+          "letter": "C",
+          "text": "La superposition des deux hémi-crânes"
+        },
+        {
+          "letter": "D",
+          "text": "Les canaux semi-circulaires supérieurs sont déroulés"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 15,
+      "text": "Incidence de Worms-Bretton ou semi axiale :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le plan orbito-méatal oblique au plan de projection"
+        },
+        {
+          "letter": "B",
+          "text": "Équidistance des deux conduits auditifs externes à la cassette"
+        },
+        {
+          "letter": "C",
+          "text": "Les rochers sont situés largement au-dessus des rebords orbitaires supérieurs"
+        },
+        {
+          "letter": "D",
+          "text": "L'angle formé par le rayon directeur et le plan orbito-méatal est de 25°"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 16,
+      "text": "Concernant la radiographie du rachis cervical :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le rayon directeur est horizontal pour la radiographie de profil."
+        },
+        {
+          "letter": "B",
+          "text": "Le rayon directeur est descendant pour la radiographie de face."
+        },
+        {
+          "letter": "C",
+          "text": "La radiographie de face permet la visualisation des foramens de conjugaison."
+        },
+        {
+          "letter": "D",
+          "text": "Le temps d'exposition est de l'ordre de 0,1 à 0,5 seconde"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 17,
+      "text": "Il est possible de diminuer l'irradiation sans nuire à la qualité de l'image en :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Augmentant la filtration additionnelle."
+        },
+        {
+          "letter": "B",
+          "text": "Augmentant la tension (Kv)."
+        },
+        {
+          "letter": "C",
+          "text": "Diminuant la distance foyer film."
+        },
+        {
+          "letter": "D",
+          "text": "Minimisant la charge (mAs)."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 18,
+      "text": "L'incidence radiologique de Lamy :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permet de visualiser la Scapula de profil sous forme de « Y »."
+        },
+        {
+          "letter": "B",
+          "text": "La glène est vue de profil."
+        },
+        {
+          "letter": "C",
+          "text": "Permet le dégagement du cintre acromio-claviculaire."
+        },
+        {
+          "letter": "D",
+          "text": "La diaphyse humérale est superposée avec l'épaule."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 19,
+      "text": "Les incidences radiologiques permettant de dégager le scaphoïde :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'incidence de Shrek I permet de dégager le scaphoïde de face."
+        },
+        {
+          "letter": "B",
+          "text": "L'incidence de Shrek II permet de dégager le scaphoïde de profil."
+        },
+        {
+          "letter": "C",
+          "text": "L'incidence poignet de face avec forte déviation radiale permet de bien dégager l'interligne radio- scaphoïdien."
+        },
+        {
+          "letter": "D",
+          "text": "L'incidence oblique externe du poignet est indiquée pour l'étude du scaphoïde"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 20,
+      "text": "Les critères de réussite de l'incidence radiologique du bassin 3/4 obturateur :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'aile iliaque est projetée de face."
+        },
+        {
+          "letter": "B",
+          "text": "Le foramen obturateur est bien rond."
+        },
+        {
+          "letter": "C",
+          "text": "Les épines iliaques antéro supérieurs sont superposés."
+        },
+        {
+          "letter": "D",
+          "text": "La cotyle est exposée de profil."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 21,
+      "text": "Pour l'incidence radiologique de l'articulation sacro-iliaque de face bilatérale :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'utilisation d'un ballon de compression est recommandée."
+        },
+        {
+          "letter": "B",
+          "text": "Le patient est en décubitus dorsale et les membres inférieurs sont en extension."
+        },
+        {
+          "letter": "C",
+          "text": "Le rayon directeur est descendant de 15 à 20°."
+        },
+        {
+          "letter": "D",
+          "text": "Le rayon directeur est centré au milieu des deux interlignes sacro-iliaques."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 22,
+      "text": "L'incidence radiologique profil urétral de la hanche :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le bassin est en oblique de 45° du coté à examiner."
+        },
+        {
+          "letter": "B",
+          "text": "Le rayon directeur est vertical centré au milieu du plis inguinal."
+        },
+        {
+          "letter": "C",
+          "text": "Permet de dégager l'articulation coxo-fémorale de face."
+        },
+        {
+          "letter": "D",
+          "text": "Le grand trochanter est projeté sur le col et déborde de part et d'autre."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 23,
+      "text": "L'incidence radiologique de l'échancrure inter condylienne en antéro postérieure :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La jambe est fléchie sur la cuisse faisant un angle de 45°."
+        },
+        {
+          "letter": "B",
+          "text": "Un film souple ou une cassette courbe sont nécessaires pour la réalisation de cette incidence."
+        },
+        {
+          "letter": "C",
+          "text": "Une angulation de 90° du rayon directeur par rapport à l'axe de la jambe permet de dégager la partie postérieure de l'échancrure."
+        },
+        {
+          "letter": "D",
+          "text": "Une angulation de 100° du rayon directeur par rapport à l'axe de la jambe permet de dégager la partie antérieure de l'échancrure."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 24,
+      "text": "L'incidence radiologique rétro-tibiale descendante :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permet l'étude du tarse antérieur."
+        },
+        {
+          "letter": "B",
+          "text": "Le patient est debout sur la cassette, incliné en avant et genou fléchi sur la jambe."
+        },
+        {
+          "letter": "C",
+          "text": "Le tube à rayon X est placé à la hauteur du creux poplité."
+        },
+        {
+          "letter": "D",
+          "text": "Le rayon directeur est centré à trois travers de doigts au-dessus du tendon d'Achille."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 25,
+      "text": "L'incidence radiologique du rachis cervical oblique droit (OPD) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le patient fait un angle de 45 à 55° par rapport au plan d'examen."
+        },
+        {
+          "letter": "B",
+          "text": "Le rayon directeur est incliné de 20° vers le bas centré à la hauteur de la pomme d'Adam."
+        },
+        {
+          "letter": "C",
+          "text": "La distance foyer film est de 1m20."
+        },
+        {
+          "letter": "D",
+          "text": "Permet un bon dégagement des foramens de conjugaison gauches."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 26,
+      "text": "L'incidence radiologique du rachis dorsal de profil :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le patient est debout de profil strict."
+        },
+        {
+          "letter": "B",
+          "text": "Le rayon directeur est horizontal centré à la hauteur de D1."
+        },
+        {
+          "letter": "C",
+          "text": "Permet une bonne visibilité des foramens de conjugaison de la région thoracique."
+        },
+        {
+          "letter": "D",
+          "text": "Il est recommandé de demander au patient de respirer lentement durant l'acquisition."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 27,
+      "text": "L'incidence radiologique de face haute :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permet de dégager les orbites des rochers."
+        },
+        {
+          "letter": "B",
+          "text": "Le patient est en position postéro-antérieure avec appui menton-nez."
+        },
+        {
+          "letter": "C",
+          "text": "Le rayon directeur est incliné de -25° et émerge par l'acanthion."
+        },
+        {
+          "letter": "D",
+          "text": "Sur l'image radiologique, le bord supérieur des rochers est superposé au plancher de l'orbite."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 28,
+      "text": "Pour la radiographie pulmonaire en DD",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les membres supérieurs en adduction"
+        },
+        {
+          "letter": "B",
+          "text": "RDV centré à 8cm au-dessous de la fourchette sternale."
+        },
+        {
+          "letter": "C",
+          "text": "RDV centré sur D5"
+        },
+        {
+          "letter": "D",
+          "text": "La silhouette cardiovasculaire apparaîtra plus importante qu'en P/A"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 29,
+      "text": "Le sulfate de baryum",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Z=56"
+        },
+        {
+          "letter": "B",
+          "text": "La forme en poudre s'appelle micropaque"
+        },
+        {
+          "letter": "C",
+          "text": "Contre indiqué en cas de fistules"
+        },
+        {
+          "letter": "D",
+          "text": "Contraste plus pâle par rapport à la gastrographine"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 30,
+      "text": "L'exploration usuelle du larynx, comprend les examens suivants :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tomographie frontale du larynx :"
+        },
+        {
+          "letter": "B",
+          "text": "Radio de profil du larynx :"
+        },
+        {
+          "letter": "C",
+          "text": "Radiographie de la face de profil"
+        },
+        {
+          "letter": "D",
+          "text": "D-radiographie des poumons"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 31,
+      "text": "En UIV",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A la 5ème minutes, Les cavités pyélocalicielles doivent être opacifiées"
+        },
+        {
+          "letter": "B",
+          "text": "Un cliché de compression est réalisé systématiquement après le cliché de 10 minutes"
+        },
+        {
+          "letter": "C",
+          "text": "En cas d'obstacles sur voie urinaire ou en cas de retard d'élimination : Il faudra faire la compression"
+        },
+        {
+          "letter": "D",
+          "text": "Des clichés per mictionnels : sont réalisés soit en DD obliques"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 32,
+      "text": "Pour la cholangiographie per opératoire :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Elle permet de montrer la perméabilité du cholédoque"
+        },
+        {
+          "letter": "B",
+          "text": "Elle permet de vérifier présence du calcul des voies biliaires"
+        },
+        {
+          "letter": "C",
+          "text": "La nécessité de l'injection de la baryte"
+        },
+        {
+          "letter": "D",
+          "text": "La nécessité de l'injection de la gastrographine"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 33,
+      "text": "Pour le lavement baryté",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Il est indiqué en cas d'anomalie de positionnement ou de calibre"
+        },
+        {
+          "letter": "B",
+          "text": "Il faut introduire la baryte jusqu'au l'angle colique droit"
+        },
+        {
+          "letter": "C",
+          "text": "Pour la bonne visualisation de l'angle colique droit, le patient doit être en OPG"
+        },
+        {
+          "letter": "D",
+          "text": "Pour un bon engagement du sigmoïde, le patient doit en DV avec inclinaison craniocaudale"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 34,
+      "text": "En TOGD, pour rechercher l'hernie hiatale",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le patient doit être en DV"
+        },
+        {
+          "letter": "B",
+          "text": "Recherche sous scopie"
+        },
+        {
+          "letter": "C",
+          "text": "L'estomac doit être vide"
+        },
+        {
+          "letter": "D",
+          "text": "Centrage sur le ventre, à la hauteur de l'estomac"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 35,
+      "text": "La coloscopie virtuelle :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Elle permet de voir l'intérieur du colon"
+        },
+        {
+          "letter": "B",
+          "text": "Elle permet de faire une ablation"
+        },
+        {
+          "letter": "C",
+          "text": "Elle nécessite un scanner multibarrettes avec des coupes fines"
+        },
+        {
+          "letter": "D",
+          "text": "Elle nécessite l'anesthésie"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 36,
+      "text": "La densité de la matière blanche et grise est égale approximativement à :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0 UH"
+        },
+        {
+          "letter": "B",
+          "text": "-100 UH"
+        },
+        {
+          "letter": "C",
+          "text": "40 UH"
+        },
+        {
+          "letter": "D",
+          "text": "100 UH"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 37,
+      "text": "Lorsque le pitch est supérieur à 1 :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La qualité d'image augmente"
+        },
+        {
+          "letter": "B",
+          "text": "L'irradiation augmente"
+        },
+        {
+          "letter": "C",
+          "text": "L'examen sera très rapide"
+        },
+        {
+          "letter": "D",
+          "text": "L'examen sera moins rapide"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 38,
+      "text": "Le rapport signal sur bruit est amélioré quand :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le kilo voltage augmente"
+        },
+        {
+          "letter": "B",
+          "text": "Le F.O.V. augmente"
+        },
+        {
+          "letter": "C",
+          "text": "L'épaisseur de coupe augmente"
+        },
+        {
+          "letter": "D",
+          "text": "La taille du pixel diminue (= la taille de la matrice augmente)."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 39,
+      "text": "Concernant le rendement en profondeur des photons :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les photons ont un parcours fini."
+        },
+        {
+          "letter": "B",
+          "text": "La profondeur du maximum de dose augmente avec l'énergie de rayonnement."
+        },
+        {
+          "letter": "C",
+          "text": "Les photons sont utilisés pour le traitement des tumeurs profondes et volumineuses."
+        },
+        {
+          "letter": "D",
+          "text": "Les photons sont idéaux pour la protection des tissus sains avant et après la tumeur."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 40,
+      "text": "Pour atteindre les objectifs de la radiothérapie il faut :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Optimiser la précision et la reproductibilité de la radiothérapie"
+        },
+        {
+          "letter": "B",
+          "text": "Optimiser la balistique"
+        },
+        {
+          "letter": "C",
+          "text": "Réduire la dose"
+        },
+        {
+          "letter": "D",
+          "text": "Bien conformer la dose à la tumeur."
+        },
+        {
+          "letter": "E",
+          "text": "Réduire la toxicité"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 41,
+      "text": "Les avantages de la radiothérapie conformationnelle (RC3D) par rapport à la radiothérapie conventionnelle (2D)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La RC3D est une optimisation de la radiothérapie externe par l'utilisation d'un Collimateur Multi-Lames (CML) et d'un scanner dosimétrique."
+        },
+        {
+          "letter": "B",
+          "text": "La RC3D permet de mieux cibler la tumeur en adaptant précisément le faisceau de radiation à la forme de la tumeur, réduisant ainsi l'exposition des tissus sains."
+        },
+        {
+          "letter": "C",
+          "text": "La RC3D utilise moins de faisceaux, ce qui réduit le temps de traitement."
+        },
+        {
+          "letter": "D",
+          "text": "La RC3D est une technique de radiothérapie qui fonctionne par modulation d'intensité."
+        },
+        {
+          "letter": "E",
+          "text": "La RC3D permet une définition plus précise du Volume Tumoral Grossier (GTV) et du Volume Cible Clinique (CTV)."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 42,
+      "text": "Concernant le scanner dosimétrique :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est utilisé pour diagnostiquer le cancer."
+        },
+        {
+          "letter": "B",
+          "text": "Permet de visualiser la tumeur en trois dimensions pour une meilleure planification du traitement."
+        },
+        {
+          "letter": "C",
+          "text": "Est utilisé pour déterminer la distribution de la dose de radiation dans les tissus."
+        },
+        {
+          "letter": "D",
+          "text": "Est identique à un scanner diagnostique standard."
+        },
+        {
+          "letter": "E",
+          "text": "Est essentiel pour la définition des volumes cibles."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 43,
+      "text": "Les facteurs influençant l'effet d'irradiation en radiothérapie :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Radiosensibilité intrinsèque"
+        },
+        {
+          "letter": "B",
+          "text": "Le cycle cellulaire"
+        },
+        {
+          "letter": "C",
+          "text": "Effet oxygène"
+        },
+        {
+          "letter": "D",
+          "text": "Température"
+        },
+        {
+          "letter": "E",
+          "text": "l'étalement et le fractionnement"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 44,
+      "text": "Les modificateurs de faisceau couramment utilisés en radiothérapie externe :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Filtre en coin"
+        },
+        {
+          "letter": "B",
+          "text": "Masques thermoformables"
+        },
+        {
+          "letter": "C",
+          "text": "Bolus"
+        },
+        {
+          "letter": "D",
+          "text": "Collimateur Multi-Lames (CML)"
+        },
+        {
+          "letter": "E",
+          "text": "Caches"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 45,
+      "text": "Concernant la curiethérapie, quelle(s) est (sont) l'(les) affirmation(s) correcte(s) ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La curiethérapie bas débit (LDR) est une technique exclusivement interstitielle."
+        },
+        {
+          "letter": "B",
+          "text": "Le vecteur de source en curiethérapie est un élément physique (un cathéter) qu'on introduit dans le corps humain."
+        },
+        {
+          "letter": "C",
+          "text": "La curiethérapie à débit de dose pulsé (PDR) est apparue en remplaçant les fils d'iridium dans le bas débit par des sources ponctuelles."
+        },
+        {
+          "letter": "D",
+          "text": "Le principe de la curiethérapie bas débit (LDR) est différent du principe du haut débit (HDR) du fait que l'acheminement de la source radioactive se fait via des vecteurs moléculaires."
+        },
+        {
+          "letter": "E",
+          "text": "La curiethérapie à haut débit (HDR) est souvent utilisée pour les cancers gynécologiques."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 46,
+      "text": "En IRM, Séquence STIR :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Séquence pour annuler la graisse"
+        },
+        {
+          "letter": "B",
+          "text": "Utilise une impulsion 90° au début."
+        },
+        {
+          "letter": "C",
+          "text": "Séquence pour annuler l'os"
+        },
+        {
+          "letter": "D",
+          "text": "Utile dans l'exploration des tissus mous et articulaires."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 47,
+      "text": "Le Gadolinium :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entraîne un rehaussement en flair des structures ayant fixé le gadolinium"
+        },
+        {
+          "letter": "B",
+          "text": "Produit de contraste de l'IRM"
+        },
+        {
+          "letter": "C",
+          "text": "Entraîne un rehaussement en T2 des structures ayant fixé le gadolinium"
+        },
+        {
+          "letter": "D",
+          "text": "Agent de contraste sous forme de Chélate de gadolinium"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 48,
+      "text": "Dans la scintigraphie parathyroïdienne de soustraction (double traceur), la première image à acquérir est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Image cervicale au mibi-99mTc"
+        },
+        {
+          "letter": "B",
+          "text": "Image thyroïdienne au 99mTcO4-"
+        },
+        {
+          "letter": "C",
+          "text": "Image médiastinale au mibi-99mTc"
+        },
+        {
+          "letter": "D",
+          "text": "Toutes les réponses fausses"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 49,
+      "text": "Dans l'exploration dynamique des reins, l'activité injectée du MAG3-99mTc à l'enfant est",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entre 1 et 2 mCi"
+        },
+        {
+          "letter": "B",
+          "text": "Calculée à base du poids"
+        },
+        {
+          "letter": "C",
+          "text": "Calculée à base de l'âge"
+        },
+        {
+          "letter": "D",
+          "text": "Toutes les réponses sont fausses"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 50,
+      "text": "Le temps d'attente entre l'injection et l'acquisition des images myocardiques",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15 min"
+        },
+        {
+          "letter": "B",
+          "text": "30 min"
+        },
+        {
+          "letter": "C",
+          "text": "1h"
+        },
+        {
+          "letter": "D",
+          "text": "2h"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 51,
+      "text": "Dans la scintigraphie pulmonaire de perfusion, la MMA-99mTc est injecté au patient",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dans la salle d'injection"
+        },
+        {
+          "letter": "B",
+          "text": "En décubitus dorsal"
+        },
+        {
+          "letter": "C",
+          "text": "Sur table"
+        },
+        {
+          "letter": "D",
+          "text": "Injection synchronisée"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 52,
+      "text": "Les acquisitions statiques de la scintigraphie pulmonaire de perfusion sont terminées après",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 min"
+        },
+        {
+          "letter": "B",
+          "text": "300 k coups"
+        },
+        {
+          "letter": "C",
+          "text": "10 min"
+        },
+        {
+          "letter": "D",
+          "text": "600 k coups"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 53,
+      "text": "La surveillance médicale et dosimétrique du personnel intervenant dans une installation de radiologie ou nucléaire, a pour but de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "D'évaluer les équivalents de doses reçus par le travailleur"
+        },
+        {
+          "letter": "B",
+          "text": "De détecter les cas individuels de dépassement des limites réglementaires"
+        },
+        {
+          "letter": "C",
+          "text": "De veiller au respect des limites d'exposition"
+        },
+        {
+          "letter": "D",
+          "text": "D'archiver les équivalents de dose reçus durant la vie"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 54,
+      "text": "Parmi les principes de radioprotection, on trouve :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Formation"
+        },
+        {
+          "letter": "B",
+          "text": "Justification"
+        },
+        {
+          "letter": "C",
+          "text": "Optimisation"
+        },
+        {
+          "letter": "D",
+          "text": "Limitation"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 55,
+      "text": "Parmi les organismes de radioprotection au niveau national, on trouve",
+      "options": [
+        {
+          "letter": "A",
+          "text": "AIEA"
+        },
+        {
+          "letter": "B",
+          "text": "AMSSNUR"
+        },
+        {
+          "letter": "C",
+          "text": "CNRP"
+        },
+        {
+          "letter": "D",
+          "text": "EURATOM"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 56,
+      "text": "Scanographie du rachis lombo-sacré",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'injection est systématique"
+        },
+        {
+          "letter": "B",
+          "text": "Le pas (pitch) est 3.5"
+        },
+        {
+          "letter": "C",
+          "text": "Acquisition hélicoïdale"
+        },
+        {
+          "letter": "D",
+          "text": "Tension : 120 kV en règle générale"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 57,
+      "text": "Scanographie de l'encéphale",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Décubitus dorsal"
+        },
+        {
+          "letter": "B",
+          "text": "Décubitus ventral"
+        },
+        {
+          "letter": "C",
+          "text": "Tension : 100 à 120 kV"
+        },
+        {
+          "letter": "D",
+          "text": "Pas (pitch) : 0,7 à 1,3."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 58,
+      "text": "Scanographie du massif facial pour tumeur",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Injection est nécessaire"
+        },
+        {
+          "letter": "B",
+          "text": "Injection n'est pas nécessaire"
+        },
+        {
+          "letter": "C",
+          "text": "Il faut enlever les prothèses dentaires amovibles et boucles d'oreilles"
+        },
+        {
+          "letter": "D",
+          "text": "La réalisation d'une échographie abdominale est nécessaire"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 59,
+      "text": "Scanographie des rochers",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pas : 1 à 1,5"
+        },
+        {
+          "letter": "B",
+          "text": "Pas : 0,5 à 0,75"
+        },
+        {
+          "letter": "C",
+          "text": "Injection est systématique"
+        },
+        {
+          "letter": "D",
+          "text": "Tension : 120 à 140 kV"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 60,
+      "text": "La radiographie par système EOS est utilisée principalement pour :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les membres supérieurs"
+        },
+        {
+          "letter": "B",
+          "text": "Le rachis"
+        },
+        {
+          "letter": "C",
+          "text": "L'épaule"
+        },
+        {
+          "letter": "D",
+          "text": "Les cunéiformes"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    }
+  ],
+  "examTitle": "Concours de recrutement des infirmiers et techniciens de santé",
+  "specialty": "TECHNICIEN DE RADIOLOGIE",
+  "year": 2024
+}

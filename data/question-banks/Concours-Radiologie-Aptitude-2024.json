@@ -44,7 +44,7 @@
         },
         {
           "letter": "D",
-          "text": "L'exposition de la mère à des rayons gamma"
+          "text": "L'exposition de la mère à des rayons gamma."
         }
       ],
       "confidence": 1,
@@ -68,7 +68,7 @@
         },
         {
           "letter": "D",
-          "text": "Toutes les propositions sont fausses"
+          "text": "Toutes les propositions sont fausses."
         }
       ],
       "confidence": 1,
@@ -92,7 +92,7 @@
         },
         {
           "letter": "D",
-          "text": "La réparation cellulaire"
+          "text": "La réparation cellulaire."
         }
       ],
       "confidence": 1,
@@ -108,7 +108,7 @@
         },
         {
           "letter": "B",
-          "text": "Se traduisent par l'induction de cancer et de leucémie"
+          "text": "Se traduisent par l'induction de cancer et de leucémie."
         },
         {
           "letter": "C",
@@ -116,7 +116,7 @@
         },
         {
           "letter": "D",
-          "text": "Sont des effets aléatoires"
+          "text": "Sont des effets aléatoires."
         }
       ],
       "confidence": 1,
@@ -164,7 +164,7 @@
         },
         {
           "letter": "D",
-          "text": "La tubérosité iliaque qui forme une saillie régulière"
+          "text": "La tubérosité iliaque qui forme une saillie régulière."
         }
       ],
       "confidence": 1,
@@ -184,11 +184,11 @@
         },
         {
           "letter": "C",
-          "text": "Le segment antérieur est élargi en partant par une apophyse externe qui est la sustentaculum-tali"
+          "text": "Le segment antérieur est élargi en avant par une apophyse externe qui est la sustentaculum-tali"
         },
         {
           "letter": "D",
-          "text": "Toutes les propositions sont fausses"
+          "text": "Toutes les propositions sont fausses."
         }
       ],
       "confidence": 1,
@@ -212,7 +212,7 @@
         },
         {
           "letter": "D",
-          "text": "Est sous cutané"
+          "text": "Est sous cutané."
         }
       ],
       "confidence": 1,
@@ -236,7 +236,7 @@
         },
         {
           "letter": "D",
-          "text": "Une trochlée"
+          "text": "Une trochlée."
         }
       ],
       "confidence": 1,
@@ -260,7 +260,7 @@
         },
         {
           "letter": "D",
-          "text": "Le centrage est au niveau de la deuxième articulation métatarsophalangienne"
+          "text": "Le centrage est au niveau de la deuxième articulation métatarsophalangienne."
         }
       ],
       "confidence": 1,
@@ -308,7 +308,7 @@
         },
         {
           "letter": "D",
-          "text": "Rayon directeur est incliné en bas et doit émerger au milieu du bras"
+          "text": "Rayon directeur est incliné en bas et doit émerger au milieu du bras."
         }
       ],
       "confidence": 1,
@@ -332,7 +332,7 @@
         },
         {
           "letter": "D",
-          "text": "L'oblique postérieur droit et l'oblique postérieur gauche"
+          "text": "L'oblique postérieur droit et l'oblique postérieur gauche."
         }
       ],
       "confidence": 1,
@@ -380,7 +380,7 @@
         },
         {
           "letter": "D",
-          "text": "L'étude du processus épineux après traumatisme"
+          "text": "L'étude du processus épineux après traumatisme."
         }
       ],
       "confidence": 1,
@@ -404,7 +404,7 @@
         },
         {
           "letter": "D",
-          "text": "L'arthrose cervicale"
+          "text": "L'arthrose cervicale."
         }
       ],
       "confidence": 1,
@@ -428,7 +428,7 @@
         },
         {
           "letter": "D",
-          "text": "La distance foyer-film est de 1m50"
+          "text": "La distance foyer-film est de 1m50."
         }
       ],
       "confidence": 1,
@@ -452,7 +452,7 @@
         },
         {
           "letter": "D",
-          "text": "Gosserez"
+          "text": "Gosserez."
         }
       ],
       "confidence": 1,
@@ -476,7 +476,7 @@
         },
         {
           "letter": "D",
-          "text": "Elle est recommandée pour la recherche d'un corps étranger"
+          "text": "Elle est recommandée pour la recherche d'un corps étranger."
         }
       ],
       "confidence": 1,
@@ -492,7 +492,7 @@
         },
         {
           "letter": "B",
-          "text": "Étudier les reins et les voies excrétrices"
+          "text": "Etudier les reins et les voies excrétrices"
         },
         {
           "letter": "C",
@@ -524,7 +524,7 @@
         },
         {
           "letter": "D",
-          "text": "Les images sont prises en fenêtres osseuses et parenchymateuses"
+          "text": "Les images sont prises en fenêtres osseuses et parenchymateuses."
         }
       ],
       "confidence": 1,
@@ -532,7 +532,7 @@
     },
     {
       "number": 23,
-      "text": "Parmi les propositions suivantes relatives à la scanopelvimetrie quelle(s) est (sont) celle(s) juste(s) ?",
+      "text": "Parmi les propositions suivantes relatives à la scanopelvimétrie quelle(s) est (sont) celle(s) juste(s) ?",
       "options": [
         {
           "letter": "A",
@@ -548,7 +548,7 @@
         },
         {
           "letter": "D",
-          "text": "Une seule acquisition hélicoïdale est nécessaire"
+          "text": "Une seule acquisition hélicoïdale est nécessaire."
         }
       ],
       "confidence": 1,
@@ -572,7 +572,7 @@
         },
         {
           "letter": "D",
-          "text": "Bilan général complet en cas de douleurs inexpliquées"
+          "text": "Bilan général complet en cas de douleurs inexpliquées."
         }
       ],
       "confidence": 1,
@@ -596,7 +596,7 @@
         },
         {
           "letter": "D",
-          "text": "Le pace maker"
+          "text": "Le pace maker."
         }
       ],
       "confidence": 1,
@@ -620,7 +620,7 @@
         },
         {
           "letter": "D",
-          "text": "Toutes les propositions sont fausses"
+          "text": "Toutes les propositions sont fausses."
         }
       ],
       "confidence": 1,
@@ -632,7 +632,7 @@
       "options": [
         {
           "letter": "A",
-          "text": "Il s'agit d'une irradiation d'une tumeur qu'on sait ne pas pouvoir guérir parce qu'elle est volumineuse ou métastatique d'emblée"
+          "text": "Il s'agit d'une irradiation d'une tumeur qu'on sait ne pas pouvoir guérir parce qu'elle est volumineuse ou métastatique d'emblée."
         },
         {
           "letter": "B",
@@ -644,7 +644,7 @@
         },
         {
           "letter": "D",
-          "text": "Son but est de diminuer le risque de récidive locale en détruisant la maladie infra clinique, et de limiter les greffes néoplasiques en peropératoire"
+          "text": "Son but est de diminuer le risque de récidive locale en détruisant la maladie infra clinique, et de limiter les greffes néoplasiques en peropératoire."
         }
       ],
       "confidence": 1,
@@ -668,7 +668,7 @@
         },
         {
           "letter": "D",
-          "text": "Le collimateur sténopé (ou pinhole)"
+          "text": "Le collimateur sténopé (ou pinhole)."
         }
       ],
       "confidence": 1,
@@ -692,7 +692,7 @@
         },
         {
           "letter": "D",
-          "text": "Confirmation du caractère non fonctionnel d'un rein dysplasique multi-kystique"
+          "text": "Confirmation du caractère non fonctionnel d'un rein dysplasique multi-kystique."
         }
       ],
       "confidence": 1,
@@ -716,11 +716,14 @@
         },
         {
           "letter": "D",
-          "text": "Se présente sous forme de fil souples de 0,3 ou 0,5 mm de diamètre"
+          "text": "Se présente sous forme de fil souples de 0,3 ou 0,5 mm de diamètre."
         }
       ],
       "confidence": 1,
       "needsReview": false
     }
-  ]
+  ],
+  "examTitle": "Examen d'aptitude professionnelle pour l'accès au grade principal du corps des infirmiers et techniciens de santé",
+  "specialty": "Radiologie",
+  "year": 2024
 }

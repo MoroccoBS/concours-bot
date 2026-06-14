@@ -1,0 +1,1497 @@
+{
+  "sourceFile": "Concours-Radiologie-IDE-2013-Ech9.pdf",
+  "language": "fr",
+  "questions": [
+    {
+      "number": 1,
+      "text": "Les critères de réussite correspondant à l'incidence de profil du rachis dorsal :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dégagement des trous de conjugaison"
+        },
+        {
+          "letter": "B",
+          "text": "Absence de dédoublement du mûr postérieur"
+        },
+        {
+          "letter": "C",
+          "text": "L'aspect linéaire des plateaux vertébraux"
+        },
+        {
+          "letter": "D",
+          "text": "Les espaces intervertébraux bien visibles"
+        },
+        {
+          "letter": "E",
+          "text": "Position médiane de la ligne des épineuses"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 2,
+      "text": "La position du patient dans l'incidence du rachis dorsal en oblique antéropostérieure est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Malade debout, le côté à radiographier s'écarte du plan d'appui en faisant un angle de 70° du plan d'examen"
+        },
+        {
+          "letter": "B",
+          "text": "Malade debout, le côté à radiographier s'écarte du plan d'appui en faisant un angle de 30° du plan d'examen"
+        },
+        {
+          "letter": "C",
+          "text": "Malade debout, le côté opposé à celui à radiographier s'écarte du plan d'appui en faisant un angle de 70° du plan d'examen"
+        },
+        {
+          "letter": "D",
+          "text": "Malade debout, le côté opposé à celui à radiographier s'écarte du plan d'appui en faisant un angle de 30° du plan d'examen"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 3,
+      "text": "Le rayon directeur horizontal centré à la hauteur de la fourchette sternale est le centrage de l'incidence",
+      "options": [
+        {
+          "letter": "A",
+          "text": "charnière cervico-dorsale"
+        },
+        {
+          "letter": "B",
+          "text": "RD de face"
+        },
+        {
+          "letter": "C",
+          "text": "partie supérieure des cotes de face"
+        },
+        {
+          "letter": "D",
+          "text": "Sternum de face"
+        },
+        {
+          "letter": "E",
+          "text": "sternum de profil"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 4,
+      "text": "l'incidence radiologique qui permet d'étudier les interlignes intervertébrales du rachis lombaire",
+      "options": [
+        {
+          "letter": "A",
+          "text": "l'incidence de face debout en antéropostérieur"
+        },
+        {
+          "letter": "B",
+          "text": "l'incidence de face debout en antéropostérieur"
+        },
+        {
+          "letter": "C",
+          "text": "l'incidence de Desèze"
+        },
+        {
+          "letter": "D",
+          "text": "l'incidence de face en décubitus dorsal"
+        },
+        {
+          "letter": "E",
+          "text": "l'incidence de face en pro cubitus"
+        }
+      ],
+      "confidence": 0.8,
+      "needsReview": true,
+      "reviewNotes": [
+        "Options A and B are identical in the source."
+      ]
+    },
+    {
+      "number": 5,
+      "text": "R.D de l'incidence du Coccyx de face en postéro/antérieure",
+      "options": [
+        {
+          "letter": "A",
+          "text": "descendant de 10°"
+        },
+        {
+          "letter": "B",
+          "text": "ascendant de 10°"
+        },
+        {
+          "letter": "C",
+          "text": "descendant de 15°"
+        },
+        {
+          "letter": "D",
+          "text": "descendant de 20°"
+        },
+        {
+          "letter": "E",
+          "text": "ascendant de 20°"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 6,
+      "text": "L'incidence radiologique en obliques des côtes permet de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Préciser la lésion osseuse"
+        },
+        {
+          "letter": "B",
+          "text": "Projeter les côtes sur l'abdomen"
+        },
+        {
+          "letter": "C",
+          "text": "Préciser l'extension de la lésion vers la plèvre"
+        },
+        {
+          "letter": "D",
+          "text": "Préciser l'extension de la lésion vers les parties molles"
+        },
+        {
+          "letter": "E",
+          "text": "Projeter de face la portion moyenne de la côte"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 7,
+      "text": "La présence d'images hydroaeriques sur un ASP debout avec RDH est secondaire à :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lithiases rénales"
+        },
+        {
+          "letter": "B",
+          "text": "Une cholécystite aigue"
+        },
+        {
+          "letter": "C",
+          "text": "Une occlusion mécanique"
+        },
+        {
+          "letter": "D",
+          "text": "Ilieus biliaire"
+        },
+        {
+          "letter": "E",
+          "text": "Un trouble de résorption (diarrhée)"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 8,
+      "text": "Au cours d'un UIV l'absence d'élimination d'excrétion peut être du à :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un syndrome obstructif"
+        },
+        {
+          "letter": "B",
+          "text": "Malade non préparé"
+        },
+        {
+          "letter": "C",
+          "text": "Une insuffisance rénale"
+        },
+        {
+          "letter": "D",
+          "text": "Patient non à jeun"
+        },
+        {
+          "letter": "E",
+          "text": "Syndrome de jonction poly urétral"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 9,
+      "text": "Les critères de réussite d'un cliché standard pulmonaire de face en haute tensionsont :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La symétrie des omoplates"
+        },
+        {
+          "letter": "B",
+          "text": "Dégagement des parenchymes pulmonaires"
+        },
+        {
+          "letter": "C",
+          "text": "Bon visualisation du thorax osseux"
+        },
+        {
+          "letter": "D",
+          "text": "Effacement de la moitié inférieur du rachis dorsal"
+        },
+        {
+          "letter": "E",
+          "text": "La symétrie des deux clavicules"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 10,
+      "text": "Pour l'étude de l'apophyse coronoïde, le coude doit être :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De face, main en supination"
+        },
+        {
+          "letter": "B",
+          "text": "De profil strict"
+        },
+        {
+          "letter": "C",
+          "text": "En oblique"
+        },
+        {
+          "letter": "D",
+          "text": "De face, main en pronation"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": true,
+      "reviewNotes": [
+        "Only 4 options available in source."
+      ]
+    },
+    {
+      "number": 11,
+      "text": "La cavité glénoïde est visible de face en :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incidence de Neer"
+        },
+        {
+          "letter": "B",
+          "text": "Incidence de Bloom obata"
+        },
+        {
+          "letter": "C",
+          "text": "Incidence de Lamy"
+        },
+        {
+          "letter": "D",
+          "text": "Incidence de Dédié"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": true,
+      "reviewNotes": [
+        "Only 4 options available in source."
+      ]
+    },
+    {
+      "number": 12,
+      "text": "Un poignet traumatisé nécessite :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "profil cubital"
+        },
+        {
+          "letter": "B",
+          "text": "Schreek I"
+        },
+        {
+          "letter": "C",
+          "text": "Face avec légère déviation cubital"
+        },
+        {
+          "letter": "D",
+          "text": "Face avec inclinaison du R.D de 30°"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": true,
+      "reviewNotes": [
+        "Only 4 options available in source."
+      ]
+    },
+    {
+      "number": 13,
+      "text": "La tête humérale est vue de face avec :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Main en pronation forcée"
+        },
+        {
+          "letter": "B",
+          "text": "Main en supination"
+        },
+        {
+          "letter": "C",
+          "text": "Main en supination forcée"
+        },
+        {
+          "letter": "D",
+          "text": "Main de profil"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": true,
+      "reviewNotes": [
+        "Only 4 options available in source."
+      ]
+    },
+    {
+      "number": 14,
+      "text": "Parmi ces propositions, lesquels sont les critères de réussite du coude de profil :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Superposition l'axe épicondyle-épitrochlė"
+        },
+        {
+          "letter": "B",
+          "text": "Sommet de l'olécrâne au milieu de la fossette coronoïdienne"
+        },
+        {
+          "letter": "C",
+          "text": "La cupule radiale empiète de moitié l'apophyse coronoïde"
+        },
+        {
+          "letter": "D",
+          "text": "Bon dégagement de l'interligne cubito-humérale"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": true,
+      "reviewNotes": [
+        "Only 4 options available in source."
+      ]
+    },
+    {
+      "number": 15,
+      "text": "Que fait-on si un organe critique se trouve dans le champ d'irradiation :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Utiliser les bolus"
+        },
+        {
+          "letter": "B",
+          "text": "Choisir la technique d'irradiation DSA"
+        },
+        {
+          "letter": "C",
+          "text": "Ne pas irradier la tumeur"
+        },
+        {
+          "letter": "D",
+          "text": "Utiliser les caches"
+        },
+        {
+          "letter": "E",
+          "text": "Utiliser les moyens de contention"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 16,
+      "text": "La dosimétrie permet de déterminer :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La dose totale d'irradiation"
+        },
+        {
+          "letter": "B",
+          "text": "Le temps de traitement"
+        },
+        {
+          "letter": "C",
+          "text": "Le volume cible"
+        },
+        {
+          "letter": "D",
+          "text": "Les moyens de contention"
+        },
+        {
+          "letter": "E",
+          "text": "Répartition de la dose dans le volume tumoral"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 17,
+      "text": "La détermination du volume cible est en fonction :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bilan radiographique"
+        },
+        {
+          "letter": "B",
+          "text": "Bilan biologique"
+        },
+        {
+          "letter": "C",
+          "text": "Du compte-rendu opératoire et histologique"
+        },
+        {
+          "letter": "D",
+          "text": "L'histoire naturelle du cancer"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": true,
+      "reviewNotes": [
+        "Only 4 options available in source."
+      ]
+    },
+    {
+      "number": 18,
+      "text": "On a réalisé une incidence de face du bassin à un patient reçu à la radiologie des urgences, le cliché a monté une fracture pour compléter par une incidence de l'articulation sacro iliaque du côté droit (patient non mobilisable) quelle est l'incidence de choix à réaliser :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Décubitus dorsal avec inclinaison de RD de 25° à 30° vers la tête"
+        },
+        {
+          "letter": "B",
+          "text": "Décubitus dorsal avec inclinaison du RD de 25° à 30° de dehors en dedans"
+        },
+        {
+          "letter": "C",
+          "text": "Pro cubitus avec inclinaison du RD de 40° à 50° de dedans en dehors"
+        },
+        {
+          "letter": "D",
+          "text": "Pro cubitus avec inclinaison du RD de 25° à 30° de dehors en dedans"
+        },
+        {
+          "letter": "E",
+          "text": "Décubitus dorsal avec inclinaison du RD de 25° à 30° de dedans en dehors"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 19,
+      "text": "Quelle est la ou les incidences du profil de la hanche qui permet d'utiliser le Potter (ou Portique):",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Arcelin"
+        },
+        {
+          "letter": "B",
+          "text": "Clark"
+        },
+        {
+          "letter": "C",
+          "text": "Urétrale"
+        },
+        {
+          "letter": "D",
+          "text": "Lequesne"
+        },
+        {
+          "letter": "E",
+          "text": "Salpetrière"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 20,
+      "text": "Pour l'incidence 3/4 obturateur :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "On soulève le coté à radiographier de 40° à 45°"
+        },
+        {
+          "letter": "B",
+          "text": "Le RD est centré au milieu de sommets des crêtes iliaques"
+        },
+        {
+          "letter": "C",
+          "text": "Permet de projeter l'aile iliaque de face"
+        },
+        {
+          "letter": "D",
+          "text": "Permet de voir le trou obturateur ouvert"
+        },
+        {
+          "letter": "E",
+          "text": "Permet de voir le cotyle de profil"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 21,
+      "text": "L'incidence urétrale de la hanche :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "on soulève le côté opposé à celui à RX de 45°"
+        },
+        {
+          "letter": "B",
+          "text": "Le membre à RX est en rectitude"
+        },
+        {
+          "letter": "C",
+          "text": "sa réalisation ne permet pas l'utilisation d' Potter"
+        },
+        {
+          "letter": "D",
+          "text": "on soulève le coté à RX de 45°"
+        },
+        {
+          "letter": "E",
+          "text": "sur l'image, on voit le grand tranchanter dégagé du col"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 22,
+      "text": "Pour un patient présentant une fracture du col fémoral quel est le ou les groupes d'incidences",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Face de la hanche sans rotation interne et l'incidence urétrale"
+        },
+        {
+          "letter": "B",
+          "text": "Face de la hanche avec rotation interne et l'incidence urétrale"
+        },
+        {
+          "letter": "C",
+          "text": "Face de la hanche sans rotation interne et Arcelin"
+        },
+        {
+          "letter": "D",
+          "text": "Face de la hanche avec rotation interne et Arcelin"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": true,
+      "reviewNotes": [
+        "Only 4 options available in source."
+      ]
+    },
+    {
+      "number": 23,
+      "text": "Un patient ne pouvant pas faire l'extension complète de la jambe sur la cuisse se présente pour radiographie face et profil du genou droit. Quelles sont les incidences de choix à réaliser :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Face en antéro postérieure en décubitus dorsale"
+        },
+        {
+          "letter": "B",
+          "text": "Face en postéro-antérieur tient en pro cubitus"
+        },
+        {
+          "letter": "C",
+          "text": "Profil avec RDH patient en décubitus dorsale"
+        },
+        {
+          "letter": "D",
+          "text": "Profil avec RDV patient en décubitus latérale sur le coté gauche"
+        },
+        {
+          "letter": "E",
+          "text": "Profil avec RDV patient en décubitus latérale sur le coté droit"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 24,
+      "text": "Pour bien dégager l'articulation peronéo-tibiale supérieur:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "On incline le RD de 20° de dehors en dedans et 5 à 10° de haut en bas"
+        },
+        {
+          "letter": "B",
+          "text": "On incline le RD de 45° de dehors en dedans et 5 à 10° de haut en bas"
+        },
+        {
+          "letter": "C",
+          "text": "On incline le RD de 45° de bas en haut"
+        },
+        {
+          "letter": "D",
+          "text": "On fait une rotation externe de 20°"
+        },
+        {
+          "letter": "E",
+          "text": "On fait une rotation interne de 45°"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 25,
+      "text": "Un patient admis en urgence présentant une fracture ouverte de la jambe. Quelle sont les incidences nécessaires à réaliser:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Jambe de face avec rotation interne"
+        },
+        {
+          "letter": "B",
+          "text": "Jambe de face sans rotation interne"
+        },
+        {
+          "letter": "C",
+          "text": "Poumon face debout en antero postérieur"
+        },
+        {
+          "letter": "D",
+          "text": "Jambe de profil avec RDH et patient en décubitus dorsale"
+        },
+        {
+          "letter": "E",
+          "text": "Jambe de profil avec RDV et patient en décubitus latérale"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 26,
+      "text": "L'incidence verticale du calcanéum, retro-tibiale descendante :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Peut être réalisée debout ou décubitus dorsale"
+        },
+        {
+          "letter": "B",
+          "text": "Peut être réalisée debout seulement"
+        },
+        {
+          "letter": "C",
+          "text": "Peut être réalisée de manière symétrique"
+        },
+        {
+          "letter": "D",
+          "text": "Permet d'explorer la partie postérieure du calcanéum"
+        },
+        {
+          "letter": "E",
+          "text": "Permet d'explorer la partie moyenne du calcanéum"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 27,
+      "text": "L'incidence Bifocale du pied dite de « DEZESE »:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permet de calculer l'angle de Bohler"
+        },
+        {
+          "letter": "B",
+          "text": "Nécessite deux expositions"
+        },
+        {
+          "letter": "C",
+          "text": "Nécessite l'utilisation de deux films"
+        },
+        {
+          "letter": "D",
+          "text": "C'est incidence fondamentale"
+        },
+        {
+          "letter": "E",
+          "text": "Permet d'explorer la totalité du pied"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 28,
+      "text": "Un technicien de radiologie se plaçant (1m) d'une source de rayonnement reçoit 324µGy à quelle distance doit-il se placer pour ne recevoir que 4µGy :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10.5m"
+        },
+        {
+          "letter": "B",
+          "text": "10.0m"
+        },
+        {
+          "letter": "C",
+          "text": "9.5m"
+        },
+        {
+          "letter": "D",
+          "text": "9.0m"
+        },
+        {
+          "letter": "E",
+          "text": "9.25m"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 29,
+      "text": "En radioprotection les effets déterministes :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sont des effets aléatoires"
+        },
+        {
+          "letter": "B",
+          "text": "Apparaissent à partir d'un certains seuil d'irradiation"
+        },
+        {
+          "letter": "C",
+          "text": "Les organes atteint peuvent être la moelle osseuse le cristallin ou l'œil"
+        },
+        {
+          "letter": "D",
+          "text": "Ne concernent pas l'irradiation globale"
+        },
+        {
+          "letter": "E",
+          "text": "Sont des effets à long terme"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 30,
+      "text": "Les trois principes fondamentaux de radioprotection sont:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La justification, limitation de doses et la distance"
+        },
+        {
+          "letter": "B",
+          "text": "La justification, l'optimisation et les écrans"
+        },
+        {
+          "letter": "C",
+          "text": "Limitation de doses, la justification et l'optimisation"
+        },
+        {
+          "letter": "D",
+          "text": "Limitation de doses, optimisation et le temps"
+        },
+        {
+          "letter": "E",
+          "text": "L'optimisation, le temps et la distance"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 31,
+      "text": "La dose absorbée:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "C'est le nombre de transition nucléaire par seconde"
+        },
+        {
+          "letter": "B",
+          "text": "Son unité est le Gray"
+        },
+        {
+          "letter": "C",
+          "text": "C'est l'énergie absorbée par unité de masse de matière irradiée"
+        },
+        {
+          "letter": "D",
+          "text": "C'est le facteur de pondération tissulaire"
+        },
+        {
+          "letter": "E",
+          "text": "Sa formule est : E=Σ T WT.HT"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 32,
+      "text": "L'incidence face du crâne:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permet de projeter les rochers dans les fenêtres radiologiques formées par les orbites"
+        },
+        {
+          "letter": "B",
+          "text": "OM=-25° et S=0°"
+        },
+        {
+          "letter": "C",
+          "text": "OM=+25° et S=0°"
+        },
+        {
+          "letter": "D",
+          "text": "Parmi les critères de réussites : distance ligne innominée-table interne de la voûte latérale identiques des deux cotés"
+        },
+        {
+          "letter": "E",
+          "text": "Les rochers sont dégagés dans leur totalité du massif facial"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 33,
+      "text": "L'incidence axiale (Hirtz):",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est l'incidence de choix pour dégager la voûte du crâne"
+        },
+        {
+          "letter": "B",
+          "text": "OM=-120° et S=0"
+        },
+        {
+          "letter": "C",
+          "text": "Centrage au milieu de la ligne bi-auriculaire"
+        },
+        {
+          "letter": "D",
+          "text": "Contre indiquée en cas d'insuffisance vertébro-basilaire"
+        },
+        {
+          "letter": "E",
+          "text": "Comme critère de réussite : l'arc mandibulaire se projette en avant des sinus frontaux"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 34,
+      "text": "« La lame quadrilatère de la selle turcique se projette dans la moitié postérieur du trou occipital » ce critère de réussite correspond à quelle incidence :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Blondeau"
+        },
+        {
+          "letter": "B",
+          "text": "Face haute"
+        },
+        {
+          "letter": "C",
+          "text": "Hirtz latéralisée"
+        },
+        {
+          "letter": "D",
+          "text": "Semi- axiale"
+        },
+        {
+          "letter": "E",
+          "text": "Profil du crâne"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 35,
+      "text": "Selon les normes de l'ICRU, le volume cible anatomo-clinique (CTV) tient compte des mouvements du malade, des imperfections des faisceaux :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vrai"
+        },
+        {
+          "letter": "B",
+          "text": "Faux"
+        },
+        {
+          "letter": "C",
+          "text": "N/A"
+        },
+        {
+          "letter": "D",
+          "text": "N/A"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": true,
+      "reviewNotes": [
+        "True/False question filled with dummy options."
+      ]
+    },
+    {
+      "number": 36,
+      "text": "La radiothérapie palliative se fait de façon accélérée en délivrant des doses élevées par fraction :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vrai"
+        },
+        {
+          "letter": "B",
+          "text": "Faux"
+        },
+        {
+          "letter": "C",
+          "text": "N/A"
+        },
+        {
+          "letter": "D",
+          "text": "N/A"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": true,
+      "reviewNotes": [
+        "True/False question filled with dummy options."
+      ]
+    },
+    {
+      "number": 37,
+      "text": "Les RX et les Rayons Gamma sont utilisés en médecine nucléaire a visée diagnostique et thérapeutique :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vrai"
+        },
+        {
+          "letter": "B",
+          "text": "Faux"
+        },
+        {
+          "letter": "C",
+          "text": "N/A"
+        },
+        {
+          "letter": "D",
+          "text": "N/A"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": true,
+      "reviewNotes": [
+        "True/False question filled with dummy options."
+      ]
+    },
+    {
+      "number": 38,
+      "text": "La médecine nucléaire est une technique d'imagerie fonctionnelle et morphologique qui permet d'explorer la totalité des organes",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vrai"
+        },
+        {
+          "letter": "B",
+          "text": "Faux"
+        },
+        {
+          "letter": "C",
+          "text": "N/A"
+        },
+        {
+          "letter": "D",
+          "text": "N/A"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": true,
+      "reviewNotes": [
+        "True/False question filled with dummy options."
+      ]
+    },
+    {
+      "number": 39,
+      "text": "Quelles sont les incidences radiologiques à réaliser",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incidence Blondeau"
+        },
+        {
+          "letter": "B",
+          "text": "Incidence de profil du crâne"
+        },
+        {
+          "letter": "C",
+          "text": "Incidence de Gosserez"
+        },
+        {
+          "letter": "D",
+          "text": "Incidence de profil des os propres du nez"
+        },
+        {
+          "letter": "E",
+          "text": "Incidence de face haute"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 40,
+      "text": "Quelle est votre conduite par rapport à la réaction de l'enfant",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Autoriser la maman à rester avec lui dans la salle seulement"
+        },
+        {
+          "letter": "B",
+          "text": "Demander à la maman si elle est enceinte avant de l'autoriser à rester avec lui"
+        },
+        {
+          "letter": "C",
+          "text": "Porter à la maman une blouse plombée si elle restera avec son fils dans la salle"
+        },
+        {
+          "letter": "D",
+          "text": "Ne pas faire l'examen radiologique à l'enfant"
+        },
+        {
+          "letter": "E",
+          "text": "Obliger l'enfant à faire l'examen radiologique sans la présence de sa maman"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 41,
+      "text": "Parmi les disciplines suivantes, quelles sont celles qui n'existent pas dans un Hôpital Local ?:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Médecine"
+        },
+        {
+          "letter": "B",
+          "text": "Obstétrique"
+        },
+        {
+          "letter": "C",
+          "text": "Psychiatrie"
+        },
+        {
+          "letter": "D",
+          "text": "Chirurgie"
+        },
+        {
+          "letter": "E",
+          "text": "Pédiatrie"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 42,
+      "text": "Quelle est parmi les structures suivantes celle qui représente la 1ère source de financement du Système National de Santé ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les collectivités locales"
+        },
+        {
+          "letter": "B",
+          "text": "Les ménages"
+        },
+        {
+          "letter": "C",
+          "text": "Les entreprises publiques"
+        },
+        {
+          "letter": "D",
+          "text": "La coopération internationale"
+        },
+        {
+          "letter": "E",
+          "text": "L'Etat"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 43,
+      "text": "Une maladie épidémique qui ne connait pas de frontière est appelée :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Epidémie"
+        },
+        {
+          "letter": "B",
+          "text": "Endémie"
+        },
+        {
+          "letter": "C",
+          "text": "Pandémie"
+        },
+        {
+          "letter": "D",
+          "text": "Cas sporadique"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": true,
+      "reviewNotes": [
+        "Only 4 options available in source."
+      ]
+    },
+    {
+      "number": 44,
+      "text": "La prise en charge des bénéficiaires du RAMED se fait :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Uniquement dans les ESSB"
+        },
+        {
+          "letter": "B",
+          "text": "Dans tous les services sanitaires relevant de l'Etat (ESSB et hôpitaux)."
+        },
+        {
+          "letter": "C",
+          "text": "Dans les hôpitaux publics et privés"
+        },
+        {
+          "letter": "D",
+          "text": "Toutes les réponses sont justes"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": true,
+      "reviewNotes": [
+        "Only 4 options available in source."
+      ]
+    },
+    {
+      "number": 45,
+      "text": "La carte du RAMED permet l'accès :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A toutes les prestations médicales"
+        },
+        {
+          "letter": "B",
+          "text": "a tous les actes de chirurgie"
+        },
+        {
+          "letter": "C",
+          "text": "A toutes les prestations offertes par les services de l'état a l'exception des interventions de chirurgie plastique et esthétique"
+        },
+        {
+          "letter": "D",
+          "text": "Toutes les prestations sans exception"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": true,
+      "reviewNotes": [
+        "Only 4 options available in source."
+      ]
+    },
+    {
+      "number": 46,
+      "text": "Le SIDA est une maladie bactérienne transmise par voie sexuelle:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vrai"
+        },
+        {
+          "letter": "B",
+          "text": "Faux"
+        },
+        {
+          "letter": "C",
+          "text": "N/A"
+        },
+        {
+          "letter": "D",
+          "text": "N/A"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": true,
+      "reviewNotes": [
+        "True/False question filled with dummy options."
+      ]
+    },
+    {
+      "number": 47,
+      "text": "La tuberculose est une maladie à déclaration obligatoire:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vrai"
+        },
+        {
+          "letter": "B",
+          "text": "Faux"
+        },
+        {
+          "letter": "C",
+          "text": "N/A"
+        },
+        {
+          "letter": "D",
+          "text": "N/A"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": true,
+      "reviewNotes": [
+        "True/False question filled with dummy options."
+      ]
+    },
+    {
+      "number": 48,
+      "text": "L'incidence est le nombre de nouveaux cas de maladie:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vrai"
+        },
+        {
+          "letter": "B",
+          "text": "Faux"
+        },
+        {
+          "letter": "C",
+          "text": "N/A"
+        },
+        {
+          "letter": "D",
+          "text": "N/A"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": true,
+      "reviewNotes": [
+        "True/False question filled with dummy options."
+      ]
+    },
+    {
+      "number": 49,
+      "text": "La régionalisation est un instrument politique pour mobiliser la participation des collectivités locales dans la planification et le financement des soins:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vrai"
+        },
+        {
+          "letter": "B",
+          "text": "Faux"
+        },
+        {
+          "letter": "C",
+          "text": "N/A"
+        },
+        {
+          "letter": "D",
+          "text": "N/A"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": true,
+      "reviewNotes": [
+        "True/False question filled with dummy options."
+      ]
+    },
+    {
+      "number": 50,
+      "text": "La réforme hospitalière vise la préparation des hôpitaux à la transition sanitaire :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vrai"
+        },
+        {
+          "letter": "B",
+          "text": "Faux"
+        },
+        {
+          "letter": "C",
+          "text": "N/A"
+        },
+        {
+          "letter": "D",
+          "text": "N/A"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": true,
+      "reviewNotes": [
+        "True/False question filled with dummy options."
+      ]
+    },
+    {
+      "number": 51,
+      "text": "La mortalité, ou taux de mortalité, est le nombre de décès annuels rapportés au nombre d'habitants d'un territoire donné:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vrai"
+        },
+        {
+          "letter": "B",
+          "text": "Faux"
+        },
+        {
+          "letter": "C",
+          "text": "N/A"
+        },
+        {
+          "letter": "D",
+          "text": "N/A"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": true,
+      "reviewNotes": [
+        "True/False question filled with dummy options."
+      ]
+    },
+    {
+      "number": 52,
+      "text": "L'épidémiologie est l'étude des facteurs influant sur la santé et les maladies de population",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vrai"
+        },
+        {
+          "letter": "B",
+          "text": "Faux"
+        },
+        {
+          "letter": "C",
+          "text": "N/A"
+        },
+        {
+          "letter": "D",
+          "text": "N/A"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": true,
+      "reviewNotes": [
+        "True/False question filled with dummy options."
+      ]
+    },
+    {
+      "number": 53,
+      "text": "La prophylaxie désigne le processus passif ayant pour but d'éradiquer la maladie:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vrai"
+        },
+        {
+          "letter": "B",
+          "text": "Faux"
+        },
+        {
+          "letter": "C",
+          "text": "N/A"
+        },
+        {
+          "letter": "D",
+          "text": "N/A"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": true,
+      "reviewNotes": [
+        "True/False question filled with dummy options."
+      ]
+    },
+    {
+      "number": 54,
+      "text": "La prévention secondaire vise à réduire la gravité d'un problème de santé :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vrai"
+        },
+        {
+          "letter": "B",
+          "text": "Faux"
+        },
+        {
+          "letter": "C",
+          "text": "N/A"
+        },
+        {
+          "letter": "D",
+          "text": "N/A"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": true,
+      "reviewNotes": [
+        "True/False question filled with dummy options."
+      ]
+    }
+  ],
+  "examTitle": "Concours de recrutement des IDE 2ème Grade",
+  "specialty": "Technicien de Radiologie",
+  "year": 2013
+}

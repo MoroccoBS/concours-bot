@@ -6,18 +6,19 @@ Bot Discord pour s'entraîner aux QCM du concours avec des amis. Crée des sonda
 
 ## ✨ Commandes
 
-| Commande | Description |
-|---|---|
-| `/qcm` | Crée un QCM avec A/B/C/D (et E optionnel) |
-| `/reveal` | Révèle la réponse avant la fin du timer |
-| `/session start questions:N` | Démarre une session de N questions |
-| `/session scores` | Affiche le classement en cours |
-| `/session end` | Termine la session et affiche le classement final |
-| `/concours list` | Liste les concours importés depuis les PDFs |
-| `/concours select bank:...` | Choisit un concours pour le salon |
-| `/concours next` | Poste la prochaine question du concours choisi |
-| `/concours status` | Affiche la progression du salon |
-| `/ping` | Vérifie que le bot est en ligne |
+| Commande                     | Description                                       |
+| ---------------------------- | ------------------------------------------------- |
+| `/qcm`                       | Crée un QCM avec A/B/C/D (et E optionnel)         |
+| `/reveal`                    | Révèle la réponse avant la fin du timer           |
+| `/session start questions:N` | Démarre une session de N questions                |
+| `/session scores`            | Affiche le classement en cours                    |
+| `/session end`               | Termine la session et affiche le classement final |
+| `/concours list`             | Liste les concours importés depuis les PDFs       |
+| `/concours select bank:...`  | Choisit un concours pour le salon                 |
+| `/concours next`             | Poste la prochaine question du concours choisi    |
+| `/concours status`           | Affiche la progression du salon                   |
+| `/concours reset`            | Réinitialise la progression du salon              |
+| `/ping`                      | Vérifie que le bot est en ligne                   |
 
 ### Exemple de flux typique
 
@@ -88,8 +89,9 @@ GUILD_ID=id_de_ton_serveur_ici   ← recommandé en dev (commandes instantanées
 ```
 
 > **Comment trouver les IDs ?**
-> - **CLIENT_ID** : Onglet *General Information* → *Application ID*
-> - **GUILD_ID** : Clique droit sur ton serveur → *Copier l'identifiant du serveur*  
+>
+> - **CLIENT_ID** : Onglet _General Information_ → _Application ID_
+> - **GUILD_ID** : Clique droit sur ton serveur → _Copier l'identifiant du serveur_  
 >   (nécessite le Mode Développeur activé dans Paramètres → Avancé)
 
 ### 4. Installer et lancer

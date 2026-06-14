@@ -22,12 +22,23 @@ interface StoredProgress {
 
 function loadProgress(): StoredProgress {
   if (!existsSync(progressPath)) return { channels: {} };
-  return JSON.parse(readFileSync(progressPath, "utf8")) as StoredProgress;
+  try {
+    return JSON.parse(readFileSync(progressPath, "utf8")) as StoredProgress;
+  } catch (error) {
+    console.error("Failed to load progress file, resetting:", error);
+    return { channels: {} };
+  }
 }
 
 function saveProgress(progress: StoredProgress) {
   mkdirSync(resolve("data"), { recursive: true });
-  writeFileSync(progressPath, `${JSON.stringify(progress, null, 2)}\n`);
+  // writeFileSync(progressPath, `${JSON.stringify(progress, null, 2)}\n`);
+  try {
+    writeFileSync(progressPath, `${JSON.stringify(progress, null, 2)}\n`);
+  } catch (error) {
+    console.error("Failed to save progress file:", error);
+    throw error;
+  }
 }
 
 function bankLabel(bank: QuestionBank): string {
@@ -50,13 +61,18 @@ export const questionBankStore = {
     if (!existsSync(bankDir)) return [];
 
     return readdirJson(bankDir)
-      .map((fileName) => {
-        const fullPath = join(bankDir, fileName);
-        const raw = JSON.parse(readFileSync(fullPath, "utf8")) as Omit<
-          QuestionBank,
-          "id"
-        >;
-        return normalizeBank(raw, fileName);
+      .flatMap((fileName) => {
+        try {
+          const fullPath = join(bankDir, fileName);
+          const raw = JSON.parse(readFileSync(fullPath, "utf8")) as Omit<
+            QuestionBank,
+            "id"
+          >;
+          return [normalizeBank(raw, fileName)];
+        } catch (error) {
+          console.error(`Failed to load question bank ${fileName}:`, error);
+          return [];
+        }
       })
       .sort((a, b) => bankLabel(a).localeCompare(bankLabel(b)));
   },

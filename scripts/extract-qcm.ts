@@ -1,6 +1,11 @@
 import { mkdir, writeFile } from "node:fs/promises";
 import { basename, join, parse, resolve } from "node:path";
-import { createPartFromUri, GoogleGenAI, Type } from "@google/genai";
+import {
+  createPartFromUri,
+  GoogleGenAI,
+  ThinkingLevel,
+  Type,
+} from "@google/genai";
 
 type ExtractedQuestion = {
   number: number;
@@ -27,7 +32,8 @@ type ExtractionResult = {
   warnings?: string[];
 };
 
-const DEFAULT_MODEL = "gemini-3.1-flash-lite";
+// const DEFAULT_MODEL = "gemini-3.1-flash-lite";
+const DEFAULT_MODEL = "gemini-3.5-flash";
 const outputDir = resolve("data", "question-banks");
 
 const schema = {
@@ -185,6 +191,10 @@ async function main() {
     config: {
       responseMimeType: "application/json",
       responseSchema: schema,
+
+      thinkingConfig: {
+        thinkingLevel: ThinkingLevel.HIGH,
+      },
     },
   });
 

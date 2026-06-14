@@ -1,0 +1,623 @@
+{
+  "sourceFile": "Concours-Radiologie-Specialite-Compilation-Grande.pdf",
+  "language": "fr",
+  "questions": [
+    {
+      "number": 1,
+      "text": "Le cliché d'abdomen sans préparation (A.S.P) de face couché avec rayon vertical permet de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Voir des lithiases radio opaques"
+        },
+        {
+          "letter": "B",
+          "text": "Un adénome prostatique"
+        },
+        {
+          "letter": "C",
+          "text": "Un épanchement gazeux intra-abdominal"
+        },
+        {
+          "letter": "D",
+          "text": "Des images hydro-aériques"
+        },
+        {
+          "letter": "E",
+          "text": "Des calcifications"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": [
+        "A",
+        "B",
+        "E"
+      ],
+      "pageStart": 2,
+      "reviewNotes": [
+        "Answers verified from checkmarks on the original exam sheet."
+      ]
+    },
+    {
+      "number": 2,
+      "text": "La présence d'images hydro-aériques sur un A.S.P debout avec R.H est secondaire à :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une cholecystite aigue"
+        },
+        {
+          "letter": "B",
+          "text": "Une occlusion mécanique"
+        },
+        {
+          "letter": "C",
+          "text": "Un iléus biliaire"
+        },
+        {
+          "letter": "D",
+          "text": "Un trouble de résorption (Diarrhée)"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "pageStart": 2
+    },
+    {
+      "number": 3,
+      "text": "Le cliché standard pulmonaire de face en basse tension :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ne nécessite pas l'inspiration forcée"
+        },
+        {
+          "letter": "B",
+          "text": "Est réalisé à 70 KV-8mAs"
+        },
+        {
+          "letter": "C",
+          "text": "Le médiastin est bien étudié"
+        },
+        {
+          "letter": "D",
+          "text": "La DFP est de 80 cm"
+        },
+        {
+          "letter": "E",
+          "text": "Le gril costal peut être étudié"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": [
+        "A",
+        "B",
+        "E"
+      ],
+      "pageStart": 2
+    },
+    {
+      "number": 4,
+      "text": "Le cliché pulmonaire en incidence de Muller (décubitus latéral) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est moins irradiant"
+        },
+        {
+          "letter": "B",
+          "text": "Réaliser chez les patients en mauvais état général"
+        },
+        {
+          "letter": "C",
+          "text": "Mobilise un épanchement pleural"
+        },
+        {
+          "letter": "D",
+          "text": "Facilite le diagnostic de la tuberculose"
+        },
+        {
+          "letter": "E",
+          "text": "Nécessite un portique vertical"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": [
+        "B",
+        "C",
+        "E"
+      ],
+      "pageStart": 2
+    },
+    {
+      "number": 5,
+      "text": "Sur le cliché pulmonaire de face en expiration forcée :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les clavicules sont asymétriques"
+        },
+        {
+          "letter": "B",
+          "text": "Les coupoles diaphragmatiques sont hautes"
+        },
+        {
+          "letter": "C",
+          "text": "Les bases pulmonaires sont surexposées"
+        },
+        {
+          "letter": "D",
+          "text": "Le médiastin est élargi"
+        },
+        {
+          "letter": "E",
+          "text": "Permet de voir un pneumothorax"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": [
+        "B",
+        "D",
+        "E"
+      ],
+      "pageStart": 2
+    },
+    {
+      "number": 6,
+      "text": "L'incidence de crâne de face haute est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une incidence antéro-postérieure."
+        },
+        {
+          "letter": "B",
+          "text": "Réalisée chez un sujet assis avec un appui front-nez."
+        },
+        {
+          "letter": "C",
+          "text": "Réalisée chez un sujet assis avec un appui sur le front."
+        },
+        {
+          "letter": "D",
+          "text": "Centrage est basé sur l'équidistance des deux conduits auditifs externes par rapport au plan de projection."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false,
+      "correctAnswers": [
+        "B",
+        "D"
+      ],
+      "pageStart": 11
+    },
+    {
+      "number": 7,
+      "text": "Les critères de réussite d'une incidence de crâne de face haute sont :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fentes sphénoïdales dans les orbites."
+        },
+        {
+          "letter": "B",
+          "text": "Bords supérieurs des rochers confondus avec les rebords orbitaires inférieurs."
+        },
+        {
+          "letter": "C",
+          "text": "Distance apophyse orbitaire du malaire et table interne de la voûte latérale est identique des deux côtés."
+        },
+        {
+          "letter": "D",
+          "text": "Distance apophyse orbitaire du malaire et table externe de la voûte latérale est identique des deux côtés."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false,
+      "correctAnswers": [
+        "A",
+        "B"
+      ],
+      "pageStart": 11
+    },
+    {
+      "number": 8,
+      "text": "L'incidence de crâne de profil :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'angle formé entre le rayon directeur et le plan orbito-méatal est de 15°."
+        },
+        {
+          "letter": "B",
+          "text": "Rayon directeur est horizontal."
+        },
+        {
+          "letter": "C",
+          "text": "Le centrage est à 3cm au-dessus du tragus."
+        },
+        {
+          "letter": "D",
+          "text": "Le centrage est à 3cm au-dessous du tragus."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false,
+      "correctAnswers": [
+        "C"
+      ],
+      "pageStart": 11
+    },
+    {
+      "number": 9,
+      "text": "Les critères de réussite d'une incidence de crâne de profil :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Superposition droite-gauche des planchers orbitaires."
+        },
+        {
+          "letter": "B",
+          "text": "Superposition des grandes ailes du sphénoïde."
+        },
+        {
+          "letter": "C",
+          "text": "Superposition des conduits auditifs externes."
+        },
+        {
+          "letter": "D",
+          "text": "Superposition des apophyses clinoïdes."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false,
+      "correctAnswers": [
+        "C",
+        "D"
+      ],
+      "pageStart": 11
+    },
+    {
+      "number": 10,
+      "text": "En IRM :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le blindage des ondes de radiofréquence est assuré par la cage de Faraday."
+        },
+        {
+          "letter": "B",
+          "text": "Le blindage de champ magnétique a pour rôle de rapprocher les lignes de champ au plus près de l'aimant."
+        },
+        {
+          "letter": "C",
+          "text": "Le blindage passif de champ magnétique est un ensemble de poutrelles d'acier ou de fer doux entourant l'aimant."
+        },
+        {
+          "letter": "D",
+          "text": "Le blindage des ondes de radiofréquence n'est pas assuré par la cage de Faraday."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false,
+      "correctAnswers": [
+        "B"
+      ],
+      "pageStart": 12
+    },
+    {
+      "number": 11,
+      "text": "En IRM, le « Quench » :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Correspond au passage brutal de l'hélium gazeux à l'état liquide."
+        },
+        {
+          "letter": "B",
+          "text": "Est secondaire à un défaut dans le système d'isolation thermique."
+        },
+        {
+          "letter": "C",
+          "text": "Est secondaire à un non contrôle du niveau d'hélium et du bouclier thermique d'azote liquide."
+        },
+        {
+          "letter": "D",
+          "text": "S'accompagne d'une diminution du pourcentage d'hélium liquide présent en cuve."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false,
+      "correctAnswers": [
+        "D"
+      ],
+      "pageStart": 12
+    },
+    {
+      "number": 12,
+      "text": "Patient âgé de 70 ans, connu hypertendu, présente de façon brutale une hémiparésie droite, devant ce tableau clinique :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une TDM cérébrale avec injection d'emblée du produit de contraste doit être réalisée."
+        },
+        {
+          "letter": "B",
+          "text": "Une TDM cérébrale sans injection du produit de contraste doit être réalisée."
+        },
+        {
+          "letter": "C",
+          "text": "Une angioIRM doit être réalisée."
+        },
+        {
+          "letter": "D",
+          "text": "Une IRM cérébrale peut être réalisée si disponible."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false,
+      "correctAnswers": [
+        "B"
+      ],
+      "pageStart": 12
+    },
+    {
+      "number": 13,
+      "text": "L'injection intraveineuse ou artérielle d'iode est contre indiquée absolument en cas :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Asthme"
+        },
+        {
+          "letter": "B",
+          "text": "Enfant de moins de 3kg de poids"
+        },
+        {
+          "letter": "C",
+          "text": "Allergie à la pénicilline"
+        },
+        {
+          "letter": "D",
+          "text": "Insuffisance rénale à 0,70g/l d'urée"
+        },
+        {
+          "letter": "E",
+          "text": "Antécédents d'allergie grave à l'iode"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": true,
+      "correctAnswers": [
+        "E"
+      ],
+      "pageStart": 22
+    },
+    {
+      "number": 14,
+      "text": "La compression urétérale est contre indiquée :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En cas d'hématurie"
+        },
+        {
+          "letter": "B",
+          "text": "Lithiase vésicale"
+        },
+        {
+          "letter": "C",
+          "text": "Adénome prostatique"
+        },
+        {
+          "letter": "D",
+          "text": "Anévrysme de l'aorte abdominale"
+        },
+        {
+          "letter": "E",
+          "text": "Colopathie"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": [
+        "A",
+        "D",
+        "E"
+      ],
+      "pageStart": 22
+    },
+    {
+      "number": 15,
+      "text": "Les critères de réussite d'une incidence de Neer :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'omoplate se présente sous la forme d'un « Y »."
+        },
+        {
+          "letter": "B",
+          "text": "L'écaille est vue de face."
+        },
+        {
+          "letter": "C",
+          "text": "L'articulation gléno-humérale bien dégagée."
+        },
+        {
+          "letter": "D",
+          "text": "Articulation acromio-claviculaire est visible."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false,
+      "correctAnswers": [
+        "A",
+        "C"
+      ],
+      "pageStart": 15
+    },
+    {
+      "number": 16,
+      "text": "Radiographie du coude de profil :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Patient assis, coude fléchi à 45° reposant sur la plaque par son bord interne, main verticale."
+        },
+        {
+          "letter": "B",
+          "text": "Rayon directeur est vertical."
+        },
+        {
+          "letter": "C",
+          "text": "Centrage au bord postérieur de l'épicondyle."
+        },
+        {
+          "letter": "D",
+          "text": "Centrage au bord postérieur de la trochlée."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false,
+      "correctAnswers": [
+        "A",
+        "C"
+      ],
+      "pageStart": 15
+    },
+    {
+      "number": 17,
+      "text": "L'incidence de Schreck II :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Réalisée sur main fléchie en position d'écriture et en demi-supination à 25°."
+        },
+        {
+          "letter": "B",
+          "text": "Rayon incident est vertical."
+        },
+        {
+          "letter": "C",
+          "text": "Centrage à 1cm en avant de l'interligne radio-carpienne."
+        },
+        {
+          "letter": "D",
+          "text": "Incidence permettant l'analyse du scaphoïde."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false,
+      "correctAnswers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "pageStart": 15
+    },
+    {
+      "number": 18,
+      "text": "Pour l'incidence 3/4 obturateur :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "On soulève le coté à radiographier de 40° à 45°"
+        },
+        {
+          "letter": "B",
+          "text": "Le RD est centré au milieu de sommets des crêtes iliaques"
+        },
+        {
+          "letter": "C",
+          "text": "Permet de projeter l'aile iliaque de face"
+        },
+        {
+          "letter": "D",
+          "text": "Permet de voir le trou obturateur ouvert"
+        },
+        {
+          "letter": "E",
+          "text": "Permet de voir le cotyle de profil"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": [
+        "A",
+        "D"
+      ],
+      "pageStart": 16
+    },
+    {
+      "number": 19,
+      "text": "L'administration des PCI au cours de l'angiographie peut se faire par voie :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lymphatique"
+        },
+        {
+          "letter": "B",
+          "text": "Orale"
+        },
+        {
+          "letter": "C",
+          "text": "Cutanée"
+        },
+        {
+          "letter": "D",
+          "text": "Vasculaire"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": [
+        "D"
+      ],
+      "pageStart": 26
+    },
+    {
+      "number": 20,
+      "text": "L'irradiation lors d'une exploration tomodensitométrique :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est la même qu'en radiologie conventionnelle"
+        },
+        {
+          "letter": "B",
+          "text": "Est plus importante qu'en radiologie conventionnelle"
+        },
+        {
+          "letter": "C",
+          "text": "Est plus importante en superficie qu'en profondeur"
+        },
+        {
+          "letter": "D",
+          "text": "Est de distribution homogène en surface et au centre du volume exploré"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": [
+        "B"
+      ],
+      "pageStart": 26
+    }
+  ],
+  "examTitle": "Concours de Recrutement des Techniciens de Radiologie",
+  "specialty": "Techniciens de Radiologie",
+  "warnings": [
+    "Exam compiled from multiple years (2009, 2010, 2012, 2013). Repetitive sections consolidated."
+  ],
+  "year": 2012
+}

@@ -1,0 +1,565 @@
+{
+  "sourceFile": "Concours-Radiologie-Incidences-Syllabus.pdf",
+  "language": "fr",
+  "questions": [
+    {
+      "number": 1,
+      "text": "Dans l'incidence % obturateur :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le patient est debout"
+        },
+        {
+          "letter": "B",
+          "text": "Le patient soulève le coté à radiographier"
+        },
+        {
+          "letter": "C",
+          "text": "Le trou obturateur doit être bien rond sur le cliché"
+        },
+        {
+          "letter": "D",
+          "text": "Les branches ilio et ischio pubiennes sont bien déroulées"
+        },
+        {
+          "letter": "E",
+          "text": "Le rayon directeur est centré en dedans de l'épine iliaque antéro supérieure"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": true
+    },
+    {
+      "number": 2,
+      "text": "Dans une radiographie de la hanche de face :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le patient est en décubitus dorsal"
+        },
+        {
+          "letter": "B",
+          "text": "Le bassin est de face"
+        },
+        {
+          "letter": "C",
+          "text": "Le pied est en rotation externe"
+        },
+        {
+          "letter": "D",
+          "text": "Le rayon directeur est vertical"
+        },
+        {
+          "letter": "E",
+          "text": "L'articulation doit être au milieu du film"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 3,
+      "text": "Dans une radiographie du genou face :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le patient doit être assis"
+        },
+        {
+          "letter": "B",
+          "text": "Les jambes sont en extension"
+        },
+        {
+          "letter": "C",
+          "text": "Le rayon directeur est ascendant de 5° environ"
+        },
+        {
+          "letter": "D",
+          "text": "On doit voir la corticale, la médullaire et les parties molles"
+        },
+        {
+          "letter": "E",
+          "text": "L'interligne fémoro-tibiale doit être visible"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 4,
+      "text": "Dans une radiographie de la jambe de face :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le patient est en décubitus dorsal"
+        },
+        {
+          "letter": "B",
+          "text": "On doit voir les articulations sus et sous jacente"
+        },
+        {
+          "letter": "C",
+          "text": "Le rayon directeur est horizontal"
+        },
+        {
+          "letter": "D",
+          "text": "Le rayon directeur est centré au niveau de l'épine tibiale"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 5,
+      "text": "Dans une radiographie de profil de la cheville :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le patient est debout"
+        },
+        {
+          "letter": "B",
+          "text": "Le profil est externe ou péronier"
+        },
+        {
+          "letter": "C",
+          "text": "La jambe est en flexion"
+        },
+        {
+          "letter": "D",
+          "text": "Le pied est à 90° avec la jambe"
+        },
+        {
+          "letter": "E",
+          "text": "Le rayon directeur est vertical"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 6,
+      "text": "Dans la Radiographie du rachis cervical de profil :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le patient peut être assis ou debout"
+        },
+        {
+          "letter": "B",
+          "text": "Le rayon directeur est centré sur C6"
+        },
+        {
+          "letter": "C",
+          "text": "La tête est en légère inflexion"
+        },
+        {
+          "letter": "D",
+          "text": "On doit voir de C1 à C7"
+        },
+        {
+          "letter": "E",
+          "text": "Le profil droit est le seul profil accepté"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 7,
+      "text": "Dans les radiographies obliques du rachis cervical :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le patient peut être assis ou debout"
+        },
+        {
+          "letter": "B",
+          "text": "Le patient est oblique du même côté à explorer"
+        },
+        {
+          "letter": "C",
+          "text": "Le rayon directeur est centré sur C6"
+        },
+        {
+          "letter": "D",
+          "text": "On doit voir les trous de conjugaison bien ronds"
+        },
+        {
+          "letter": "E",
+          "text": "Le rayon directeur est ascendant"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 8,
+      "text": "La radiographie de profil de l'épaule de Lamy :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est appelée également le profil axial de la coiffe"
+        },
+        {
+          "letter": "B",
+          "text": "Est une incidence postéro-antérieure"
+        },
+        {
+          "letter": "C",
+          "text": "La position du patient est la même que pour le profil de NEER"
+        },
+        {
+          "letter": "D",
+          "text": "Le rayon directeur est vertical"
+        },
+        {
+          "letter": "E",
+          "text": "L'omoplate doit être vue dans sa totalité"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 9,
+      "text": "Le profil de BLOOM et OBATA :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est un profil axillaire"
+        },
+        {
+          "letter": "B",
+          "text": "Le rayon directeur est centré sur le milieu de l'épaule"
+        },
+        {
+          "letter": "C",
+          "text": "L'omoplate est vue de face"
+        },
+        {
+          "letter": "D",
+          "text": "La glène est médiane"
+        },
+        {
+          "letter": "E",
+          "text": "L'acromion est dégagé en arrière"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 10,
+      "text": "Dans le profil du cavum :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le rayon directeur est placé à 2cm en avant du conduit auditif externe"
+        },
+        {
+          "letter": "B",
+          "text": "Le rayon directeur est centré sur le point tubaire"
+        },
+        {
+          "letter": "C",
+          "text": "Le cliché est réalisé l'expiration"
+        },
+        {
+          "letter": "D",
+          "text": "Le cliché est réalisé en haute tension"
+        },
+        {
+          "letter": "E",
+          "text": "Est considéré comme une incidence fondamentale pour l'étude du cavum"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 11,
+      "text": "En radiologie interventionnelle, le rôle du manipulateur est essentiel :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pour assister le radiologue"
+        },
+        {
+          "letter": "B",
+          "text": "Réaliser les acquisitions"
+        },
+        {
+          "letter": "C",
+          "text": "En s'occupant du patient"
+        },
+        {
+          "letter": "D",
+          "text": "Pour réaliser l'acte interventionnel"
+        },
+        {
+          "letter": "E",
+          "text": "Pour veiller à l'asepsie"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 12,
+      "text": "En service de radiologie le manipulateur doit :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Veiller à l'identovigilance"
+        },
+        {
+          "letter": "B",
+          "text": "Vérifier l'enregistrement du patient sur le PACS et le RIS"
+        },
+        {
+          "letter": "C",
+          "text": "Réaliser une fiche de traçabilité pour le matériel et les produits utilisés"
+        },
+        {
+          "letter": "D",
+          "text": "Expliquer au patient le résultat des examens radiologiques"
+        },
+        {
+          "letter": "E",
+          "text": "Expliquer aux accompagnants du patient les diagnostics évoqués par le radiologue"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 13,
+      "text": "En pratique de radiologie vasculaire :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le French (F) est l'unité de mesure des diamètres des guides"
+        },
+        {
+          "letter": "B",
+          "text": "L'inch (1\") est l'unité pour la mesure des diamètres des sondes"
+        },
+        {
+          "letter": "C",
+          "text": "Le Gauge (G) est utilisé pour mesurer le diamètre externe des aiguilles"
+        },
+        {
+          "letter": "D",
+          "text": "Le millimètre est utilisé pour tous le petit matériel"
+        },
+        {
+          "letter": "E",
+          "text": "Il existe différents types de sondes et de guides"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 14,
+      "text": "L'angioscanner thoracique pour embolie pulmonaire :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ne nécessite pas d'injection de produit de contraste"
+        },
+        {
+          "letter": "B",
+          "text": "Le produit utilisé est le gadolinium"
+        },
+        {
+          "letter": "C",
+          "text": "L'acquisition sera réalisée précocement (25 secondes environ après l'injection)"
+        },
+        {
+          "letter": "D",
+          "text": "Les clichés fournis au patient seront limités aux fenêtres médiastinales"
+        },
+        {
+          "letter": "E",
+          "text": "L'apnée quand elle est possible n'est pas obligatoire"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 15,
+      "text": "L'angioscanner hépatique pour caractérisation d'un nodule du foie :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est un scanner réalisé pour avoir une cartographie de la vascularisation du foie"
+        },
+        {
+          "letter": "B",
+          "text": "Est un scanner réalisé en deux temps, sans injection et après injection au temps artériel"
+        },
+        {
+          "letter": "C",
+          "text": "Est un scanner réalisé au moins en trois temps"
+        },
+        {
+          "letter": "D",
+          "text": "60 à 80 secondes après injection correspondent au temps artériel"
+        },
+        {
+          "letter": "E",
+          "text": "L'injecteur automatique n'est pas obligatoire"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 16,
+      "text": "Concernant L'arthrographie :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Elle correspond à une opacification artérielle par voie transcutanée"
+        },
+        {
+          "letter": "B",
+          "text": "Elle correspond à une cartographie artérielle par angioscanner"
+        },
+        {
+          "letter": "C",
+          "text": "Elle correspond à une opacification d'une cavité articulaire"
+        },
+        {
+          "letter": "D",
+          "text": "Elle nécessite une asepsie rigoureuse"
+        },
+        {
+          "letter": "E",
+          "text": "Elle est réalisée sous guidage radioscopique"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 17,
+      "text": "Concernant la séquence STIR En IRM :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cette séquence est basée sur la technique d'inversion-récupération"
+        },
+        {
+          "letter": "B",
+          "text": "Cette séquence permet l'étude des mouvements de molécules d'eau"
+        },
+        {
+          "letter": "C",
+          "text": "Il s'agit d'une séquence de suppression du signal de l'eau"
+        },
+        {
+          "letter": "D",
+          "text": "Elle est utilisée pour aider au diagnostic de pathologie tumorale du rachis"
+        },
+        {
+          "letter": "E",
+          "text": "Elle est souvent associée à la séquence T1 après injection"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 18,
+      "text": "Concernant les rayons X et la grossesse :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'exposition aux rayons X est formellement contre-indiquée dans la grossesse débutante"
+        },
+        {
+          "letter": "B",
+          "text": "Les examens à rayons X seront réalisés en 2e phase du cycle"
+        },
+        {
+          "letter": "C",
+          "text": "L'exposition aux rayons X au 3e trimestre augmente le risque de malformation fœtale"
+        },
+        {
+          "letter": "D",
+          "text": "Devant une urgence extrême en 3e trimestre, le recours à un examen à rayons X sera réalisé à défaut d'autre exploration répondant aux questions posées"
+        },
+        {
+          "letter": "E",
+          "text": "Le fait de mettre une blouse plombée sur le pelvis permet une protection efficace et suffisante"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 19,
+      "text": "Concernant la tomodensitométrie double énergie :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Réalise une acquisition simultanée à haut et à bas kilovoltage"
+        },
+        {
+          "letter": "B",
+          "text": "Permet de séparer les matériaux (iode, eau, calcium...)"
+        },
+        {
+          "letter": "C",
+          "text": "Permet de réduire de plus de moitié la dose d'iode injectée"
+        },
+        {
+          "letter": "D",
+          "text": "Il faut absolument deux tubes à rayons X"
+        },
+        {
+          "letter": "E",
+          "text": "Permet de réaliser une cartographie perfusionnelle des poumons dans les embolies pulmonaires"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 20,
+      "text": "Parmi ces techniques, quelles sont celles d'imagerie vasculaire non invasive",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Échographie doppler vasculaire"
+        },
+        {
+          "letter": "B",
+          "text": "Artériographie"
+        },
+        {
+          "letter": "C",
+          "text": "Phlébographie"
+        },
+        {
+          "letter": "D",
+          "text": "Angio-IRM"
+        },
+        {
+          "letter": "E",
+          "text": "Angio-TDM"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    }
+  ],
+  "examTitle": "Concours de recrutement des Infirmiers et techniciens de santé 1er grade",
+  "specialty": "Radiologie",
+  "year": 2019
+}

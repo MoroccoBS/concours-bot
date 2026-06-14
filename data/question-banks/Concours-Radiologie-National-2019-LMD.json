@@ -1,0 +1,1224 @@
+{
+  "sourceFile": "Concours-Radiologie-National-2019-LMD.pdf",
+  "language": "fr",
+  "questions": [
+    {
+      "number": 1,
+      "text": "Le squelette joue le rôle de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stockage ;"
+        },
+        {
+          "letter": "B",
+          "text": "Protection ;"
+        },
+        {
+          "letter": "C",
+          "text": "Stabilisation des articulations ;"
+        },
+        {
+          "letter": "D",
+          "text": "Soutien."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": [
+        "D"
+      ],
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 2,
+      "text": "La tubérosité est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une petite éminence arrondie ;"
+        },
+        {
+          "letter": "B",
+          "text": "Une éminence volumineuse et arrondie ;"
+        },
+        {
+          "letter": "C",
+          "text": "Une éminence linéaire ;"
+        },
+        {
+          "letter": "D",
+          "text": "Une éminence aiguë."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": [
+        "A"
+      ],
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 3,
+      "text": "La paroi médiale des orbites est constituée de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'os zygomatique ;"
+        },
+        {
+          "letter": "B",
+          "text": "L'éthmoïde ;"
+        },
+        {
+          "letter": "C",
+          "text": "L'os lacrymal ;"
+        },
+        {
+          "letter": "D",
+          "text": "L'os sphénoïdal."
+        }
+      ],
+      "confidence": 0.8,
+      "needsReview": true,
+      "correctAnswers": [
+        "A",
+        "D"
+      ],
+      "pageStart": 1,
+      "reviewNotes": [
+        "Multiple markings detected in the source document."
+      ]
+    },
+    {
+      "number": 4,
+      "text": "L'humérus présente au niveau de son extrémité distale :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le tubercule majeur ;"
+        },
+        {
+          "letter": "B",
+          "text": "Le sillon intertuberculaire ;"
+        },
+        {
+          "letter": "C",
+          "text": "Le capitulum ;"
+        },
+        {
+          "letter": "D",
+          "text": "La trochlée."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": true,
+      "correctAnswers": [
+        "A"
+      ],
+      "pageStart": 1,
+      "reviewNotes": [
+        "Marked answer A seems anatomically incorrect for distal humerus, reviewing student marking."
+      ]
+    },
+    {
+      "number": 5,
+      "text": "La Fibula ou le Péroné :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est un os grêle ;"
+        },
+        {
+          "letter": "B",
+          "text": "S'articule en haut avec le tibia ;"
+        },
+        {
+          "letter": "C",
+          "text": "S'articule en bas avec le tibia et le calcanéum ;"
+        },
+        {
+          "letter": "D",
+          "text": "Son épiphyse distale forme la malléole médiane."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": [
+        "B"
+      ],
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 6,
+      "text": "Les caractéristiques des effets déterministes :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ce sont des effets dits non-stochastiques ;"
+        },
+        {
+          "letter": "B",
+          "text": "Généralement irréversible ;"
+        },
+        {
+          "letter": "C",
+          "text": "Cliniquement observables au-delà d'un certain seuil de dose ;"
+        },
+        {
+          "letter": "D",
+          "text": "Se produisent selon une certaine probabilité."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": true,
+      "correctAnswers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pageStart": 1,
+      "reviewNotes": [
+        "Multiple checkmarks present."
+      ]
+    },
+    {
+      "number": 7,
+      "text": "La conduite à tenir en cas d'une irradiation sur une grossesse méconnue (la dose estimée est au-dessous de 100 mGy) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une interruption thérapeutique de la grossesse peut être conseillée ;"
+        },
+        {
+          "letter": "B",
+          "text": "Les parents doivent en discuter avec un médecin ;"
+        },
+        {
+          "letter": "C",
+          "text": "L'interruption n'est pas légitime, il faut rassurer la famille ;"
+        },
+        {
+          "letter": "D",
+          "text": "Aucune réponse n'est juste."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": true,
+      "correctAnswers": [
+        "B",
+        "C"
+      ],
+      "pageStart": 2,
+      "reviewNotes": [
+        "Multiple checkmarks present."
+      ]
+    },
+    {
+      "number": 8,
+      "text": "Parmi les caractéristiques du rayonnement alpha :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Il est constitué de particules chargées positivement comprenant 2 protons et 2 neutrons ;"
+        },
+        {
+          "letter": "B",
+          "text": "Il est indirectement ionisant ;"
+        },
+        {
+          "letter": "C",
+          "text": "Il a un pouvoir de pénétration important ;"
+        },
+        {
+          "letter": "D",
+          "text": "Il est arrêté par la couche cornée de la peau ou par une feuille de papier."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": true,
+      "correctAnswers": [
+        "A",
+        "D"
+      ],
+      "pageStart": 2,
+      "reviewNotes": [
+        "Multiple checkmarks present."
+      ]
+    },
+    {
+      "number": 9,
+      "text": "Parmi les principales dispositions à prendre pour protéger efficacement l'enfant à naître contre les risques d'irradiation suite à l'exposition de sa mère :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eviter les expositions involontaires ;"
+        },
+        {
+          "letter": "B",
+          "text": "Minimiser son exposition, lorsque l'exposition de sa mère est indispensable ;"
+        },
+        {
+          "letter": "C",
+          "text": "Evaluer les risques d'irradiation de l'enfant à naître en cas d'exposition ;"
+        },
+        {
+          "letter": "D",
+          "text": "Fournir à la future mère des informations objectives sur les effets de l'irradiation."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": true,
+      "correctAnswers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "pageStart": 2,
+      "reviewNotes": [
+        "Multiple checkmarks present (appears all are marked)."
+      ]
+    },
+    {
+      "number": 10,
+      "text": "Le transfert linéique d'énergie est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'énergie ΔE perdue par la particule le long d'un segment Δx de sa trajectoire ;"
+        },
+        {
+          "letter": "B",
+          "text": "Le nombre de paires d'ions créés par la particule incidente par unité de longueur de trajectoire ;"
+        },
+        {
+          "letter": "C",
+          "text": "La quantité d'énergie transférée au milieu par la particule incidente par unité de longueur de trajectoire ;"
+        },
+        {
+          "letter": "D",
+          "text": "L'énergie moyenne déposée localement au milieu absorbant par une particule spécifiée qui traverse une distance donnée dans le milieu."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": [
+        "C"
+      ],
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 11,
+      "text": "Les critères de réussite d'un cliché de profil du poignet :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La superposition des extrémités inférieures des deux os de l'avant-bras ;"
+        },
+        {
+          "letter": "B",
+          "text": "Un bon dégagement du scaphoïde ;"
+        },
+        {
+          "letter": "C",
+          "text": "L'alignement des radius, cubitus, le semi-lunaire, grand os et 3ème métacarpiens ;"
+        },
+        {
+          "letter": "D",
+          "text": "Un bon dégagement des bords latéraux et médiaux du canal carpien."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": [
+        "A"
+      ],
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 12,
+      "text": "Les critères de réussite d'un cliché de face en antéro-postérieure du coude :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La superposition des épicondyles ;"
+        },
+        {
+          "letter": "B",
+          "text": "Le dégagement des épicondyles latéral et médial ;"
+        },
+        {
+          "letter": "C",
+          "text": "L'articulation du coude et du poignet comprise sur le cliché ;"
+        },
+        {
+          "letter": "D",
+          "text": "Le dégagement de l'interligne huméro-radial."
+        }
+      ],
+      "confidence": 0.8,
+      "needsReview": true,
+      "correctAnswers": [
+        "D"
+      ],
+      "pageStart": 2,
+      "reviewNotes": [
+        "Mark is on D."
+      ]
+    },
+    {
+      "number": 13,
+      "text": "La position du patient pendant l'incidence du profil du rachis cervical :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Il est impérativement en station debout ;"
+        },
+        {
+          "letter": "B",
+          "text": "La tête est fortement défléchie ;"
+        },
+        {
+          "letter": "C",
+          "text": "L'axe rachidien doit être parfaitement vertical ;"
+        },
+        {
+          "letter": "D",
+          "text": "Il doit garder les épaules bien droites."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": [
+        "D"
+      ],
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 14,
+      "text": "Les incidences recommandées pour identifier les trous de conjugaison cervicale gauche :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'oblique postérieure droite ;"
+        },
+        {
+          "letter": "B",
+          "text": "L'oblique postérieure gauche ;"
+        },
+        {
+          "letter": "C",
+          "text": "L'oblique antérieure droite ;"
+        },
+        {
+          "letter": "D",
+          "text": "L'oblique antérieure gauche."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false,
+      "correctAnswers": [
+        "B"
+      ],
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 15,
+      "text": "L'incidence de face antéro-postérieure en décubitus dorsal du sacrum :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Patient en décubitus dorsal avec membres inférieurs tendus ;"
+        },
+        {
+          "letter": "B",
+          "text": "Rayon directeur descendant de 15° à 20° ;"
+        },
+        {
+          "letter": "C",
+          "text": "Rayon directeur vise le point situé à 2 travers de doigts au-dessus de la symphyse pubienne ;"
+        },
+        {
+          "letter": "D",
+          "text": "L'utilisation du cône localisateur est indispensable."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": true,
+      "correctAnswers": [
+        "B",
+        "C"
+      ],
+      "pageStart": 3,
+      "reviewNotes": [
+        "Multiple checkmarks."
+      ]
+    },
+    {
+      "number": 16,
+      "text": "L'incidence de face du sternum (cliché pris du côté droit) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le patient debout en oblique antérieur droit de 20° à 30° ;"
+        },
+        {
+          "letter": "B",
+          "text": "Le bras droit est surélevé sur la tête ;"
+        },
+        {
+          "letter": "C",
+          "text": "Le bras gauche est allongé le long du corps ;"
+        },
+        {
+          "letter": "D",
+          "text": "Le rayon directeur est horizontal centré sur l'appendice xiphoïde."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": [],
+      "pageStart": 3,
+      "reviewNotes": [
+        "No clear marking."
+      ]
+    },
+    {
+      "number": 17,
+      "text": "L'incidence du défilé claviculaire :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Patient debout ou en décubitus dorsal ;"
+        },
+        {
+          "letter": "B",
+          "text": "Membre supérieur le long du corps ;"
+        },
+        {
+          "letter": "C",
+          "text": "Inclinaison craniopodale du rayon directeur de 20° ;"
+        },
+        {
+          "letter": "D",
+          "text": "Centrage à un travers de doigt sous le milieu de la clavicule."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": true,
+      "correctAnswers": [
+        "C"
+      ],
+      "pageStart": 3,
+      "reviewNotes": [
+        "The mark on C is an 'X' which might indicate exclusion or confusion, marking as needsReview."
+      ]
+    },
+    {
+      "number": 18,
+      "text": "L'incidence du pied de face est réalisée avec un rayon directeur :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vertical ;"
+        },
+        {
+          "letter": "B",
+          "text": "Incliner de 15° vers le haut ;"
+        },
+        {
+          "letter": "C",
+          "text": "Incliner de 30° vers le bas ;"
+        },
+        {
+          "letter": "D",
+          "text": "Incliner de 45° vers le haut."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false,
+      "correctAnswers": [
+        "A"
+      ],
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 19,
+      "text": "L'incidence du genou de face en charge à 30° de flexion (Schuss) est indiquée pour dégager :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'échancrure intercondylienne ;"
+        },
+        {
+          "letter": "B",
+          "text": "Les épines tibiales ;"
+        },
+        {
+          "letter": "C",
+          "text": "Les interlignes fémorotibiaux ;"
+        },
+        {
+          "letter": "D",
+          "text": "Les interlignes fémoropatellaires."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false,
+      "correctAnswers": [],
+      "pageStart": 3,
+      "reviewNotes": [
+        "No clear marking."
+      ]
+    },
+    {
+      "number": 20,
+      "text": "L'incidence bilatérale des arcades zygomatiques :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Patient en décubitus dorsal ;"
+        },
+        {
+          "letter": "B",
+          "text": "Le plan orbitoméatal est perpendiculaire au plan de la table ;"
+        },
+        {
+          "letter": "C",
+          "text": "Rayon directeur incliné de 30° (OM= +30°) ;"
+        },
+        {
+          "letter": "D",
+          "text": "Le centrage est au niveau de la racine du nez."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false,
+      "correctAnswers": [
+        "D"
+      ],
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 21,
+      "text": "Parmi les critères de réussite de l'incidence de Worms :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La lame quadrilatère de la selle turcique se projette dans le trou occipital ;"
+        },
+        {
+          "letter": "B",
+          "text": "L'équidistance du bord supérieur des rochers avec la voûte crânienne ;"
+        },
+        {
+          "letter": "C",
+          "text": "La superposition du bord supérieur des rochers avec les rebords orbitaires inférieurs ;"
+        },
+        {
+          "letter": "D",
+          "text": "L'auvent nasal se projette 1cm sous les sinus frontaux."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false,
+      "correctAnswers": [],
+      "pageStart": 3,
+      "reviewNotes": [
+        "No clear marking."
+      ]
+    },
+    {
+      "number": 22,
+      "text": "Le cliché d'ASP de face en décubitus dorsal permet d'identifier :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'opacité des muscles de psoas de chaque côté de la colonne lombaire ;"
+        },
+        {
+          "letter": "B",
+          "text": "L'opacité de la vessie lorsqu'elle est en réplétion (remplie) ou semi-réplétion ;"
+        },
+        {
+          "letter": "C",
+          "text": "L'opacité des reins (les ombres rénales) ;"
+        },
+        {
+          "letter": "D",
+          "text": "L'opacité du foie au niveau de la région sous diaphragmatique droite."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": true,
+      "correctAnswers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "pageStart": 3,
+      "reviewNotes": [
+        "Multiple markings."
+      ]
+    },
+    {
+      "number": 23,
+      "text": "La préparation du malade pour l'urographie intraveineuse :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Supprimer toute médication opacifiante durant les jours qui précèdent l'examen ;"
+        },
+        {
+          "letter": "B",
+          "text": "S'assurer que le patient n'a pas reçu récemment un examen radiologique baryté ;"
+        },
+        {
+          "letter": "C",
+          "text": "Déconseiller les féculents, les aliments fermentés cibles 2 à 3 jours avant ;"
+        },
+        {
+          "letter": "D",
+          "text": "S'assurer que le patient est à jeun."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false,
+      "correctAnswers": [],
+      "pageStart": 3,
+      "reviewNotes": [
+        "No clear marking."
+      ]
+    },
+    {
+      "number": 24,
+      "text": "L'angiographie est un examen qui permet de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rechercher un rétrécissement ;"
+        },
+        {
+          "letter": "B",
+          "text": "Rechercher une thrombose d'une artère ;"
+        },
+        {
+          "letter": "C",
+          "text": "Traiter les varices ;"
+        },
+        {
+          "letter": "D",
+          "text": "Dilater une sténose."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false,
+      "correctAnswers": [],
+      "pageStart": 4,
+      "reviewNotes": [
+        "No clear marking."
+      ]
+    },
+    {
+      "number": 25,
+      "text": "Avant une TDM de la région sellaire, le technicien doit :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enlever les prothèses dentaires ;"
+        },
+        {
+          "letter": "B",
+          "text": "Expliquer au malade qu'il ne doit pas respirer ni déglutir pendant l'acquisition des coupes ;"
+        },
+        {
+          "letter": "C",
+          "text": "S'assurer de l'absence d'un syndrome d'hypertension intracrânienne ;"
+        },
+        {
+          "letter": "D",
+          "text": "S'assurer de l'instabilité du rachis cervical."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": [
+        "B"
+      ],
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 26,
+      "text": "Pendant un examen scanographique, parmi les paramètres fixés à l'acquisition il y a :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La taille de la matrice ;"
+        },
+        {
+          "letter": "B",
+          "text": "Le pitch ;"
+        },
+        {
+          "letter": "C",
+          "text": "La collimation ;"
+        },
+        {
+          "letter": "D",
+          "text": "La vitesse de rotation."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false,
+      "correctAnswers": [],
+      "pageStart": 4,
+      "reviewNotes": [
+        "No clear marking."
+      ]
+    },
+    {
+      "number": 27,
+      "text": "Parmi les paramètres ajustables lors de la reconstruction en TDM :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'épaisseur de la coupe ;"
+        },
+        {
+          "letter": "B",
+          "text": "L'espace inter-coupes ;"
+        },
+        {
+          "letter": "C",
+          "text": "Le champ de vue ;"
+        },
+        {
+          "letter": "D",
+          "text": "Le filtre."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false,
+      "correctAnswers": [],
+      "pageStart": 4,
+      "reviewNotes": [
+        "No clear marking."
+      ]
+    },
+    {
+      "number": 28,
+      "text": "La TDM du rachis cervical en cas de traumatisme :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Patient en décubitus dorsal, épaules abaissées au maximum et les bras tirés le long du corps ;"
+        },
+        {
+          "letter": "B",
+          "text": "Faire enlever une éventuelle minerve par le radiologue ;"
+        },
+        {
+          "letter": "C",
+          "text": "Filtre standard ;"
+        },
+        {
+          "letter": "D",
+          "text": "Les images sont prises en fenêtres osseuses et parenchymateuses."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false,
+      "correctAnswers": [],
+      "pageStart": 4,
+      "reviewNotes": [
+        "No clear marking."
+      ]
+    },
+    {
+      "number": 29,
+      "text": "La TDM du crâne :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tête placée dans la têtière et immobilisée à l'aide d'une bande adhésive ;"
+        },
+        {
+          "letter": "B",
+          "text": "Le plan des coupes axiales doit être parallèles au plan OM ;"
+        },
+        {
+          "letter": "C",
+          "text": "En coupe axiale, le paquet allant du trou occipital au vertex ;"
+        },
+        {
+          "letter": "D",
+          "text": "L'épaisseur de coupe est de 3mm."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false,
+      "correctAnswers": [],
+      "pageStart": 4,
+      "reviewNotes": [
+        "No clear marking."
+      ]
+    },
+    {
+      "number": 30,
+      "text": "La TDM du rachis lombo-sacré :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le plan des coupes axiales doit être parallèle au plan des disques étudiés ;"
+        },
+        {
+          "letter": "B",
+          "text": "Le paquet s'étend de D12L1 au S1S2 ;"
+        },
+        {
+          "letter": "C",
+          "text": "L'épaisseur de coupe est de 5mm."
+        },
+        {
+          "letter": "D",
+          "text": "None."
+        }
+      ],
+      "confidence": 0.7,
+      "needsReview": true,
+      "correctAnswers": [],
+      "pageStart": 4,
+      "reviewNotes": [
+        "Option D is missing or malformed in image. Only 3 options visible."
+      ]
+    },
+    {
+      "number": 31,
+      "text": "La simulation en radiothérapie permet de définir :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le volume cible anatomoclinique ;"
+        },
+        {
+          "letter": "B",
+          "text": "Les volumes de contention ;"
+        },
+        {
+          "letter": "C",
+          "text": "La technique de traitement ;"
+        },
+        {
+          "letter": "D",
+          "text": "La position du malade."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false,
+      "correctAnswers": [],
+      "pageStart": 4,
+      "reviewNotes": [
+        "No clear marking."
+      ]
+    },
+    {
+      "number": 32,
+      "text": "Parmi les facteurs physiologiques ou techniques qui obligent le radiothérapeute à irradier un volume plus grand que le volume cible anatomoclinique :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le décalage entre position sur le scanner dosimétrique et position sur la table de traitement ;"
+        },
+        {
+          "letter": "B",
+          "text": "Le mouvement du patient ;"
+        },
+        {
+          "letter": "C",
+          "text": "Le mouvement de certains organes mobiles ;"
+        },
+        {
+          "letter": "D",
+          "text": "Aucune réponse n'est juste."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false,
+      "correctAnswers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pageStart": 4,
+      "reviewNotes": [
+        "Multiple checkmarks."
+      ]
+    },
+    {
+      "number": 33,
+      "text": "Les étapes d'un traitement par la radiothérapie en ordre chronologique :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1ère étape : la consultation initiale ;"
+        },
+        {
+          "letter": "B",
+          "text": "2ème étape : la simulation et centrage ;"
+        },
+        {
+          "letter": "C",
+          "text": "3ème étape : la dosimétrie ;"
+        },
+        {
+          "letter": "D",
+          "text": "4ème étape : le traitement avec un contrôle qualité."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false,
+      "correctAnswers": [
+        "A"
+      ],
+      "pageStart": 5,
+      "reviewNotes": []
+    },
+    {
+      "number": 34,
+      "text": "Les indications de la curiethérapie interstitielle :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les localisations ORL ;"
+        },
+        {
+          "letter": "B",
+          "text": "Les localisations gynécologiques et mammaires ;"
+        },
+        {
+          "letter": "C",
+          "text": "Les localisations cutanées ;"
+        },
+        {
+          "letter": "D",
+          "text": "Les localisations osseuses."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false,
+      "correctAnswers": [
+        "B"
+      ],
+      "pageStart": 5,
+      "reviewNotes": []
+    },
+    {
+      "number": 35,
+      "text": "Le matériel utilisé pour le confort du patient lors d'une séance de radiothérapie :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cale en mousse ;"
+        },
+        {
+          "letter": "B",
+          "text": "Le support genou ;"
+        },
+        {
+          "letter": "C",
+          "text": "Le masque thermoformé ;"
+        },
+        {
+          "letter": "D",
+          "text": "Le coussin et l'appui tête."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": true,
+      "correctAnswers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "pageStart": 5,
+      "reviewNotes": [
+        "Multiple checkmarks."
+      ]
+    },
+    {
+      "number": 36,
+      "text": "Les modificateurs de faisceaux de photons ont pour but :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aucun but ;"
+        },
+        {
+          "letter": "B",
+          "text": "De protéger certains organes critiques ;"
+        },
+        {
+          "letter": "C",
+          "text": "D'éviter certains points chauds ou points de surdosage ;"
+        },
+        {
+          "letter": "D",
+          "text": "De faire coïncider le plus possible le volume traité et le volume cible prévisionnel en minimisant le volume des tissus sains recevant une dose thérapeutique."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": true,
+      "correctAnswers": [
+        "B",
+        "D"
+      ],
+      "pageStart": 5,
+      "reviewNotes": [
+        "Multiple checkmarks."
+      ]
+    },
+    {
+      "number": 37,
+      "text": "Le rôle d'un technicien de radiologie en radiothérapie :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Préparer le traitement ;"
+        },
+        {
+          "letter": "B",
+          "text": "Mettre en place et livrer le traitement ;"
+        },
+        {
+          "letter": "C",
+          "text": "Assister le malades dans la salle pendant le traitement ;"
+        },
+        {
+          "letter": "D",
+          "text": "Prodiguer des soins aux malades."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": true,
+      "correctAnswers": [
+        "B",
+        "C"
+      ],
+      "pageStart": 5,
+      "reviewNotes": [
+        "Multiple checkmarks."
+      ]
+    },
+    {
+      "number": 38,
+      "text": "Le collimateur de la gamma caméra :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Constitue lui seul la tête de détection ;"
+        },
+        {
+          "letter": "B",
+          "text": "Est une galette de plomb, de tungstène ou d'un autre métal de numéro atomique élevé ;"
+        },
+        {
+          "letter": "C",
+          "text": "Filtre les photons gammas émis par la source vers le cristal ;"
+        },
+        {
+          "letter": "D",
+          "text": "Elimine les photons diffusés."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": true,
+      "correctAnswers": [
+        "D"
+      ],
+      "pageStart": 5,
+      "reviewNotes": [
+        "Checkmark clearly on D."
+      ]
+    },
+    {
+      "number": 39,
+      "text": "Les caractéristiques de MAG3 utilisé en scintigraphie rénale :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eliminer par filtration glomérulaire ;"
+        },
+        {
+          "letter": "B",
+          "text": "Eliminer principalement par sécrétion tubulaire ;"
+        },
+        {
+          "letter": "C",
+          "text": "Possède une clairance plasmatique moins élevée ;"
+        },
+        {
+          "letter": "D",
+          "text": "Possède une clairance plasmatique élevée."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false,
+      "correctAnswers": [],
+      "pageStart": 5,
+      "reviewNotes": [
+        "No clear marking."
+      ]
+    },
+    {
+      "number": 40,
+      "text": "Les indications de la scintigraphie pulmonaire :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Diagnostic d'embolie pulmonaire ;"
+        },
+        {
+          "letter": "B",
+          "text": "Diagnostic de la tuberculose pulmonaire ;"
+        },
+        {
+          "letter": "C",
+          "text": "Bilan d'opérabilité en pathologie pulmonaire (emphysème, cancers) ;"
+        },
+        {
+          "letter": "D",
+          "text": "Bilan de certaines malformations cardiovasculaires (en pédiatrie)."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": true,
+      "correctAnswers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pageStart": 5,
+      "reviewNotes": [
+        "Multiple checkmarks."
+      ]
+    }
+  ],
+  "examTitle": "Concours de recrutement des infirmiers et des techniciens de santé",
+  "specialty": "Radiologie",
+  "warnings": [
+    "Multiple checkmarks present in the source document indicating potential student review or ambiguity.",
+    "Some questions appear to have missing or ambiguous answer markings."
+  ],
+  "year": 2019
+}

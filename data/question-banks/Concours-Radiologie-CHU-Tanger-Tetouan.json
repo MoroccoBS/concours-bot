@@ -1,0 +1,1272 @@
+{
+  "sourceFile": "Concours-Radiologie-CHU-Tanger-Tetouan.pdf",
+  "language": "fr",
+  "questions": [
+    {
+      "number": 7,
+      "text": "L'orthopantomographie :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est réalisée en position debout ou assise"
+        },
+        {
+          "letter": "B",
+          "text": "Incidence impossible à réaliser en décubitus"
+        },
+        {
+          "letter": "C",
+          "text": "La mandibule repose sur un étrier où elle est calée"
+        },
+        {
+          "letter": "D",
+          "text": "La contention peut comporter un guide buccal et un serre-tête"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 8,
+      "text": "Profil d'Arcelin :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est une incidence de profil chirurgical de la hanche"
+        },
+        {
+          "letter": "B",
+          "text": "Patient en décubitus, membre inférieur à radiographier en flexion"
+        },
+        {
+          "letter": "C",
+          "text": "La cuisse opposée est fléchie à 90° sur le bassin, la jambe fléchie sur cuisse"
+        },
+        {
+          "letter": "D",
+          "text": "La cassette est appliquée contre l'aile iliaque du côté à radiographier"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 9,
+      "text": "Critères de réussite d'une incidence oblique du rachis cervical :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bon dégagement des trous de conjugaison à tous les niveaux"
+        },
+        {
+          "letter": "B",
+          "text": "Superposition des apophyses articulaires droite et gauche"
+        },
+        {
+          "letter": "C",
+          "text": "Dégagement de toutes les interlignes articulaires"
+        },
+        {
+          "letter": "D",
+          "text": "Bonne visualisation des pédicules du côté examiné"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 10,
+      "text": "Les critères de réussite d'une radiographie du bassin de face :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Superposition de l'axe du sacrum et de la symphyse pubienne"
+        },
+        {
+          "letter": "B",
+          "text": "Dégagement externe complet du grand trochanter"
+        },
+        {
+          "letter": "C",
+          "text": "Petit trochanter coupé par la corticale de la diaphyse fémorale"
+        },
+        {
+          "letter": "D",
+          "text": "Trous obturateurs symétriques"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 11,
+      "text": "Radiographie du rachis cervical « bouche ouverte » :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incidence de face antéro-postérieure"
+        },
+        {
+          "letter": "B",
+          "text": "Permet la visualisation du processus odontoïde et l'atlas"
+        },
+        {
+          "letter": "C",
+          "text": "Rayon directeur est horizontal"
+        },
+        {
+          "letter": "D",
+          "text": "Réalisée en décubitus en cas de traumatisme important"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 12,
+      "text": "Incidence de Lamy :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incidence de profil de l'épaule"
+        },
+        {
+          "letter": "B",
+          "text": "Réalisée chez un sujet en position debout en oblique antérieure de 45 à 60° du côté examiné"
+        },
+        {
+          "letter": "C",
+          "text": "Le bras est pendant, coude fléchi et légèrement porté en arrière"
+        },
+        {
+          "letter": "D",
+          "text": "Rayon directeur est horizontal"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 13,
+      "text": "Radiographie de face de la clavicule :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rayon directeur est postéro-antérieur"
+        },
+        {
+          "letter": "B",
+          "text": "Rayon directeur est horizontal"
+        },
+        {
+          "letter": "C",
+          "text": "Visualisation de la clavicule dans sa totalité"
+        },
+        {
+          "letter": "D",
+          "text": "Visualisation des articulations acromio-claviculaire et sterno-claviculaire"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 28,
+      "text": "Cholangiographie post-opératoire par drain de Kehr :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vérification de la perméabilité des voies biliaires après chirurgie"
+        },
+        {
+          "letter": "B",
+          "text": "Le Cliché sans préparation est obligatoire et permet de recherche des calcifications au niveau de l'hypochondre droit"
+        },
+        {
+          "letter": "C",
+          "text": "L'injection du produit de contraste est suivie en scopie"
+        },
+        {
+          "letter": "D",
+          "text": "L'injection du produit de contraste est rapide"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 29,
+      "text": "Un uroscanner :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est indiqué devant une pathologie tumorale vésicale"
+        },
+        {
+          "letter": "B",
+          "text": "Est indiqué devant une obstruction urinaire"
+        },
+        {
+          "letter": "C",
+          "text": "Les coupes sans injection de produit de contraste sont obligatoires"
+        },
+        {
+          "letter": "D",
+          "text": "Est contre-indiquée en cas de créatinine sanguine à 20 mg/l"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 30,
+      "text": "En cas d'insuffisance rénale aiguë :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'injection du produit de contraste iodé est contre-indiquée"
+        },
+        {
+          "letter": "B",
+          "text": "Une hypohydratation avant et après l'injection de produit de contraste iodé doit être réalisée"
+        },
+        {
+          "letter": "C",
+          "text": "Les médicaments néphrotoxiques doivent être arrêtés pendant au moins 48 heures"
+        },
+        {
+          "letter": "D",
+          "text": "Un intervalle d'au moins 3 jours entre deux injections de produit de contraste iodé s'impose"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 31,
+      "text": "La vaccination au Maroc commence :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "immédiatement après la naissance"
+        },
+        {
+          "letter": "B",
+          "text": "A une semaine de la naissance"
+        },
+        {
+          "letter": "C",
+          "text": "A six semaines de la naissance"
+        },
+        {
+          "letter": "D",
+          "text": "A dix semaines de la naissance"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 32,
+      "text": "Le programme de vaccination au Maroc vise à prévenir les maladies suivantes :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'hépatite virale C"
+        },
+        {
+          "letter": "B",
+          "text": "L'hépatite virale B"
+        },
+        {
+          "letter": "C",
+          "text": "La rubéole"
+        },
+        {
+          "letter": "D",
+          "text": "La varicelle"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 33,
+      "text": "La prophylaxie correspond aux :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mesures entreprises pour traiter les cas"
+        },
+        {
+          "letter": "B",
+          "text": "Mesures entreprises pour éviter la survenue de la maladie"
+        },
+        {
+          "letter": "C",
+          "text": "Mesures entreprises pour éviter la contagion de la maladie"
+        },
+        {
+          "letter": "D",
+          "text": "Actions entreprises pour la prise en charge psychologique de l'entourage du malade"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 34,
+      "text": "L'indice synthétique de fécondité au Maroc en 2013 est de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un enfant par femme"
+        },
+        {
+          "letter": "B",
+          "text": "Deux enfants par femme"
+        },
+        {
+          "letter": "C",
+          "text": "Trois enfants par femme"
+        },
+        {
+          "letter": "D",
+          "text": "Quatre enfants par femme"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 23,
+      "text": "Radiographie de face de la clavicule :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rayon directeur est postéro-antérieur"
+        },
+        {
+          "letter": "B",
+          "text": "Rayon directeur est horizontal"
+        },
+        {
+          "letter": "C",
+          "text": "Visualisation de la clavicule dans sa totalité"
+        },
+        {
+          "letter": "D",
+          "text": "Visualisation des articulations acromio-claviculaire et sterno-claviculaire"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 24,
+      "text": "Radiographie du coude de face :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Patient assis, membre supérieur en extension sur la table et main en supination"
+        },
+        {
+          "letter": "B",
+          "text": "Rayon directeur est vertical"
+        },
+        {
+          "letter": "C",
+          "text": "Centrage au milieu du pli du coude"
+        },
+        {
+          "letter": "D",
+          "text": "Centrage au bord postérieur de l'épicondyle"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 25,
+      "text": "Incidence de Schreck II :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Réalisée sur main fléchie en position d'écriture et en demi-supination à 25°"
+        },
+        {
+          "letter": "B",
+          "text": "Rayon directeur est vertical"
+        },
+        {
+          "letter": "C",
+          "text": "Centrage à 1cm en avant de l'interligne radio-carpienne"
+        },
+        {
+          "letter": "D",
+          "text": "Incidence permettant l'analyse du scaphoïde"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 26,
+      "text": "Incidence de profil chirurgical de la hanche :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Profil d'Arcelin"
+        },
+        {
+          "letter": "B",
+          "text": "Patient en décubitus, membre inférieur à radiographier en extension"
+        },
+        {
+          "letter": "C",
+          "text": "La cuisse opposée est fléchie à 90° sur le bassin, la jambe fléchie sur la cuisse"
+        },
+        {
+          "letter": "D",
+          "text": "La cassette est appliquée contre l'aile iliaque du côté opposé"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 27,
+      "text": "La prémédication avant un examen avec injection de produit de contraste iodé :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Doit être utilisé pour rassurer le patient"
+        },
+        {
+          "letter": "B",
+          "text": "N'empêche pas la survenue d'une anaphylaxie"
+        },
+        {
+          "letter": "C",
+          "text": "Est remplacée actuellement par la consultation d'allergologie"
+        },
+        {
+          "letter": "D",
+          "text": "Est systématique pour les patients aux antécédents d'anaphylaxie pour un certain produit de contraste"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 28,
+      "text": "Urographie intra-veineuse :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contre-indiquée chez la femme enceinte"
+        },
+        {
+          "letter": "B",
+          "text": "Permet une étude morphologique et fonctionnelle des cavités excrétrices"
+        },
+        {
+          "letter": "C",
+          "text": "Est actuellement supplantée par l'uroscanner"
+        },
+        {
+          "letter": "D",
+          "text": "Permet de rechercher un reflux vésico-urétéral passif et actif"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 29,
+      "text": "La Fibrose Néphrogénique Systémique :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Atteinte cutanée puis systémique des articulations, du coeur et des poumons"
+        },
+        {
+          "letter": "B",
+          "text": "Peut-être responsable du décès du patient"
+        },
+        {
+          "letter": "C",
+          "text": "Secondaire à l'injection de chélates de gadolinium lors d'examen IRM"
+        },
+        {
+          "letter": "D",
+          "text": "Survient chez des patients insuffisants rénaux avec une clairance de la créatinine > 30ml/min"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 20,
+      "text": "En mammographie, le rayonnement diffusé :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entraîne un noircissement du film sans apporter plus d'informations"
+        },
+        {
+          "letter": "B",
+          "text": "Diminue la fiabilité diagnostique"
+        },
+        {
+          "letter": "C",
+          "text": "L'utilisation de clichés centrés simples augmente ce rayonnement"
+        },
+        {
+          "letter": "D",
+          "text": "Est plus important dans les seins très denses"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 21,
+      "text": "En mammographie, la compression du sein :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est indispensable pour diminuer le contraste"
+        },
+        {
+          "letter": "B",
+          "text": "Est relativement facile en cas de tissu mammaire sain"
+        },
+        {
+          "letter": "C",
+          "text": "Augmente de façon sensible la dose d'irradiation"
+        },
+        {
+          "letter": "D",
+          "text": "Réduit de façon sensible le rayonnement diffusé"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 22,
+      "text": "Les critères de qualité d'un cliché oblique externe en mammographie :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Muscle pectoral doit être visible jusqu'à hauteur du mamelon"
+        },
+        {
+          "letter": "B",
+          "text": "Le muscle pectoral doit faire avec le bord latéral du film un angle d'environ 45°"
+        },
+        {
+          "letter": "C",
+          "text": "Le sillon sous-mammaire doit être visible sur le cliché"
+        },
+        {
+          "letter": "D",
+          "text": "Le tissu glandulaire doit être bien étalé"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 23,
+      "text": "L'Hystérosalpingographie :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est indiquée en cas d'infection génitale"
+        },
+        {
+          "letter": "B",
+          "text": "Est indiquée en cas d'infertilité secondaire"
+        },
+        {
+          "letter": "C",
+          "text": "Une couverture antibiotique est systématique"
+        },
+        {
+          "letter": "D",
+          "text": "Est réalisée en deuxième partie de cycle permet afin d'éviter une dissection de l'endomètre lors de l'introduction du cathéter"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 24,
+      "text": "En IRM, la pondération T2 se caractérise par :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un temps d'écho est > 80 ms"
+        },
+        {
+          "letter": "B",
+          "text": "Un temps de répétition > 2000 ms"
+        },
+        {
+          "letter": "C",
+          "text": "Un temps d'écho est > 20 ms"
+        },
+        {
+          "letter": "D",
+          "text": "Un hypersignal des structures liquidiennes"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 25,
+      "text": "En IRM, les antennes en réseau phasé :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Constituent un ensemble de plusieurs antennes de surface de petit diamètre, disposées côte à côte"
+        },
+        {
+          "letter": "B",
+          "text": "Constituent un ensemble de plusieurs antennes de surface de petit diamètre, disposées face à face"
+        },
+        {
+          "letter": "C",
+          "text": "Permettent un très bas signal sur bruit"
+        },
+        {
+          "letter": "D",
+          "text": "Permettent un petit champ d'exploration"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 31,
+      "text": "Les services déconcentrés du Ministère de la Santé sont représentés par :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les directions régionales de santé"
+        },
+        {
+          "letter": "B",
+          "text": "Les directions centrales"
+        },
+        {
+          "letter": "C",
+          "text": "Les CHU"
+        },
+        {
+          "letter": "D",
+          "text": "Les délégations provinciales de santé"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 32,
+      "text": "Laquelle des directions suivantes ne fait pas partie du ministère de la Santé :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Direction de la population"
+        },
+        {
+          "letter": "B",
+          "text": "Direction des médicaments et de pharmacie"
+        },
+        {
+          "letter": "C",
+          "text": "Direction de santé publique"
+        },
+        {
+          "letter": "D",
+          "text": "Direction de règlementation et de contentieux"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 33,
+      "text": "Une Direction Régionale de santé est composée de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 unités régionales"
+        },
+        {
+          "letter": "B",
+          "text": "6 unités régionales"
+        },
+        {
+          "letter": "C",
+          "text": "7 unités régionales"
+        },
+        {
+          "letter": "D",
+          "text": "3 à 4 services"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 34,
+      "text": "Le réseau de soins de santé de base comporte :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Centre de santé communal"
+        },
+        {
+          "letter": "B",
+          "text": "Centre de santé urbain"
+        },
+        {
+          "letter": "C",
+          "text": "Hôpital local"
+        },
+        {
+          "letter": "D",
+          "text": "Dispensaires rural"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 35,
+      "text": "Lequel des établissements suivant ne sont pas généralement médicalisés :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dispensaire rural"
+        },
+        {
+          "letter": "B",
+          "text": "Centre de santé communal"
+        },
+        {
+          "letter": "C",
+          "text": "Centre de santé urbain"
+        },
+        {
+          "letter": "D",
+          "text": "Centre de santé communal avec unité d'accouchement"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 36,
+      "text": "Un hôpital régi en mode d'établissement public autonome est un hôpital :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Qui a une autonomie administrative et n'a pas d'autonomie financière"
+        },
+        {
+          "letter": "B",
+          "text": "Qui a une autonomie financière et n'a pas d'autonomie administrative"
+        },
+        {
+          "letter": "C",
+          "text": "Qui n'a ni autonomie administrative ni autonomie financière"
+        },
+        {
+          "letter": "D",
+          "text": "Qui a une autonomie administrative et une autonomie financière"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 7,
+      "text": "Incidence des os propres du nez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incidence antéro-postérieure"
+        },
+        {
+          "letter": "B",
+          "text": "Centrage à la base du nez"
+        },
+        {
+          "letter": "C",
+          "text": "L'angle formé par le rayon directeur et le plan orbito-méatal est de -30°"
+        },
+        {
+          "letter": "D",
+          "text": "L'angle formé par le rayon directeur et le plan orbito-méatal est de -70°"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 8,
+      "text": "Incidence Blondeau :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incidence qui permet d'analyser les sinus de la face"
+        },
+        {
+          "letter": "B",
+          "text": "L'angle formé par le rayon directeur et le plan orbito-méatal est de -50°"
+        },
+        {
+          "letter": "C",
+          "text": "Nez est à 1cm de la plaque"
+        },
+        {
+          "letter": "D",
+          "text": "Equidistance des conduits auditifs externes par rapport à la cassette"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 9,
+      "text": "Radiographie (obliques) du rachis cervical :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Patient en position debout ou assis en oblique postérieure du côté examiné"
+        },
+        {
+          "letter": "B",
+          "text": "L'angle d'obliquité est de 45° à 60°"
+        },
+        {
+          "letter": "C",
+          "text": "Rayon directeur est ascendant de 20°"
+        },
+        {
+          "letter": "D",
+          "text": "Centrage sur la face latérale du cou, à hauteur de C2"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 10,
+      "text": "Radiographie des sacro-iliaques :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Réalisée en décubitus avec membres inférieurs légèrement fléchis"
+        },
+        {
+          "letter": "B",
+          "text": "Rayon directeur incliné vers la tête de 15 à 20°"
+        },
+        {
+          "letter": "C",
+          "text": "Centrage à deux travers de doigt au-dessous du bord supérieur du pubis, sur la ligne médiane"
+        },
+        {
+          "letter": "D",
+          "text": "Incidence antéro-postérieure"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 11,
+      "text": "Incidence de Chevrot :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incidence oblique, visualisant l'articulation sacro-iliaque dans le plan horizontal"
+        },
+        {
+          "letter": "B",
+          "text": "Patient en décubitus, tronc fléchi en appui sur les coudes et membres inférieurs en extension"
+        },
+        {
+          "letter": "C",
+          "text": "Bassin soulevé de 20° du côté à radiographier grâce à une cale en mousse"
+        },
+        {
+          "letter": "D",
+          "text": "Rayon directeur est incliné de 30 à 50° vers les pieds"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 12,
+      "text": "Incidence de Lamy :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incidence permettant l'exploration de la ceinture scapulaire"
+        },
+        {
+          "letter": "B",
+          "text": "Patient debout en oblique antérieure de 45 à 60° du côté opposé"
+        },
+        {
+          "letter": "C",
+          "text": "Le bras est pendant, coude fléchi et légèrement porté en arrière"
+        },
+        {
+          "letter": "D",
+          "text": "Rayon directeur est horizontal"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 13,
+      "text": "Les critères de réussite d'une incidence de Neer :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'omoplate se présente sous la forme d'un « Y »"
+        },
+        {
+          "letter": "B",
+          "text": "L'écaille est vue de face"
+        },
+        {
+          "letter": "C",
+          "text": "L'articulation gléno-humérale bien dégagée"
+        },
+        {
+          "letter": "D",
+          "text": "Articulation acromio-claviculaire est visible"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 14,
+      "text": "Radiographie du coude de profil :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Patient assis, coude fléchi à 45° reposant sur la plaque par son bord interne, main verticale"
+        },
+        {
+          "letter": "B",
+          "text": "Rayon directeur est vertical"
+        },
+        {
+          "letter": "C",
+          "text": "Centrage au bord postérieur de l'épicondyle"
+        },
+        {
+          "letter": "D",
+          "text": "Centrage au bord postérieur de la trochlée"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 15,
+      "text": "Incidence de Schreck II :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Réalisée sur main fléchie en position d'écriture et en demi-supination à 25°"
+        },
+        {
+          "letter": "B",
+          "text": "Rayon directeur est vertical"
+        },
+        {
+          "letter": "C",
+          "text": "Centrage à 1cm en avant de l'interligne radio-carpienne"
+        },
+        {
+          "letter": "D",
+          "text": "Incidence permettant l'analyse du scaphoïde"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 16,
+      "text": "Incidence de profil chirurgical de la hanche :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Profil d'Arcelin"
+        },
+        {
+          "letter": "B",
+          "text": "Patient en décubitus, membre inférieur à radiographier en extension"
+        },
+        {
+          "letter": "C",
+          "text": "La cuisse opposée est fléchie à 90° sur le bassin, la jambe fléchie sur la cuisse"
+        },
+        {
+          "letter": "D",
+          "text": "La cassette est appliquée contre l'aile iliaque du côté opposé"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 17,
+      "text": "Urographie intra-veineuse :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Peut être indiquée devant un syndrome obstructif urinaire"
+        },
+        {
+          "letter": "B",
+          "text": "Permet une étude morphologique et fonctionnelle des cavités excrétrices"
+        },
+        {
+          "letter": "C",
+          "text": "Est actuellement supplantée par l'uroscanner"
+        },
+        {
+          "letter": "D",
+          "text": "Permet de rechercher un reflux vésico-urétéral actif"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 18,
+      "text": "Urétrocystographie rétrograde :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'injection du produit de contraste est réalisée par voie intra-veineuse"
+        },
+        {
+          "letter": "B",
+          "text": "Permet de rechercher un reflux vésico-urétéral actif lors du remplissage"
+        },
+        {
+          "letter": "C",
+          "text": "Un cliché post-mictionnel est indispensable"
+        },
+        {
+          "letter": "D",
+          "text": "Est contre-indiquée en cas d'insuffisance rénale"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 19,
+      "text": "L'incidence qui permet d'étudier l'apophyse zygomatique est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incidence de HIRTZ SUBAXIALE"
+        },
+        {
+          "letter": "B",
+          "text": "Worms-Bretton (incidence semi-axiale)"
+        },
+        {
+          "letter": "C",
+          "text": "Incidence de crâne de face"
+        },
+        {
+          "letter": "D",
+          "text": "Incidence de crâne de profil"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 1,
+      "text": "Incidence de crâne de face haute est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une incidence antéro-postérieure"
+        },
+        {
+          "letter": "B",
+          "text": "Réalisée chez un sujet assis avec un appui front-nez"
+        },
+        {
+          "letter": "C",
+          "text": "Réalisée chez un sujet assis avec un appui sur le front"
+        },
+        {
+          "letter": "D",
+          "text": "Centrage est basé sur l'équidistance des deux conduits auditifs externes par rapport au plan de projection"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 2,
+      "text": "Les critères de réussite d'une incidence de crâne de face haute sont :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fentes sphénoïdales dans les orbites"
+        },
+        {
+          "letter": "B",
+          "text": "Bords supérieurs des rochers confondus avec les rebords orbitaires inférieurs"
+        },
+        {
+          "letter": "C",
+          "text": "Distance apophyse orbitaire du malaire et table interne de la voûte latérale est identique des deux côtés"
+        },
+        {
+          "letter": "D",
+          "text": "Distance apophyse orbitaire du malaire et table externe de la voûte latérale est identique des deux côtés"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 3,
+      "text": "Incidence de crâne de profil :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'angle formé entre le rayon directeur et le plan orbito-méatal est de 15°"
+        },
+        {
+          "letter": "B",
+          "text": "Rayon directeur est horizontal"
+        },
+        {
+          "letter": "C",
+          "text": "Le centrage est à 3cm au-dessus du tragus"
+        },
+        {
+          "letter": "D",
+          "text": "Le centrage est à 3cm au-dessus du tragus"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 4,
+      "text": "Les critères de réussite d'une incidence de crâne de profil :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Superposition droite-gauche des planchers orbitaires"
+        },
+        {
+          "letter": "B",
+          "text": "Superposition des grandes ailes du sphénoïde"
+        },
+        {
+          "letter": "C",
+          "text": "Superposition des conduits auditifs externes"
+        },
+        {
+          "letter": "D",
+          "text": "Superposition des apophyses clinoïdes"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 5,
+      "text": "Incidence de HIRTZ :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le centrage est au niveau de la ligne bi-oculaire"
+        },
+        {
+          "letter": "B",
+          "text": "Indiquée en cas de traumatisme du rachis cervical"
+        },
+        {
+          "letter": "C",
+          "text": "L'angle formé par le rayon directeur et le plan sagittal médian est de 0°"
+        },
+        {
+          "letter": "D",
+          "text": "L'angle formé par le rayon directeur et le plan orbito-méatal est de -150°"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 6,
+      "text": "Incidence de Worms-Bretton (incidence semi-axiale) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le plan orbito-méatal oblique au plan de projection"
+        },
+        {
+          "letter": "B",
+          "text": "Equidistance des deux conduits auditifs externes à la cassette"
+        },
+        {
+          "letter": "C",
+          "text": "Les rochers sont situés largement au-dessus des rebords orbitaires supérieurs"
+        },
+        {
+          "letter": "D",
+          "text": "L'angle formé par le rayon directeur et le plan orbito-méatal est de 25°"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    }
+  ],
+  "warnings": [
+    "Duplicate question number: 28",
+    "Duplicate question number: 29",
+    "Duplicate question number: 23",
+    "Duplicate question number: 24",
+    "Duplicate question number: 25",
+    "Duplicate question number: 31",
+    "Duplicate question number: 32",
+    "Duplicate question number: 33",
+    "Duplicate question number: 34",
+    "Duplicate question number: 7",
+    "Duplicate question number: 8",
+    "Duplicate question number: 9",
+    "Duplicate question number: 10",
+    "Duplicate question number: 11",
+    "Duplicate question number: 12",
+    "Duplicate question number: 13"
+  ]
+}

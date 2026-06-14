@@ -1,0 +1,342 @@
+{
+  "sourceFile": "Concours-Radiologie-2013-Ech9-Partie2.pdf",
+  "language": "fr",
+  "questions": [
+    {
+      "number": 17,
+      "text": "Le centrage de l'abdomen sans préparation (ASP) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ligne médiane à 2 cm au-dessous des crêtes iliaques ;"
+        },
+        {
+          "letter": "B",
+          "text": "La ligne médiane à 2 cm au-dessus des crêtes iliaques ;"
+        },
+        {
+          "letter": "C",
+          "text": "La ligne médiane à hauteur des crêtes iliaques ;"
+        },
+        {
+          "letter": "D",
+          "text": "L'ombilic."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 18,
+      "text": "Les indications de l'urographie intraveineuse (UIV) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les lithiases des voies urinaires ;"
+        },
+        {
+          "letter": "B",
+          "text": "L'insuffisance hépatorénale grave ;"
+        },
+        {
+          "letter": "C",
+          "text": "Les 6 premières semaines de la grossesse ;"
+        },
+        {
+          "letter": "D",
+          "text": "Les malformations."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 19,
+      "text": "La mammographie :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "N'est jamais complétée par une échographie mammaire ;"
+        },
+        {
+          "letter": "B",
+          "text": "Doit être toujours bilatérale pour la comparaison ;"
+        },
+        {
+          "letter": "C",
+          "text": "Doit être toujours réalisée dans la première partie du cycle menstruelle"
+        },
+        {
+          "letter": "D",
+          "text": "Est praticable chez l'homme"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 20,
+      "text": "Les contre indications de l'Hystérosalpingographie :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La grossesse ;"
+        },
+        {
+          "letter": "B",
+          "text": "Les avortements à répétition ;"
+        },
+        {
+          "letter": "C",
+          "text": "L'infection génitale ;"
+        },
+        {
+          "letter": "D",
+          "text": "Les hémorragies abondantes."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 21,
+      "text": "En scanographie, il y a plusieurs types d'artefacts :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Artefact de volume partiel ;"
+        },
+        {
+          "letter": "B",
+          "text": "Artefact de surface ;"
+        },
+        {
+          "letter": "C",
+          "text": "Artefact de mesure ;"
+        },
+        {
+          "letter": "D",
+          "text": "Artefact du flux."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 22,
+      "text": "Les caractéristiques d'un produit de contraste :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Proposer le meilleur contraste possible ;"
+        },
+        {
+          "letter": "B",
+          "text": "La plus forte inertie pharmacologique ;"
+        },
+        {
+          "letter": "C",
+          "text": "Ils ne doivent être ni métabolisés, ni stockés dans l'organisme ;"
+        },
+        {
+          "letter": "D",
+          "text": "Ils doivent être totalement éliminés."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 23,
+      "text": "Parmi les critères de réussite d'une TDM Cérébrale la visualisation de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La totalité de l'encéphale ;"
+        },
+        {
+          "letter": "B",
+          "text": "Les éléments squelettiques du rachis cervical (les 7 vertèbres) ;"
+        },
+        {
+          "letter": "C",
+          "text": "La base du crâne ;"
+        },
+        {
+          "letter": "D",
+          "text": "L'odontoïde."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 24,
+      "text": "Le plan neuro-neulaire (PNO) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aligne les voies visuelles (cristallin, papille, nerf optique, canal optique) sur une coupe ;"
+        },
+        {
+          "letter": "B",
+          "text": "Il est oblique de -10 à -15 degrés par rapport au plan OM ;"
+        },
+        {
+          "letter": "C",
+          "text": "Ses repères externes : Nasion, CAE ;"
+        },
+        {
+          "letter": "D",
+          "text": "Il est parallèle à l'axe du tronc cérébral."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 25,
+      "text": "Les composantes d'une salle IRM sont :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aimant ;"
+        },
+        {
+          "letter": "B",
+          "text": "Collimateur ;"
+        },
+        {
+          "letter": "C",
+          "text": "Antennes : Émettrice et Réceptrice ;"
+        },
+        {
+          "letter": "D",
+          "text": "Système informatique ;"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 26,
+      "text": "Les contre-indications absolues d'un examen IRM :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pace-maker ;"
+        },
+        {
+          "letter": "B",
+          "text": "Grossesse ;"
+        },
+        {
+          "letter": "C",
+          "text": "Défibrillateur / neurostimulateur ;"
+        },
+        {
+          "letter": "D",
+          "text": "Claustrophobie ;"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 27,
+      "text": "Le Produit de contraste en IRM :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La gastrographine ;"
+        },
+        {
+          "letter": "B",
+          "text": "Le sulfate de baryum BaSO4 ;"
+        },
+        {
+          "letter": "C",
+          "text": "Le gadolinium ;"
+        },
+        {
+          "letter": "D",
+          "text": "Aucun produit de contraste utilisé."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 38,
+      "text": "La gamma camera se compose :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "D'un collimateur ;"
+        },
+        {
+          "letter": "B",
+          "text": "D'un détecteur de scintillation (appelé aussi détecteur de cristal) ;"
+        },
+        {
+          "letter": "C",
+          "text": "De plusieurs photomultiplicateurs ;"
+        },
+        {
+          "letter": "D",
+          "text": "Des circuits logiques de position."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 39,
+      "text": "Les différentes modalités d'acquisition d'images scintigraphiques :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vues statiques ou planaires ;"
+        },
+        {
+          "letter": "B",
+          "text": "Balayages corps entier ;"
+        },
+        {
+          "letter": "C",
+          "text": "Tomographies ;"
+        },
+        {
+          "letter": "D",
+          "text": "Tomodensitométrie."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 40,
+      "text": "Les différents types de collimateur suivant l'orientation des trous :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Parallèles ;"
+        },
+        {
+          "letter": "B",
+          "text": "Sténopéique ou pin-hole ;"
+        },
+        {
+          "letter": "C",
+          "text": "Haute résolution ;"
+        },
+        {
+          "letter": "D",
+          "text": "Haute et moyen énergie."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    }
+  ]
+}

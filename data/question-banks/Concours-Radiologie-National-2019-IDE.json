@@ -1,0 +1,1202 @@
+{
+  "sourceFile": "Concours-Radiologie-National-2019-IDE.pdf",
+  "language": "fr",
+  "questions": [
+    {
+      "number": 1,
+      "text": "Lorsqu'un patient se présente pour la première fois au niveau d'un service de RX, on commence par :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les incidences fondamentales"
+        },
+        {
+          "letter": "B",
+          "text": "Les incidences complémentaires"
+        },
+        {
+          "letter": "C",
+          "text": "Les variantes"
+        },
+        {
+          "letter": "D",
+          "text": "Les incidences de nécessité"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 7,
+      "reviewNotes": []
+    },
+    {
+      "number": 2,
+      "text": "Le centrage bassin de face :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "On centre à 2 travers de doigts au dessus de la symphyse pubienne"
+        },
+        {
+          "letter": "B",
+          "text": "On centre à 1 travers de doigts au dessus de la symphyse pubienne"
+        },
+        {
+          "letter": "C",
+          "text": "Les ailes iliaques sont dégagées strictement de face"
+        },
+        {
+          "letter": "D",
+          "text": "Les ailes iliaques sont dégagées en oblique"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 7,
+      "reviewNotes": []
+    },
+    {
+      "number": 3,
+      "text": "Pour un patient présentant une fracture du col fémoral, la ou les examens radiologiques de choix à réaliser :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Face de la hanche sans rotation interne et l'incidence urétrale"
+        },
+        {
+          "letter": "B",
+          "text": "Face de la hanche avec rotation interne et l'incidence urétrale"
+        },
+        {
+          "letter": "C",
+          "text": "Face de la hanche sans rotation interne et l'incidence d'Arcelin"
+        },
+        {
+          "letter": "D",
+          "text": "Face de la hanche sans rotation et l'incidence urétrale"
+        },
+        {
+          "letter": "E",
+          "text": "Face de la hanche sans rotation et l'incidence d'Arcelin"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 7,
+      "reviewNotes": []
+    },
+    {
+      "number": 4,
+      "text": "Parmi les critères de réussite du ¼ alaire du bassin :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les limites du trou obturateur sont superposées"
+        },
+        {
+          "letter": "B",
+          "text": "Cotyle vue de face"
+        },
+        {
+          "letter": "C",
+          "text": "Cotyle de profil"
+        },
+        {
+          "letter": "D",
+          "text": "Le trou obturateur est ouvert"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 7,
+      "reviewNotes": []
+    },
+    {
+      "number": 5,
+      "text": "Quelle est la ou les incidences du profil de la hanche qui permettent d'utiliser le Potter ou le portique :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incidence d'Arcelin"
+        },
+        {
+          "letter": "B",
+          "text": "Incidence urétrale"
+        },
+        {
+          "letter": "C",
+          "text": "Incidence de Lequesne"
+        },
+        {
+          "letter": "D",
+          "text": "Incidence de salpêtrière Face en antéropostérieur"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 7,
+      "reviewNotes": []
+    },
+    {
+      "number": 6,
+      "text": "Parmi ces incidences, la ou les incidences fondamentales dans l'exploration de l'articulation coxo-fémorale :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Profil de Lequesne et de « Desèze »"
+        },
+        {
+          "letter": "B",
+          "text": "L'incidence de face"
+        },
+        {
+          "letter": "C",
+          "text": "Profil d'Arcelin (externe)"
+        },
+        {
+          "letter": "D",
+          "text": "Profil urétral (externe)"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 6,
+      "reviewNotes": []
+    },
+    {
+      "number": 7,
+      "text": "Les incidences axiales du genou ou défilés rotuliens : 30°, 60° et 90° :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le patient en décubitus dorsal"
+        },
+        {
+          "letter": "B",
+          "text": "La cassette est maintenue sur la face antérieure des fémurs par le patient"
+        },
+        {
+          "letter": "C",
+          "text": "Angle mesuré est le prolongement de l'axe du fémur avec l'axe de la jambe"
+        },
+        {
+          "letter": "D",
+          "text": "Angle mesuré est l'axe du fémur avec l'axe de la jambe"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 6,
+      "reviewNotes": []
+    },
+    {
+      "number": 8,
+      "text": "Un patient qui ne peut pas faire l'extension complète de la jambe sur la cuisse, se présente au service RX, La ou les incidences de choix à réaliser sont :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Face en postéro-antérieur"
+        },
+        {
+          "letter": "B",
+          "text": "Profil avec RDH"
+        },
+        {
+          "letter": "C",
+          "text": "Profil avec RDV"
+        },
+        {
+          "letter": "D",
+          "text": "Face en antéropostérieur"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 6,
+      "reviewNotes": []
+    },
+    {
+      "number": 9,
+      "text": "Vous recevez un enfant âgé de 3 ans accompagné par sa maman pour une fracture ouverte de la jambe. Votre conduite par rapport à la maman en cas de refus de l'enfant de rester seul :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Forcer l'enfant de rester seul"
+        },
+        {
+          "letter": "B",
+          "text": "Autoriser la maman de rester près de son enfant en portant une blouse plombée"
+        },
+        {
+          "letter": "C",
+          "text": "Autoriser la maman de rester près de son enfant sans blouse plombée"
+        },
+        {
+          "letter": "D",
+          "text": "Demander de l'aide auprès des accompagnants d'autres malades"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 6,
+      "reviewNotes": []
+    },
+    {
+      "number": 10,
+      "text": "Quelles sont les incidences nécessaires à réaliser pour cet enfant :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Jambe de face"
+        },
+        {
+          "letter": "B",
+          "text": "Poumon en DD"
+        },
+        {
+          "letter": "C",
+          "text": "Jambe de profil avec RDH et patient en décubitus dorsale"
+        },
+        {
+          "letter": "D",
+          "text": "Jambe de profil avec RDV et patient en décubitus latérale"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 6,
+      "reviewNotes": []
+    },
+    {
+      "number": 11,
+      "text": "L'incidence verticale du calcanéum, retro-tibiale descendante :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est réalisée patient debout"
+        },
+        {
+          "letter": "B",
+          "text": "On centre sur la face interne du pied en son milieu"
+        },
+        {
+          "letter": "C",
+          "text": "Peut être réalisée de manière symétrique"
+        },
+        {
+          "letter": "D",
+          "text": "Permet d'explorer la partie postérieure du calcanéum"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 8,
+      "reviewNotes": []
+    },
+    {
+      "number": 12,
+      "text": "Centrage de l'incidence Schreck II (scaphoïde de profil) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "RD incliné de 10° vers la tête centré sur l'interligne radio-carpienne"
+        },
+        {
+          "letter": "B",
+          "text": "RDV centré sur l'interligne radio-carpienne"
+        },
+        {
+          "letter": "C",
+          "text": "RDV centré à 1 cm au-dessus de l'interligne radio-carpienne."
+        },
+        {
+          "letter": "D",
+          "text": "RDV centré à 1 cm au-dessous de l'interligne radio-carpienne"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 8,
+      "reviewNotes": []
+    },
+    {
+      "number": 13,
+      "text": "L'incidence oblique interne de la main :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Main en appui cubital, le plan de la paume fait un angle de 45° avec la verticale"
+        },
+        {
+          "letter": "B",
+          "text": "On centre sur la tête du 1er ou du 2ème métacarpien"
+        },
+        {
+          "letter": "C",
+          "text": "On centre sur la tête du 3ème ou 5ème métacarpien"
+        },
+        {
+          "letter": "D",
+          "text": "Sur le cliché on voit les métacarpiens superposés"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 8,
+      "reviewNotes": []
+    },
+    {
+      "number": 14,
+      "text": "L'incidence coude de profil :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Main en pronation, l'avant-bras fléchi à 135° (90° pour Clark)"
+        },
+        {
+          "letter": "B",
+          "text": "Main en demi- pronation, l'avant-bras fléchi à 135° (90° pour Clark)"
+        },
+        {
+          "letter": "C",
+          "text": "RD centré verticalement sur l'interligne à 1 cm environ au dessous de l'épicondyle"
+        },
+        {
+          "letter": "D",
+          "text": "RD centré verticalement sur l'interligne à 1 cm environ au dessous de l'épicondyle"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 8,
+      "reviewNotes": []
+    },
+    {
+      "number": 15,
+      "text": "Le centrage de l'incidence de l'apophyse coronoïde :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Au milieu de l'interligne radio-humérale"
+        },
+        {
+          "letter": "B",
+          "text": "Au milieu de l'interligne radio-cubitale"
+        },
+        {
+          "letter": "C",
+          "text": "Au milieu de l'interligne cubito-humérale"
+        },
+        {
+          "letter": "D",
+          "text": "Toutes les réponses sont justes"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 8,
+      "reviewNotes": []
+    },
+    {
+      "number": 16,
+      "text": "Pour étudier la palette humérale de profil, il faut :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'axe épicondyle-épitrochlé soit parallèle au film"
+        },
+        {
+          "letter": "B",
+          "text": "Main en supination"
+        },
+        {
+          "letter": "C",
+          "text": "L'axe épicondyle-épitrochlé soit perpendiculaire au film"
+        },
+        {
+          "letter": "D",
+          "text": "Main en pronation"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 8,
+      "reviewNotes": []
+    },
+    {
+      "number": 17,
+      "text": "Le centrage de l'incidence profil trans-thoracique de l'épaule :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "RD incliné de 15° vers le bas visant l'épaule malade à travers le creux axillaire du côté sain."
+        },
+        {
+          "letter": "B",
+          "text": "RD incliné de 15° vers le haut visant l'épaule malade à travers le creux axillaire du côté sain."
+        },
+        {
+          "letter": "C",
+          "text": "RD incliné de 25° vers le bas visant l'épaule malade à travers le creux axillaire du côté sain."
+        },
+        {
+          "letter": "D",
+          "text": "RD horizontal visant l'épaule malade à travers le creux axillaire du côté sain."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 18,
+      "text": "Pour un patient qui présente un traumatisme au niveau de l'épaule, la ou les incidences de choix à réaliser :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Face de l'épaule en rotation externe"
+        },
+        {
+          "letter": "B",
+          "text": "Face de l'épaule en rotation neutre"
+        },
+        {
+          "letter": "C",
+          "text": "Bernajeau"
+        },
+        {
+          "letter": "D",
+          "text": "Profil trans-thoracique"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 19,
+      "text": "Le centrage de l'incidence clavicule de face en postéro-antérieur :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "RDV centré sur l'angle sup-externe de l'omoplate"
+        },
+        {
+          "letter": "B",
+          "text": "RDV centré sur l'angle sup-interne de l'omoplate"
+        },
+        {
+          "letter": "C",
+          "text": "RD incliné de 20° centré sur l'angle sup-externe de l'omoplate"
+        },
+        {
+          "letter": "D",
+          "text": "RD incliné de 20° centre sur l'angle sup-externe de l'omoplate"
+        }
+      ],
+      "confidence": 0.8,
+      "needsReview": true,
+      "correctAnswers": null,
+      "pageStart": 1,
+      "reviewNotes": [
+        "Options C and D are nearly identical in text transcription."
+      ]
+    },
+    {
+      "number": 20,
+      "text": "Le centrage du rachis cervical de profil peut être :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "RDH à mi-hauteur entre l'angle de la mâchoire et l'épaule sur la ligne des épineuses"
+        },
+        {
+          "letter": "B",
+          "text": "RDH à mi-hauteur entre l'angle de la mâchoire et l'épaule à 2travers de doigts en avant de la ligne des épineuses"
+        },
+        {
+          "letter": "C",
+          "text": "RDV à mi hauteur entre l'angle de la mâchoire et l'épaule sur la ligne des épineuses"
+        },
+        {
+          "letter": "D",
+          "text": "RDV à mi hauteur entre l'angle de la mâchoire et l'épaule à 2travers de doigts en avant de la ligne des épineuses"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 21,
+      "text": "La ou les indications du rachis cervical de face debout :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recherche de traumatisme"
+        },
+        {
+          "letter": "B",
+          "text": "Douleurs cervicales"
+        },
+        {
+          "letter": "C",
+          "text": "Hauteur des disques intervertébraux"
+        },
+        {
+          "letter": "D",
+          "text": "Etude statique et appréciation morphologique"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 22,
+      "text": "Parmi les critères de réussite du rachis cervical de face :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Position médiane de la ligne des épineuses"
+        },
+        {
+          "letter": "B",
+          "text": "Dégagement de tous les interlignes intervertébraux et articulaires postérieures"
+        },
+        {
+          "letter": "C",
+          "text": "Position symétrique du maxillaire inférieur"
+        },
+        {
+          "letter": "D",
+          "text": "Bonne visibilité des disques intervertébraux de C3C4 à C7D1"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 23,
+      "text": "La ou les incidences qui permettent de voir le rachis cervical entier de face en effaçant la mandibule :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incidence cervical de face debout"
+        },
+        {
+          "letter": "B",
+          "text": "Incidence cervical de face en demandant au patient de fermer et d'ouvrir sa bouche"
+        },
+        {
+          "letter": "C",
+          "text": "Incidence de Pélissier"
+        },
+        {
+          "letter": "D",
+          "text": "Incidence de Dorland"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 24,
+      "text": "Parmi les incidences radiologiques suivantes, lesquelles faut-il réaliser chez un sujet présentant une névralgie cervico-brachiale (NCB) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incidence de face du rachis cervical"
+        },
+        {
+          "letter": "B",
+          "text": "Incidence de profil du rachis cervical"
+        },
+        {
+          "letter": "C",
+          "text": "Incidence de profil de la C.C.O"
+        },
+        {
+          "letter": "D",
+          "text": "Incidences obliques du R.C"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 25,
+      "text": "La position du patient dans l'incidence du rachis dorsal en oblique antéropostérieur :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Patient debout, le côté à radiographier s'écarte du plan d'appui en faisant un angle de 70° du plan d'examen"
+        },
+        {
+          "letter": "B",
+          "text": "Patient debout, le côté opposé à lui radiographier s'écarte du plan d'appui en faisant un angle de 30° du plan d'examen"
+        },
+        {
+          "letter": "C",
+          "text": "Patient debout, le côté à radiographier s'écarte du plan d'appui en faisant un angle de 30° du plan d'examen"
+        },
+        {
+          "letter": "D",
+          "text": "Patient debout, le côté opposé à celui à radiographier s'écarte du plan d'appui en faisant un angle de 70° du plan d'examen"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 26,
+      "text": "L'incidence du sacrum de face, le patient est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Décubitus dorsal membres inférieurs en extension RD ascendant de 15°"
+        },
+        {
+          "letter": "B",
+          "text": "Décubitus dorsal membres inférieurs en extension RD descendant de 15°"
+        },
+        {
+          "letter": "C",
+          "text": "Décubitus dorsal membres inférieurs en extension RD ascendant de 20°"
+        },
+        {
+          "letter": "D",
+          "text": "Décubitus dorsal membres inférieurs en extension RD descendant de 20°"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 27,
+      "text": "Le RD de l'incidence du Coccyx de face en postéro/antérieur",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Descendant de 10°"
+        },
+        {
+          "letter": "B",
+          "text": "Ascendant de 10°"
+        },
+        {
+          "letter": "C",
+          "text": "Descendant de 20°"
+        },
+        {
+          "letter": "D",
+          "text": "Ascendant de 20°"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 28,
+      "text": "La ou les incidences de choix à réaliser pour une patiente qui présente une lésion osseuse des côtes avec une éventuelle extension vers la plèvre :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Grille costale de face debout"
+        },
+        {
+          "letter": "B",
+          "text": "Grille costale de face en décubitus dorsale"
+        },
+        {
+          "letter": "C",
+          "text": "Grille costale de profil en décubitus dorsal"
+        },
+        {
+          "letter": "D",
+          "text": "Grille costale en oblique debout"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 29,
+      "text": "Pour réaliser l'incidence de sternum de face :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Malade en O.A.D de 20° à 30° en station verticale R.D.H"
+        },
+        {
+          "letter": "B",
+          "text": "Malade en O.P.D de 20° à 30° en station verticale R.D.H"
+        },
+        {
+          "letter": "C",
+          "text": "Malade en O.P.G de 20° à 30° en station verticale R.D.H"
+        },
+        {
+          "letter": "D",
+          "text": "Malade en DV, le R.D oblique de 20° à 30°"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 30,
+      "text": "Pour définir une incidence qui permet d'explorer radiologiquement le crâne, il suffit d'indiquer :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les résultats normaux"
+        },
+        {
+          "letter": "B",
+          "text": "Les variantes de cette incidence"
+        },
+        {
+          "letter": "C",
+          "text": "L'angle du rayon directeur"
+        },
+        {
+          "letter": "D",
+          "text": "Un point de centrage bien déterminé"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 31,
+      "text": "Le centrage de l'incidence crâne d'ensemble de profil :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Point situé à 4cm au dessus du tragus"
+        },
+        {
+          "letter": "B",
+          "text": "Point situé à mi-distance entre le tragus et l'apophyse orbitaire externe"
+        },
+        {
+          "letter": "C",
+          "text": "Le point situé à 2 travers de doigts en avant et au dessus du tragus"
+        },
+        {
+          "letter": "D",
+          "text": "Le point situé à 4cm au dessus et à 2cm en avant du tragus"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 32,
+      "text": "La ou les incidences qui permettent d'explorer la base du crâne :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Semi axiale (Worms)"
+        },
+        {
+          "letter": "B",
+          "text": "Face haute"
+        },
+        {
+          "letter": "C",
+          "text": "Profil"
+        },
+        {
+          "letter": "D",
+          "text": "Axiale (Hirtz) et ses variantes (Sub-axiale et hyper-axiale)"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 33,
+      "text": "L'angulation et le centrage de l'incidence Blondeau :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-50° vise le nasion"
+        },
+        {
+          "letter": "B",
+          "text": "-50° vise l'acanthion"
+        },
+        {
+          "letter": "C",
+          "text": "+50° vise le nasion"
+        },
+        {
+          "letter": "D",
+          "text": "+50° vise l'acanthion"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 34,
+      "text": "La ou les incidences de choix à réaliser pour un patient qui se présente au service de RX pour une sinusite de contrôle sont :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Profil"
+        },
+        {
+          "letter": "B",
+          "text": "Blondeau"
+        },
+        {
+          "letter": "C",
+          "text": "Schuller II"
+        },
+        {
+          "letter": "D",
+          "text": "Plancher dans les orbites"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 35,
+      "text": "Le centrage de l'incidence qui permet de dégager l'articulation temporo-maxillaire (Schuller I)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6,5 cm au dessus du conduit auditif externe"
+        },
+        {
+          "letter": "B",
+          "text": "4,5cm au dessus du conduit auditif externe"
+        },
+        {
+          "letter": "C",
+          "text": "2cm au dessus du conduit auditif externe"
+        },
+        {
+          "letter": "D",
+          "text": "Rase le bord supérieur du conduit auditif externe"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 36,
+      "text": "Les images radiologiques au niveau du grêle en cas de niveaux hydro-aériques sont :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Plus larges que hautes"
+        },
+        {
+          "letter": "B",
+          "text": "Périphériques"
+        },
+        {
+          "letter": "C",
+          "text": "Plus hautes que larges"
+        },
+        {
+          "letter": "D",
+          "text": "Nombreuses et centrales"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 37,
+      "text": "La ou les techniques qui permettent de visualiser un pneumopéritoine :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ASP en décubitus latéral avec rayon horizontal"
+        },
+        {
+          "letter": "B",
+          "text": "ASP de profil avec rayon vertical"
+        },
+        {
+          "letter": "C",
+          "text": "ASP en décubitus dorsal"
+        },
+        {
+          "letter": "D",
+          "text": "ASP de face debout"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 38,
+      "text": "Dans l'incidence poumons de face de décubitus dorsal, on centre :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sur la fourchette sternale"
+        },
+        {
+          "letter": "B",
+          "text": "A l'appendice xiphoïde"
+        },
+        {
+          "letter": "C",
+          "text": "A 8 cm au dessous de la fourchette sternale"
+        },
+        {
+          "letter": "D",
+          "text": "A 2 cm au dessus de la fourchette sternale"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 5,
+      "reviewNotes": []
+    },
+    {
+      "number": 39,
+      "text": "Dans l'incidence de poumons de face en Trendelenburg ; l'inclinaison de la table est de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30° de sorte que la tête soit plus basse que les pieds"
+        },
+        {
+          "letter": "B",
+          "text": "30° de sorte que les pieds soient plus bas que la tête"
+        },
+        {
+          "letter": "C",
+          "text": "60° de sorte que la tête soit plus basse que les pieds"
+        },
+        {
+          "letter": "D",
+          "text": "60° de sorte que les pieds soient plus bas que la tête"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 5,
+      "reviewNotes": []
+    },
+    {
+      "number": 40,
+      "text": "En cas d'œdème pulmonaire (OAP) il faut :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "O2"
+        },
+        {
+          "letter": "B",
+          "text": "Faire la position demi-assise"
+        },
+        {
+          "letter": "C",
+          "text": "Injecter par voie intraveineuse le lasilix"
+        },
+        {
+          "letter": "D",
+          "text": "Injecter l'adrénaline"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 5,
+      "reviewNotes": []
+    },
+    {
+      "number": 41,
+      "text": "Les structures suivantes font partie du réseau hospitalier :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les centres d'oncologie"
+        },
+        {
+          "letter": "B",
+          "text": "Le centre de croissant rouge marocain"
+        },
+        {
+          "letter": "C",
+          "text": "les centres de santé"
+        },
+        {
+          "letter": "D",
+          "text": "La Direction des Hôpitaux et des Soins Ambulatoires (DHSA)"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 5,
+      "reviewNotes": []
+    },
+    {
+      "number": 42,
+      "text": "Une maladie épidémique qui ne connaît pas de frontière est appelée :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Épidémie"
+        },
+        {
+          "letter": "B",
+          "text": "Pandémie"
+        },
+        {
+          "letter": "C",
+          "text": "Endémie"
+        },
+        {
+          "letter": "D",
+          "text": "Cas sporadique"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 5,
+      "reviewNotes": []
+    },
+    {
+      "number": 43,
+      "text": "L'offre de soins en mode fixe dans le secteur public est composée de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le réseau des établissements des soins de santé primaires"
+        },
+        {
+          "letter": "B",
+          "text": "Le réseau intégré des soins d'urgence médicale (RISUM)"
+        },
+        {
+          "letter": "C",
+          "text": "Le réseau des établissements médico-sociaux publics (REMSP)"
+        },
+        {
+          "letter": "D",
+          "text": "Les structures spécialisées d'appui"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 5,
+      "reviewNotes": []
+    },
+    {
+      "number": 44,
+      "text": "Le Centre Hospitalier Ibn Sina est un :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Etablissement public"
+        },
+        {
+          "letter": "B",
+          "text": "Un service d'Etat géré de manière autonome"
+        },
+        {
+          "letter": "C",
+          "text": "Un service d'Etat géré en régie"
+        },
+        {
+          "letter": "D",
+          "text": "Organisme privé"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 5,
+      "reviewNotes": [
+        "Option D was assumed to exist based on typical multiple choice formats although the screenshot only shows A, B, C clearly."
+      ]
+    }
+  ]
+}

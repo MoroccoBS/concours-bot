@@ -1,0 +1,966 @@
+{
+  "sourceFile": "Concours-Radiologie-IDE-2013-Session-Mars.pdf",
+  "language": "fr",
+  "questions": [
+    {
+      "number": 1,
+      "text": "En IRM, le temps de répétition (TR) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est le temps écoulé entre deux impulsions une de 90° et l'autre de 180°"
+        },
+        {
+          "letter": "B",
+          "text": "Est le temps de repousse ou de récupération de l'aimantation longitudinale"
+        },
+        {
+          "letter": "C",
+          "text": "Conditionne le contraste en T1"
+        },
+        {
+          "letter": "D",
+          "text": "Plus on raccourcit le TR, plus la séquence est pondérée en T2"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 2,
+      "text": "En IRM, le temps d'écho (TE) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Temps entre une impulsion de 180° et le recueil de l'écho de spin"
+        },
+        {
+          "letter": "B",
+          "text": "TE détermine le moment précis où le signal est mesuré"
+        },
+        {
+          "letter": "C",
+          "text": "TE conditionne la pondération T1 d'une séquence"
+        },
+        {
+          "letter": "D",
+          "text": "Plus on allonge le TE, plus la séquence est pondérée en T1"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 3,
+      "text": "La saturation de graisse en IRM :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est une méthode qui utilise la grande différence de fréquence de résonance des protons présents dans la graisse par rapport à ceux de la molécule d'eau"
+        },
+        {
+          "letter": "B",
+          "text": "Est une méthode utilisable uniquement en pondération T2"
+        },
+        {
+          "letter": "C",
+          "text": "Permet de mieux mettre en évidence les prises de produit de contraste en pondération T2"
+        },
+        {
+          "letter": "D",
+          "text": "Très sensible aux inhomogénéités de champ"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 4,
+      "text": "Les correcteurs de champ magnétique :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Compensent les défauts d'hétérogénéité du champ magnétique principal B0"
+        },
+        {
+          "letter": "B",
+          "text": "Sont disposés le long de l'aimant"
+        },
+        {
+          "letter": "C",
+          "text": "Les plaques ferromagnétiques du shim actif permettent un réglage grossier du champ magnétique"
+        },
+        {
+          "letter": "D",
+          "text": "Les bobines de shim sont calibrées finement lors de chaque maintenance"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 5,
+      "text": "La séquence de perfusion en IRM :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nécessite l'utilisation de séquences pondérées en T2 EG avec injection de gadolinium en bolus"
+        },
+        {
+          "letter": "B",
+          "text": "Permet l'analyse du volume sanguin"
+        },
+        {
+          "letter": "C",
+          "text": "Permet de détecter cette zone de pénombre qui correspond à une zone hyperperfusée"
+        },
+        {
+          "letter": "D",
+          "text": "Est une technique utilisée pour l'exploration des tumeurs gliales"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 6,
+      "text": "Le positionnement des coupes en IRM cérébrale :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Il est primordial de choisir un plan de coupe constant pour les différents patients"
+        },
+        {
+          "letter": "B",
+          "text": "Le plan de coupe sagittal le plus souvent utilisé est celui unissant le bord inférieur du genou et du splénium du corps calleux"
+        },
+        {
+          "letter": "C",
+          "text": "Le plan axial est choisi parallèle à celui du tronc cérébral"
+        },
+        {
+          "letter": "D",
+          "text": "Il est conseillé alors de commencer par un plan sagittal pour pouvoir s'orienter"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 7,
+      "text": "L'IRM multiparamétrique de la prostate :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'utilisation d'une antenne endorectale est obligatoire"
+        },
+        {
+          "letter": "B",
+          "text": "Il n'est pas nécessaire que le patient soit à jeun"
+        },
+        {
+          "letter": "C",
+          "text": "Doit comporter une séquence pondérée T2"
+        },
+        {
+          "letter": "D",
+          "text": "La séquence de diffusion multi-b est un temps essentiel de l'examen"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 8,
+      "text": "Dans une IRM de l'épaule :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les séquences en pondérations DP/ T2 avec un TE de 40-60ms et saturation de graisse sont privilégiées"
+        },
+        {
+          "letter": "B",
+          "text": "Coupes sagittales obliques parallèles au corps de la scapula"
+        },
+        {
+          "letter": "C",
+          "text": "Coupes coronales obliques perpendiculaires au corps de la scapula"
+        },
+        {
+          "letter": "D",
+          "text": "Le champ de vue minimal recommandé est de 16cm"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 9,
+      "text": "Dans une IRM du genou :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les matrices minimales utilisées sont de 356X356"
+        },
+        {
+          "letter": "B",
+          "text": "L'épaisseur de coupe maximale est de 3,5 cm"
+        },
+        {
+          "letter": "C",
+          "text": "Le champ de vue minimal recommandé est de 16cm"
+        },
+        {
+          "letter": "D",
+          "text": "Les séquences 3D permettent l'analyse des structures anatomiques fines"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 10,
+      "text": "En IRM, lorsqu'un Quench se produit :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La totalité de l'hélium présent en cuve s'échappe"
+        },
+        {
+          "letter": "B",
+          "text": "L'appareil IRM peut être utilisée juste après"
+        },
+        {
+          "letter": "C",
+          "text": "Il faut rechauffer la cuve avant de la remplir à nouveau, puis relancer le champ magnétique jusqu'à atteindre sa complète stabilité"
+        },
+        {
+          "letter": "D",
+          "text": "Il faut ensuite recalibrer le shim passif et procéder à des tests sur fantômes"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 11,
+      "text": "La technique de l'entéroscanner par voie orale :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le patient doit être à jeun de 3h"
+        },
+        {
+          "letter": "B",
+          "text": "Un passage sans injection du produit de contraste est réalisé pour vérifier la distension des anses coliques"
+        },
+        {
+          "letter": "C",
+          "text": "Ingestion d'une solution faite d'un mélange de 500 ml de mannitol 10% dans 3 litres de l'eau"
+        },
+        {
+          "letter": "D",
+          "text": "Le mannitol est utilisé car il est moins réabsorbé par les anses digestives"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 12,
+      "text": "L'entéroscopie virtuelle :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nécessite la mise en place préalable d'une sonde dans l'angle de Treitz sous contrôle fluoroscopique"
+        },
+        {
+          "letter": "B",
+          "text": "Il faut vérifier que le patient n'a pas de problème respiratoire de type BPCO"
+        },
+        {
+          "letter": "C",
+          "text": "L'insufflation se fait progressivement à l'aide d'un insufflateur automatique au CO2"
+        },
+        {
+          "letter": "D",
+          "text": "Si la distension colique est optimale, on réalise une acquisition de la région abdomino-pelvienne au temps portal"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 13,
+      "text": "L'uroscanner :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est contre-indiqué chez l'enfant"
+        },
+        {
+          "letter": "B",
+          "text": "Est contre-indiqué en cas d'infection urinaire basse"
+        },
+        {
+          "letter": "C",
+          "text": "Est indiqué devant une pathologie tumorale rénale"
+        },
+        {
+          "letter": "D",
+          "text": "Les coupes sans injection de produit de contraste sont obligatoires"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 14,
+      "text": "Dans un scanner thoracique haute résolution, on réalise :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acquisition volumique haute résolution"
+        },
+        {
+          "letter": "B",
+          "text": "Coupes en apnée inspiratoire"
+        },
+        {
+          "letter": "C",
+          "text": "Les acquisitions en expiration sont optionnelles"
+        },
+        {
+          "letter": "D",
+          "text": "Des coupes fines d'épaisseur inférieur à < 1,5 mm"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 15,
+      "text": "L'artériographie est recommandée en urgence :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En cas d'artériopathie des membres inférieurs"
+        },
+        {
+          "letter": "B",
+          "text": "En cas d'hémorragie méningée"
+        },
+        {
+          "letter": "C",
+          "text": "En cas d'hémoptysie"
+        },
+        {
+          "letter": "D",
+          "text": "En cas d'embolie pulmonaire"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 16,
+      "text": "Parmi les complications de l'artériographie :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dissection artérielle par trajet sous intimal du guide ou perforation"
+        },
+        {
+          "letter": "B",
+          "text": "Hématome au point de ponction nécessitant une bonne compression en aval du point de ponction en fin d'examen"
+        },
+        {
+          "letter": "C",
+          "text": "Embolies uniquement gazeuses"
+        },
+        {
+          "letter": "D",
+          "text": "Complications septiques"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 17,
+      "text": "Incidence de face de la charnière cervico-occipitale",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est indiquée en cas de traumatisme du crâne"
+        },
+        {
+          "letter": "B",
+          "text": "Le patient est assis ou debout en antéro-postérieur"
+        },
+        {
+          "letter": "C",
+          "text": "La tête est légèrement fléchie"
+        },
+        {
+          "letter": "D",
+          "text": "Rayon directeur vertical médian centré aux ras des incisives supérieures"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 18,
+      "text": "Radiographie de la main de face :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Patient assis, la face plantaire de la main est posée à plat sur la table d'examen"
+        },
+        {
+          "letter": "B",
+          "text": "Les doigts légèrement écartés les uns des autres"
+        },
+        {
+          "letter": "C",
+          "text": "Centrage au milieu du 4ème métacarpien"
+        },
+        {
+          "letter": "D",
+          "text": "Rayon incident est horizontal"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 19,
+      "text": "Incidences obliques du rachis lombaire :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Réalisées en cas de suspicion clinique d'une lyse isthmique sur spondylolisthésis"
+        },
+        {
+          "letter": "B",
+          "text": "Côté à radiographier contre le plan d'examen"
+        },
+        {
+          "letter": "C",
+          "text": "Rayon directeur incliné vers le bas centré à 3 travers de doigts au dessus de l'épine iliaque antéro-supérieure"
+        },
+        {
+          "letter": "D",
+          "text": "Le cou de l'image classique des « petits chiens » de la chapelle correspond au pédicule"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 20,
+      "text": "Incidence Blondeau :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nez est à environ 2cm de la plaque"
+        },
+        {
+          "letter": "B",
+          "text": "Equidistance des orbites par rapport à la cassette"
+        },
+        {
+          "letter": "C",
+          "text": "Rochers projetés au dessous des sinus maxillaires"
+        },
+        {
+          "letter": "D",
+          "text": "Permet d'analyser les sinus de la face"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 21,
+      "text": "Incidence des os propres du nez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Patient assis avec tête fléchie"
+        },
+        {
+          "letter": "B",
+          "text": "Centrage à la base du nez"
+        },
+        {
+          "letter": "C",
+          "text": "L'angle formé par le rayon directeur et le plan orbito-méatal est de -30°"
+        },
+        {
+          "letter": "D",
+          "text": "Incidence antéro-postérieure"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 22,
+      "text": "Radiographie des sacro-iliaques de face :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Réalisée en décubitus avec membres inférieurs légèrement défléchis"
+        },
+        {
+          "letter": "B",
+          "text": "Rayon directeur descendant de 15 à 20°"
+        },
+        {
+          "letter": "C",
+          "text": "Un ballon de compression suffisamment large est placé au niveau du bassin"
+        },
+        {
+          "letter": "D",
+          "text": "Centrage à deux travers de doigt au-dessus du bord supérieur du pubis, sur la ligne médiane"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 23,
+      "text": "Incidence de face de l'avant bras :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Patient assis, membre supérieur en extension sur la table, main en supination"
+        },
+        {
+          "letter": "B",
+          "text": "Rayon directeur horizontal"
+        },
+        {
+          "letter": "C",
+          "text": "Centrage sur la partie inférieure de l'avant-bras"
+        },
+        {
+          "letter": "D",
+          "text": "Articulations du coude et du poignet doivent être visibles sur le cliché"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 24,
+      "text": "Incidence de Bernageau :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "C'est un profil glénoïdien de la ceinture pelvienne"
+        },
+        {
+          "letter": "B",
+          "text": "Rayon directeur est incliné de 20 à 30° vers le bas"
+        },
+        {
+          "letter": "C",
+          "text": "Patient debout en oblique antérieur de 40 à 50° du côté à examiner"
+        },
+        {
+          "letter": "D",
+          "text": "Bras et avant-bras en élévation"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 25,
+      "text": "Incidence de profil chirurgical de la hanche :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Patient en décubitus, membre inférieur à radiographier en flexion"
+        },
+        {
+          "letter": "B",
+          "text": "La cassette est appliquée contre l'aile iliaque du côté opposé"
+        },
+        {
+          "letter": "C",
+          "text": "Rayon directeur est parallèle au col fémoral"
+        },
+        {
+          "letter": "D",
+          "text": "Centrage à la racine de la cuisse examinée"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 26,
+      "text": "Urographie intra-veineuse :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est indiqué en première intention en cas de lithiase rénale"
+        },
+        {
+          "letter": "B",
+          "text": "Permet une étude morphologique et fonctionnelle des cavités excrétrices"
+        },
+        {
+          "letter": "C",
+          "text": "Est actuellement supplantée par l'uro-IRM"
+        },
+        {
+          "letter": "D",
+          "text": "Permet de rechercher un reflux vésico-urétéral actif"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 27,
+      "text": "Urétrocystographie rétrograde :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est contre-indiqué chez l'enfant"
+        },
+        {
+          "letter": "B",
+          "text": "Est contre-indiqué en cas d'infection urinaire"
+        },
+        {
+          "letter": "C",
+          "text": "L'injection du produit de contraste est réalisée par voie intra-veineuse"
+        },
+        {
+          "letter": "D",
+          "text": "Permet de rechercher un reflux vésico-urétéral uniquement passif"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 28,
+      "text": "En mammographie, la compression du sein :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est indispensable pour augmenter le contraste"
+        },
+        {
+          "letter": "B",
+          "text": "Est difficile en cas de tissu mammaire traité"
+        },
+        {
+          "letter": "C",
+          "text": "Augmente la dose d'irradiation"
+        },
+        {
+          "letter": "D",
+          "text": "Réduit le rayonnement diffusé"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 29,
+      "text": "Les critères de qualité d'une incidence de face en mammographie :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mamelon en position médiane"
+        },
+        {
+          "letter": "B",
+          "text": "Le prolongement axillaire bien visible"
+        },
+        {
+          "letter": "C",
+          "text": "Le sillon sous-mammaire doit être visible"
+        },
+        {
+          "letter": "D",
+          "text": "La lame graisseuse rétro-glandulaire bien dégagée"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 30,
+      "text": "Les indications de l'IRM mammaire :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Adénopathies axillaires métastatiques sans tumeur visible à l'échographie-mammographie"
+        },
+        {
+          "letter": "B",
+          "text": "Surveillance des patientes ayant un risque génétique connu"
+        },
+        {
+          "letter": "C",
+          "text": "Détection d'un reliquat tumoral après traitement chirurgical"
+        },
+        {
+          "letter": "D",
+          "text": "Anomalie mammaire palpée cliniquement et retrouvée à la mammographie et échographie mammaire"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 31,
+      "text": "L'hystérosalpingographie :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est l'examen de choix pour l'exploration des malformations génitales"
+        },
+        {
+          "letter": "B",
+          "text": "Est contre-indiquée en cas d'infection urinaire"
+        },
+        {
+          "letter": "C",
+          "text": "Est indiquée en cas d'infertilité secondaire"
+        },
+        {
+          "letter": "D",
+          "text": "Est indiquée en cas de myome utérin"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 32,
+      "text": "La macrobiopsie mammaire :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Peut-être réalisée sous stéréotaxie"
+        },
+        {
+          "letter": "B",
+          "text": "Peut-être réalisée sous tomosynthèse"
+        },
+        {
+          "letter": "C",
+          "text": "Est réalisée après une anesthésie locale"
+        },
+        {
+          "letter": "D",
+          "text": "Est réalisée après une anesthésie générale"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 33,
+      "text": "Les avantages d'une macro biopsie mammaire sous tomosynthèse :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Diminution de l'irradiation de la patiente"
+        },
+        {
+          "letter": "B",
+          "text": "Très bonne visibilité lésionnelle"
+        },
+        {
+          "letter": "C",
+          "text": "Possibilité de biopsier les lésions uniquement visibles sous tomosynthèse"
+        },
+        {
+          "letter": "D",
+          "text": "Meilleure analyse du déplacement de la cible"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 34,
+      "text": "Cholangiographie post-opératoire par drain de Kehr :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vérification de la perméabilité des voies biliaires après chirurgie"
+        },
+        {
+          "letter": "B",
+          "text": "Le cliché sans préparation est obligatoire"
+        },
+        {
+          "letter": "C",
+          "text": "L'injection du produit de contraste est suivie en scopie"
+        },
+        {
+          "letter": "D",
+          "text": "Peut révéler un calcul biliaire résiduel"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 35,
+      "text": "Réaction d'hypersensibilité immédiate à un produit de contraste :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est une réaction clinique de gravité variable"
+        },
+        {
+          "letter": "B",
+          "text": "Déclenchée par la présence d'IgA spécifiques anti-produit de contraste"
+        },
+        {
+          "letter": "C",
+          "text": "Concerne produits de contraste iodés et gadolinés"
+        },
+        {
+          "letter": "D",
+          "text": "Peut survenir à la première injection du produit de contraste"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 36,
+      "text": "Le jeûne avant un examen radiologique avec produit de contraste iodé :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est obligatoire"
+        },
+        {
+          "letter": "B",
+          "text": "Est utile pour des raisons techniques liées au type d'examen d'imagerie"
+        },
+        {
+          "letter": "C",
+          "text": "Favorise la vidange biliaire"
+        },
+        {
+          "letter": "D",
+          "text": "Facilite la réalisation de certains gestes justifiant une sédation"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 37,
+      "text": "Les ppropriétés des rayons X :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ils nécessitent un milieu matériel pour se propager"
+        },
+        {
+          "letter": "B",
+          "text": "Ils s'atténuent progressivement"
+        },
+        {
+          "letter": "C",
+          "text": "Les atomes légers comme les métaux arrêtent les rayons X"
+        },
+        {
+          "letter": "D",
+          "text": "Ils sont non invasifs"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 38,
+      "text": "L'atténuation du faisceau de Rayon X :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dépend du coefficient d'atténuation (μ) et de l'épaisseur du milieu traversé (x)"
+        },
+        {
+          "letter": "B",
+          "text": "La valeur de μ est liée à Z atomique et à la densité du milieu p"
+        },
+        {
+          "letter": "C",
+          "text": "Est importante si x et p sont diminuées"
+        },
+        {
+          "letter": "D",
+          "text": "La projection sur un plan des valeurs p de chaque structure atteinte par les rayons X permet la constitution d'une image radiologique"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 39,
+      "text": "Tube à rayons X :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est constitué de trois éléments placés sous vide"
+        },
+        {
+          "letter": "B",
+          "text": "Est enfermé dans une gaine plombée"
+        },
+        {
+          "letter": "C",
+          "text": "Possède une fenêtre qui laisse passer le faisceau de rayons X inutile"
+        },
+        {
+          "letter": "D",
+          "text": "La surface qui reçoit les électrons accélérés et émet des rayons X s'appelle le foyer du tube"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 40,
+      "text": "Les caractéristiques des effets déterministes des rayonnements ionisants :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sont précoces"
+        },
+        {
+          "letter": "B",
+          "text": "Se manifestent plusieurs années après l'irradiation"
+        },
+        {
+          "letter": "C",
+          "text": "Sont réversibles si les lésions ne sont pas trop sévères"
+        },
+        {
+          "letter": "D",
+          "text": "Leur gravité diminue avec la dose"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    }
+  ]
+}

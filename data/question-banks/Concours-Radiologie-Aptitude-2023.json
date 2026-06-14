@@ -1,0 +1,802 @@
+{
+  "sourceFile": "Concours-Radiologie-Aptitude-2023.pdf",
+  "language": "fr",
+  "questions": [
+    {
+      "number": 1,
+      "text": "La radioprotection repose sur 3 principes fondamentaux qui sont :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La justification, l'optimisation et la limitation"
+        },
+        {
+          "letter": "B",
+          "text": "La justification, le plomb et la distance"
+        },
+        {
+          "letter": "C",
+          "text": "L'optimisation, le dosimètre et la distance"
+        },
+        {
+          "letter": "D",
+          "text": "La limitation, l'optimisation et le dosimètre"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 2,
+      "text": "Parmi les effets aléatoires (ou stochastiques) des rayonnements ionisants, on note :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La stérilité temporaire"
+        },
+        {
+          "letter": "B",
+          "text": "Les cancers"
+        },
+        {
+          "letter": "C",
+          "text": "Les effets génétiques"
+        },
+        {
+          "letter": "D",
+          "text": "La dégradation temporaire de la formule sanguine"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 3,
+      "text": "Les effets déterministes des rayonnements ionisants sont des effets :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aléatoires"
+        },
+        {
+          "letter": "B",
+          "text": "Obligatoires"
+        },
+        {
+          "letter": "C",
+          "text": "Stochastiques"
+        },
+        {
+          "letter": "D",
+          "text": "Non stochastiques"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 4,
+      "text": "Le port d'un dosimètre individuel par un technicien de radiologie au niveau d'un service de radiologie est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Obligatoire"
+        },
+        {
+          "letter": "B",
+          "text": "Facultatif"
+        },
+        {
+          "letter": "C",
+          "text": "Irrégulière et quotidien"
+        },
+        {
+          "letter": "D",
+          "text": "Régulière et quotidien"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "pageStart": 1,
+      "reviewNotes": [
+        "Grammar in options C and D contains minor typos (gender mismatch), retained original text."
+      ]
+    },
+    {
+      "number": 5,
+      "text": "Le dosimètre porté par le technicien de radiologie dans le service de médecine nucléaire est un dosimètre :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Actif"
+        },
+        {
+          "letter": "B",
+          "text": "Passif"
+        },
+        {
+          "letter": "C",
+          "text": "Electronique"
+        },
+        {
+          "letter": "D",
+          "text": "Films-badges"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 6,
+      "text": "L'unité de la dose équivalente absorbée, est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le Becquerel"
+        },
+        {
+          "letter": "B",
+          "text": "Le Gray"
+        },
+        {
+          "letter": "C",
+          "text": "Le Sievert"
+        },
+        {
+          "letter": "D",
+          "text": "Le curie"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 7,
+      "text": "En radiologie interventionnelle, pour diminuer l'exposition de l'opérateur il faut :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Etre le plus éloigné possible du couple tube-détecteur"
+        },
+        {
+          "letter": "B",
+          "text": "Utiliser une filtration additionnelle"
+        },
+        {
+          "letter": "C",
+          "text": "Placer le tube au-dessus de la table en incidence de face"
+        },
+        {
+          "letter": "D",
+          "text": "Placer le tube du côté de l'opérateur en incidence de profil"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 8,
+      "text": "La selle turcique correspond au(x) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Corps du sphénoïde"
+        },
+        {
+          "letter": "B",
+          "text": "Petites ailes du sphénoïde"
+        },
+        {
+          "letter": "C",
+          "text": "Grandes ailes du sphénoïde"
+        },
+        {
+          "letter": "D",
+          "text": "Apophyses ptérygoïdes"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 9,
+      "text": "L'extrémité supérieure du tibia comprend :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le condyle latéral"
+        },
+        {
+          "letter": "B",
+          "text": "Le condyle médial"
+        },
+        {
+          "letter": "C",
+          "text": "L'incisure fibulaire"
+        },
+        {
+          "letter": "D",
+          "text": "La tubérosité tibiale"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 10,
+      "text": "L'épiphyse proximale du radius est constituée de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bec olécranien"
+        },
+        {
+          "letter": "B",
+          "text": "Processus coronoïde"
+        },
+        {
+          "letter": "C",
+          "text": "Tête radiale"
+        },
+        {
+          "letter": "D",
+          "text": "Col radial"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 11,
+      "text": "La réalisation de l'incidence du thorax en position P/A se fait de la (les) façon(s) suivante(s) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le patient en position debout et épaules en avant ;"
+        },
+        {
+          "letter": "B",
+          "text": "La face antérieure du thorax contre la plaque ;"
+        },
+        {
+          "letter": "C",
+          "text": "L'inspiration est profonde et bloquée ;"
+        },
+        {
+          "letter": "D",
+          "text": "La distance foyer-film est de 1m50."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 12,
+      "text": "Parmi les critères de réussite du cliché thoracique de face, on note :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les extrémités internes des clavicules doivent être symétriques par rapport aux apophyses épineuses"
+        },
+        {
+          "letter": "B",
+          "text": "L'extrémité postérieure du 6ème arc costal doit se projeter au niveau de la coupole diaphragmatique"
+        },
+        {
+          "letter": "C",
+          "text": "Les scapulas doivent se projeter en dedans des champs pulmonaires"
+        },
+        {
+          "letter": "D",
+          "text": "Un bon dégagement du segment axillaire des arcs costaux"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 13,
+      "text": "Les critères d'orientation du cliché thoracique de face, sont :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La poche à air gastrique du côté gauche"
+        },
+        {
+          "letter": "B",
+          "text": "La coupole diaphragmatique gauche est plus élevée par rapport à celle droite"
+        },
+        {
+          "letter": "C",
+          "text": "Le bouton aortique du cœur est au côté gauche"
+        },
+        {
+          "letter": "D",
+          "text": "Aucun critère d'orientation n'est possible"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 14,
+      "text": "La réalisation de l'incidence de l'ASP de face debout se fait de la (les) façon(s) suivante(s) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le patient debout en position P/A ;"
+        },
+        {
+          "letter": "B",
+          "text": "Les membres supérieurs allongés en légère adduction ;"
+        },
+        {
+          "letter": "C",
+          "text": "Le RDH vise le milieu de la ligne joignant les sommets des crêtes iliaques ;"
+        },
+        {
+          "letter": "D",
+          "text": "La distance foyer-film est de 1m50."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 15,
+      "text": "Parmi les critères de réussite de l'ASP, on cite :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La bonne visibilité des bords externes des psoas"
+        },
+        {
+          "letter": "B",
+          "text": "Les structures osseuses légèrement sous exposés"
+        },
+        {
+          "letter": "C",
+          "text": "Le cliché doit contenir les coupoles et la symphyse pubienne"
+        },
+        {
+          "letter": "D",
+          "text": "Le cliché ne doit pas être trop pénétré afin de voir correctement les flancs"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 16,
+      "text": "Les incidences recommandées pour identifier les trous de conjugaison cervicale droite :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'oblique postérieure droite"
+        },
+        {
+          "letter": "B",
+          "text": "L'oblique postérieure gauche"
+        },
+        {
+          "letter": "C",
+          "text": "L'oblique antérieure droite"
+        },
+        {
+          "letter": "D",
+          "text": "L'oblique antérieure gauche"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 17,
+      "text": "L'incidence de choix à réaliser pour mettre en évidence une sinusite est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'incidence de face"
+        },
+        {
+          "letter": "B",
+          "text": "L'incidence de profil"
+        },
+        {
+          "letter": "C",
+          "text": "L'incidence Blondeau"
+        },
+        {
+          "letter": "D",
+          "text": "L'incidence de la face haute"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 18,
+      "text": "La réalisation de l'incidence du rachis lombaire de face se fait de la (les) façon(s) suivante(s) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le patient debout en rectitude, pieds nus et légèrement écartés ;"
+        },
+        {
+          "letter": "B",
+          "text": "Le dos est contre le portique ;"
+        },
+        {
+          "letter": "C",
+          "text": "Le R.D.H. est centré sur la ligne médiane à deux travers de doigt au-dessus de la ligne bi-crête ;"
+        },
+        {
+          "letter": "D",
+          "text": "La distance foyer-film est de 1m50."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 19,
+      "text": "Parmi les propositions suivantes relatives à l'incidence de Desèze (Cliché dorso-lombo-pelvi-fémoral de face en p... antérieure debout), quelle(s) est (sont) celle(s) juste(s) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le R.D.H. vise la ligne médiane, 2 à 3 cm au-dessus de la ligne bi-crête vise L1 ;"
+        },
+        {
+          "letter": "B",
+          "text": "La distance foyer-film est de 1m ;"
+        },
+        {
+          "letter": "C",
+          "text": "Elle est préconisée pour le dépistage scolaire et sportif ;"
+        },
+        {
+          "letter": "D",
+          "text": "Elle permet de calculer la bascule du bassin."
+        }
+      ],
+      "confidence": 0.85,
+      "needsReview": true,
+      "pageStart": 3,
+      "reviewNotes": [
+        "Text 'en p...' is cut off on the right edge of the paper, likely meant 'projection' or 'position'."
+      ]
+    },
+    {
+      "number": 20,
+      "text": "Pour les critères de réussite de l'incidence du calcanéum de profil, on doit voir :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'articulation entre le calcanéum et le cuboïde"
+        },
+        {
+          "letter": "B",
+          "text": "L'articulation entre l'astragale et le scaphoïde"
+        },
+        {
+          "letter": "C",
+          "text": "L'articulation tibio-tarsienne"
+        },
+        {
+          "letter": "D",
+          "text": "L'articulation sous astragalienne"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 21,
+      "text": "La réalisation de l'examen scanographique du cavum se fait de la (les) façon(s) suivante(s) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aucune préparation n'est nécessaire pour le patient"
+        },
+        {
+          "letter": "B",
+          "text": "Il faut s'assurer de l'absence d'un syndrome d'hypertension intracrânien"
+        },
+        {
+          "letter": "C",
+          "text": "Le centrer est sur le cavum"
+        },
+        {
+          "letter": "D",
+          "text": "Le filtre utilisé est : bone"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 22,
+      "text": "La réalisation de l'examen scanographique du rachis lombo-sacré se fait de la (les) façon(s) suivante(s) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le patient est en décubitus dorsal, jambes fléchies, et bras au-dessus de la tête"
+        },
+        {
+          "letter": "B",
+          "text": "Les coupes sont parallèles au plan des disques étudiés"
+        },
+        {
+          "letter": "C",
+          "text": "Le filtre utilisé est : bone"
+        },
+        {
+          "letter": "D",
+          "text": "Les images sont prises en fenêtres osseuses et parenchymateuses"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 23,
+      "text": "La réalisation de l'examen scanographique du thorax en cas du syndrome interstitiel se fait de la (les) manièr...",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le patient est en décubitus dorsal, les avant-bras au-dessus de la tête"
+        },
+        {
+          "letter": "B",
+          "text": "L'apnée en fin d'inspiration au cours des acquisitions est recommandée"
+        },
+        {
+          "letter": "C",
+          "text": "Le filtre utilisé est : standard"
+        },
+        {
+          "letter": "D",
+          "text": "Les images sont prises en fenêtre parenchymateuse et médiastinale"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": true,
+      "pageStart": 2,
+      "reviewNotes": [
+        "End of question text 'manièr...' is cut off, likely meant 'manière(s) suivante(s)'."
+      ]
+    },
+    {
+      "number": 24,
+      "text": "Les différents types d'aimants utilisés en IRM, sont :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permanent"
+        },
+        {
+          "letter": "B",
+          "text": "Super conducteur"
+        },
+        {
+          "letter": "C",
+          "text": "Résistif"
+        },
+        {
+          "letter": "D",
+          "text": "Toutes les propositions sont fausses."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 25,
+      "text": "La simulation en radiothérapie permet :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le contrôle de la position du malade"
+        },
+        {
+          "letter": "B",
+          "text": "La vérification de faisceaux"
+        },
+        {
+          "letter": "C",
+          "text": "L'optimisation du plan de traitement"
+        },
+        {
+          "letter": "D",
+          "text": "Toutes les propositions sont fausses"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 26,
+      "text": "Les différents types de curiethérapie selon la position du radioélément par rapport à la position de la tu...",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La curiethérapie de haut débit"
+        },
+        {
+          "letter": "B",
+          "text": "La curiethérapie de faible débit"
+        },
+        {
+          "letter": "C",
+          "text": "La curiethérapie interstitielle"
+        },
+        {
+          "letter": "D",
+          "text": "La plésiocuriethérapie"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": true,
+      "pageStart": 2,
+      "reviewNotes": [
+        "End of question text 'la tu...' is cut off on the page boundary, likely 'la tumeur'."
+      ]
+    },
+    {
+      "number": 27,
+      "text": "En curiethérapie de haut débit, le rapport entre la dose délivrée et la durée pendant laquelle les sour... restent à l'intérieur du malade est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entre 0.4 à 2 Gy/heure"
+        },
+        {
+          "letter": "B",
+          "text": "Entre 2 à 12 Gy/heure"
+        },
+        {
+          "letter": "C",
+          "text": "Plus de 12 Gy/heure"
+        },
+        {
+          "letter": "D",
+          "text": "Toutes les propositions sont fausses"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": true,
+      "pageStart": 2,
+      "reviewNotes": [
+        "Text 'les sour...' is slightly cut off, likely 'les sources'."
+      ]
+    },
+    {
+      "number": 28,
+      "text": "L'applicateur de Fletcher-Suit-Delcos est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un applicateur plastique"
+        },
+        {
+          "letter": "B",
+          "text": "Un applicateur métallique"
+        },
+        {
+          "letter": "C",
+          "text": "Destiné à recevoir les sources vaginales placées perpendiculairement à l'axe du vagin"
+        },
+        {
+          "letter": "D",
+          "text": "Constitué d'une sonde intra utérine souple et d'un applicateur vaginal avec deux cylindres..."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": true,
+      "pageStart": 2,
+      "reviewNotes": [
+        "Option D is slightly truncated at the end 'cylindres...'."
+      ]
+    },
+    {
+      "number": 29,
+      "text": "Les caractéristiques du Césium 137, sont :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rayons γ d'énergie 662 keV"
+        },
+        {
+          "letter": "B",
+          "text": "Rayons Béta d'énergie 606 keV"
+        },
+        {
+          "letter": "C",
+          "text": "Période T : 30 ans"
+        },
+        {
+          "letter": "D",
+          "text": "Période T : 8 jours"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 30,
+      "text": "Les caractéristiques de l'iode 131, sont :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Source radioactive non scellée"
+        },
+        {
+          "letter": "B",
+          "text": "Source radioactive scellée"
+        },
+        {
+          "letter": "C",
+          "text": "Période T : 8 jours"
+        },
+        {
+          "letter": "D",
+          "text": "Il est administré par voie orale pour le traitement de l'hyperthyroïdie"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "pageStart": 2,
+      "reviewNotes": []
+    }
+  ],
+  "examTitle": "Examen d'aptitude professionnelle pour l'accès au grade principal du corps des infirmiers et techniciens de santé",
+  "specialty": "Radiologie",
+  "warnings": [],
+  "year": 2023
+}

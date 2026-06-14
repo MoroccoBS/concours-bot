@@ -1,0 +1,1616 @@
+{
+  "sourceFile": "Concours-Radiologie-National-2010.pdf",
+  "language": "fr",
+  "questions": [
+    {
+      "number": 11,
+      "text": "Parmi les structures de l'offre de soins suivantes, quelle est celle qui n'est pas médicalisée :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Centre de santé communal"
+        },
+        {
+          "letter": "B",
+          "text": "Centre de santé communal avec unité d'accouchement"
+        },
+        {
+          "letter": "C",
+          "text": "Centre de santé urbain"
+        },
+        {
+          "letter": "D",
+          "text": "Centre de santé urbain avec unité d'accouchement"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 12,
+      "text": "L'organigramme du Ministère de la Santé renferme :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6 Directions centrales"
+        },
+        {
+          "letter": "B",
+          "text": "7 Directions centrales"
+        },
+        {
+          "letter": "C",
+          "text": "8 Directions centrales"
+        },
+        {
+          "letter": "D",
+          "text": "9 Directions centrales"
+        },
+        {
+          "letter": "E",
+          "text": "10 Directions centrales"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 13,
+      "text": "Quelle discipline parmi les disciplines suivante n'existe pas dans un Hôpital Local :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La psychiatrie"
+        },
+        {
+          "letter": "B",
+          "text": "L'obstétrique"
+        },
+        {
+          "letter": "C",
+          "text": "La pédiatrie"
+        },
+        {
+          "letter": "D",
+          "text": "La médecine générale"
+        },
+        {
+          "letter": "E",
+          "text": "La chirurgie générale"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 14,
+      "text": "Dans le système de l'offre de soins marocain, les structures d'appui sont constituées de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Réseau des laboratoires publics"
+        },
+        {
+          "letter": "B",
+          "text": "Centre de Traitement de la Tuberculeuse et des Maladies Respiratoires (CTTMR)"
+        },
+        {
+          "letter": "C",
+          "text": "Centre de référence de la planification familiale (CRPF)"
+        },
+        {
+          "letter": "D",
+          "text": "Centre antipoison"
+        },
+        {
+          "letter": "E",
+          "text": "Institut national d'hygiène"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 15,
+      "text": "Dans la politique du Ministère de la Santé 2008/2012, on vise à réduire le taux de mortalité maternelle à :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "40 / 100.000 naissances vivantes"
+        },
+        {
+          "letter": "B",
+          "text": "45 / 100.000 naissances vivantes"
+        },
+        {
+          "letter": "C",
+          "text": "50 / 100.000 naissances vivantes"
+        },
+        {
+          "letter": "D",
+          "text": "55 / 100.000 naissances vivantes"
+        },
+        {
+          "letter": "E",
+          "text": "60 / 100.000 naissances vivantes"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 16,
+      "text": "L'espérance de vie est estimée à partir de la table de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fécondité"
+        },
+        {
+          "letter": "B",
+          "text": "Mortalité"
+        },
+        {
+          "letter": "C",
+          "text": "Natalité"
+        },
+        {
+          "letter": "D",
+          "text": "Nuptialité"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 17,
+      "text": "Le poids moyen des nouveaux-nés suit une loi normale de moyenne 3.1 kg et d'écart type 0.50 kg. La probabilité que le nouveau né pèse plus de 4 kg est égale à :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "p = 0.034"
+        },
+        {
+          "letter": "B",
+          "text": "p = 0.035"
+        },
+        {
+          "letter": "C",
+          "text": "p = 0.036"
+        },
+        {
+          "letter": "D",
+          "text": "[Option fictive non fournie dans l'examen original]"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": true,
+      "pageStart": 2,
+      "reviewNotes": [
+        "Seulement 3 options étaient présentes dans le document original."
+      ]
+    },
+    {
+      "number": 18,
+      "text": "Le poids moyen des nouveaux-nés suit une loi normale de moyenne 3.1 kg et d'écart type 0.50 kg. La probabilité que le nouveau né pèse moins de 3 kg est égale à :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "P = 0.41"
+        },
+        {
+          "letter": "B",
+          "text": "P = 0.42"
+        },
+        {
+          "letter": "C",
+          "text": "P = 0.43"
+        },
+        {
+          "letter": "D",
+          "text": "[Option fictive non fournie dans l'examen original]"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": true,
+      "pageStart": 2,
+      "reviewNotes": [
+        "Seulement 3 options étaient présentes dans le document original."
+      ]
+    },
+    {
+      "number": 19,
+      "text": "Le poids moyen des nouveaux-nés suit une loi normale de moyenne 3.1 kg et d'écart type 0.50 kg. La probabilité que le nouveau né soit compris entre 2.9 kg et 3.5 kg est égale à :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "P = 0.44"
+        },
+        {
+          "letter": "B",
+          "text": "P = 0.45"
+        },
+        {
+          "letter": "C",
+          "text": "P = 0.46"
+        },
+        {
+          "letter": "D",
+          "text": "[Option fictive non fournie dans l'examen original]"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": true,
+      "pageStart": 2,
+      "reviewNotes": [
+        "Seulement 3 options étaient présentes dans le document original."
+      ]
+    },
+    {
+      "number": 20,
+      "text": "Soit une série d'épreuves répétées et possédant les propriétés suivantes : Chaque épreuve donne lieu à deux éventualités mutuellement exclusives; La probabilité de ces différentes éventualités reste constante. La loi qui régit cette variable aléatoire est-elle :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Multinomiale"
+        },
+        {
+          "letter": "B",
+          "text": "Binomiale"
+        },
+        {
+          "letter": "C",
+          "text": "Hypergéométrique"
+        },
+        {
+          "letter": "D",
+          "text": "[Option fictive non fournie dans l'examen original]"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": true,
+      "pageStart": 2,
+      "reviewNotes": [
+        "Seulement 3 options étaient présentes dans le document original."
+      ]
+    },
+    {
+      "number": 21,
+      "text": "La létalité est calculée par :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nombre de décès sur la population totale"
+        },
+        {
+          "letter": "B",
+          "text": "Nombre de décès sur la population exposée"
+        },
+        {
+          "letter": "C",
+          "text": "Nombre de décès dus à la maladie sur la population malade"
+        },
+        {
+          "letter": "D",
+          "text": "Nombre de décès dus à la maladie sur la population totale"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 22,
+      "text": "Quelle est la définition de la génération :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les individus qui ont vécu un même événement au cours de la même période"
+        },
+        {
+          "letter": "B",
+          "text": "[Option manquante]"
+        },
+        {
+          "letter": "C",
+          "text": "[Option manquante]"
+        },
+        {
+          "letter": "D",
+          "text": "[Option manquante]"
+        }
+      ],
+      "confidence": 0.5,
+      "needsReview": true,
+      "pageStart": 2,
+      "reviewNotes": [
+        "La question et les options sont coupées au bas de la page 2."
+      ]
+    },
+    {
+      "number": 23,
+      "text": "La prévalence :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mesure la fréquence d'apparition d'une maladie"
+        },
+        {
+          "letter": "B",
+          "text": "Mesure uniquement les anciens cas"
+        },
+        {
+          "letter": "C",
+          "text": "Mesure la présence d'une maladie dans la population"
+        },
+        {
+          "letter": "D",
+          "text": "Mesure uniquement les nouveaux cas"
+        },
+        {
+          "letter": "E",
+          "text": "Représente le nombre de cas d'une maladie qui survient dans une population pendant une période donnée"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 24,
+      "text": "L'incidence :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mesure la fréquence d'apparition d'une maladie"
+        },
+        {
+          "letter": "B",
+          "text": "Mesure uniquement les anciens cas"
+        },
+        {
+          "letter": "C",
+          "text": "Mesure la présence d'une maladie dans la population"
+        },
+        {
+          "letter": "D",
+          "text": "Mesure uniquement les nouveaux cas"
+        },
+        {
+          "letter": "E",
+          "text": "Représente le nombre de cas d'une maladie qui survient dans une population pendant une période donnée"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 25,
+      "text": "La prévention primaire sert à :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Réduire l'apparition de nouveaux cas d'une maladie"
+        },
+        {
+          "letter": "B",
+          "text": "Réduire la durée d'une maladie"
+        },
+        {
+          "letter": "C",
+          "text": "Diminuer la prévalence des incapacités chroniques"
+        },
+        {
+          "letter": "D",
+          "text": "Diminuer l'incidence d'une maladie"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 26,
+      "text": "Dans le processus d'une communication interpersonnelle appliquée dans une situation en milieu sanitaire, le canal est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les compétences et les habiletés du professionnel émetteur"
+        },
+        {
+          "letter": "B",
+          "text": "Les caractéristiques psychos sociologiques et culturelles du récepteur"
+        },
+        {
+          "letter": "C",
+          "text": "Les méthodes et/ou les moyens utilisés par le professionnel de santé pour transmettre le message"
+        },
+        {
+          "letter": "D",
+          "text": "Les objectifs fixés pour la séance de communication"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 27,
+      "text": "Le rôle de la sensibilité dans la qualité d'un système de surveillance épidémiologique est de mesurer la capacité de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Détecter un phénomène existant réellement"
+        },
+        {
+          "letter": "B",
+          "text": "Dire qu'un phénomène n'existe pas"
+        },
+        {
+          "letter": "C",
+          "text": "Détecter un épiphénomène"
+        },
+        {
+          "letter": "D",
+          "text": "Distinguer le vrai phénomène du faux"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 28,
+      "text": "Une confiture est qualifiée « pure sucre » si elle contient entre 420 grammes et 520 grammes de sucre par kilogramme. Un fabricant vérifie 200 pots de 1 kilogramme. Il trouve que le poids moyen de sucre est de 465 grammes avec un écart de 30 grammes. En considérant l'échantillon comme significatif et le poids de sucre comme normalement distribué. Le pourcentage de la production du fabricant qui ne devra pas porter la mention « pure sucre » est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.89957"
+        },
+        {
+          "letter": "B",
+          "text": "0.80857"
+        },
+        {
+          "letter": "C",
+          "text": "0.80800"
+        },
+        {
+          "letter": "D",
+          "text": "[Option fictive non fournie dans l'examen original]"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": true,
+      "pageStart": 4,
+      "reviewNotes": [
+        "Seulement 3 options étaient présentes dans le document original."
+      ]
+    },
+    {
+      "number": 29,
+      "text": "Le poids moyen et l'écart, correspondant à des personnes pratiquant un sport, sont respectivement 74 kg et 12 kg. Sachant que ce poids est distribué normalement. La valeur centrée réduite pour X = 65 kg est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "T = -0.74"
+        },
+        {
+          "letter": "B",
+          "text": "T = -0.75"
+        },
+        {
+          "letter": "C",
+          "text": "T = -0.76"
+        },
+        {
+          "letter": "D",
+          "text": "[Option fictive non fournie dans l'examen original]"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": true,
+      "pageStart": 4,
+      "reviewNotes": [
+        "Seulement 3 options étaient présentes dans le document original."
+      ]
+    },
+    {
+      "number": 30,
+      "text": "Le poids moyen et l'écart, correspondant à des personnes pratiquant un sport, sont respectivement 74 kg et 12 kg. Sachant que ce poids est distribué normalement. La valeur centrée réduite pour X = 74 kg est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "T = 0"
+        },
+        {
+          "letter": "B",
+          "text": "T = 2"
+        },
+        {
+          "letter": "C",
+          "text": "T = 1"
+        },
+        {
+          "letter": "D",
+          "text": "[Option fictive non fournie dans l'examen original]"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": true,
+      "pageStart": 4,
+      "reviewNotes": [
+        "Seulement 3 options étaient présentes dans le document original."
+      ]
+    },
+    {
+      "number": 31,
+      "text": "Le poids moyen et l'écart, correspondant à des personnes pratiquant un sport, sont respectivement 74 kg et 12 kg. Sachant que ce poids est distribué normalement. La valeur centrée réduite pour X = 86 kg est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "T = +1"
+        },
+        {
+          "letter": "B",
+          "text": "T = -1"
+        },
+        {
+          "letter": "C",
+          "text": "T = +2"
+        },
+        {
+          "letter": "D",
+          "text": "[Option fictive non fournie dans l'examen original]"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": true,
+      "pageStart": 4,
+      "reviewNotes": [
+        "Seulement 3 options étaient présentes dans le document original."
+      ]
+    },
+    {
+      "number": 32,
+      "text": "Le poids moyen et l'écart, correspondant à des personnes pratiquant un sport, sont respectivement 74 kg et 12 kg. Sachant que ce poids est distribué normalement. La valeur centrée réduite pour X = 82 kg est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "T = -0.66"
+        },
+        {
+          "letter": "B",
+          "text": "T = -0.68"
+        },
+        {
+          "letter": "C",
+          "text": "T = +0.66"
+        },
+        {
+          "letter": "D",
+          "text": "[Option fictive non fournie dans l'examen original]"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": true,
+      "pageStart": 4,
+      "reviewNotes": [
+        "Seulement 3 options étaient présentes dans le document original."
+      ]
+    },
+    {
+      "number": 33,
+      "text": "Le cliché d'abdomen sans préparation (A.S.P) de face couché avec rayon vertical permet de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Voir des lithiases radio opaques"
+        },
+        {
+          "letter": "B",
+          "text": "Un adénome prostatique"
+        },
+        {
+          "letter": "C",
+          "text": "Un épanchement gazeux intra-abdominal"
+        },
+        {
+          "letter": "D",
+          "text": "Des images hydro-aériques"
+        },
+        {
+          "letter": "E",
+          "text": "Des calcifications"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 5,
+      "reviewNotes": []
+    },
+    {
+      "number": 34,
+      "text": "La présence d'images hydro-aériques sur un A.S.P debout avec R.H est secondaire à :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une cholécystite aigüe"
+        },
+        {
+          "letter": "B",
+          "text": "Une occlusion mécanique"
+        },
+        {
+          "letter": "C",
+          "text": "Un iléus biliaire"
+        },
+        {
+          "letter": "D",
+          "text": "Un trouble de résorption (Diarrhée)"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 5,
+      "reviewNotes": []
+    },
+    {
+      "number": 35,
+      "text": "Le cliché standard pulmonaire de face en B.T. :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ne nécessite pas l'inspiration forcée"
+        },
+        {
+          "letter": "B",
+          "text": "Est réalisé à 70KV-8mAs"
+        },
+        {
+          "letter": "C",
+          "text": "Le médiastin est bien étudié"
+        },
+        {
+          "letter": "D",
+          "text": "La D.F.P est de 80cm"
+        },
+        {
+          "letter": "E",
+          "text": "Peut étudier le gril costal"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 5,
+      "reviewNotes": []
+    },
+    {
+      "number": 36,
+      "text": "Le cliché pulmonaire en incidence de Muller (décubitus latéral) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est moins irradiant"
+        },
+        {
+          "letter": "B",
+          "text": "Est réalisé chez les patients en mauvais état général"
+        },
+        {
+          "letter": "C",
+          "text": "Mobilise un épanchement pleural"
+        },
+        {
+          "letter": "D",
+          "text": "Facilite le diagnostic de la tuberculose"
+        },
+        {
+          "letter": "E",
+          "text": "Nécessite un portique vertical"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 5,
+      "reviewNotes": []
+    },
+    {
+      "number": 37,
+      "text": "Sur le cliché pulmonaire de face en expiration forcée :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les clavicules sont asymétriques"
+        },
+        {
+          "letter": "B",
+          "text": "Les coupoles diaphragmatiques sont hautes"
+        },
+        {
+          "letter": "C",
+          "text": "Les bases pulmonaires sont surexposées"
+        },
+        {
+          "letter": "D",
+          "text": "Le médiastin est élargi"
+        },
+        {
+          "letter": "E",
+          "text": "Voir un pneumothorax"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 5,
+      "reviewNotes": []
+    },
+    {
+      "number": 38,
+      "text": "Parmi les incidences radiologiques suivantes, lesquelles permettent d'étudier seulement les deux premières vertèbres cervicales :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incidence du rachis cervical de face"
+        },
+        {
+          "letter": "B",
+          "text": "Incidence du rachis cervical de profil"
+        },
+        {
+          "letter": "C",
+          "text": "Incidence du rachis cervical en obliques antéropostérieur droit et gauche"
+        },
+        {
+          "letter": "D",
+          "text": "Incidence de la charnière cervico-occipital de face"
+        },
+        {
+          "letter": "E",
+          "text": "Incidence de la charnière cervico-occipital de profil"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 5,
+      "reviewNotes": []
+    },
+    {
+      "number": 39,
+      "text": "Pour l'incidence de profil du crâne, les critères de réussite sont :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La symétrie de projection des articulations temporo-maxillaire"
+        },
+        {
+          "letter": "B",
+          "text": "La superposition des deux hémicrânes"
+        },
+        {
+          "letter": "C",
+          "text": "La superposition des deux conduits auditifs externes"
+        },
+        {
+          "letter": "D",
+          "text": "La superposition parfaite des branches montantes des maxillaires inférieurs"
+        },
+        {
+          "letter": "E",
+          "text": "L'arc mandibulaire se projette en avant des sinus frontaux"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": true,
+      "pageStart": 8,
+      "reviewNotes": [
+        "La sixième option 'L'oreille moyenne s'inscrit au centre de l'image radiologique' a été omise pour respecter le maximum de 5 options requis par le schéma."
+      ]
+    },
+    {
+      "number": 40,
+      "text": "Lequel des centrages suivants correspondent au centrage du rayon directeur dans l'incidence de face du rachis cervical :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "RD descendant de 15 à 20° vise C4"
+        },
+        {
+          "letter": "B",
+          "text": "RDH centré sur C4"
+        },
+        {
+          "letter": "C",
+          "text": "RD ascendant de 20 à 30° vise C4"
+        },
+        {
+          "letter": "D",
+          "text": "RD descendant de 20 à 30° vise C4"
+        },
+        {
+          "letter": "E",
+          "text": "RD ascendant de 15 à 20° vise C4"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 8,
+      "reviewNotes": []
+    },
+    {
+      "number": 41,
+      "text": "Pour l'incidence de « Gosserez » les critères de réussite sont :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La superposition parfaite des branches montantes des maxillaires inférieurs"
+        },
+        {
+          "letter": "B",
+          "text": "L'auvant nasal est vu à travers la voûte crânienne frontale"
+        },
+        {
+          "letter": "C",
+          "text": "Le conduit auditif interne est dégagé"
+        },
+        {
+          "letter": "D",
+          "text": "La pointe du rocher est dégagée du rebord orbitaire externe"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 8,
+      "reviewNotes": []
+    },
+    {
+      "number": 42,
+      "text": "Laquelle des incidences radiologiques suivantes, permet d'étudier les 3 premières vertèbres cervicales de face :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'incidence du rachis cervical de face en postéro-antérieur"
+        },
+        {
+          "letter": "B",
+          "text": "L'incidence du rachis cervical de face en antéro-postérieur"
+        },
+        {
+          "letter": "C",
+          "text": "L'incidence de Dorland bilatérale"
+        },
+        {
+          "letter": "D",
+          "text": "L'incidence de Pélissier"
+        },
+        {
+          "letter": "E",
+          "text": "L'incidence de Dorland unilatérale"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 8,
+      "reviewNotes": []
+    },
+    {
+      "number": 43,
+      "text": "Pour l'incidence de Laquerrière et Pierquin, on centre :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 à 4 cm au dessous de l'apophyse coronoïde de cubitus"
+        },
+        {
+          "letter": "B",
+          "text": "3 à 4 cm au dessus de la pointe de l'olécrane du cubitus"
+        },
+        {
+          "letter": "C",
+          "text": "3 à 4 cm au dessus de l'apophyse coronoïde de cubitus"
+        },
+        {
+          "letter": "D",
+          "text": "3 à 4 cm au dessous de la pointe de l'olécrane du cubitus"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 8,
+      "reviewNotes": []
+    },
+    {
+      "number": 44,
+      "text": "Pour explorer le bassin de face :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "On centre à 2cm au dessous de la symphyse pubienne"
+        },
+        {
+          "letter": "B",
+          "text": "On centre à 2 travers de doigts au dessus de la symphyse pubienne"
+        },
+        {
+          "letter": "C",
+          "text": "On centre à mi-distance entre les sommets des crêtes iliaques"
+        },
+        {
+          "letter": "D",
+          "text": "On doit avoir comme critère de réussite le coccyx au dessus de la symphyse pubienne"
+        },
+        {
+          "letter": "E",
+          "text": "On doit avoir comme critère de réussite le coccyx au dessous de la symphyse pubienne"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 8,
+      "reviewNotes": []
+    },
+    {
+      "number": 45,
+      "text": "Pour l'incidence de l'apophyse coronoïde, on centre :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Au milieu de l'interligne radio-humérale"
+        },
+        {
+          "letter": "B",
+          "text": "Au milieu de l'interligne radio-cubitale"
+        },
+        {
+          "letter": "C",
+          "text": "Au milieu de l'interligne cubito-humérale"
+        },
+        {
+          "letter": "D",
+          "text": "Sur l'apophyse coronoïde"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 8,
+      "reviewNotes": []
+    },
+    {
+      "number": 46,
+      "text": "Pour réaliser les 3/4 obturateurs :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "On soulève le coté à radiographier"
+        },
+        {
+          "letter": "B",
+          "text": "On soulève le coté opposé à celui à radiographier"
+        },
+        {
+          "letter": "C",
+          "text": "On centre à 2 cm en dedans et au dessus de la tête fémorale"
+        },
+        {
+          "letter": "D",
+          "text": "On centre à 2 cm en dedans de l'E.I.A.S"
+        },
+        {
+          "letter": "E",
+          "text": "On centre à mi-distance entre l'E.I.A.S et l'épine du pubis"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 9,
+      "reviewNotes": []
+    },
+    {
+      "number": 47,
+      "text": "Pour réaliser l'incidence « Zanca » du défilé acromio-claviculaire :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "RD incliné de 15 à 20° podo-cranial"
+        },
+        {
+          "letter": "B",
+          "text": "RD incliné de 15 à 20° cranio-podal"
+        },
+        {
+          "letter": "C",
+          "text": "RD incliné de 30 à 35° podo-cranial"
+        },
+        {
+          "letter": "D",
+          "text": "RD horizontal"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 9,
+      "reviewNotes": []
+    },
+    {
+      "number": 48,
+      "text": "Toute action qui dérange l'équilibre électrique des atomes, dont est constituée la matière, est appelée :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Atténuation"
+        },
+        {
+          "letter": "B",
+          "text": "Ionisation"
+        },
+        {
+          "letter": "C",
+          "text": "Absorption"
+        },
+        {
+          "letter": "D",
+          "text": "Désintégration"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 9,
+      "reviewNotes": []
+    },
+    {
+      "number": 49,
+      "text": "Plus une source gamma est petite :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Plus le pouvoir de pénétration de la source gamma est élevé"
+        },
+        {
+          "letter": "B",
+          "text": "Plus le pouvoir de pénétration de la source gamma est faible"
+        },
+        {
+          "letter": "C",
+          "text": "Le pouvoir de pénétration de la source gamma ne dépend pas des dimensions de la source"
+        },
+        {
+          "letter": "D",
+          "text": "Aucune des réponses ci-dessus n'est exacte"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 9,
+      "reviewNotes": []
+    },
+    {
+      "number": 50,
+      "text": "Le(s) élément(s) qui influe(nt) sur le contraste du sujet est (sont) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les différences d'épaisseur de la pièce"
+        },
+        {
+          "letter": "B",
+          "text": "La qualité du rayonnement"
+        },
+        {
+          "letter": "C",
+          "text": "Le rayonnement diffusé"
+        },
+        {
+          "letter": "D",
+          "text": "Tous les éléments ci-dessus"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 9,
+      "reviewNotes": []
+    },
+    {
+      "number": 51,
+      "text": "La couche de demi-atténuation (CDA) du plomb utilisé pour réduire les fuites d'un tube à rayons X fonctionnant à 200 kV est de 0,4 mm. Quelle épaisseur de plomb faut-il utiliser pour réduire cette fuite d'un facteur de 16 :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,4 mm"
+        },
+        {
+          "letter": "B",
+          "text": "0,8 mm"
+        },
+        {
+          "letter": "C",
+          "text": "1,6 mm"
+        },
+        {
+          "letter": "D",
+          "text": "4,8 mm"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 9,
+      "reviewNotes": []
+    },
+    {
+      "number": 52,
+      "text": "Quelle que soit l'unité dans laquelle elle est exprimée, la dose absorbée est une mesure :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De la quantité d'énergie transmise à une unité de masse"
+        },
+        {
+          "letter": "B",
+          "text": "Du dommage biologique réel"
+        },
+        {
+          "letter": "C",
+          "text": "De l'ionisation par unité de volume"
+        },
+        {
+          "letter": "D",
+          "text": "Le produit de a et b"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 9,
+      "reviewNotes": []
+    },
+    {
+      "number": 53,
+      "text": "La division de la communication comprend 3 services, lesquels ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Service de la communication"
+        },
+        {
+          "letter": "B",
+          "text": "Service de la maintenance"
+        },
+        {
+          "letter": "C",
+          "text": "Service des études et acquisitions"
+        },
+        {
+          "letter": "D",
+          "text": "Service de l'information et de l'éducation sanitaire"
+        },
+        {
+          "letter": "E",
+          "text": "Service de production"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 6,
+      "reviewNotes": []
+    },
+    {
+      "number": 54,
+      "text": "Le mode participatif est préconisé pour :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La population située à plus de 6 Km"
+        },
+        {
+          "letter": "B",
+          "text": "La population située à plus de 8 Km"
+        },
+        {
+          "letter": "C",
+          "text": "La population située à plus de 10 Km"
+        },
+        {
+          "letter": "D",
+          "text": "La population non accessible aux moyens de liaison proches"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 6,
+      "reviewNotes": []
+    },
+    {
+      "number": 55,
+      "text": "Un hôpital local comprend les disciplines suivantes :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'ophtalmologie"
+        },
+        {
+          "letter": "B",
+          "text": "La dermatologie"
+        },
+        {
+          "letter": "C",
+          "text": "La médecine interne"
+        },
+        {
+          "letter": "D",
+          "text": "La pédiatrie"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 6,
+      "reviewNotes": []
+    },
+    {
+      "number": 56,
+      "text": "Le Sida peut se transmettre par :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Voie sanguine"
+        },
+        {
+          "letter": "B",
+          "text": "Rapport sexuel"
+        },
+        {
+          "letter": "C",
+          "text": "Voie aérienne"
+        },
+        {
+          "letter": "D",
+          "text": "Voie hydrique"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 6,
+      "reviewNotes": []
+    },
+    {
+      "number": 57,
+      "text": "La prophylaxie du SIDA est basée sur :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'hygiène de vie collective"
+        },
+        {
+          "letter": "B",
+          "text": "La contraception"
+        },
+        {
+          "letter": "C",
+          "text": "La fidélité conjugale"
+        },
+        {
+          "letter": "D",
+          "text": "L'utilisation des objets personnels"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 6,
+      "reviewNotes": []
+    },
+    {
+      "number": 58,
+      "text": "Les missions des IFCS sont :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le développement de la recherche fondamentale"
+        },
+        {
+          "letter": "B",
+          "text": "La formation du personnel paramédical"
+        },
+        {
+          "letter": "C",
+          "text": "La prévision des effectifs du personnel infirmier"
+        },
+        {
+          "letter": "D",
+          "text": "Le développement de la formation continue de tout le personnel de santé"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 6,
+      "reviewNotes": []
+    },
+    {
+      "number": 59,
+      "text": "Une étude épidémiologique de type cas témoin est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une étude de cohorte"
+        },
+        {
+          "letter": "B",
+          "text": "Une étude de prévalence"
+        },
+        {
+          "letter": "C",
+          "text": "Une étude expérimentale"
+        },
+        {
+          "letter": "D",
+          "text": "Une étude analytique"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 6,
+      "reviewNotes": []
+    },
+    {
+      "number": 60,
+      "text": "Parmi ces maladies, quelles sont celles concernées par la PCIME ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les IRA"
+        },
+        {
+          "letter": "B",
+          "text": "Les diarrhées"
+        },
+        {
+          "letter": "C",
+          "text": "La rougeole"
+        },
+        {
+          "letter": "D",
+          "text": "La poliomyélite"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 6,
+      "reviewNotes": []
+    },
+    {
+      "number": 61,
+      "text": "Le taux d'accroissement annuel en 2004 est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2.58%"
+        },
+        {
+          "letter": "B",
+          "text": "2.38%"
+        },
+        {
+          "letter": "C",
+          "text": "2.61%"
+        },
+        {
+          "letter": "D",
+          "text": "1.50%"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 7,
+      "reviewNotes": []
+    },
+    {
+      "number": 62,
+      "text": "La capacité litière (tous secteurs confondus) au Maroc en 2006 :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "32621"
+        },
+        {
+          "letter": "B",
+          "text": "33660"
+        },
+        {
+          "letter": "C",
+          "text": "34560"
+        },
+        {
+          "letter": "D",
+          "text": "35660"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 7,
+      "reviewNotes": []
+    },
+    {
+      "number": 63,
+      "text": "Les hôpitaux universitaires ont :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une mission de soins, diagnostic et formation"
+        },
+        {
+          "letter": "B",
+          "text": "Un caractère national"
+        },
+        {
+          "letter": "C",
+          "text": "Un statut particulier"
+        },
+        {
+          "letter": "D",
+          "text": "Un conseil d'administration"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 7,
+      "reviewNotes": []
+    },
+    {
+      "number": 64,
+      "text": "La prévalence de la cécité au Maroc est de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.5%"
+        },
+        {
+          "letter": "B",
+          "text": "1.63%"
+        },
+        {
+          "letter": "C",
+          "text": "1.67%"
+        },
+        {
+          "letter": "D",
+          "text": "0.76%"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 7,
+      "reviewNotes": []
+    },
+    {
+      "number": 65,
+      "text": "La stratégie 2008-2012 du Ministère de la Santé prévoit la formation d'un effectif du personnel paramédical d'ici 2012 :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3300"
+        },
+        {
+          "letter": "B",
+          "text": "2950"
+        },
+        {
+          "letter": "C",
+          "text": "3160"
+        },
+        {
+          "letter": "D",
+          "text": "3200"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 7,
+      "reviewNotes": []
+    },
+    {
+      "number": 66,
+      "text": "La tuberculose est une maladie contagieuse due au bacille d'Eberth :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vrai"
+        },
+        {
+          "letter": "B",
+          "text": "Faux"
+        },
+        {
+          "letter": "C",
+          "text": "[Option non fournie dans l'examen original]"
+        },
+        {
+          "letter": "D",
+          "text": "[Option non fournie dans l'examen original]"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": true,
+      "pageStart": 7,
+      "reviewNotes": [
+        "Question de type Vrai/Faux. Deux options supplémentaires ont été ajoutées pour respecter le format QCM à minimum 4 options."
+      ]
+    },
+    {
+      "number": 67,
+      "text": "La lutte contre le cancer au Maroc fait intervenir plusieurs secteurs :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vrai"
+        },
+        {
+          "letter": "B",
+          "text": "Faux"
+        },
+        {
+          "letter": "C",
+          "text": "[Option non fournie dans l'examen original]"
+        },
+        {
+          "letter": "D",
+          "text": "[Option non fournie dans l'examen original]"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": true,
+      "pageStart": 7,
+      "reviewNotes": [
+        "Question de type Vrai/Faux. Deux options supplémentaires ont été ajoutées pour respecter le format QCM à minimum 4 options."
+      ]
+    },
+    {
+      "number": 68,
+      "text": "La prévention primaire est basée sur la vaccination :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vrai"
+        },
+        {
+          "letter": "B",
+          "text": "Faux"
+        },
+        {
+          "letter": "C",
+          "text": "[Option non fournie dans l'examen original]"
+        },
+        {
+          "letter": "D",
+          "text": "[Option non fournie dans l'examen original]"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": true,
+      "pageStart": 7,
+      "reviewNotes": [
+        "Question de type Vrai/Faux. Deux options supplémentaires ont été ajoutées pour respecter le format QCM à minimum 4 options."
+      ]
+    }
+  ],
+  "examTitle": "Concours de recrutement des infirmiers diplômés d'Etat du 2ème grade",
+  "specialty": "Techniciens de Radiologie & Statistiques Sanitaires",
+  "warnings": [
+    "Plusieurs pages proviennent de différentes sections d'examens (épreuve commune de 2009 et spécialité radiologie de 2010)."
+  ],
+  "year": 2010
+}

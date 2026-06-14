@@ -1,0 +1,702 @@
+{
+  "sourceFile": "Concours-Radiologie-CHU-Oujda.pdf",
+  "language": "fr",
+  "questions": [
+    {
+      "number": 37,
+      "text": "En IRM, le « Quench » :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Correspond au passage brutal de l'hélium gazeux à l'état liquide."
+        },
+        {
+          "letter": "B",
+          "text": "Est secondaire à un défaut dans le système d'isolation thermique."
+        },
+        {
+          "letter": "C",
+          "text": "Est secondaire à un non contrôle du niveau d'hélium et du bouclier thermique d'azote liquide."
+        },
+        {
+          "letter": "D",
+          "text": "S'accompagne d'une diminution du pourcentage d'hélium liquide présent en cuve."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 38,
+      "text": "L' uroscanner :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est indiqué devant une pathologie tumorale vésicale."
+        },
+        {
+          "letter": "B",
+          "text": "Est indiqué devant une obstruction urinaire."
+        },
+        {
+          "letter": "C",
+          "text": "Les coupes sans injection de produit de contraste sont obligatoires."
+        },
+        {
+          "letter": "D",
+          "text": "Est contre-indiquée en cas de créatinine sanguine à 20 mg/l."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 39,
+      "text": "Cholangiographie post-opératoire par drain de Kehr:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vérification de la perméabilité des voies biliaires après chirurgie"
+        },
+        {
+          "letter": "B",
+          "text": "Le Cliché sans préparation est obligatoire et permet de recherche des calcifications au niveau de l'hypochondre droit."
+        },
+        {
+          "letter": "C",
+          "text": "L'injection du produit de contraste est suivie en scopie."
+        },
+        {
+          "letter": "D",
+          "text": "L'injection du produit de contraste est progressive."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 40,
+      "text": "Patient âgé de 21 ans, présentant une adénopathie latéro-cervicale gauche, augmentant progressivement de volume. L'étude anatomo-pathologique à conclut à une origine lymphomateuse. Dans le cadre du bilan d'extension, il faut réaliser :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un scanner abdomino-pelvien."
+        },
+        {
+          "letter": "B",
+          "text": "Un scanner thoraco-abdomino-pelvien."
+        },
+        {
+          "letter": "C",
+          "text": "Un scanner cervico-thoraco- abdomino-pelvien."
+        },
+        {
+          "letter": "D",
+          "text": "Un scanner cervical."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 11,
+      "text": "La norme ISO est le symbole pour designer :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'Organisation internationale de normalisation"
+        },
+        {
+          "letter": "B",
+          "text": "L'Organisation mondiale de la santé"
+        },
+        {
+          "letter": "C",
+          "text": "L'Organisation de projets de soins"
+        },
+        {
+          "letter": "D",
+          "text": "Aucune réponse n'est correcte"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 12,
+      "text": "En IRM, le « Quench » :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Correspond au passage brutal de l'hélium gazeux à l'état liquide"
+        },
+        {
+          "letter": "B",
+          "text": "Est secondaire à un défaut dans le système d'isolation thermique"
+        },
+        {
+          "letter": "C",
+          "text": "Est secondaire à un non contrôle du niveau d'hélium et du bouclier thermique d'azote liquide"
+        },
+        {
+          "letter": "D",
+          "text": "Est accompagné d'une diminution du pourcentage d'hélium liquide présent en cuve"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 13,
+      "text": "Un uroscanner :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est indiqué devant une pathologie tumorale vésicale"
+        },
+        {
+          "letter": "B",
+          "text": "Est indiqué devant une obstruction urinaire"
+        },
+        {
+          "letter": "C",
+          "text": "Nécessite des coupes sans injection de produit de contraste"
+        },
+        {
+          "letter": "D",
+          "text": "Est contre-indiqué en cas de créatine sanguine à 20 mg/l"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 14,
+      "text": "Cholangiographie post-opératoire par drain de Kehr :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vérification de la perméabilité des voies biliaires après chirurgie"
+        },
+        {
+          "letter": "B",
+          "text": "Le cliché sans préparation est obligatoire et permet de rechercher des calcifications au niveau de l'hypochondre droit"
+        },
+        {
+          "letter": "C",
+          "text": "L'injection du produit de contraste est suivie en scopie"
+        },
+        {
+          "letter": "D",
+          "text": "L'injection du produit de contraste est rapide"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 15,
+      "text": "Urographie intra-veineuse :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permet de rechercher un reflux vésico- urétéral passif et actif chez l'enfant"
+        },
+        {
+          "letter": "B",
+          "text": "Permet une étude morphologique et fonctionnelle des cavités excrétrices"
+        },
+        {
+          "letter": "C",
+          "text": "Est actuellement supplanté par l'uroscanner"
+        },
+        {
+          "letter": "D",
+          "text": "Aucune réponse n'est correcte"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 26,
+      "text": "Les propriétés du tungstène qui font un métal de choix pour la composition de l'anode et de la cathode, sont :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "D'avoir un numéro atomique élevé"
+        },
+        {
+          "letter": "B",
+          "text": "D'avoir un numéro atomique peu élevé"
+        },
+        {
+          "letter": "C",
+          "text": "D'avoir une faible tendance à se vaporiser"
+        },
+        {
+          "letter": "D",
+          "text": "D'avoir un point de fusion bas"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 27,
+      "text": "Concernant la radiologie interventionnelle vasculaire, quelles sont la ou les bonne(s) réponse(s) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un cathéter d'angiographie permet le passage d'un guide dans sa lumière"
+        },
+        {
+          "letter": "B",
+          "text": "L'angiographie est une technique non invasive"
+        },
+        {
+          "letter": "C",
+          "text": "Un French est égal à un millimètre"
+        },
+        {
+          "letter": "D",
+          "text": "Toutes les artères peuvent être ponctionnées sans risque hémorragique"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 28,
+      "text": "Une biopsie percutanée d'une masse d'allure tumorale de la racine de cuisse gauche :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est habituellement réalisé avec un guidage ECHO ou TDM"
+        },
+        {
+          "letter": "B",
+          "text": "Nécessite l'arrêt du PLAVIX et un relais par HBPM après l'avis du cardiologue"
+        },
+        {
+          "letter": "C",
+          "text": "Sera dirigée vers les zones tissulaires se rehaussant après Gadolinium IV"
+        },
+        {
+          "letter": "D",
+          "text": "Sera suivie d'une IRM de contrôle à J 3"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 29,
+      "text": "La prescription du jeune en radiologie est indiquée:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Avant toute injection produit iodé"
+        },
+        {
+          "letter": "B",
+          "text": "Avant toute injection de produit prévue au décours"
+        },
+        {
+          "letter": "C",
+          "text": "En cas de troubles de la conscience"
+        },
+        {
+          "letter": "D",
+          "text": "En cas d'échographie vésiculaire"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 30,
+      "text": "Concernant les produits de contraste en Rayon x",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le mode d'action principal est l'effet Compton"
+        },
+        {
+          "letter": "B",
+          "text": "L'atténuation dépend du nombre atomique Z"
+        },
+        {
+          "letter": "C",
+          "text": "Le Kedge est le même pour tous les atomes à 33KeV"
+        },
+        {
+          "letter": "D",
+          "text": "Le gadolinium est un bon absorbant des Rayons X"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 1,
+      "text": "A propos des rayonnements ionisants, quelles sont les propositions exactes :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les examens TDM représentent la principale source d'exposition aux rayonnements ionisants d'origine médicale dans la population générale"
+        },
+        {
+          "letter": "B",
+          "text": "La dose délivrée au patient lors d'un examen doit être inscrite sur le compte rendu"
+        },
+        {
+          "letter": "C",
+          "text": "Le nombre d'acquisition après injection de produit de contraste n'augmente pas la dose"
+        },
+        {
+          "letter": "D",
+          "text": "Lorsque cela est possible, il est préférable de substituer la TDM par une modalité n'utilisant pas les rayonnements ionisants"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 2,
+      "text": "A propos des indications, quelle est la proposition exacte?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La TDM est l'examen de choix dans le cadre de l'urgence"
+        },
+        {
+          "letter": "B",
+          "text": "Du fait de sa rapidité d'exécution, la TDM est l'examen de choix en pédiatrie"
+        },
+        {
+          "letter": "C",
+          "text": "La TDM est très performante en pathologie utérine et annexielle"
+        },
+        {
+          "letter": "D",
+          "text": "L'examen de première ligne en cas de suspicion d'embolie pulmonaire chez une femme enceinte est l'angio-TDM du fait d'une forte mortalité de cette pathologie"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 3,
+      "text": "Que peut-on dire à propos de la production des rayons X dans un tube de type Coolidge :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les rayons X sont majoritairement émis par désintégration radioactive d'une source de tungstène"
+        },
+        {
+          "letter": "B",
+          "text": "Les rayons X sont majoritairement émis lors de la collision des électrons avec d'autres électrons au niveau de la cathode"
+        },
+        {
+          "letter": "C",
+          "text": "Les rayons X sont majoritairement émis lors du freinage des électrons par les noyaux de l'anode"
+        },
+        {
+          "letter": "D",
+          "text": "Le spectre d'émission des rayons X combine un spectre continu et un spectre de raies"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 4,
+      "text": "Parmi les propositions suivantes, laquelle ou lesquelles sont exactes ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le codage de phase recueille un signal pour chaque ligne de l'image à coder"
+        },
+        {
+          "letter": "B",
+          "text": "Le codage de phase s'effectue en faisant varier la phase initiale à chaque fois le long de la troisième direction à coder et en appliquant avant le recueil du signal un gradient de champ magnétique de pente ou de durée différente."
+        },
+        {
+          "letter": "C",
+          "text": "Le temps d'acquisition d'une séquence d'IRM est le produit du temps de répétition par le nombre de lignes du codage en phase"
+        },
+        {
+          "letter": "D",
+          "text": "En IRM, le codage de phase s'effectue après le codage de sélection de coupe et le codage de fréquence"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 5,
+      "text": "Parmi les propositions suivantes, laquelle ou lesquelles sont exactes ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une séquence acquise avec un TE long et un TR long permet d'obtenir une image pondérée en T2."
+        },
+        {
+          "letter": "B",
+          "text": "Un TR long ne permettra pas de sélectionner les protons suivant le T1 c'est donc le cas de la densité de proton et la pondération en T2"
+        },
+        {
+          "letter": "C",
+          "text": "En spectroscopie, la fréquence de résonance d'un noyau blindé est inférieur à la fréquence de résonance d'un noyau déblindé."
+        },
+        {
+          "letter": "D",
+          "text": "En spectroscopie, l'effet du couplage spin-spin est dépendant du champ magnétique principal B0"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 6,
+      "text": "Contre-indication à l'IRM :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prothèse hanche"
+        },
+        {
+          "letter": "B",
+          "text": "Chirurgie abdominale il y a 3 mois"
+        },
+        {
+          "letter": "C",
+          "text": "Corps étranger métallique proche des yeux"
+        },
+        {
+          "letter": "D",
+          "text": "Plomb de chasse dans la paroi abdominale"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 21,
+      "text": "La détectabilité d'une zone d'intérêt au sein d'une image dépend",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Du rapport du signal sur bruit au sein de l'image"
+        },
+        {
+          "letter": "B",
+          "text": "De la technique d'imagerie utilisée"
+        },
+        {
+          "letter": "C",
+          "text": "Du nombre de pixels"
+        },
+        {
+          "letter": "D",
+          "text": "Du contraste de la zone d'intérêt par rapport au reste de l'image"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 22,
+      "text": "Quelle définition correspond à la résolution temporelle ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "C'est le nombre d'images intégralement acquises par unité de temps"
+        },
+        {
+          "letter": "B",
+          "text": "C'est le nombre séparant deux images d'une série"
+        },
+        {
+          "letter": "C",
+          "text": "C'est le temps séparant la 1ère et la dernière image d'une série"
+        },
+        {
+          "letter": "D",
+          "text": "C'est le temps séparant deux séries d'images entre elle"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 23,
+      "text": "Quelle définition est correcte ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le voxel est une structure composé de deux pixels dans l'image"
+        },
+        {
+          "letter": "B",
+          "text": "La matrice est l'ensemble des pixels ou voxels de l'image"
+        },
+        {
+          "letter": "C",
+          "text": "Le champ de vue est une autre terminologie pour la matrice de l'image"
+        },
+        {
+          "letter": "D",
+          "text": "La transformation de Fourier est une opération unilatérale"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 24,
+      "text": "Concernant le foyer optique :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Il correspond à la projection du foyer thermique"
+        },
+        {
+          "letter": "B",
+          "text": "Il est de forme carré"
+        },
+        {
+          "letter": "C",
+          "text": "Sa taille est proportionnelle à l'angle de l'anode"
+        },
+        {
+          "letter": "D",
+          "text": "Ses dimensions déterminent la résolution spatiale"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 25,
+      "text": "Concernant le tube à rayons X :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cathode est le pôle négatif du tube"
+        },
+        {
+          "letter": "B",
+          "text": "L'anode est le pôle positif du tube"
+        },
+        {
+          "letter": "C",
+          "text": "La cathode est la cible des électrons"
+        },
+        {
+          "letter": "D",
+          "text": "L'anode est la source des électrons"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 7,
+      "text": "A propos des séquences en écho planar :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Il s'agit d'une séquence en écho de gradient où tous les échos sont acquis après une seule impulsion d'excitation"
+        },
+        {
+          "letter": "B",
+          "text": "Du fait de sa rapidité d'acquisition, il y a peu d'artéfacts de déplacement chimique"
+        },
+        {
+          "letter": "C",
+          "text": "Les séquences en écho planar ont une pondération T1"
+        },
+        {
+          "letter": "D",
+          "text": "Il s'agit d'une séquence en écho de gradient ou tous les échos sont acquis après une seule impulsion d'excitation"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 8,
+      "text": "Concernant le coefficient apparent de diffusion ADC :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Il diminue dans l'accident ischémique aigu (œdèmes intracellulaires) et augmente en cas d'œdème extracellulaire"
+        },
+        {
+          "letter": "B",
+          "text": "Son calcul nécessite une acquisition pondérée en T1"
+        },
+        {
+          "letter": "C",
+          "text": "Son calcul nécessite un spin écho"
+        },
+        {
+          "letter": "D",
+          "text": "Son calcul nécessite au moins 3 acquisitions à différentes valeurs de b"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 9,
+      "text": "Concernant l'imagerie de diffusion",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cette imagerie n'est pas sensible aux effets de susceptibilités magnétiques"
+        },
+        {
+          "letter": "B",
+          "text": "Elle n'est habituellement acquise que dans une direction de l'espace"
+        },
+        {
+          "letter": "C",
+          "text": "Elle ne peut pas employer les séquences en écho planar"
+        },
+        {
+          "letter": "D",
+          "text": "Il s'agit d'une séquence pondérée en T2 associée à des gradients de diffusion diminuant le signal des protons mobiles"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 10,
+      "text": "A propos d'une séquence spin écho pondérée en T2",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le TE doit être court"
+        },
+        {
+          "letter": "B",
+          "text": "Le TR doit être court"
+        },
+        {
+          "letter": "C",
+          "text": "Le TE ne doit pas être supérieur à 10 ms"
+        },
+        {
+          "letter": "D",
+          "text": "Une injection de gadolinium est indispensable"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    }
+  ]
+}

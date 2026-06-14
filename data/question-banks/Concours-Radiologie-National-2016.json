@@ -1,0 +1,813 @@
+{
+  "sourceFile": "Concours-Radiologie-National-2016.pdf",
+  "language": "fr",
+  "questions": [
+    {
+      "number": 1,
+      "text": "L'énergie c'est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tout ce qui est capable de fournir un travail"
+        },
+        {
+          "letter": "B",
+          "text": "Tout ce qui est capable de donner naissance à la chaleur"
+        },
+        {
+          "letter": "C",
+          "text": "Ce qui se trouve sous forme de matière"
+        },
+        {
+          "letter": "D",
+          "text": "Ce qui se trouve sous forme de rayonnement"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 2,
+      "text": "L'atome est constitué de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Neutrons seulement"
+        },
+        {
+          "letter": "B",
+          "text": "Protons seulement"
+        },
+        {
+          "letter": "C",
+          "text": "Neutrons et protons seulement"
+        },
+        {
+          "letter": "D",
+          "text": "Neutrons Protons et Electrons à la fois"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 3,
+      "text": "Le faisceau de Rayon X est caractérisé :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Par la qualité des rayonnements émis seulement"
+        },
+        {
+          "letter": "B",
+          "text": "Par la quantité d'énergie qu'il transporte seulement"
+        },
+        {
+          "letter": "C",
+          "text": "Par la qualité d'énergie qu'il transporte"
+        },
+        {
+          "letter": "D",
+          "text": "Par la qualité des rayonnements émis et la quantité des rayonnements qu'il transporte"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 4,
+      "text": "Un tube radiogène : (Tube Coolidge)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enceinte où règne un vide absolu"
+        },
+        {
+          "letter": "B",
+          "text": "Soudé à ses deux extrémités"
+        },
+        {
+          "letter": "C",
+          "text": "Comprend une anode et une cathode"
+        },
+        {
+          "letter": "D",
+          "text": "Comprend une électrode négative ou anode"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 5,
+      "text": "Les rayonnements susceptibles d'atteindre le technicien de radiologie :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le rayonnement de fuite à travers la gaine protectrice"
+        },
+        {
+          "letter": "B",
+          "text": "Le rayonnement direct"
+        },
+        {
+          "letter": "C",
+          "text": "Le rayonnement diffusé"
+        },
+        {
+          "letter": "D",
+          "text": "Le rayonnement suite à une fuite à travers le diaphragme"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": [
+        "C"
+      ]
+    },
+    {
+      "number": 6,
+      "text": "La réduction des dimensions du champ irradié :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est réalisée en employant des cônes localisateurs"
+        },
+        {
+          "letter": "B",
+          "text": "Est réalisée par l'emploi des diaphragmes"
+        },
+        {
+          "letter": "C",
+          "text": "Faite par des caches plombés"
+        },
+        {
+          "letter": "D",
+          "text": "Faite en évitant d'employer les moyens de radioprotection"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 7,
+      "text": "Les doses de rayonnement peuvent être réduites :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En opérant une distance foyer film la plus grande possible"
+        },
+        {
+          "letter": "B",
+          "text": "En réduisant la dimension du champ d'irradiation"
+        },
+        {
+          "letter": "C",
+          "text": "En filtrant le rayonnement"
+        },
+        {
+          "letter": "D",
+          "text": "En augmentant les dimensions du champ d'irradiation"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 9,
+      "text": "Le rôle du technicien de radiologie :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Accueillir le patient"
+        },
+        {
+          "letter": "B",
+          "text": "Savoir réaliser les différentes techniques radiologiques"
+        },
+        {
+          "letter": "C",
+          "text": "Suivre l'évolution des techniques radiologiques"
+        },
+        {
+          "letter": "D",
+          "text": "Donner le diagnostic de la maladie au patient"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 10,
+      "text": "Les statifs avec quoi on travaille encore :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La table horizontale"
+        },
+        {
+          "letter": "B",
+          "text": "La table à plateau flottant"
+        },
+        {
+          "letter": "C",
+          "text": "La radioscopie"
+        },
+        {
+          "letter": "D",
+          "text": "Les statifs verticaux"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 11,
+      "text": "Le développement numérique :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A beaucoup d'avantages par rapport à l'automatique (machine à développer)"
+        },
+        {
+          "letter": "B",
+          "text": "Peut corriger le contraste d'une image radiologique déjà surexposée ou sousexposée"
+        },
+        {
+          "letter": "C",
+          "text": "Joue un grand rôle dans l'économie des films radiologiques"
+        },
+        {
+          "letter": "D",
+          "text": "Peut faire disparaître les artefacts"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 12,
+      "text": "L'extrémité inférieure de l'humérus comprend :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un épicondyle"
+        },
+        {
+          "letter": "B",
+          "text": "Un acromion"
+        },
+        {
+          "letter": "C",
+          "text": "Une trochlée"
+        },
+        {
+          "letter": "D",
+          "text": "Le pisiforme"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 13,
+      "text": "Les os de l'avant-bras :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le cubitus et le radius"
+        },
+        {
+          "letter": "B",
+          "text": "Le tibia et le cubitus"
+        },
+        {
+          "letter": "C",
+          "text": "Le cubitus comprend l'olécrane et l'apophyse coronoïde en son extrémité supérieure"
+        },
+        {
+          "letter": "D",
+          "text": "L'extrémité inférieure du radius s'articule avec la première rangée du carpe"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 14,
+      "text": "La première rangée du carpe est constituée de dehors en dedans :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Scaphoïde, trapèze, pyramidal, pisiforme"
+        },
+        {
+          "letter": "B",
+          "text": "Scaphoïde, pyramidal, pisiforme, semi lunaire"
+        },
+        {
+          "letter": "C",
+          "text": "Scaphoïde, semi lunaire, pyramidal, pisiforme"
+        },
+        {
+          "letter": "D",
+          "text": "Trapèze, trapézoïde, grand os, os crochu"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 15,
+      "text": "La colonne vertébrale :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comprend 4 régions"
+        },
+        {
+          "letter": "B",
+          "text": "Comprend 5 régions"
+        },
+        {
+          "letter": "C",
+          "text": "Les vertèbres dans les 3 premières régions sont libres"
+        },
+        {
+          "letter": "D",
+          "text": "Les vertèbres des 2 dernières régions sont soudées"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 16,
+      "text": "Pour explorer le scaphoïde carpien on aura besoin de faire :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'oblique externe du poignet"
+        },
+        {
+          "letter": "B",
+          "text": "Schreck 1"
+        },
+        {
+          "letter": "C",
+          "text": "Schreck2"
+        },
+        {
+          "letter": "D",
+          "text": "Poignet de face B"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": [
+        "B"
+      ]
+    },
+    {
+      "number": 17,
+      "text": "On réalise l'incidence de LAQUERRIERE et PIERQUIN pour découvrir :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'apophyse coronoïde"
+        },
+        {
+          "letter": "B",
+          "text": "Le canal carpien"
+        },
+        {
+          "letter": "C",
+          "text": "L'olécrane"
+        },
+        {
+          "letter": "D",
+          "text": "Le scaphoïde carpien"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 18,
+      "text": "L'incidence de Dédiée se fait :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En décubitus latéral"
+        },
+        {
+          "letter": "B",
+          "text": "En décubitus ventral"
+        },
+        {
+          "letter": "C",
+          "text": "En décubitus dorsal"
+        },
+        {
+          "letter": "D",
+          "text": "Pour l'étude de la luxation récidivante de l'épaule"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 19,
+      "text": "Les critères de réussite de la radiographie de face du bassin :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ligne des épineuses passe par le milieu de la symphyse pubienne"
+        },
+        {
+          "letter": "B",
+          "text": "Les fémurs sont en rotation externe symétrique"
+        },
+        {
+          "letter": "C",
+          "text": "Les fémurs sont en rotation interne symétrique"
+        },
+        {
+          "letter": "D",
+          "text": "Les bases des petits trochanters ont un aspect identique"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 20,
+      "text": "L'incidence fondamentale du rachis cervical de face se fait :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sans Potter"
+        },
+        {
+          "letter": "B",
+          "text": "En position couchée"
+        },
+        {
+          "letter": "C",
+          "text": "Avec un rayon directeur ascendant de 15 à 20° centré sur le cartilage thyroïdien (pomme d'Adam)"
+        },
+        {
+          "letter": "D",
+          "text": "Avec Potter"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 21,
+      "text": "Les contre-indications formelles de l'incidence de HIRTZ :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Traumatisme cervical"
+        },
+        {
+          "letter": "B",
+          "text": "Patient conscient"
+        },
+        {
+          "letter": "C",
+          "text": "Patient comateux"
+        },
+        {
+          "letter": "D",
+          "text": "Arthrose cervicale"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 22,
+      "text": "L'incidence fondamentale du thorax de face :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Patient debout en antéro-postérieure"
+        },
+        {
+          "letter": "B",
+          "text": "Patient debout en postéro-antérieure"
+        },
+        {
+          "letter": "C",
+          "text": "Les bras sont en rotation externe"
+        },
+        {
+          "letter": "D",
+          "text": "Le dos des 2 mains est placé sur les hanches"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 23,
+      "text": "La baryte :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est une suspension du sulfate de baryum"
+        },
+        {
+          "letter": "B",
+          "text": "Est indiquée en cas de perforation du péritoine"
+        },
+        {
+          "letter": "C",
+          "text": "Est contre indiquée en cas de contrôle post opératoire précoce"
+        },
+        {
+          "letter": "D",
+          "text": "Est utilisée dans l'exploration du tube digestif"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 24,
+      "text": "Les contre-indications de la compression urétérale :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Crise de colique néphrétique"
+        },
+        {
+          "letter": "B",
+          "text": "Syndrome obstructif des 2 uretères apprécié sur les premiers clichés"
+        },
+        {
+          "letter": "C",
+          "text": "Aucun traumatisme abdominal"
+        },
+        {
+          "letter": "D",
+          "text": "Anévrisme de l'aorte abdominale"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 25,
+      "text": "Lors des explorations urinaires chez l'enfant :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Suivre la même procédure d'UIV que chez l'adulte"
+        },
+        {
+          "letter": "B",
+          "text": "Augmenter le nombre de clichés"
+        },
+        {
+          "letter": "C",
+          "text": "Limiter au strict minimum le nombre de clichés"
+        },
+        {
+          "letter": "D",
+          "text": "Diaphragmer au maximum et protéger les gonades chez le garçon"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 26,
+      "text": "L'hystéro- salpingographie :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est pratiquée au 14ème jour du cycle menstruel"
+        },
+        {
+          "letter": "B",
+          "text": "Est pratiquée dans les 10 jours qui suivent le premier jour des règles"
+        },
+        {
+          "letter": "C",
+          "text": "Peut être pratiquée chez une femme enceinte"
+        },
+        {
+          "letter": "D",
+          "text": "A comme contre-indication : L'infection génitale"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": [
+        "A"
+      ]
+    },
+    {
+      "number": 27,
+      "text": "Pour explorer la glande mammaire :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "On pratique une face avec rayon directeur vertical"
+        },
+        {
+          "letter": "B",
+          "text": "On pratique un profil interne ou externe"
+        },
+        {
+          "letter": "C",
+          "text": "On pratique un oblique postérieur du coté malade"
+        },
+        {
+          "letter": "D",
+          "text": "On peut compléter l'examen par une échographie mammaire"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 28,
+      "text": "Les clichés d'ASP d'urgence (chez l'adulte) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Thorax debout de face en postéro- antérieure"
+        },
+        {
+          "letter": "B",
+          "text": "ASP de face debout"
+        },
+        {
+          "letter": "C",
+          "text": "ASP en procubitus"
+        },
+        {
+          "letter": "D",
+          "text": "ASP en décubitus dorsal"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": [
+        "A"
+      ]
+    },
+    {
+      "number": 29,
+      "text": "L'atropine :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est un anti inflammatoire"
+        },
+        {
+          "letter": "B",
+          "text": "Est un anti - spasmódique"
+        },
+        {
+          "letter": "C",
+          "text": "Est un antibiotique"
+        },
+        {
+          "letter": "D",
+          "text": "Est un modificateur de comportement utilisé dans les explorations digestives"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 30,
+      "text": "Les critères de réussite de l'incidence de face du thorax en postéro-antérieure :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Visibilité de la totalité des champs pulmonaires"
+        },
+        {
+          "letter": "B",
+          "text": "Visibilité d'un seul cul de sac costo- diaphragmatique"
+        },
+        {
+          "letter": "C",
+          "text": "Les extrémités des 2 clavicules sont symétriques par rapport à la ligne des épineuses dorsales"
+        },
+        {
+          "letter": "D",
+          "text": "Les omoplates sont projetées dans les champs pulmonaires"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 31,
+      "text": "Selon l'OMS, La santé est un complet bien être :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Physique"
+        },
+        {
+          "letter": "B",
+          "text": "Physique et social"
+        },
+        {
+          "letter": "C",
+          "text": "Physique et mental"
+        },
+        {
+          "letter": "D",
+          "text": "Physique, mental et social"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 32,
+      "text": "Les soins de santé primaires :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Représentent le premier contact des individus avec le système national de santé"
+        },
+        {
+          "letter": "B",
+          "text": "Sont assurés au niveau du réseau hospitalier"
+        },
+        {
+          "letter": "C",
+          "text": "Sont des soins préventifs, curatifs et promotionnels"
+        },
+        {
+          "letter": "D",
+          "text": "Sont des soins préventifs seulement"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 33,
+      "text": "Les urgences médicales de proximité faisant partie du réseau intégré des Soins Médicaux assurent les fonctions d'urgence suivantes :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les gestes de réanimation"
+        },
+        {
+          "letter": "B",
+          "text": "Les gestes de premiers secours"
+        },
+        {
+          "letter": "C",
+          "text": "La transfusion"
+        },
+        {
+          "letter": "D",
+          "text": "Le diagnostic de détresse vitale"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 34,
+      "text": "Au Maroc, l'offre de soins est assurée par :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le secteur public"
+        },
+        {
+          "letter": "B",
+          "text": "Le secteur privé"
+        },
+        {
+          "letter": "C",
+          "text": "Le secteur public et le secteur traditionnel"
+        },
+        {
+          "letter": "D",
+          "text": "Le secteur public, le secteur privé et le secteur traditionnel"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    }
+  ],
+  "examTitle": "Concours technicien de radiologie",
+  "specialty": "Radiologie",
+  "year": 2016
+}

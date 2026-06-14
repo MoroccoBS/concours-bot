@@ -1,0 +1,969 @@
+{
+  "sourceFile": "Concours-Radiologie-National-2018-Session-Mars.pdf",
+  "language": "fr",
+  "questions": [
+    {
+      "number": 1,
+      "text": "Parmi les principes suivants de la radioprotection, qui n'est pas applicable aux patients?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Justification ;"
+        },
+        {
+          "letter": "B",
+          "text": "Optimisation ;"
+        },
+        {
+          "letter": "C",
+          "text": "Limitation des doses ;"
+        },
+        {
+          "letter": "D",
+          "text": "Raisonnement logique ;"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 2,
+      "text": "En radiologie interventionnelle, pour diminuer l'exposition de l'opérateur il faut :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Placer le tube au-dessus de la table en incidence de face ;"
+        },
+        {
+          "letter": "B",
+          "text": "Placer le tube du côté de l'opérateur en incidence de profil ;"
+        },
+        {
+          "letter": "C",
+          "text": "Etre le plus éloigné possible du couple tube-détecteur ;"
+        },
+        {
+          "letter": "D",
+          "text": "Utiliser une filtration additionnelle."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 3,
+      "text": "Source scellée :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Source dont la présentation et les conditions normales d'emploi ne permettent pas de prévenir toute dispersion de substances radioactives ;"
+        },
+        {
+          "letter": "B",
+          "text": "Source constituée par des substances radioactives solidement incorporées dans des matières solides et effectivement inactives ;"
+        },
+        {
+          "letter": "C",
+          "text": "Sont celles dont la structure ou le conditionnement empêche, en utilisation normale, toute dispersion de matières radioactives ;"
+        },
+        {
+          "letter": "D",
+          "text": "Toutes les réponses sont fausses."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 4,
+      "text": "Zone surveillée :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Toute zone dans laquelle un dixième des limites annuelles d'exposition est susceptible d'être dépassé dans les conditions normales de travail ;"
+        },
+        {
+          "letter": "B",
+          "text": "Toute zone dans laquelle les trois dixième des limites d'exposition sont susceptibles d'être dépassées dans les conditions normales de travail ;"
+        },
+        {
+          "letter": "C",
+          "text": "Toute zone dans laquelle un dixième des limites trimestrielles d'exposition est susceptible d'être dépassé dans les conditions normales de travail ;"
+        },
+        {
+          "letter": "D",
+          "text": "Toute zone dans laquelle les trois dixième des limites trimestrielles d'exposition sont susceptibles d'être dépassées dans les conditions normales de travail."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 5,
+      "text": "L'épiphyse supérieure du cubitus présente :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une apophyse horizontale : olécrane ;"
+        },
+        {
+          "letter": "B",
+          "text": "Une apophyse verticale : olécrane ;"
+        },
+        {
+          "letter": "C",
+          "text": "Une apophyse horizontale et antérieure : apophyse coronoïde ;"
+        },
+        {
+          "letter": "D",
+          "text": "Une apophyse verticale et antérieure : apophyse coronoïde."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 6,
+      "text": "L'extrémité supérieure du fémur est composée de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tête fémorale ;"
+        },
+        {
+          "letter": "B",
+          "text": "Le col fémoral ;"
+        },
+        {
+          "letter": "C",
+          "text": "La grosse tubérosité (trochiter) ;"
+        },
+        {
+          "letter": "D",
+          "text": "La petite tubérosité (trochin)."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 7,
+      "text": "Les angles de l'os coxal correspondent :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Angle antéro-supérieur : Epine Iliaque Antéro-Supérieure ;"
+        },
+        {
+          "letter": "B",
+          "text": "Angle antéro-inférieur : Pubis ;"
+        },
+        {
+          "letter": "C",
+          "text": "Angle postéro-supérieur : tubérosité iliaque ;"
+        },
+        {
+          "letter": "D",
+          "text": "Angle postéro-inférieur : tubérosité ischiatique."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 8,
+      "text": "La face latérale de l'épiphyse proximale du Tibia est marquée par :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le sillon du tendon semi-membraneux ;"
+        },
+        {
+          "letter": "B",
+          "text": "Le tubercule infra-condylaire ;"
+        },
+        {
+          "letter": "C",
+          "text": "La surface articulaire fibulaire proximale ;"
+        },
+        {
+          "letter": "D",
+          "text": "La tubérosité tibiale."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 9,
+      "text": "Critère de réussite de l'incidence du coude de profil :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cupule radiale empiète de moitié sur la coronoïde ;"
+        },
+        {
+          "letter": "B",
+          "text": "Pellette humérale de face et trochiter bien visible ;"
+        },
+        {
+          "letter": "C",
+          "text": "Superposition des épicondyles ;"
+        },
+        {
+          "letter": "D",
+          "text": "Sommet de l'olécrane bien dégagé."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 10,
+      "text": "Intérêt de l'incidence « Profil -Bloom-Obata » :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La recherche d'une luxation antérieure ;"
+        },
+        {
+          "letter": "B",
+          "text": "La recherche d'une luxation postérieure ;"
+        },
+        {
+          "letter": "C",
+          "text": "L'étude rhumatologique ;"
+        },
+        {
+          "letter": "D",
+          "text": "Cliché de contrôle postréduction."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 11,
+      "text": "L'incidence -Trois quarts alaire- :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En oblique postérieur de 45° du coté à examiner ;"
+        },
+        {
+          "letter": "B",
+          "text": "Rayon directeur horizontal ;"
+        },
+        {
+          "letter": "C",
+          "text": "Centré à 4 cm au-dessous du pli inguinal ;"
+        },
+        {
+          "letter": "D",
+          "text": "L'ilion est vue de profil entier sur le cliché."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 12,
+      "text": "Le centrage de l'incidence « Faux profil de Lequesne » :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Racine de la cuisse, 10cm au dessus du plan de la table ;"
+        },
+        {
+          "letter": "B",
+          "text": "Racine de la cuisse controlatérale, 10cm au dessus du plan de la table ;"
+        },
+        {
+          "letter": "C",
+          "text": "Milieu du pli inguinal ;"
+        },
+        {
+          "letter": "D",
+          "text": "Milieu du pli inguinal controlatéral."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 13,
+      "text": "Parmi les incidences qui permettent l'exploration de l'articulation temporo-mandibulaire :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incidence trans-cranienne bouche ouverte ;"
+        },
+        {
+          "letter": "B",
+          "text": "Incidence trans-cranienne bouche fermée ;"
+        },
+        {
+          "letter": "C",
+          "text": "Incidence de Hirtz ;"
+        },
+        {
+          "letter": "D",
+          "text": "Incidence de Schuller."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 14,
+      "text": "L'incidence « Blondeau » :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Station assise ou verticale ;"
+        },
+        {
+          "letter": "B",
+          "text": "Rayon directeur horizontal ;"
+        },
+        {
+          "letter": "C",
+          "text": "Front contre le Potter ;"
+        },
+        {
+          "letter": "D",
+          "text": "OM -50° ;"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 15,
+      "text": "Rachis cervical incidence de face, Rayon Directeur :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inclinaison podocraniale de 30° à 35° ;"
+        },
+        {
+          "letter": "B",
+          "text": "Inclinaison craniopodale de 30° à 35° ;"
+        },
+        {
+          "letter": "C",
+          "text": "Inclinaison podocraniale de 20° à 25° ;"
+        },
+        {
+          "letter": "D",
+          "text": "Inclinaison craniopodale de 20° à 25°."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 16,
+      "text": "Incidence selon De Sèze :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "C'est une incidence dorso-lombo-pelvi-fémorale ;"
+        },
+        {
+          "letter": "B",
+          "text": "Face antérieure de l'abdomen contre le détecteur ;"
+        },
+        {
+          "letter": "C",
+          "text": "Rayon directeur incliné 20° vers les pieds ;"
+        },
+        {
+          "letter": "D",
+          "text": "Centrage sur la ligne médiane, 10cm au-dessus des épines iliaques."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 17,
+      "text": "Le centrage de l'abdomen sans préparation (ASP) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ligne médiane à 2 cm au-dessous des crêtes iliaques ;"
+        },
+        {
+          "letter": "B",
+          "text": "La ligne médiane à 2 cm au-dessus des crêtes iliaques ;"
+        },
+        {
+          "letter": "C",
+          "text": "La ligne médiane à hauteur des crêtes iliaques ;"
+        },
+        {
+          "letter": "D",
+          "text": "L'ombilic."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 18,
+      "text": "Les indications de l'urographie intraveineuse (UIV) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les lithiases des voies urinaires ;"
+        },
+        {
+          "letter": "B",
+          "text": "L'insuffisance hépatorenale grave ;"
+        },
+        {
+          "letter": "C",
+          "text": "Les 6 premières semaines de la grossesse ;"
+        },
+        {
+          "letter": "D",
+          "text": "Les malformations."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 19,
+      "text": "La mammographie :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "N'est jamais complétée par une échographie mammaire ;"
+        },
+        {
+          "letter": "B",
+          "text": "Doit être toujours bilatérale pour la comparaison ;"
+        },
+        {
+          "letter": "C",
+          "text": "Doit être toujours réalisée dans la première partie du cycle menstruelle ;"
+        },
+        {
+          "letter": "D",
+          "text": "Est praticable chez l'homme."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 20,
+      "text": "Les contre indications de l'Hystérosalpingographie :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La grossesse ;"
+        },
+        {
+          "letter": "B",
+          "text": "Les avortements à répétition ;"
+        },
+        {
+          "letter": "C",
+          "text": "L'infection génitale ;"
+        },
+        {
+          "letter": "D",
+          "text": "Les hémorragies abondantes."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 21,
+      "text": "En scanographie, il y a plusieurs types d'artefacts :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Artefact de volume partiel ;"
+        },
+        {
+          "letter": "B",
+          "text": "Artefact de surface ;"
+        },
+        {
+          "letter": "C",
+          "text": "Artefact de mesure ;"
+        },
+        {
+          "letter": "D",
+          "text": "Artefact du flou."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 22,
+      "text": "Les caractéristiques d'un produit de contraste :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Proposer le meilleur contraste possible ;"
+        },
+        {
+          "letter": "B",
+          "text": "La plus forte inertie pharmacologique ;"
+        },
+        {
+          "letter": "C",
+          "text": "Ils ne doivent être ni métabolisés, ni stockés dans l'organisme ;"
+        },
+        {
+          "letter": "D",
+          "text": "Ils doivent être totalement éliminés."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 23,
+      "text": "Parmi les critères de réussite d'une TDM Cérébrale la visualisation de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La totalité de l'encéphale ;"
+        },
+        {
+          "letter": "B",
+          "text": "Les éléments squelettiques du rachis cervical (les 7 vertèbres) ;"
+        },
+        {
+          "letter": "C",
+          "text": "La base du crâne ;"
+        },
+        {
+          "letter": "D",
+          "text": "L'odontoïde."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 24,
+      "text": "Le plan neuro-oculaire (PNO) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aligne les voies visuelles (cristallin, papille, nerf optique, canal optique) sur une coupe ;"
+        },
+        {
+          "letter": "B",
+          "text": "Il est oblique de -10 à -15 degrés par rapport au plan OM ;"
+        },
+        {
+          "letter": "C",
+          "text": "Ses repères externes : Nasion, CAE ;"
+        },
+        {
+          "letter": "D",
+          "text": "Il est parallèle à l'axe du tronc cérébral."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 25,
+      "text": "Les composantes d'une salle IRM sont :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aimant ;"
+        },
+        {
+          "letter": "B",
+          "text": "Collimateur ;"
+        },
+        {
+          "letter": "C",
+          "text": "Antennes : Émettrice et Réceptrice ;"
+        },
+        {
+          "letter": "D",
+          "text": "Système informatique."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 26,
+      "text": "Les contre-indications absolues d'un examen IRM :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pace-maker ;"
+        },
+        {
+          "letter": "B",
+          "text": "Grossesse ;"
+        },
+        {
+          "letter": "C",
+          "text": "Défibrillateur /neurostimulateur ;"
+        },
+        {
+          "letter": "D",
+          "text": "Claustrophobie."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 27,
+      "text": "Le Produit de contraste en IRM :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La gastrograhine ;"
+        },
+        {
+          "letter": "B",
+          "text": "Le sulfate de baryum BaSO4 ;"
+        },
+        {
+          "letter": "C",
+          "text": "Le gadolinium ;"
+        },
+        {
+          "letter": "D",
+          "text": "Aucun produit de contraste utilisé."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 28,
+      "text": "L'IRM repose principalement sur les propriétés magnétiques :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Des atomes d'oxygène ;"
+        },
+        {
+          "letter": "B",
+          "text": "Des atomes d'hydrogène ;"
+        },
+        {
+          "letter": "C",
+          "text": "Des atomes d'azote ;"
+        },
+        {
+          "letter": "D",
+          "text": "Des atomes de carbones."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 29,
+      "text": "Les caractéristiques de la Radiothérapie externe :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La source de rayonnement est située à distance du malade ;"
+        },
+        {
+          "letter": "B",
+          "text": "Permet une irradiation à dose très élevée au contact des sources, c-à-d au niveau de la tumeur ;"
+        },
+        {
+          "letter": "C",
+          "text": "Le traitement se fait souvent par des faisceaux multiples qui convergent vers le volume cible, au moins 2 faisceaux ;"
+        },
+        {
+          "letter": "D",
+          "text": "Le traitement continue sur 2 à 6 jours en hospitalisation."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 30,
+      "text": "La Radiothérapie palliative :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Il s'agit d'une irradiation d'une tumeur qu'on sait ne pas pouvoir guérir, parce qu'elle est volumineuse ou métastatique d'emblée ;"
+        },
+        {
+          "letter": "B",
+          "text": "Le but est d'améliorer le confort du malade ou soulager des symptômes ;"
+        },
+        {
+          "letter": "C",
+          "text": "Il s'agit de détruire toutes les cellules capables de se diviser contenues dans la tumeur et dans ses extensions afin d'obtenir une guérison définitive ;"
+        },
+        {
+          "letter": "D",
+          "text": "Le traitement se fait de façon accélérée en délivrant des doses élevées par fraction."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 31,
+      "text": "Les types de rayonnements utilisés en radiothérapie externe transcutanée :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les rayonnements électromagnétiques ;"
+        },
+        {
+          "letter": "B",
+          "text": "Les rayonnements ultrasonores ;"
+        },
+        {
+          "letter": "C",
+          "text": "Les rayonnements électromagnétiques : photons ;"
+        },
+        {
+          "letter": "D",
+          "text": "Les rayonnements corpusculaires : électrons, protons et ions lourds."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 32,
+      "text": "Dans un service de radiothérapie, il y a des machines de repérage radiologiques, comportant :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le simulateur ;"
+        },
+        {
+          "letter": "B",
+          "text": "Le simulateur scanner ;"
+        },
+        {
+          "letter": "C",
+          "text": "L'appareil de radiothérapie de contact ;"
+        },
+        {
+          "letter": "D",
+          "text": "L'appareil de radiothérapie de basse énergie."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 33,
+      "text": "Les inconvénients de la curiethérapie :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aucun inconvénient ;"
+        },
+        {
+          "letter": "B",
+          "text": "Nécessité d'une anesthésie locorégionale ou générale ;"
+        },
+        {
+          "letter": "C",
+          "text": "Une hospitalisation est obligatoire pour la curiethérapie à bas débit de dose ;"
+        },
+        {
+          "letter": "D",
+          "text": "La décroissance de dose est rapide permettant de préserver les tissus sains environnants."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 34,
+      "text": "Les caractéristiques de l'Ir192 :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rayons y d'énergie 0,66 Mev ;"
+        },
+        {
+          "letter": "B",
+          "text": "Période T = 30 ant. Décroissance de 1% par semestre ;"
+        },
+        {
+          "letter": "C",
+          "text": "Présentation : billes montées en train de sources dans des sondes métalliques ;"
+        },
+        {
+          "letter": "D",
+          "text": "Source radioactive scellée."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 35,
+      "text": "Les caractéristiques de la curiethérapie à haut débit de dose :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Débit supérieur à 12 Gy par heure ;"
+        },
+        {
+          "letter": "B",
+          "text": "Traitement continu sur 2 à 6 jours en hospitalisation ;"
+        },
+        {
+          "letter": "C",
+          "text": "Isolement des malades dans des chambres individuelles ;"
+        },
+        {
+          "letter": "D",
+          "text": "Traitement en ambulatoire durant quelques minutes."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 36,
+      "text": "La curiethérapie permet de traiter, des tumeurs cancéreuses, notamment :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De la sphère ORL ;"
+        },
+        {
+          "letter": "B",
+          "text": "De la peau ;"
+        },
+        {
+          "letter": "C",
+          "text": "Du cerveau ;"
+        },
+        {
+          "letter": "D",
+          "text": "Des organes génitaux."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 37,
+      "text": "Les isotopes se sont des atomes ayant :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le même nombre de masses A, mais ayant des numéros atomiques Z différents ;"
+        },
+        {
+          "letter": "B",
+          "text": "Le même nombre des neutrons N, mais ayant des nombres de masse A différent ;"
+        },
+        {
+          "letter": "C",
+          "text": "Le même numéro atomique Z, mais ayant des nombres de neutrons N différent ;"
+        },
+        {
+          "letter": "D",
+          "text": "Toutes les réponses sont fausses."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 38,
+      "text": "La gamma camera se compose :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "D'un collimateur ;"
+        },
+        {
+          "letter": "B",
+          "text": "D'un détecteur de scintillation (appelé aussi détecteur de cristal) ;"
+        },
+        {
+          "letter": "C",
+          "text": "De plusieurs photomultiplicateurs ;"
+        },
+        {
+          "letter": "D",
+          "text": "Des circuits logiques de position."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 39,
+      "text": "Les différentes modalités d'acquisition d'images scintigraphiques :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vues statiques ou planaires ;"
+        },
+        {
+          "letter": "B",
+          "text": "Balayages corps entier ;"
+        },
+        {
+          "letter": "C",
+          "text": "Tomographies ;"
+        },
+        {
+          "letter": "D",
+          "text": "Tomodensitométrie."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 40,
+      "text": "Les différents types de collimateur suivant l'orientation des trous :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Parallèles ;"
+        },
+        {
+          "letter": "B",
+          "text": "Sténopéique ou pin-hole ;"
+        },
+        {
+          "letter": "C",
+          "text": "Haute résolution ;"
+        },
+        {
+          "letter": "D",
+          "text": "Haute et moyen énergie."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    }
+  ],
+  "examTitle": "MAB (Ministère de la Santé) - Concours de recrutement des techniciens - 2018",
+  "specialty": "Technicien en radiologie",
+  "year": 2018
+}

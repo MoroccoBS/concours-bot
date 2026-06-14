@@ -1,0 +1,969 @@
+{
+  "sourceFile": "Concours-Radiologie-EAP-2012.pdf",
+  "language": "fr",
+  "questions": [
+    {
+      "number": 23,
+      "text": "Quelle est la principale cible de la radiothérapie :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le cytoplasme cellulaire."
+        },
+        {
+          "letter": "B",
+          "text": "L'ADN."
+        },
+        {
+          "letter": "C",
+          "text": "La membrane cellulaire."
+        },
+        {
+          "letter": "D",
+          "text": "Le vaisseau sanguin."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 24,
+      "text": "Concernant la radiothérapie, Quelle est la (ou les) propositions exacte:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Il s'agit d'un traitement locorégional."
+        },
+        {
+          "letter": "B",
+          "text": "Elle peut être associée à la chimiothérapie."
+        },
+        {
+          "letter": "C",
+          "text": "Elle n'est jamais indiquée seule."
+        },
+        {
+          "letter": "D",
+          "text": "Elle a le même mécanisme d'action que la chimiothérapie"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 25,
+      "text": "La Radiobiologie :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'étude des effets biologiques des rayonnements ionisants"
+        },
+        {
+          "letter": "B",
+          "text": "Permet le calcul de dose au niveau de la tumeur."
+        },
+        {
+          "letter": "C",
+          "text": "Permet de comprendre le mécanisme d'action des rayonnements ionisants sur la tumeur"
+        },
+        {
+          "letter": "D",
+          "text": "Permet de comprendre le mécanisme d'action des rayonnements ionisants sur les tissus sains."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 26,
+      "text": "En Radiothérapie les rayons sont délivrés par :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Des gamma caméras"
+        },
+        {
+          "letter": "B",
+          "text": "Des accélérateurs linéaires"
+        },
+        {
+          "letter": "C",
+          "text": "Des machines de radiofréquence"
+        },
+        {
+          "letter": "D",
+          "text": "Des machines de cryothérapie"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 27,
+      "text": "Concernant la planification de la radiothérapie:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La simulation est la première étape de planification."
+        },
+        {
+          "letter": "B",
+          "text": "Le radiothérapeute est le seul responsable de cette planification."
+        },
+        {
+          "letter": "C",
+          "text": "Elle se déroule en plusieurs étapes."
+        },
+        {
+          "letter": "D",
+          "text": "Elle nécessite la réalisation d'un scanner dosimétrique."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 33,
+      "text": "Au cours de la séance de radiothérapie, Quelle est la (ou les) propositions exactes:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le patient peut bouger."
+        },
+        {
+          "letter": "B",
+          "text": "Le technicien surveille le patient à travers des caméras."
+        },
+        {
+          "letter": "C",
+          "text": "Le positionnement du patient doit être vérifié."
+        },
+        {
+          "letter": "D",
+          "text": "La séance dure quelques minutes."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 34,
+      "text": "L'unité de prescription de dose en radiothérapie est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Joule (J)."
+        },
+        {
+          "letter": "B",
+          "text": "Gray (Gy)."
+        },
+        {
+          "letter": "C",
+          "text": "Mégaélectronvolts (MeV)"
+        },
+        {
+          "letter": "D",
+          "text": "Mégavolts (MV)"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 35,
+      "text": "Les effets secondaires aigus de la Radiothérapie:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Surviennent au cours de la radiothérapie"
+        },
+        {
+          "letter": "B",
+          "text": "Régressent spontanément après la fin de traitement."
+        },
+        {
+          "letter": "C",
+          "text": "Peuvent Apparaître jusqu'à 3 mois après la fin du traitement."
+        },
+        {
+          "letter": "D",
+          "text": "Sont irréversibles."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 36,
+      "text": "Les effets secondaires tardifs de la Radiothérapie:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sont peu ou pas réversibles"
+        },
+        {
+          "letter": "B",
+          "text": "doivent être cherchés systématiquement au cours des consultations de surveillance"
+        },
+        {
+          "letter": "C",
+          "text": "Apparaissent au delà de 3 mois après la fin du traitement."
+        },
+        {
+          "letter": "D",
+          "text": "Sont obligatoires."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 37,
+      "text": "En situation d'urgence, la radiothérapie peut être utilisée en cas de:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Compression médullaire."
+        },
+        {
+          "letter": "B",
+          "text": "Insuffisance cardiaque."
+        },
+        {
+          "letter": "C",
+          "text": "Hypertension intracrânienne."
+        },
+        {
+          "letter": "D",
+          "text": "Syndrome cave supérieur"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 5,
+      "text": "À propos de la technologie TDM, quelles sont les propositions exactes ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "l'acquisition TDM nécessite un balayage du volume exploré selon deux incidences orthogonales"
+        },
+        {
+          "letter": "B",
+          "text": "l'augmentation du nombre de détecteurs a permis une accélération de l'acquisition"
+        },
+        {
+          "letter": "C",
+          "text": "le passage du mode séquentiel au mode hélicoïdal a permis une accélération de l'acquisition"
+        },
+        {
+          "letter": "D",
+          "text": "le mode séquentiel ne permet pas d'effectuer des reconstructions volumiques"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 6,
+      "text": "À propos des rayonnements ionisants, quelles sont les propositions exactes ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "les examens TDM représentent la principale source d'exposition aux rayonnements ionisants d'origine médicale dans la population générale"
+        },
+        {
+          "letter": "B",
+          "text": "la dose délivrée au patient lors d'un examen doit être inscrite sur le rendu"
+        },
+        {
+          "letter": "C",
+          "text": "le nombre d'acquisitions après injection de produit de contraste ne modifie pas la dose"
+        },
+        {
+          "letter": "D",
+          "text": "lorsque cela est possible, il est préférable de substituer la TDM par une modalité n'utilisant pas les rayonnements ionisants"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 7,
+      "text": "Concernant le scanner :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "C'est un examen d'imagerie basé sur la mesure de l'absorption des rayons X par l'organisme."
+        },
+        {
+          "letter": "B",
+          "text": "L'analyse des images est basée sur l'étude de la densité des différentes structures."
+        },
+        {
+          "letter": "C",
+          "text": "C'est un examen irradiant. L'injection du produit de contraste est obligatoire pour toute indication clinique."
+        },
+        {
+          "letter": "D",
+          "text": "Il n'est pas irradiant"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 15,
+      "text": "Comment diminuer un artéfact de susceptibilité magnétique ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Employer des séquences en écho de spin au lieu de séquences en écho de gradient"
+        },
+        {
+          "letter": "B",
+          "text": "Employer des séquences en écho planar au lieu de séquences en écho de gradient"
+        },
+        {
+          "letter": "C",
+          "text": "Utiliser l'imagerie parallèle"
+        },
+        {
+          "letter": "D",
+          "text": "Ne pas employer la saturation de graisse."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 16,
+      "text": "Contre indication à l'IRM :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prothèse du genou"
+        },
+        {
+          "letter": "B",
+          "text": "grossesse"
+        },
+        {
+          "letter": "C",
+          "text": "Corps étranger métallique proche des yeux"
+        },
+        {
+          "letter": "D",
+          "text": "Plomb de chasse dans la paroi abdominale"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 17,
+      "text": "Parmi ces propositions, quelles sont les inconvénients de l'IRM :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Examen irradiant."
+        },
+        {
+          "letter": "B",
+          "text": "De réalisation longue."
+        },
+        {
+          "letter": "C",
+          "text": "Nécessite l'injection du PDC iodé."
+        },
+        {
+          "letter": "D",
+          "text": "Nécessite la coopération du patient."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 18,
+      "text": "Un angioscanner :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est indiqué devant une pathologie tumorale"
+        },
+        {
+          "letter": "B",
+          "text": "Est indiqué devant une pathologie vasculaire"
+        },
+        {
+          "letter": "C",
+          "text": "Les coupes sans injection de produit de contraste sont obligatoires"
+        },
+        {
+          "letter": "D",
+          "text": "Est contre-indiqué en cas de créatine sanguine à 20 mg/l"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 12,
+      "text": "En IRM :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chaque séquence est une subtile combinaison d'ondes de radiofréquence et de gradients"
+        },
+        {
+          "letter": "B",
+          "text": "Les objectifs à atteindre pour une séquence, quelle qu'elle soit, sont de favoriser le signal de tel ou tel tissu (contraste)."
+        },
+        {
+          "letter": "C",
+          "text": "Il existe deux grandes familles de séquences, en fonction du type d'écho enregistré :les séquences d'écho de spin, de rephasage et les séquences d'écho de gradient"
+        },
+        {
+          "letter": "D",
+          "text": "L'objectif de la séquence FLAIR est de supprimer le signal des liquides par une inversion-récupération à TI adapté."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 13,
+      "text": "Concernant l'imagerie de diffusion",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cette imagerie n'est pas sensible aux effets de susceptibilités magnétiques"
+        },
+        {
+          "letter": "B",
+          "text": "Elle n'est habituellement acquise que dans une direction de l'espace"
+        },
+        {
+          "letter": "C",
+          "text": "Elle ne peut pas employer les séquences en écho planar"
+        },
+        {
+          "letter": "D",
+          "text": "Il s'agit d'une séquence pondérée en T2 associée à des gradients de diffusion diminuant le signal des protons mobiles"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 14,
+      "text": "A propos de l'imagerie temps de vol (TOF)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Il s'agit d'une séquence de diffusion en écho planar"
+        },
+        {
+          "letter": "B",
+          "text": "Il s'agit d'une séquence de quantification de la graisse"
+        },
+        {
+          "letter": "C",
+          "text": "Il s'agit une séquence d'imagerie fonctionnelle"
+        },
+        {
+          "letter": "D",
+          "text": "Il s'agit d'une séquence de flux qui maximalise le signal des protons entrant dans la coupe"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 28,
+      "text": "Les moyens de contention en radiothérapie permettent de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "éviter d'irradier les tissus sains."
+        },
+        {
+          "letter": "B",
+          "text": "Améliorer la précision du traitement."
+        },
+        {
+          "letter": "C",
+          "text": "Améliorer le confort du patient."
+        },
+        {
+          "letter": "D",
+          "text": "Limiter les mouvements du patient au cours des séances de radiothérapie."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 29,
+      "text": "Les masques thermoformés sont utilisés dans la radiothérapie du :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cancer de la prostate."
+        },
+        {
+          "letter": "B",
+          "text": "Cancer ORL."
+        },
+        {
+          "letter": "C",
+          "text": "Cancer du cerveau."
+        },
+        {
+          "letter": "D",
+          "text": "Cancer du rectum."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 30,
+      "text": "Le scanner dosimétrique:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est un scanner diagnostique."
+        },
+        {
+          "letter": "B",
+          "text": "Permet la simulation de la radiothérapie."
+        },
+        {
+          "letter": "C",
+          "text": "Nécessite obligatoirement l'injection du produit de contraste."
+        },
+        {
+          "letter": "D",
+          "text": "Permet la réalisation de la dosimétrie."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 31,
+      "text": "Concernant la radioprotection, Quelle est la (ou les) propositions exactes:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "C'est l'ensemble des mesures qui permettent la protection de l'homme contre les effets néfastes des rayonnements ionisants."
+        },
+        {
+          "letter": "B",
+          "text": "Il faut passer le minimum de temps à proximité d'une source radioactive."
+        },
+        {
+          "letter": "C",
+          "text": "Ne concerne que le personnel soignant."
+        },
+        {
+          "letter": "D",
+          "text": "Il faut augmenter la distance entre l'opérateur et la source de radioactive."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 32,
+      "text": "Avant de délivrer la séance de radiothérapie, le technicien doit:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eviter le contact avec le patient."
+        },
+        {
+          "letter": "B",
+          "text": "Vérifier l'identité du patient."
+        },
+        {
+          "letter": "C",
+          "text": "Rassurer le patient et lui expliquer le déroulement de la séance."
+        },
+        {
+          "letter": "D",
+          "text": "Calculer le temps de traitement."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 8,
+      "text": "Parmi les propositions suivantes, quelles sont les contre-indications du scanner :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'insuffisance cardiaque"
+        },
+        {
+          "letter": "B",
+          "text": "L'hypo-protidémie"
+        },
+        {
+          "letter": "C",
+          "text": "La grossesse"
+        },
+        {
+          "letter": "D",
+          "text": "L'insuffisance rénale contre-indique l'injection du produit de contraste."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": false
+    },
+    {
+      "number": 9,
+      "text": "Concernant les paramètres d'exposition au scanner, quelle est la réponse vraie ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "les mAs déterminent l'énergie des rayons X"
+        },
+        {
+          "letter": "B",
+          "text": "les kV déterminent l'énergie des rayons X"
+        },
+        {
+          "letter": "C",
+          "text": "la dose varie avec le carré des mAs"
+        },
+        {
+          "letter": "D",
+          "text": "Il est toujours préférable de travailler avec des kV bas et des mAs élevés"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 10,
+      "text": "Les produits de contraste iodés :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ils donnent un contraste blanc sur l'image."
+        },
+        {
+          "letter": "B",
+          "text": "Ils sont néphrotoxiques."
+        },
+        {
+          "letter": "C",
+          "text": "Le port de Pace Maker contre-indique leur utilisation."
+        },
+        {
+          "letter": "D",
+          "text": "L'insomnie constitue un de leurs effets secondaires indésirables."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 11,
+      "text": "Les éléments indispensables à toute séquence d'IRM sont :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une impulsion RF d'excitation, nécessaire au phénomène de résonance magnétique"
+        },
+        {
+          "letter": "B",
+          "text": "Des gradients qui vont permettre le codage spatial (2D ou 3D"
+        },
+        {
+          "letter": "C",
+          "text": "Une lecture du signal,"
+        },
+        {
+          "letter": "D",
+          "text": "plusieurs types d'échos (écho de spin, de gradient, stimulé...) déterminant le type de contraste"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 21,
+      "text": "Concernant le tube à rayons X",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cathode est le pôle négatif du tube"
+        },
+        {
+          "letter": "B",
+          "text": "L'anode est le pôle positif du tube"
+        },
+        {
+          "letter": "C",
+          "text": "La cathode est la cible des électrons"
+        },
+        {
+          "letter": "D",
+          "text": "L'anode est la source des électrons"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 2,
+      "text": "Parmi les détecteurs en radiologie numérique on retient ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les écrans radio luminescents à mémoire"
+        },
+        {
+          "letter": "B",
+          "text": "Les détecteurs CR (Computed Radiography) à conversion indirecte"
+        },
+        {
+          "letter": "C",
+          "text": "Les détecteurs DR (Direct Radiography) à compteur de photons"
+        },
+        {
+          "letter": "D",
+          "text": "Les détecteur DR (Direct Radiography) à conversion directe"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 3,
+      "text": "Pour diminuer l'irradiation du patient en scopie quelles mesures doit-on adopter ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "centrer en scopie pulsée"
+        },
+        {
+          "letter": "B",
+          "text": "travailler avec le champ de vue le plus grand possible"
+        },
+        {
+          "letter": "C",
+          "text": "utiliser la scopie continue"
+        },
+        {
+          "letter": "D",
+          "text": "éloigner le patient du tube et le rapprocher du détecteur"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 4,
+      "text": "À propos de la technologie TDM, quelles sont les propositions exactes ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "l'acquisition TDM nécessite un balayage du volume exploré selon deux incidences orthogonales"
+        },
+        {
+          "letter": "B",
+          "text": "l'augmentation du nombre de détecteurs a permis une accélération de l'acquisition"
+        },
+        {
+          "letter": "C",
+          "text": "le passage du mode séquentiel au mode hélicoïdal a permis une accélération de l'acquisition"
+        },
+        {
+          "letter": "D",
+          "text": "le mode séquentiel ne permet pas d'effectuer des reconstructions volumiques"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 38,
+      "text": "La Radiothérapie à visée curative:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est rarement indiquée"
+        },
+        {
+          "letter": "B",
+          "text": "N'expose pas à des effets secondaires."
+        },
+        {
+          "letter": "C",
+          "text": "Permet de guérir la maladie cancéreuse."
+        },
+        {
+          "letter": "D",
+          "text": "La dose prescrite varie en fonction du type du cancer."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 39,
+      "text": "A propos de la médecine nucléaire :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ses domaines d'application concernent l'imagerie et le traitement."
+        },
+        {
+          "letter": "B",
+          "text": "Fait appel exclusivement aux rayonnements Gamma."
+        },
+        {
+          "letter": "C",
+          "text": "Le produit radiopharmaceutique est formé par un élément radioactif appelé traceur et par une molécule vectrice appelée marqueur."
+        },
+        {
+          "letter": "D",
+          "text": "La scintigraphie est contre-indiquée chez la femme enceinte."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 40,
+      "text": "En médecine nucléaire, la Gamma-caméra :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est un détecteur de rayonnements B- (Béta -)."
+        },
+        {
+          "letter": "B",
+          "text": "Le Technétium métastable (99mTc) est l'élément radioactif le plus utilisé en scintigraphie."
+        },
+        {
+          "letter": "C",
+          "text": "Ne permet pas une acquisition Tomographique."
+        },
+        {
+          "letter": "D",
+          "text": "Peut être couplée au scanner."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 19,
+      "text": "Les critères de qualité d'un cliché de face en mammographie",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Muscle pectoral doit être visible jusqu' à hauteur du mamelon"
+        },
+        {
+          "letter": "B",
+          "text": "Le sillon sous-mammaire doit être visible sur le cliché"
+        },
+        {
+          "letter": "C",
+          "text": "Mamelon en position médiane."
+        },
+        {
+          "letter": "D",
+          "text": "Lame graisseuse rétro glandulaire bien dégagée"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 20,
+      "text": "En radiologie interventionnelle, Concernant les techniques d'ablation percutanées :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ces techniques sont moins invasives que les traitements chirurgicaux"
+        },
+        {
+          "letter": "B",
+          "text": "Les techniques d'ablations percutanées, comme pour la chirurgie ne laissent aucun tissu résiduel en place"
+        },
+        {
+          "letter": "C",
+          "text": "La cryoablation permet de détruire les tissus à l'aide de cycles de congélation/décongélations"
+        },
+        {
+          "letter": "D",
+          "text": "Ces techniques peuvent être réalisées uniquement sous contrôle scannographique"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 21,
+      "text": "Concernant la radiothérapie conformationnelle, quelles sont les propositions exactes",
+      "options": [
+        {
+          "letter": "A",
+          "text": "C'est la technique de Radiothérapie la plus utilisée actuellement."
+        },
+        {
+          "letter": "B",
+          "text": "Elle utilise des images 2D."
+        },
+        {
+          "letter": "C",
+          "text": "Elle permet de conformer le volume irradié au volume tumoral."
+        },
+        {
+          "letter": "D",
+          "text": "Elle utilise des images 3D."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 22,
+      "text": "La curiethérapie :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Utilise des protons."
+        },
+        {
+          "letter": "B",
+          "text": "N'a plus d'indication actuellement."
+        },
+        {
+          "letter": "C",
+          "text": "Est une technique de radiothérapie."
+        },
+        {
+          "letter": "D",
+          "text": "Peut être utilisé dans le traitement des cancers gynécologiques."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    }
+  ],
+  "warnings": [
+    "Duplicate question number: 21"
+  ]
+}

@@ -1,0 +1,972 @@
+{
+  "sourceFile": "Concours-Radiologie-National-2018.pdf",
+  "language": "fr",
+  "questions": [
+    {
+      "number": 1,
+      "text": "Le sievert (Sv)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est l'unité de mesure des doses équivalente et efficace;"
+        },
+        {
+          "letter": "B",
+          "text": "Mesure la dose physiquement « absorbée » par la matière;"
+        },
+        {
+          "letter": "C",
+          "text": "Permet d'évaluer l'impact du rayonnement sur la matière vivante;"
+        },
+        {
+          "letter": "D",
+          "text": "Représente l'énergie absorbée par un kilogramme exposé à un rayonnement ionisant apportant une énergie d'1 joule;"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 2,
+      "text": "La période radioactive (période physique) est:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le temps au bout duquel l'activité d'un radionucléide a diminué de trois-quarts;"
+        },
+        {
+          "letter": "B",
+          "text": "Le temps au bout duquel l'activité d'un radionucléide a diminué de moitié;"
+        },
+        {
+          "letter": "C",
+          "text": "Le temps au bout duquel l'activité d'un radionucléide a diminué d'un quart;"
+        },
+        {
+          "letter": "D",
+          "text": "Toutes les réponses sont fausses;"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 3,
+      "text": "L'exposition professionnelle de tout travailleur ne doit pas dépasser la limite de:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La dose efficace de 20 msv par an en moyenne sur 5 années consécutives;"
+        },
+        {
+          "letter": "B",
+          "text": "La dose efficace de 50 msv en une seule année;"
+        },
+        {
+          "letter": "C",
+          "text": "La dose équivalente au cristallin de 150 msv en un an;"
+        },
+        {
+          "letter": "D",
+          "text": "La dose équivalente aux extrémités (mains et pieds) ou la peau de 500 mSv en un an."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 4,
+      "text": "La dosimétrie passive est réalisée grâce à:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un dosimètre thermoluminescent;"
+        },
+        {
+          "letter": "B",
+          "text": "Un dosimètre films-badges;"
+        },
+        {
+          "letter": "C",
+          "text": "Un dosimètre TLD;"
+        },
+        {
+          "letter": "D",
+          "text": "Un dosifilms."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 5,
+      "text": "Sur la face inférieure de la clavicule se situe:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le tubercule deltoïdien;"
+        },
+        {
+          "letter": "B",
+          "text": "Le tubercule conoïde;"
+        },
+        {
+          "letter": "C",
+          "text": "La ligne trapézoïde;"
+        },
+        {
+          "letter": "D",
+          "text": "Le sillon subclavier."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 6,
+      "text": "La rangée distale du carpe est constituée de dehors en dedans:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Du scaphoïde, du lunatum (le semi-lunaire), du capitatum (grand os) et de l'hamatum (os crochu);"
+        },
+        {
+          "letter": "B",
+          "text": "Du scaphoïde, du lunatum (le semi-lunaire), du triquetrum (pyramidal) et du pisiforme;"
+        },
+        {
+          "letter": "C",
+          "text": "Du trapèze, du trapézoïde, du capitatum (grand os) et de l'hamatum (os crochu);"
+        },
+        {
+          "letter": "D",
+          "text": "Du trapèze, du trapézoïde, du triquetrum (pyramidal) et du pisiforme."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 7,
+      "text": "L'astragale s'articule avec:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le calcanéum, le scaphoïde (l'os naviculaire), le cuboïde et le cunéiforme intermédiaire;"
+        },
+        {
+          "letter": "B",
+          "text": "Le calcanéum, le scaphoïde (l'os naviculaire), le cuboïde et le cunéiforme médial;"
+        },
+        {
+          "letter": "C",
+          "text": "Le tibia, le péroné, le cuboïde et le cunéiforme médial;"
+        },
+        {
+          "letter": "D",
+          "text": "Le tibia, le péroné, le calcanéum et le scaphoïde (l'os naviculaire)."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 8,
+      "text": "La ligne âpre du bord postérieur de la diaphyse fémorale se trifurque en haute en décrivant 3 (trois) lignes ou crêtes:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ligne spirale;"
+        },
+        {
+          "letter": "B",
+          "text": "La ligne arquée;"
+        },
+        {
+          "letter": "C",
+          "text": "La ligne pectinée;"
+        },
+        {
+          "letter": "D",
+          "text": "La tubérosité glutéale."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 9,
+      "text": "L'os Frontal:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "On lui décrit deux segments, un supérieur (horizontal) et l'autre inferieur (vertical);"
+        },
+        {
+          "letter": "B",
+          "text": "On lui décrit deux segments, un supérieur (vertical) et l'autre inferieur (horizontal);"
+        },
+        {
+          "letter": "C",
+          "text": "Le segment vertical est appelé l'écaille du frontal;"
+        },
+        {
+          "letter": "D",
+          "text": "Le segment horizontal est appelé orbito-nasal."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 10,
+      "text": "Le rachis lombaire est constitué de cinq vertèbres, chaque vertèbre présente à décrire:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un corps quadrangulaire, dont les bords latéraux des plateaux supérieurs se recourbent en dehors et vers le haut;"
+        },
+        {
+          "letter": "B",
+          "text": "Un arc postérieur triangulaire;"
+        },
+        {
+          "letter": "C",
+          "text": "Deux apophyses transverses, trapues et appelées : apophyses costiformes;"
+        },
+        {
+          "letter": "D",
+          "text": "Deux lames quadrilatères."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 11,
+      "text": "L'incidence de l'épaule de face en rotation neutre (indifférente) nécessite:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Position debout ou assise;"
+        },
+        {
+          "letter": "B",
+          "text": "Patient en oblique postérieure du côté à radiographier de 65°;"
+        },
+        {
+          "letter": "C",
+          "text": "Rayon directeur : inclinaison podocrâniale de 20° à 25°;"
+        },
+        {
+          "letter": "D",
+          "text": "Centrage : milieu de la clavicule."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 12,
+      "text": "L'incidence de BERNAGEAU:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est le profil glénoïdien de référence;"
+        },
+        {
+          "letter": "B",
+          "text": "Se fait debout, en oblique antérieure d'environ 45°;"
+        },
+        {
+          "letter": "C",
+          "text": "Membre supérieur le long du corps;"
+        },
+        {
+          "letter": "D",
+          "text": "Rayon directeur : podocrâniale de 25°."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 13,
+      "text": "Parmi les critères de réussite du faux profil de Lequesne:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nécessité d'avoir sur le cliché la hanche controlatérale;"
+        },
+        {
+          "letter": "B",
+          "text": "Petit trochanter barré par la corticale médiale de la diaphyse fémorale;"
+        },
+        {
+          "letter": "C",
+          "text": "On doit pouvoir placer virtuellement une tête fémorale dans l'espace délimité par les deux têtes fémorales;"
+        },
+        {
+          "letter": "D",
+          "text": "Bon dégagement de la jonction tête-col."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 14,
+      "text": "Incidence de la cheville de face:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Décubitus dorsal."
+        },
+        {
+          "letter": "B",
+          "text": "Rotation médiale de la cheville: horizontaliser la ligne bimalléolaire;"
+        },
+        {
+          "letter": "C",
+          "text": "Rayon directeur horizontal;"
+        },
+        {
+          "letter": "D",
+          "text": "Centrage : sur la ligne médiane, à 2 cm au-dessous de la pointe de la malléole latérale."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 15,
+      "text": "Incidence de la face haute:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Appui front-nez;"
+        },
+        {
+          "letter": "B",
+          "text": "Le rayon directeur fait un angle de +25° avec le plan OM;"
+        },
+        {
+          "letter": "C",
+          "text": "Le rayon directeur passe au milieu de la ligne Biauriculaire;"
+        },
+        {
+          "letter": "D",
+          "text": "Le rayon directeur vise le point situé à 4cm au-dessus de tragus."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 16,
+      "text": "Parmi les critères de réussite de l'incidence Schuller II:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La lame quadrilatère de la selle turcique se projette dans la moitié postérieure du trou occipital;"
+        },
+        {
+          "letter": "B",
+          "text": "Les bords supérieurs des rochers confondus avec les rebords orbitaires inférieurs;"
+        },
+        {
+          "letter": "C",
+          "text": "La superposition des deux hémicrânes;"
+        },
+        {
+          "letter": "D",
+          "text": "Les canaux semi-circulaires supérieurs sont déroulés."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 17,
+      "text": "Position de l'incidence de la charnière cervico-occipitale:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Patient assis ou debout en postéro-antérieur;"
+        },
+        {
+          "letter": "B",
+          "text": "La tête est légèrement fléchie afin d'amener le plan mastoïdien-rebord alvéolaire du maxillaire supérieur à l'horizontal;"
+        },
+        {
+          "letter": "C",
+          "text": "La bouche est grande ouverte pour libérer C1 et C2 de la superposition avec le rocher;"
+        },
+        {
+          "letter": "D",
+          "text": "L'ouverture de la bouche peut être maintenue par un bouchon de liège;"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 18,
+      "text": "Les corrélations anatomo-radiologiques des différentes parties des petits chiens de la chapelle (incidence oblique du rachis lombaire):",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Œil : apophyse transverse;"
+        },
+        {
+          "letter": "B",
+          "text": "Oreille : apophyse articulaire supérieure;"
+        },
+        {
+          "letter": "C",
+          "text": "Cou : isthme;"
+        },
+        {
+          "letter": "D",
+          "text": "Corps : apophyse articulaire inférieure;"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 19,
+      "text": "Parmi les intérêts du cliché localisé en mammographie:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bien visualiser les foyers de microcalcifications;"
+        },
+        {
+          "letter": "B",
+          "text": "Limiter les superpositions en refoulant les tissus voisins;"
+        },
+        {
+          "letter": "C",
+          "text": "Préciser les contours d'une opacité;"
+        },
+        {
+          "letter": "D",
+          "text": "Améliorer la définition des contours."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 20,
+      "text": "Parmi les clichés prises lors de l'examen de la base appareil en UIV:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un 1er cliché à la 3ème minute après le début de l'injection;"
+        },
+        {
+          "letter": "B",
+          "text": "Un 2ème cliché à la 5ème minute;"
+        },
+        {
+          "letter": "C",
+          "text": "Un 3ème cliché à la 10ème minute;"
+        },
+        {
+          "letter": "D",
+          "text": "Des clichés pré-mictionnels (vessie pleine)."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 21,
+      "text": "La Topographie des images hydro-aériques du grêle sur un cliché d'ASP:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Peu nombreuses;"
+        },
+        {
+          "letter": "B",
+          "text": "Périphériques;"
+        },
+        {
+          "letter": "C",
+          "text": "Plus larges que hautes;"
+        },
+        {
+          "letter": "D",
+          "text": "Volumineuses."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 22,
+      "text": "Parmi les causes des occlusions mécaniques au niveau du côlon:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La hernie étranglée;"
+        },
+        {
+          "letter": "B",
+          "text": "Les volvulus surtout au niveau du sigmoïde;"
+        },
+        {
+          "letter": "C",
+          "text": "Les brides post opératoires;"
+        },
+        {
+          "letter": "D",
+          "text": "Le cancer du côlon."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 23,
+      "text": "Parmi les critères de réussite d'un cliché pulmonaire de face en haute tension:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Poche à air gastrique visible;"
+        },
+        {
+          "letter": "B",
+          "text": "La symétrie des clavicules par rapport aux apophyses épineuses;"
+        },
+        {
+          "letter": "C",
+          "text": "Bonne analyse des espaces rétrocardiaques et retrosternal;"
+        },
+        {
+          "letter": "D",
+          "text": "Le bord médial des omoplates se projetant en dehors des champs pulmonaires."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 24,
+      "text": "Artefact de sous-échantillonnage en TDM:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est dû à une insuffisance de mesure;"
+        },
+        {
+          "letter": "B",
+          "text": "Se produit lorsque des structures de densités différentes se situent au sein d'un même voxel;"
+        },
+        {
+          "letter": "C",
+          "text": "On doit pouvoir placer virtuellement une tête fémorale dans l'espace délimité par les deux têtes fémorales;"
+        },
+        {
+          "letter": "D",
+          "text": "Corrigé par une augmentation du nombre de mesures (en diminuant le pitch)."
+        }
+      ],
+      "confidence": 0.8,
+      "needsReview": true,
+      "reviewNotes": [
+        "Option C seems to be a duplicate of Q13's option C. This is a potential source error."
+      ]
+    },
+    {
+      "number": 25,
+      "text": "Contre-indications du sulfate de baryum BaSO4:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La thyréotoxicose;"
+        },
+        {
+          "letter": "B",
+          "text": "Les examens précédant ou suivant immédiatement une intervention sur le tube digestif;"
+        },
+        {
+          "letter": "C",
+          "text": "Les perforations ou brèches dans la paroi digestive;"
+        },
+        {
+          "letter": "D",
+          "text": "Les syndromes occlusifs;"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 26,
+      "text": "L'injection du produit de contraste en TDM:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "N'est pas systématique;"
+        },
+        {
+          "letter": "B",
+          "text": "Est systématique;"
+        },
+        {
+          "letter": "C",
+          "text": "Peut être dangereuse chez les patients diabétiques;"
+        },
+        {
+          "letter": "D",
+          "text": "Est inutile voire trompeuse dans certaines indications comme l'hémorragie méningée."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 27,
+      "text": "En IRM, la séquence FLAIR ou FLAIRT2:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A pour but d'annuler le signal de la graisse;"
+        },
+        {
+          "letter": "B",
+          "text": "Permet d'éviter certains artefacts dus aux spins mobiles;"
+        },
+        {
+          "letter": "C",
+          "text": "Est utilisée dans l'exploration cérébrale, l'œdème et la nécrose;"
+        },
+        {
+          "letter": "D",
+          "text": "Est adaptée à l'étude de l'appareil locomoteur."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 28,
+      "text": "En IRM, les artéfacts de champ magnétique correspondent aux:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Artéfact de croisement de coupe;"
+        },
+        {
+          "letter": "B",
+          "text": "Artéfacts d'impulsions de radiofréquence;"
+        },
+        {
+          "letter": "C",
+          "text": "Artéfacts de mouvements aléatoires;"
+        },
+        {
+          "letter": "D",
+          "text": "Artéfacts de mouvements périodiques."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 29,
+      "text": "Pour limiter les erreurs sur la dose délivrée en radiothérapie, il convient de choisir:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une position de traitement fiable et reproductible;"
+        },
+        {
+          "letter": "B",
+          "text": "Un système de contention pour limiter les mouvements internes et externes du patient;"
+        },
+        {
+          "letter": "C",
+          "text": "Une balistique de traitement adaptée;"
+        },
+        {
+          "letter": "D",
+          "text": "Toutes les réponses sont fausses."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 30,
+      "text": "Parmi les caractéristiques des moyens de contentions utilisées en radiothérapie:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ne sont pas spécifiques à chaque localisation;"
+        },
+        {
+          "letter": "B",
+          "text": "Radiotransparentes;"
+        },
+        {
+          "letter": "C",
+          "text": "Souples;"
+        },
+        {
+          "letter": "D",
+          "text": "Encombrement minimal."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 31,
+      "text": "En radiothérapie, l'apparition des lésions dites déterministes dépend de:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La nature du tissu irradié;"
+        },
+        {
+          "letter": "B",
+          "text": "L'existence de tissu résiduel fonctionnel et de sa capacité de compensation (foie, rein);"
+        },
+        {
+          "letter": "C",
+          "text": "Paramètres de l'irradiation;"
+        },
+        {
+          "letter": "D",
+          "text": "Toutes les réponses sont fausses."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 32,
+      "text": "Les contraintes en Radiothérapie:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aucun contrainte;"
+        },
+        {
+          "letter": "B",
+          "text": "Les traitements requièrent un niveau de précision très élevé;"
+        },
+        {
+          "letter": "C",
+          "text": "L'erreur maximal tolérée sur la dose prescrite ne doit pas dépasser 5%;"
+        },
+        {
+          "letter": "D",
+          "text": "L'apparition des effets secondaires."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 33,
+      "text": "Les inconvénients de la Curiethérapie:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aucun inconvénient;"
+        },
+        {
+          "letter": "B",
+          "text": "Nécessité d'une anesthésie locorégionale ou générale;"
+        },
+        {
+          "letter": "C",
+          "text": "Une hospitalisation est obligatoire pour la curiethérapie à bas débit de dose;"
+        },
+        {
+          "letter": "D",
+          "text": "La décroissance de dose est rapide permettant de préserver les tissus sains environnants."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 34,
+      "text": "Caractéristiques du Césium 137 (Cs137):",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rayons γ d'énergie 662 KeV;"
+        },
+        {
+          "letter": "B",
+          "text": "Période T : 30 ans;"
+        },
+        {
+          "letter": "C",
+          "text": "Période T1/2 = 74 jours;"
+        },
+        {
+          "letter": "D",
+          "text": "Présentations : fils souples de 0,3 ou 0,5 mm de diamètre;"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 35,
+      "text": "Les caractéristiques de l'Iridium 192:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Source radioactive non scellée;"
+        },
+        {
+          "letter": "B",
+          "text": "Période T1/2 : 60 j;"
+        },
+        {
+          "letter": "C",
+          "text": "Présentation : fils rigides de 0,1mm de diamètre ou 0,2 mm;"
+        },
+        {
+          "letter": "D",
+          "text": "Toutes les réponses sont fausses."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 36,
+      "text": "Parmi les caractéristiques de la curiethérapie à bas débit de dose:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Activité de la source d'Ir192 à 10 curies;"
+        },
+        {
+          "letter": "B",
+          "text": "Source au contact ou au sein de la tumeur;"
+        },
+        {
+          "letter": "C",
+          "text": "Débit inférieur à 2 Gy par heure;"
+        },
+        {
+          "letter": "D",
+          "text": "Traitement en ambulatoire durant quelques minutes."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 37,
+      "text": "Les isobares se sont des atomes ayant:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le même nombre de masses A, mais ayant des numéros atomiques Z différents;"
+        },
+        {
+          "letter": "B",
+          "text": "Le même nombre des neutrons N, mais ayant des nombres de masse A différent;"
+        },
+        {
+          "letter": "C",
+          "text": "Le même numéro atomique Z, mais ayant des nombres de neutrons N différent;"
+        },
+        {
+          "letter": "D",
+          "text": "Toutes les réponses sont fausses."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 38,
+      "text": "La scintigraphie au DMSA:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Consiste à faire une injection IV du traceur, le 99mTc-DMSA;"
+        },
+        {
+          "letter": "B",
+          "text": "Consiste à réaliser une imagerie planaire entre 1h et 2h après l'injection;"
+        },
+        {
+          "letter": "C",
+          "text": "Utilise le DMSA qui est un traceur spécifique des tubules et qui s'accumule pendant plusieurs heures au niveau du cortex;"
+        },
+        {
+          "letter": "D",
+          "text": "Est indiquée pour la détection du rein ectopique."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 39,
+      "text": "Les contre-indications de la scintigraphie parathyroïdienne:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Grossesse;"
+        },
+        {
+          "letter": "B",
+          "text": "Hypertension artérielle;"
+        },
+        {
+          "letter": "C",
+          "text": "Diabète;"
+        },
+        {
+          "letter": "D",
+          "text": "En cas d'allaitement, le lait maternel doit être réceptionné et jeté pendant 24 h."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 40,
+      "text": "Caractéristiques de la molécule vectrice MAG3:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eliminé par filtration glomérulaire;"
+        },
+        {
+          "letter": "B",
+          "text": "Eliminé principalement par sécrétion tubulaire;"
+        },
+        {
+          "letter": "C",
+          "text": "Possède une clairance plasmatique moins élevée;"
+        },
+        {
+          "letter": "D",
+          "text": "Possède une clairance plasmatique élevée."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    }
+  ],
+  "examTitle": "Mise au concours de recrutement des techniciens de santé 1er grade",
+  "specialty": "Technicien en radiologie",
+  "year": 2018
+}
