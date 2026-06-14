@@ -1,30 +1,56 @@
 import { EmbedBuilder } from "discord.js";
 import type { Poll, Session } from "../types";
 
+const COLORS = {
+  active: 0x2f80ed,
+  blind: 0x9b51e0,
+  success: 0x27ae60,
+  results: 0x00a8cc,
+  leaderboard: 0xf2994a,
+};
+
+const OPTION_BADGES: Record<string, string> = {
+  A: "🇦",
+  B: "🇧",
+  C: "🇨",
+  D: "🇩",
+  E: "🇪",
+};
+
 // ── Active poll embed (votes are hidden) ──────────────────────────────────────
 export function buildQcmEmbed(poll: Poll): EmbedBuilder {
   const optionLines = poll.options
-    .map((o) => `> **${o.letter}.** ${o.text}`)
-    .join("\n");
+    .map((o) => `${OPTION_BADGES[o.letter] ?? "▫️"}  **${o.letter}.** ${o.text}`)
+    .join("\n\n");
 
   const label = poll.questionNumber
-    ? `📝 Question **#${poll.questionNumber}**`
-    : "📝 QCM — Concours Préparation";
+    ? `Question #${poll.questionNumber}`
+    : "QCM Concours";
 
   const deadline = `<t:${Math.floor(poll.endsAt / 1000)}:R>`;
   const voters = poll.votes.size;
   const mode = poll.correctAnswers?.length
-    ? "Correction configurée"
-    : "Mode participation: réponse inconnue";
+    ? "Correction prête"
+    : "Participation libre";
 
   return new EmbedBuilder()
-    .setColor(poll.correctAnswers?.length ? 0x5865f2 : 0xfee75c)
-    .setTitle(label)
+    .setColor(poll.correctAnswers?.length ? COLORS.active : COLORS.blind)
+    .setAuthor({ name: "Concours QCM" })
+    .setTitle(`📝 ${label}`)
     .setDescription(
-      `**${poll.question}**\n\n${optionLines}\n\n⏱️ Vote se ferme ${deadline}\n🗳️ ${voters} participant${voters !== 1 ? "s" : ""}\n🔒 ${mode}`,
+      [
+        `### ${poll.question}`,
+        "",
+        optionLines,
+        "",
+        "━━━━━━━━━━━━━━━━━━━━",
+        `⏱️ **Fin du vote** ${deadline}`,
+        `🗳️ **${voters}** participant${voters !== 1 ? "s" : ""}`,
+        `🔐 **${mode}**`,
+      ].join("\n"),
     )
     .setFooter({
-      text: "Choisis une ou plusieurs lettres — ton dernier choix remplace le précédent",
+      text: "Choisis une ou plusieurs réponses. Ton dernier choix remplace le précédent.",
     });
 }
 
@@ -51,11 +77,15 @@ export function buildRevealEmbed(
     .map((o) => {
       const count = voteCount.get(o.letter) ?? 0;
       const isCorrect = correctAnswers.has(o.letter);
-      const icon = !hasCorrection ? "▫️" : isCorrect ? "✅" : "❌";
-      const filled = total > 0 ? Math.round((count / total) * 8) : 0;
-      const bar = "█".repeat(filled) + "░".repeat(8 - filled);
-      const correctTag = isCorrect ? " ◀ BONNE RÉPONSE" : "";
-      return `${icon} **${o.letter}.** ${o.text}\n\`${bar}\` ${count} vote${count !== 1 ? "s" : ""}${correctTag}`;
+      const icon = hasCorrection ? (isCorrect ? "✅" : "❌") : "📌";
+      const filled = total > 0 ? Math.round((count / total) * 10) : 0;
+      const bar = "▰".repeat(filled) + "▱".repeat(10 - filled);
+      const percent = total > 0 ? Math.round((count / total) * 100) : 0;
+      const correctTag = isCorrect ? "  **BONNE RÉPONSE**" : "";
+      return [
+        `${icon} ${OPTION_BADGES[o.letter] ?? ""} **${o.letter}.** ${o.text}${correctTag}`,
+        `\`${bar}\`  **${count}** vote${count !== 1 ? "s" : ""}  ·  **${percent}%**`,
+      ].join("\n");
     })
     .join("\n\n");
 
@@ -71,21 +101,31 @@ export function buildRevealEmbed(
   }
 
   const questionLabel = poll.questionNumber
-    ? `Correction — Question #${poll.questionNumber}`
-    : "Correction";
+    ? `${hasCorrection ? "Correction" : "Résultats"} · Question #${poll.questionNumber}`
+    : hasCorrection
+      ? "Correction"
+      : "Résultats";
 
   const embed = new EmbedBuilder()
-    .setColor(hasCorrection ? 0x57f287 : 0xfee75c)
+    .setColor(hasCorrection ? COLORS.success : COLORS.results)
+    .setAuthor({ name: "Concours QCM" })
     .setTitle(`${hasCorrection ? "📋" : "📊"} ${questionLabel}`)
-    .setDescription(`**${poll.question}**\n\n${optionLines}`);
+    .setDescription(
+      [
+        `### ${poll.question}`,
+        "",
+        `🗳️ **${total}** participant${total !== 1 ? "s" : ""}`,
+        hasCorrection
+          ? `✅ Réponse attendue : **${formatAnswers(poll.correctAnswers ?? [])}**`
+          : "📊 Résultats du vote",
+        "",
+        "━━━━━━━━━━━━━━━━━━━━",
+        "",
+        optionLines,
+      ].join("\n"),
+    );
 
-  if (!hasCorrection) {
-    embed.addFields({
-      name: "Réponse non définie",
-      value:
-        "Résultats affichés sans correction. Utilise `/reveal a:true b:true` la prochaine fois si la réponse devient connue avant la correction.",
-    });
-  } else if (total === 0 && poll.correctAnswers) {
+  if (hasCorrection && total === 0 && poll.correctAnswers) {
     embed.addFields({
       name: "Aucun vote",
       value: `La bonne réponse était **${formatAnswers(poll.correctAnswers)}**`,
@@ -148,7 +188,7 @@ export function buildLeaderboardEmbed(
     : `📊 Scores en cours`;
 
   return new EmbedBuilder()
-    .setColor(0xfee75c) // Gold
+    .setColor(COLORS.leaderboard)
     .setTitle(title)
     .setDescription(leaderboard)
     .setFooter({ text: `${done}/${total} questions posées` });

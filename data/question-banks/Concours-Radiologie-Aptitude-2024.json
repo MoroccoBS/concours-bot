@@ -1,0 +1,726 @@
+{
+  "sourceFile": "Concours-Radiologie-Aptitude-2024.pdf",
+  "language": "fr",
+  "questions": [
+    {
+      "number": 1,
+      "text": "Les techniciens de radiologie réalisent des actes relevant de l'imagerie médicale, de la médecine nucléaire, des explorations fonctionnelles et de la radiothérapie qui concourent à la prévention, au dépistage, au diagnostic, au traitement et à la recherche. Parmi ces actes il y a :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'information de la personne soignée et la mise en œuvre des soins dans le cadre de la continuité des soins"
+        },
+        {
+          "letter": "B",
+          "text": "La mise en œuvre des mesures de radioprotection"
+        },
+        {
+          "letter": "C",
+          "text": "L'organisation des activités et la gestion administrative"
+        },
+        {
+          "letter": "D",
+          "text": "La formation et l'information des professionnels et des étudiants"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 2,
+      "text": "Les voies d'exposition des embryons aux rayonnements, sont :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'ingestion de la mère de produits radiopharmaceutiques"
+        },
+        {
+          "letter": "B",
+          "text": "L'ingestion de la mère d'aliments solides ou liquides radioactifs"
+        },
+        {
+          "letter": "C",
+          "text": "L'exposition de la mère à des rayons X"
+        },
+        {
+          "letter": "D",
+          "text": "L'exposition de la mère à des rayons gamma"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 3,
+      "text": "On parle de « rayonnement primaire », lorsqu'il s'agit :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "D'un rayonnement résultant de l'interaction du rayonnement secondaire avec la matière"
+        },
+        {
+          "letter": "B",
+          "text": "D'un rayonnement émis spontanément par une source radioactive"
+        },
+        {
+          "letter": "C",
+          "text": "D'une particule électriquement chargée d'énergie suffisante pour produire des ions par interaction avec la matière"
+        },
+        {
+          "letter": "D",
+          "text": "Toutes les propositions sont fausses"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 4,
+      "text": "Parmi les facteurs physiques jouant sur l'effet cellulaire des rayonnements ionisants, il y a :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La protection chimique"
+        },
+        {
+          "letter": "B",
+          "text": "L'environnement cellulaire"
+        },
+        {
+          "letter": "C",
+          "text": "Le fractionnement et le débit de dose"
+        },
+        {
+          "letter": "D",
+          "text": "La réparation cellulaire"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 5,
+      "text": "Les effets tératogènes des rayonnements ionisants :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se traduisent par des malformations de l'embryon ou du fœtus"
+        },
+        {
+          "letter": "B",
+          "text": "Se traduisent par l'induction de cancer et de leucémie"
+        },
+        {
+          "letter": "C",
+          "text": "Sont des effets déterministes"
+        },
+        {
+          "letter": "D",
+          "text": "Sont des effets aléatoires"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 6,
+      "text": "Lors d'une radiographie thoracique, quel est le rôle du diaphragme ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Réduire la durée de l'examen pour diminuer l'exposition"
+        },
+        {
+          "letter": "B",
+          "text": "Limiter la zone irradiée afin de réduire l'exposition aux rayonnements"
+        },
+        {
+          "letter": "C",
+          "text": "Améliorer la qualité de l'image obtenue"
+        },
+        {
+          "letter": "D",
+          "text": "Protéger le patient contre les effets biologiques des radiations"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 7,
+      "text": "Sur la face médiale de l'os coxal on trouve :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ligne âpre qui prolonge le pecten du pubis"
+        },
+        {
+          "letter": "B",
+          "text": "Au-dessus de la ligne âpre la fosse iliaque en avant et la face sacro-pelvienne en arrière"
+        },
+        {
+          "letter": "C",
+          "text": "La face sacro-pelvienne qui comprend en avant la tubérosité iliaque et la surface auriculaire en arrière"
+        },
+        {
+          "letter": "D",
+          "text": "La tubérosité iliaque qui forme une saillie régulière"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 8,
+      "text": "La face supérieure du calcanéum présente deux segments, un postérieur étroit et un antérieur large :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le segment postérieur est criblé de nombreux trous vasculaires"
+        },
+        {
+          "letter": "B",
+          "text": "Le segment antérieur représente les 2/3 de la longueur de l'os"
+        },
+        {
+          "letter": "C",
+          "text": "Le segment antérieur est élargi en partant par une apophyse externe qui est la sustentaculum-tali"
+        },
+        {
+          "letter": "D",
+          "text": "Toutes les propositions sont fausses"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 9,
+      "text": "La face postérieure de la rotule :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Présente une zone articulaire encroûtée de cartilage"
+        },
+        {
+          "letter": "B",
+          "text": "Est plate et perforée de petits orifices vasculaires"
+        },
+        {
+          "letter": "C",
+          "text": "S'articule avec la trochlée fémorale"
+        },
+        {
+          "letter": "D",
+          "text": "Est sous cutané"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 10,
+      "text": "L'épiphyse distale de l'humérus est constitué d' :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un tubercule mineur"
+        },
+        {
+          "letter": "B",
+          "text": "Un tubercule majeur"
+        },
+        {
+          "letter": "C",
+          "text": "Un capitulum"
+        },
+        {
+          "letter": "D",
+          "text": "Une trochlée"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 11,
+      "text": "La réalisation de l'incidence de l'avant-pied de face se fait de la (les) façon(s) suivante(s) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le patient en décubitus dorsal"
+        },
+        {
+          "letter": "B",
+          "text": "Face plantaire du pied soulever par une cale de 45°"
+        },
+        {
+          "letter": "C",
+          "text": "Rayon directeur vertical"
+        },
+        {
+          "letter": "D",
+          "text": "Le centrage est au niveau de la deuxième articulation métatarsophalangienne"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 12,
+      "text": "Parmi les critères de réussite du cliché de la main de face, on note :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Visualisation de l'extrémité inférieure des deux os de l'avant-bras"
+        },
+        {
+          "letter": "B",
+          "text": "Alignement du radius avec le 3ème métacarpien"
+        },
+        {
+          "letter": "C",
+          "text": "Bon dégagement de l'interligne radio-ulnaire inférieur"
+        },
+        {
+          "letter": "D",
+          "text": "Visualisation des interlignes carpométacarpiens"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 13,
+      "text": "La réalisation de l'incidence du profil trans-thoracique du bras se fait de la (les) façon(s) suivante(s) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le patient est debout ou assis avec le bras controlatéral est placé au-dessus de la tête"
+        },
+        {
+          "letter": "B",
+          "text": "L'épaule homolatérale est abaissée en inclinant le tronc"
+        },
+        {
+          "letter": "C",
+          "text": "En respiration spontanée pour effacer les côtes"
+        },
+        {
+          "letter": "D",
+          "text": "Rayon directeur est incliné en bas et doit émerger au milieu du bras"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 14,
+      "text": "En urgence, la radiographie du rachis cervical la plus importante est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La face"
+        },
+        {
+          "letter": "B",
+          "text": "Le profil"
+        },
+        {
+          "letter": "C",
+          "text": "L'oblique antérieur droit et l'oblique antérieur gauche"
+        },
+        {
+          "letter": "D",
+          "text": "L'oblique postérieur droit et l'oblique postérieur gauche"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 15,
+      "text": "Parmi les indications de l'incidence de la C.C.O (charnière cervico-occipitale), on cite :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tumeur cervicale"
+        },
+        {
+          "letter": "B",
+          "text": "Suspicion de malformation"
+        },
+        {
+          "letter": "C",
+          "text": "Hyperthyroïdie"
+        },
+        {
+          "letter": "D",
+          "text": "Cou court"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 16,
+      "text": "L'intérêt de l'incidence de Dorland est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'étude du massif facial après traumatisme"
+        },
+        {
+          "letter": "B",
+          "text": "L'étude du massif articulaire de l'arc antérieur après traumatisme"
+        },
+        {
+          "letter": "C",
+          "text": "L'étude du massif articulaire de l'arc postérieur après traumatisme"
+        },
+        {
+          "letter": "D",
+          "text": "L'étude du processus épineux après traumatisme"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 17,
+      "text": "Parmi les contres indications formelles de l'incidence de hirtz et ces variantes sub axial et hyper axial, on note :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'insuffisance vertébro-basillaire"
+        },
+        {
+          "letter": "B",
+          "text": "Le traumatisme cervical"
+        },
+        {
+          "letter": "C",
+          "text": "Le patient comateux"
+        },
+        {
+          "letter": "D",
+          "text": "L'arthrose cervicale"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 18,
+      "text": "La réalisation de l'incidence du sacrum de profil se fait de la (les) façon(s) suivante(s) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La vacuité vésicale et rectale est recommandée"
+        },
+        {
+          "letter": "B",
+          "text": "Le R.D.H. est centré de 2 à 6 cm au-dessous de la crête iliaque et de 2 à 4 cm en avant de la face postérieure du sacrum"
+        },
+        {
+          "letter": "C",
+          "text": "Le R.D.H. est centré de 8 à 10 cm au-dessous de la crête iliaque et de 4 à 8 cm en avant de la face postérieure du sacrum"
+        },
+        {
+          "letter": "D",
+          "text": "La distance foyer-film est de 1m50"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 19,
+      "text": "Parmi les incidences recommandées pour l'exploration des os propres du nez, on cite :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Crâne de profil"
+        },
+        {
+          "letter": "B",
+          "text": "Face haute"
+        },
+        {
+          "letter": "C",
+          "text": "Blondeau"
+        },
+        {
+          "letter": "D",
+          "text": "Gosserez"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 20,
+      "text": "Parmi les propositions suivantes relatives à l'incidence crâne de profil, quelle(s) est (sont) celle(s) juste(s) ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le plan S est parallèle à la table"
+        },
+        {
+          "letter": "B",
+          "text": "Le rayon est centré à 1 cm en avant du CAE et 3 cm au-dessus"
+        },
+        {
+          "letter": "C",
+          "text": "Elle est préconisée pour dégager les cadres orbitaires de toute superposition"
+        },
+        {
+          "letter": "D",
+          "text": "Elle est recommandée pour la recherche d'un corps étranger"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 21,
+      "text": "Lors d'un examen scanographique, l'injection d'un produit de contraste est indiquée pour :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Visualiser un vaisseau sanguin"
+        },
+        {
+          "letter": "B",
+          "text": "Étudier les reins et les voies excrétrices"
+        },
+        {
+          "letter": "C",
+          "text": "Confirmer l'insuffisance rénale sévère"
+        },
+        {
+          "letter": "D",
+          "text": "Différencier l'acquisition : 25cm"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 22,
+      "text": "Parmi les propositions suivantes relatives à la TDM cérébrale, quelle(s) est (sont) celle(s) juste(s) ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Elle est indiquée pour une crise d'épilepsie"
+        },
+        {
+          "letter": "B",
+          "text": "Champs d'acquisition : 25cm"
+        },
+        {
+          "letter": "C",
+          "text": "Pitch=1"
+        },
+        {
+          "letter": "D",
+          "text": "Les images sont prises en fenêtres osseuses et parenchymateuses"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 23,
+      "text": "Parmi les propositions suivantes relatives à la scanopelvimetrie quelle(s) est (sont) celle(s) juste(s) ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le centrage Sagittal : PSM"
+        },
+        {
+          "letter": "B",
+          "text": "Le centrage Coronal : mi épaisseur du pelvis"
+        },
+        {
+          "letter": "C",
+          "text": "Le centrage Axial : 4 cm au-dessous de la ligne joignant les deux crêtes iliaques ou appendice xiphoïde selon position de la patiente et direction de la table IN ou OUT"
+        },
+        {
+          "letter": "D",
+          "text": "Une seule acquisition hélicoïdale est nécessaire"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 24,
+      "text": "Parmi les indications du Body scan, on trouve :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recherche de calcifications dans les tissus mous"
+        },
+        {
+          "letter": "B",
+          "text": "Recherche des tumeurs"
+        },
+        {
+          "letter": "C",
+          "text": "Maladie de Crohn"
+        },
+        {
+          "letter": "D",
+          "text": "Bilan général complet en cas de douleurs inexpliquées"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 25,
+      "text": "Parmi les contre-indications absolues de l'IRM, on cite :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les clips vasculaires"
+        },
+        {
+          "letter": "B",
+          "text": "Les pompes à perfusion implantable"
+        },
+        {
+          "letter": "C",
+          "text": "Les prothèses auditives"
+        },
+        {
+          "letter": "D",
+          "text": "Le pace maker"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 26,
+      "text": "La chimiothérapie peut être utiliser soit :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Avant la radiothérapie et on l'appelle chimiothérapie adjuvante"
+        },
+        {
+          "letter": "B",
+          "text": "Après la radiothérapie et on l'appelle chimiothérapie néoadjuvante"
+        },
+        {
+          "letter": "C",
+          "text": "Simultanée et on parle de Radio- chimiothérapie concomitante"
+        },
+        {
+          "letter": "D",
+          "text": "Toutes les propositions sont fausses"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 27,
+      "text": "Parmi les propositions suivantes relatives à la radiothérapie palliative, quelle(s) est (sont) celle(s) juste(s) ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Il s'agit d'une irradiation d'une tumeur qu'on sait ne pas pouvoir guérir parce qu'elle est volumineuse ou métastatique d'emblée"
+        },
+        {
+          "letter": "B",
+          "text": "Se fait par des petites fractions et étalée dans le temps pour éviter les complications tardives"
+        },
+        {
+          "letter": "C",
+          "text": "Son but est d'améliorer le confort du malade ou soulager des symptômes"
+        },
+        {
+          "letter": "D",
+          "text": "Son but est de diminuer le risque de récidive locale en détruisant la maladie infra clinique, et de limiter les greffes néoplasiques en peropératoire"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 28,
+      "text": "En scintigraphie, les différents types de collimateur suivant l'orientation des trous, il y a :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le collimateur à trous perpendiculaire"
+        },
+        {
+          "letter": "B",
+          "text": "Le collimateur à trous parallèle"
+        },
+        {
+          "letter": "C",
+          "text": "Le collimateur en éventail (ou fan-beam)"
+        },
+        {
+          "letter": "D",
+          "text": "Le collimateur sténopé (ou pinhole)"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 29,
+      "text": "Parmi les indications de la scintigraphie au DMSA, on note :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Détection de séquelles rénales 6 mois après un épisode de pyélonéphrite aiguë"
+        },
+        {
+          "letter": "B",
+          "text": "Diagnostic de pyélonéphrite aiguë"
+        },
+        {
+          "letter": "C",
+          "text": "Détection de rein ectopique"
+        },
+        {
+          "letter": "D",
+          "text": "Confirmation du caractère non fonctionnel d'un rein dysplasique multi-kystique"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 30,
+      "text": "Les caractéristiques de l'Ir192, sont :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Source radioactive non scellée"
+        },
+        {
+          "letter": "B",
+          "text": "Source radioactive scellée"
+        },
+        {
+          "letter": "C",
+          "text": "Période T : 8 jours"
+        },
+        {
+          "letter": "D",
+          "text": "Se présente sous forme de fil souples de 0,3 ou 0,5 mm de diamètre"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    }
+  ]
+}

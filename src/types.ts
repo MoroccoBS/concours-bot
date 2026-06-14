@@ -1,5 +1,5 @@
 export interface PollOption {
-  letter: string; // 'A' | 'B' | 'C' | 'D'
+  letter: string; // 'A' | 'B' | 'C' | 'D' | 'E'
   text: string;
 }
 
@@ -27,4 +27,40 @@ export interface Session {
   scores: Map<string, number>; // userId → correct count
   startedAt: number;
   active: boolean;
+}
+
+export interface QuestionBankOption {
+  letter: string;
+  text: string;
+}
+
+export interface QuestionBankQuestion {
+  number: number;
+  text: string;
+  options: QuestionBankOption[];
+  correctAnswers?: string[];
+  pageStart?: number;
+  pageEnd?: number;
+  confidence?: number;
+  needsReview?: boolean;
+  reviewNotes?: string[];
+}
+
+export interface QuestionBank {
+  id: string;
+  sourceFile: string;
+  examTitle?: string | null;
+  specialty?: string | null;
+  year?: number | null;
+  language?: string;
+  questions: QuestionBankQuestion[];
+  warnings?: string[];
+}
+
+export interface BankProgress {
+  channelId: string;
+  bankId: string;
+  nextIndex: number;
+  covered: number;
+  updatedAt: number;
 }

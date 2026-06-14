@@ -13,6 +13,10 @@ Bot Discord pour s'entraîner aux QCM du concours avec des amis. Crée des sonda
 | `/session start questions:N` | Démarre une session de N questions |
 | `/session scores` | Affiche le classement en cours |
 | `/session end` | Termine la session et affiche le classement final |
+| `/concours list` | Liste les concours importés depuis les PDFs |
+| `/concours select bank:...` | Choisit un concours pour le salon |
+| `/concours next` | Poste la prochaine question du concours choisi |
+| `/concours status` | Affiche la progression du salon |
 | `/ping` | Vérifie que le bot est en ligne |
 
 ### Exemple de flux typique
@@ -29,6 +33,20 @@ Bot Discord pour s'entraîner aux QCM du concours avec des amis. Crée des sonda
 
 /session scores   ← voir le classement
 /session end      ← classement final
+```
+
+### Flux avec concours importé
+
+```
+/concours list
+/concours select bank:Concours-Radiologie-Aptitude-2024
+/concours next
+
+→ Tout le monde vote
+→ /reveal affiche la correction si elle existe dans la banque
+→ /concours next poste la question suivante
+
+/concours status  ← voir combien de questions ont été couvertes
 ```
 
 ---

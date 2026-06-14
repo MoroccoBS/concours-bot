@@ -1,0 +1,1050 @@
+{
+  "sourceFile": "Concours-Clinique-CHU-Tanger-Tetouan-Al-Hoceima.pdf",
+  "language": "fr",
+  "questions": [
+    {
+      "number": 1,
+      "text": "Concernant le diagnostic de la Covid-19, quelles sont les affirmations fausses?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'absence de symptômes élimine l'infection"
+        },
+        {
+          "letter": "B",
+          "text": "Une PCR négative élimine l'infection"
+        },
+        {
+          "letter": "C",
+          "text": "Un test rapide antigénique négatif élimine l'infection"
+        },
+        {
+          "letter": "D",
+          "text": "La TDM thoracique normale élimine l'infection"
+        },
+        {
+          "letter": "E",
+          "text": "Une sérologie négative élimine l'infection"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 2,
+      "text": "Les deux signes cliniques les plus fréquents dans la Covid-19 sont",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Anosmie"
+        },
+        {
+          "letter": "B",
+          "text": "Agueusie"
+        },
+        {
+          "letter": "C",
+          "text": "Fièvre"
+        },
+        {
+          "letter": "D",
+          "text": "Diarrhée"
+        },
+        {
+          "letter": "E",
+          "text": "Toux"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 3,
+      "text": "Les critères d'alerte au cours de la surveillance des paramètres chez un patient infecté par la Covid-19 sont :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pression artérielle à 100/60 mmhg"
+        },
+        {
+          "letter": "B",
+          "text": "Température à 38°c"
+        },
+        {
+          "letter": "C",
+          "text": "Saturation en oxygène à 94% en air ambiant"
+        },
+        {
+          "letter": "D",
+          "text": "Fréquence cardiaque à 80 battements par minute"
+        },
+        {
+          "letter": "E",
+          "text": "Fréquence respiratoire à 25 cycles par minute au repos"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 4,
+      "text": "La prévention de la transmission de l'infection en milieu de soins repose sur.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se laver fréquemment les mains"
+        },
+        {
+          "letter": "B",
+          "text": "Maintenir une distance d'au moins 1 m"
+        },
+        {
+          "letter": "C",
+          "text": "Se couvrir la bouche et le nez avec le pli du coude ou avec un mouchoir en cas d'éternuement"
+        },
+        {
+          "letter": "D",
+          "text": "Porter un masque"
+        },
+        {
+          "letter": "E",
+          "text": "Être vacciné contre le virus"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 5,
+      "text": "Les facteurs de risque d'une maladie Covid-19 grave sont.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Age > 40 ans"
+        },
+        {
+          "letter": "B",
+          "text": "Diabète compliqué"
+        },
+        {
+          "letter": "C",
+          "text": "Indice de masse corporelle > 40"
+        },
+        {
+          "letter": "D",
+          "text": "Grossesse"
+        },
+        {
+          "letter": "E",
+          "text": "Insuffisance rénale aigue"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 6,
+      "text": "Le malade nécessite une oxygénothérapie aux lunettes. Quel débit maximal est possible avec cette interface ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 L/min"
+        },
+        {
+          "letter": "B",
+          "text": "4 L/min"
+        },
+        {
+          "letter": "C",
+          "text": "5 L/min"
+        },
+        {
+          "letter": "D",
+          "text": "6 L/min"
+        },
+        {
+          "letter": "E",
+          "text": "7 L/min"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 7,
+      "text": "La levée de l'isolement après infection est autorisée après combien de jour du début des symptômes ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "J7"
+        },
+        {
+          "letter": "B",
+          "text": "J10"
+        },
+        {
+          "letter": "C",
+          "text": "J14"
+        },
+        {
+          "letter": "D",
+          "text": "J21"
+        },
+        {
+          "letter": "E",
+          "text": "J28"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 8,
+      "text": "Après le soin à un patient porteur de la Covid-19 dans quel ordre effectuez-vous les gestes suivants ? 1 Retirer la blouse. 2 Retirer les lunettes. 3 retirez les gants. 4 Effectuer l'hygiène des mains 5 Retirer le masque",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12345"
+        },
+        {
+          "letter": "B",
+          "text": "35421"
+        },
+        {
+          "letter": "C",
+          "text": "23154"
+        },
+        {
+          "letter": "D",
+          "text": "32154"
+        },
+        {
+          "letter": "E",
+          "text": "42135"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 9,
+      "text": "Les caractéristiques fondamentales d'un soin sont :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le respect de la dignité"
+        },
+        {
+          "letter": "B",
+          "text": "La satisfaction du patient"
+        },
+        {
+          "letter": "C",
+          "text": "L'éducation"
+        },
+        {
+          "letter": "D",
+          "text": "La sécurité"
+        },
+        {
+          "letter": "E",
+          "text": "La réactivité"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 10,
+      "text": "La gestion des déchets médicaux et pharmaceutiques :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les déchets médicaux sont classés en quatre catégories"
+        },
+        {
+          "letter": "B",
+          "text": "Ils doivent dès leurs générations être triés"
+        },
+        {
+          "letter": "C",
+          "text": "ils doivent être stuqués dans le service puis triés immédiatement avant de les transportés"
+        },
+        {
+          "letter": "D",
+          "text": "Le tri se fait selon les catégories et dans des sacs et recepions de couleurs différentes"
+        },
+        {
+          "letter": "E",
+          "text": "Toutes les réponses sont fausses"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 11,
+      "text": "Dans un ECG normal ACD",
+      "options": [
+        {
+          "letter": "A",
+          "text": "l'onde P correspond à la dépolarisation des oreillettes"
+        },
+        {
+          "letter": "B",
+          "text": "l'onde P correspond à la repolarisation des oreillettes"
+        },
+        {
+          "letter": "C",
+          "text": "Elle doit précéder chaque complexe QRS"
+        },
+        {
+          "letter": "D",
+          "text": "Elle est négative en avR"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": true,
+      "reviewNotes": [
+        "Options are limited to 4",
+        "The prompt text 'ACD' suggests potential answers"
+      ]
+    },
+    {
+      "number": 12,
+      "text": "Dans un ECG normal. (C)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fréquence est comprise entre 40-120/mn"
+        },
+        {
+          "letter": "B",
+          "text": "La fréquence est comprise entre 40-100/mn"
+        },
+        {
+          "letter": "C",
+          "text": "La fréquence est comprise entre 60-100/mn"
+        },
+        {
+          "letter": "D",
+          "text": "La fréquence est comprise entre 60-130/mn"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 13,
+      "text": "Dans un ECG normal. (ABC D)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "tous les incidents électriques doivent être négatifs en avR"
+        },
+        {
+          "letter": "B",
+          "text": "L'onde P sinusale est positive en DI-DII"
+        },
+        {
+          "letter": "C",
+          "text": "l'onde R pousse de façon harmonieuse de V1 à V6"
+        },
+        {
+          "letter": "D",
+          "text": "Chaque QRS est précédé d'une seule onde P"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 14,
+      "text": "Dans un ECG normal (A)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'intervalle P-R (ou P-Q, a une durée constante (0,12 à 0,20 s)"
+        },
+        {
+          "letter": "B",
+          "text": "L'intervalle P-R (ou P-Q, a une durée constante (0,10 à 0,20 s)"
+        },
+        {
+          "letter": "C",
+          "text": "L'intervalle P-R (ou P-Q, a une durée constante (0,20 à 0,40 s)"
+        },
+        {
+          "letter": "D",
+          "text": "L'intervalle P-R (ou P-Q, a une durée constante (0,20 à 0,50 s)"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 15,
+      "text": "L'onde T. (BCD)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Traduit la repolarisation auriculaire"
+        },
+        {
+          "letter": "B",
+          "text": "Est précédé du segment ST"
+        },
+        {
+          "letter": "C",
+          "text": "Est de morphologie asymétrique"
+        },
+        {
+          "letter": "D",
+          "text": "Est négative en avR"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 16,
+      "text": "Le complexe QRS. (AB)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Correspond à la dépolarisation ventriculaire"
+        },
+        {
+          "letter": "B",
+          "text": "Est d'une durée inférieure à 0,12 s"
+        },
+        {
+          "letter": "C",
+          "text": "Est toujours à prédominance positive"
+        },
+        {
+          "letter": "D",
+          "text": "Est toujours à prédominance négative"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 17,
+      "text": "L'oedème aigu pulmonaire (ABD)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se manifeste par une détresse respiratoire aigue"
+        },
+        {
+          "letter": "B",
+          "text": "Est une manifestation d'insuffisance cardiaque gauche"
+        },
+        {
+          "letter": "C",
+          "text": "Survient à l'effort"
+        },
+        {
+          "letter": "D",
+          "text": "Peut s'accompagner d'hémoptysie"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 18,
+      "text": "L'orthopnée (CD)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Survient à l'orthostatisme"
+        },
+        {
+          "letter": "B",
+          "text": "Survient à l'effort"
+        },
+        {
+          "letter": "C",
+          "text": "Survient en décubitus"
+        },
+        {
+          "letter": "D",
+          "text": "Est un signe d'insuffisance cardiaque"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 19,
+      "text": "Un souffle cardiaque évoque en 1er lieu (B)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une insuffisance cardiaque"
+        },
+        {
+          "letter": "B",
+          "text": "Une valvulopathie"
+        },
+        {
+          "letter": "C",
+          "text": "Une péricardite"
+        },
+        {
+          "letter": "D",
+          "text": "Un infarctus du myocarde"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 20,
+      "text": "A quel (s) diagnostic(s) faut-il penser en premier devant un patient de 65 ans qui consulte pour une douleur thoracique aiguë ? (ABCD)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un infarctus du myocarde"
+        },
+        {
+          "letter": "B",
+          "text": "Une dissection aortique"
+        },
+        {
+          "letter": "C",
+          "text": "Une Embolie pulmonaire"
+        },
+        {
+          "letter": "D",
+          "text": "Une Péricardite aiguë"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 21,
+      "text": "Parmi ces choix, qu'est-ce qu'on entend par produits sanguins labiles (PSL) ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les culots globulaires"
+        },
+        {
+          "letter": "B",
+          "text": "Les culots plaquettaires"
+        },
+        {
+          "letter": "C",
+          "text": "Les facteurs anti hémophiliques"
+        },
+        {
+          "letter": "D",
+          "text": "Le plasma frais congelé"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 22,
+      "text": "Quel est le rôle de l'infirmier en cas de demande de PSL ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Remplir la demande des PSL"
+        },
+        {
+          "letter": "B",
+          "text": "Valider la demande des PSL"
+        },
+        {
+          "letter": "C",
+          "text": "Prélever le malade pour demande de PSL"
+        },
+        {
+          "letter": "D",
+          "text": "Envoyer la demande de PSL"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 23,
+      "text": "Quel est le rôle de l'infirmier après la réception des PSL de la banque de sang ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Réceptionner les PSL"
+        },
+        {
+          "letter": "B",
+          "text": "Informer le médecin de la qualité des PSL"
+        },
+        {
+          "letter": "C",
+          "text": "Remplir la fiche d'anomalies en cas de constatation d'une anomalie qualitative des PSL reçus"
+        },
+        {
+          "letter": "D",
+          "text": "Rien, puisque la réception des PSL relève des fonctions du médecin"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 24,
+      "text": "Quel est le rôle de l'infirmier avant l'acte transfusionnel ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vérifier la concordance entre le groupage du malade et celui du PSL reçu"
+        },
+        {
+          "letter": "B",
+          "text": "Vérifier la concordance entre l'identité du malade et l'identité du receveur pour lequel le PSL a été livré"
+        },
+        {
+          "letter": "C",
+          "text": "Réaliser la carte de contrôle pré-transfusionnel"
+        },
+        {
+          "letter": "D",
+          "text": "Transfuser directement les PSL, puisque les vérifications relèvent des fonctions du médecin"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 25,
+      "text": "en cas de réception de 3 CGR pour le même malade, comment réaliser la carte de contrôle pré-transfusionnel ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Réaliser la carte au lit du malade"
+        },
+        {
+          "letter": "B",
+          "text": "Réaliser la carte pour tous les CGR reçus dans la salle des soins"
+        },
+        {
+          "letter": "C",
+          "text": "Réaliser la carte pour le CGR à transfuser (un par un)"
+        },
+        {
+          "letter": "D",
+          "text": "L'acte transfusionnel est assuré par l'infirmier qui a réalisé la carte"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 26,
+      "text": "Quel est le rôle de l'infirmier lors de l'acte transfusionnel ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Valider l'acte transfusionnel"
+        },
+        {
+          "letter": "B",
+          "text": "Réaliser l'acte transfusionnel"
+        },
+        {
+          "letter": "C",
+          "text": "Surveiller la transfusion"
+        },
+        {
+          "letter": "D",
+          "text": "Avertir le médecin en cas d'incident transfusionnel"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 27,
+      "text": "Quelles sont les éléments qu'il faut surveiller lors de l'acte transfusionnel ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'apparition de signes rapportés par le malade au cours ou au décours immédiat de la transfusion"
+        },
+        {
+          "letter": "B",
+          "text": "L'état hémodynamique toutes les 10 min au cours des 30 premières minutes puis de manière espacée"
+        },
+        {
+          "letter": "C",
+          "text": "L'apparition de fièvre"
+        },
+        {
+          "letter": "D",
+          "text": "Rien, puisque la surveillance de l'acte transfusionnel relève des fonctions du médecin"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 28,
+      "text": "Quelle est la durée de transfusion maximale qu'il ne faut pas dépasser pour un culot globulaire ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30 min"
+        },
+        {
+          "letter": "B",
+          "text": "1 heure"
+        },
+        {
+          "letter": "C",
+          "text": "1h 30 min"
+        },
+        {
+          "letter": "D",
+          "text": "2 heures"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 29,
+      "text": "En cas de transfusion de plusieurs types de produits sanguins labiles, quel est l'ordre qu'il faut respecter ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "CGR puis CPS puis PFC décongelés"
+        },
+        {
+          "letter": "B",
+          "text": "CPS puis PFC décongelés puis CGR"
+        },
+        {
+          "letter": "C",
+          "text": "PFC décongelés puis CPS puis CGR"
+        },
+        {
+          "letter": "D",
+          "text": "CPS puis CGR puis PFC décongelés"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 30,
+      "text": "En cas d'incident transfusionnel, que doit faire l'infirmier ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Arrêter la transfusion et avertir le médecin"
+        },
+        {
+          "letter": "B",
+          "text": "Arrêter la transfusion, avertir le médecin et prendre les constantes"
+        },
+        {
+          "letter": "C",
+          "text": "Avertir le médecin"
+        },
+        {
+          "letter": "D",
+          "text": "Rien, puisque la surveillance de l'acte transfusionnel relève des fonctions du médecin"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 31,
+      "text": "La rétention urinaire complète et aigue :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est Une urgence urologique"
+        },
+        {
+          "letter": "B",
+          "text": "Nécessite un traitement médicamenteux"
+        },
+        {
+          "letter": "C",
+          "text": "Se manifeste par une douleur avec impossibilité d'uriner"
+        },
+        {
+          "letter": "D",
+          "text": "Se manifeste par une impossibilité d'uriner sans douleur"
+        },
+        {
+          "letter": "E",
+          "text": "Nécessite la mise en place d'un drainage vésicale"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 32,
+      "text": "Le cancer urologique le plus fréquent chez l'homme de plus de 50 ans :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cancer de vessie"
+        },
+        {
+          "letter": "B",
+          "text": "Cancer du rein"
+        },
+        {
+          "letter": "C",
+          "text": "Cancer de l'urètre"
+        },
+        {
+          "letter": "D",
+          "text": "Cancer de prostate"
+        },
+        {
+          "letter": "E",
+          "text": "Cancer testiculaire"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 33,
+      "text": "L'hématurie :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est la présence du sang dans le sperme"
+        },
+        {
+          "letter": "B",
+          "text": "Est un saignement urétral en dehors des mictions"
+        },
+        {
+          "letter": "C",
+          "text": "Est la présence du sang dans les urines"
+        },
+        {
+          "letter": "D",
+          "text": "Peut être en rapport avec un cancer de vessie"
+        },
+        {
+          "letter": "E",
+          "text": "Peut être en rapport avec une infection urinaire"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 34,
+      "text": "L'hypertension artérielle peut être secondaire à :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une maladie rénale"
+        },
+        {
+          "letter": "B",
+          "text": "Une tumeur des glandes surrénales"
+        },
+        {
+          "letter": "C",
+          "text": "Un cancer du rein"
+        },
+        {
+          "letter": "D",
+          "text": "Un cancer de vessie"
+        },
+        {
+          "letter": "E",
+          "text": "Une infection urinaire"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 35,
+      "text": "Le diagnostic d'une infection urinaire est confirmé par :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La numération formule sanguine"
+        },
+        {
+          "letter": "B",
+          "text": "L'ionogramme complet"
+        },
+        {
+          "letter": "C",
+          "text": "La cytologie urinaire"
+        },
+        {
+          "letter": "D",
+          "text": "La bandelette urinaire"
+        },
+        {
+          "letter": "E",
+          "text": "L'examen cytobactériologique des urines"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 36,
+      "text": "Le sondage vésical :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est un geste simple ne nécessitant pas de précautions particulières"
+        },
+        {
+          "letter": "B",
+          "text": "Est indiqué chez tout malade ayant des difficultés à uriner"
+        },
+        {
+          "letter": "C",
+          "text": "Est indiqué en cas de rétention complète d'urine"
+        },
+        {
+          "letter": "D",
+          "text": "Le matériel utilisé n'est pas obligatoirement stérile"
+        },
+        {
+          "letter": "E",
+          "text": "L'infection urinaire en est une complication majeure"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 37,
+      "text": "La principale cause du cancer de la vessie est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'alcool"
+        },
+        {
+          "letter": "B",
+          "text": "La consommation excessive des viandes rouges"
+        },
+        {
+          "letter": "C",
+          "text": "Le tabac"
+        },
+        {
+          "letter": "D",
+          "text": "Infection urinaire"
+        },
+        {
+          "letter": "E",
+          "text": "Le diabète"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 38,
+      "text": "Les patients porteurs de sondes vésicales à demeure :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ne nécessitent aucune une surveillance particulière"
+        },
+        {
+          "letter": "B",
+          "text": "Les soins de sonde sont indispensables chez eux"
+        },
+        {
+          "letter": "C",
+          "text": "Ont un risque important d'infection urinaire"
+        },
+        {
+          "letter": "D",
+          "text": "Nécessitent un changement de sonde régulièrement"
+        },
+        {
+          "letter": "E",
+          "text": "Le changement de sonde ne nécessite pas obligatoirement des règles d'asepsie"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 39,
+      "text": "La fièvre associée à une douleur lombaire chez un patient porteur d'une lithiase rénale :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Il s'agit fort probablement d'une infection rénale"
+        },
+        {
+          "letter": "B",
+          "text": "La situation clinique n'est pas inquiétante"
+        },
+        {
+          "letter": "C",
+          "text": "Il s'agit d'une une urgence thérapeutique"
+        },
+        {
+          "letter": "D",
+          "text": "Nécessite un prélèvement urinaire pour étude bactériologique"
+        },
+        {
+          "letter": "E",
+          "text": "Le traitement repose sur l'administration du seul paracétamol"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 40,
+      "text": "Suite à une intervention chirurgicale, un patient présente une hypotension sévère, pouls faiblement perceptible, des sueurs et une froideur des extrémités :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Il s'agit d'un état de choc"
+        },
+        {
+          "letter": "B",
+          "text": "Ce tableau clinique peut être en rapport avec une hémorragie"
+        },
+        {
+          "letter": "C",
+          "text": "Il peut s'agir d'un état de choc septique"
+        },
+        {
+          "letter": "D",
+          "text": "La transfusion est obligatoire dans tous les cas"
+        },
+        {
+          "letter": "E",
+          "text": "Nécessite une prise en charge en réanimation."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    }
+  ]
+}

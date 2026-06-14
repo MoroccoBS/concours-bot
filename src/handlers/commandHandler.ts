@@ -1,5 +1,12 @@
-import type { ChatInputCommandInteraction } from "discord.js";
+import type {
+  AutocompleteInteraction,
+  ChatInputCommandInteraction,
+} from "discord.js";
 import { commandMap } from "../commands";
+
+type AutocompleteCommand = {
+  autocomplete?: (interaction: AutocompleteInteraction) => Promise<void>;
+};
 
 export async function handleCommand(interaction: ChatInputCommandInteraction) {
   const command = commandMap.get(interaction.commandName);
@@ -24,5 +31,23 @@ export async function handleCommand(interaction: ChatInputCommandInteraction) {
     } else {
       await interaction.reply({ content: msg, flags: ["Ephemeral"] });
     }
+  }
+}
+
+export async function handleAutocomplete(interaction: AutocompleteInteraction) {
+  const command = commandMap.get(interaction.commandName) as
+    | AutocompleteCommand
+    | undefined;
+
+  if (!command?.autocomplete) {
+    await interaction.respond([]);
+    return;
+  }
+
+  try {
+    await command.autocomplete(interaction);
+  } catch (err) {
+    console.error(`[autocomplete:${interaction.commandName}]`, err);
+    await interaction.respond([]).catch(() => undefined);
   }
 }

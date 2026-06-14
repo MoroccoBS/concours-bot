@@ -1,7 +1,6 @@
 import type { Client } from "discord.js";
 import { pollStore } from "../store/pollStore";
 import { sessionStore } from "../store/sessionStore";
-import { buildRevealedButtons } from "./buttons";
 import { buildRevealEmbed } from "./embeds";
 
 /**
@@ -48,14 +47,9 @@ export async function doReveal(
     userNames.set(userId, member?.displayName ?? `<@${userId}>`);
   }
 
-  // Edit original message with reveal embed + disabled coloured buttons
+  // Edit original message with the final result embed and remove controls.
   const revealEmbed = buildRevealEmbed(poll, userNames);
-  const revealedButtons = buildRevealedButtons(
-    poll.options,
-    poll.correctAnswers,
-    channelId,
-  );
-  await message.edit({ embeds: [revealEmbed], components: revealedButtons });
+  await message.edit({ embeds: [revealEmbed], components: [] });
 
   // Update session scores
   if (poll.sessionId && poll.correctAnswers?.length) {

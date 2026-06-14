@@ -12,6 +12,7 @@ const EMOJI: Record<string, string> = {
   B: "🇧",
   C: "🇨",
   D: "🇩",
+  E: "🇪",
 };
 
 /**
@@ -30,8 +31,8 @@ export function buildVoteSelect(
     .addOptions(
       options.map((o) =>
         new StringSelectMenuOptionBuilder()
-          .setLabel(o.letter)
-          .setDescription(o.text)
+          .setLabel(truncateForSelect(`${o.letter}. ${o.text}`))
+          .setDescription(`Réponse ${o.letter}`)
           .setEmoji(EMOJI[o.letter] ?? o.letter)
           .setValue(o.letter),
       ),
@@ -40,6 +41,10 @@ export function buildVoteSelect(
   return [
     new ActionRowBuilder<StringSelectMenuBuilder>().addComponents(select),
   ];
+}
+
+function truncateForSelect(text: string): string {
+  return text.length > 100 ? `${text.slice(0, 97)}...` : text;
 }
 
 /**

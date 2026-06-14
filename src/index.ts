@@ -1,7 +1,7 @@
 import { Client, Events, GatewayIntentBits } from "discord.js";
 import { config } from "./config";
 import { handleButton, handleVoteSelect } from "./handlers/buttonHandler";
-import { handleCommand } from "./handlers/commandHandler";
+import { handleAutocomplete, handleCommand } from "./handlers/commandHandler";
 
 // ── Client setup ──────────────────────────────────────────────────────────────
 const client = new Client({
@@ -19,6 +19,11 @@ client.on(Events.InteractionCreate, async (interaction) => {
   try {
     if (interaction.isChatInputCommand()) {
       await handleCommand(interaction);
+      return;
+    }
+
+    if (interaction.isAutocomplete()) {
+      await handleAutocomplete(interaction);
       return;
     }
 
