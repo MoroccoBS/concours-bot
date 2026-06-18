@@ -1,0 +1,114 @@
+{
+  "sourceFile": "Concours-Radiologie-Specialite-Compilation-2008-2012.pdf",
+  "language": "fr",
+  "questions": [
+    {
+      "number": 1,
+      "text": "La prévalence :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mesure la fréquence d'apparition d'une maladie"
+        },
+        {
+          "letter": "B",
+          "text": "Mesure uniquement les anciens cas"
+        },
+        {
+          "letter": "C",
+          "text": "Mesure la présence d'une maladie dans la population"
+        },
+        {
+          "letter": "D",
+          "text": "Mesure uniquement les nouveaux cas"
+        },
+        {
+          "letter": "E",
+          "text": "Représente le nombre de cas d'une maladie qui survient dans une population pendant une période donnée"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 2,
+      "text": "L'incidence :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mesure la fréquence d'apparition d'une maladie"
+        },
+        {
+          "letter": "B",
+          "text": "Mesure uniquement les anciens cas"
+        },
+        {
+          "letter": "C",
+          "text": "Mesure la présence d'une maladie dans la population"
+        },
+        {
+          "letter": "D",
+          "text": "Mesure uniquement les nouveaux cas"
+        },
+        {
+          "letter": "E",
+          "text": "Représente le nombre de cas d'une maladie qui survient dans une population pendant une période donnée"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 3,
+      "text": "La prévention primaire sert à :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Réduire l'apparition de nouveaux cas d'une maladie"
+        },
+        {
+          "letter": "B",
+          "text": "Réduire la durée d'une maladie"
+        },
+        {
+          "letter": "C",
+          "text": "Diminuer la prévalence des incapacités chroniques"
+        },
+        {
+          "letter": "D",
+          "text": "Diminuer l'incidence d'une maladie"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 4,
+      "text": "Dans le processus d'une communication interpersonnelle appliquée dans une situation en milieu sanitaire, le canal est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les compétences et les habiletés du professionnel émetteur"
+        },
+        {
+          "letter": "B",
+          "text": "Les caractéristiques psychosociologiques et culturelles du récepteur"
+        },
+        {
+          "letter": "C",
+          "text": "Les méthodes et/ou les moyens utilisés par le professionnel de santé pour transmettre le message"
+        },
+        {
+          "letter": "D",
+          "text": "Les objectifs fixés pour la séance de communication"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    }
+  ],
+  "examTitle": "Concours de Recrutement des Infirmiers Diplômés d'Etat du Deuxième Grade - Session du 22 Novembre 2009",
+  "specialty": "Technicien de Radiologie / Items communs",
+  "warnings": [],
+  "year": 2009
+}

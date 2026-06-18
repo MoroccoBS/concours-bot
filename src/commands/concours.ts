@@ -159,7 +159,7 @@ async function replyWithBankList(interaction: ChatInputCommandInteraction) {
         description: banks
           .map(
             (bank, index) =>
-              `**${index + 1}. ${questionBankStore.label(bank)}**\n` +
+              `**${index + 1}. ${bank.sourceFile}**\n` +
               `ID: \`${bank.id}\` - ${bank.questions.length} questions`,
           )
           .join("\n\n"),

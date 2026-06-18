@@ -1,0 +1,1052 @@
+{
+  "sourceFile": "Concours-Radiologie-CHU-Marrakech-2022.pdf",
+  "language": "fr",
+  "questions": [
+    {
+      "number": 1,
+      "text": "La dose d'irradiation reçue par un échantillon des malades dans une unité de scanner :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est une variable qualitative"
+        },
+        {
+          "letter": "B",
+          "text": "Est une variable quantitative discrète"
+        },
+        {
+          "letter": "C",
+          "text": "Est une variable quantitative continue"
+        },
+        {
+          "letter": "D",
+          "text": "Doit être répartie en des classes d'intervalle de même amplitude"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 2,
+      "text": "Le nombre des clichés ratés en scanner :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est une variable qualitative"
+        },
+        {
+          "letter": "B",
+          "text": "Est une variable quantitative discrète"
+        },
+        {
+          "letter": "C",
+          "text": "Est une variable quantitative continue"
+        },
+        {
+          "letter": "D",
+          "text": "Est un nombre entier naturel"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 3,
+      "text": "La représentation graphique de la dose en fonction des nombres des malades est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "un histogramme"
+        },
+        {
+          "letter": "B",
+          "text": "un diagramme en bâton"
+        },
+        {
+          "letter": "C",
+          "text": "un diagramme circulaire"
+        },
+        {
+          "letter": "D",
+          "text": "un diagramme en barre"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 4,
+      "text": "Les transformations nucléaires obéissent toujours aux lois suivantes :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "conservation du nombre de charge et du nombre de masse A"
+        },
+        {
+          "letter": "B",
+          "text": "conservation du nombre de protons et du nombre de neutrons"
+        },
+        {
+          "letter": "C",
+          "text": "conservation de la masse"
+        },
+        {
+          "letter": "D",
+          "text": "conservation de l'énergie"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 5,
+      "text": "Plus un noyau est stable :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Plus son énergie de liaison est grande."
+        },
+        {
+          "letter": "B",
+          "text": "Plus son énergie de liaison par nucléon est grande."
+        },
+        {
+          "letter": "C",
+          "text": "Plus son énergie de liaison est petite."
+        },
+        {
+          "letter": "D",
+          "text": "Plus son énergie de liaison par nucléon est petite."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 6,
+      "text": "Lors d'une réaction de fusion :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "deux noyaux lourds forment un noyau plus léger."
+        },
+        {
+          "letter": "B",
+          "text": "un noyau lourd forme deux noyaux plus légers."
+        },
+        {
+          "letter": "C",
+          "text": "deux noyaux légers forment un noyau plus lourd."
+        },
+        {
+          "letter": "D",
+          "text": "il ya émission de l'énergie"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 7,
+      "text": "En radiologie interventionnelle, pour diminuer l'exposition de l'opérateur il faut :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Placer le tube au-dessus de la table en incidence de face"
+        },
+        {
+          "letter": "B",
+          "text": "Travailler avec une tension plus basse"
+        },
+        {
+          "letter": "C",
+          "text": "Etre le plus éloigné possible du couple tube-détecteur"
+        },
+        {
+          "letter": "D",
+          "text": "Utiliser une filtration additionnelle"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 8,
+      "text": "Selon la règlementation, la dose efficace cumulée ne doit pas dépasser :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,2 mSv/an pour un personnel"
+        },
+        {
+          "letter": "B",
+          "text": "2 mSv/an pour un personnel"
+        },
+        {
+          "letter": "C",
+          "text": "20 mSv/an pour un personnel"
+        },
+        {
+          "letter": "D",
+          "text": "10 mSv pour un patient."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 9,
+      "text": "Quel type de collimateur n'introduit pas de déformation géométrique dans l'image ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le collimateur divergent."
+        },
+        {
+          "letter": "B",
+          "text": "Le collimateur parallèle."
+        },
+        {
+          "letter": "C",
+          "text": "Le collimateur à sténopé."
+        },
+        {
+          "letter": "D",
+          "text": "Le collimateur convergent"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 1,
+      "reviewNotes": [
+        "Option D is found at the beginning of Page 2"
+      ]
+    },
+    {
+      "number": 10,
+      "text": "Pour diminuer un artéfact de susceptibilité magnétique",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Employer des séquences en écho de spin au lieu de séquences en écho de gradient"
+        },
+        {
+          "letter": "B",
+          "text": "Employer des séquences en écho planar au lieu de séquences en écho de gradient"
+        },
+        {
+          "letter": "C",
+          "text": "Utiliser l'imagerie parallèle"
+        },
+        {
+          "letter": "D",
+          "text": "Ne pas employer la saturation de graisse"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 11,
+      "text": "Les rayons X résultent :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De l'interaction des électrons avec les noyaux des atomes de l'anode"
+        },
+        {
+          "letter": "B",
+          "text": "De l'interaction des électrons avec les électrons des atomes de l'anode"
+        },
+        {
+          "letter": "C",
+          "text": "De la désexcitation des noyaux des atomes de l'anode"
+        },
+        {
+          "letter": "D",
+          "text": "De la décélération des protons"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 12,
+      "text": "La résolution temporelle est ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le nombre d'images intégralement acquises par unité de temps"
+        },
+        {
+          "letter": "B",
+          "text": "Le nombre d'images acquises même partiellement par unité de temps"
+        },
+        {
+          "letter": "C",
+          "text": "Le temps séparant deux images d'une série"
+        },
+        {
+          "letter": "D",
+          "text": "C'est le temps séparant deux séries d'images entre elles"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 13,
+      "text": "Le flou géométrique est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Proportionnel à la dimension du foyer"
+        },
+        {
+          "letter": "B",
+          "text": "Proportionnel à la distance foyer-détecteur"
+        },
+        {
+          "letter": "C",
+          "text": "Proportionnel à la distance objet-détecteur"
+        },
+        {
+          "letter": "D",
+          "text": "Proportionnel à la distance foyer-objet"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 14,
+      "text": "si la période radioactive d'un métal radioactif est de deux ans :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le métal va se désintégrer entièrement en 2 ans"
+        },
+        {
+          "letter": "B",
+          "text": "Apres 8 ans il restera ¼ de celui-ci"
+        },
+        {
+          "letter": "C",
+          "text": "Le métal va se désintégrer entièrement en 4 ans"
+        },
+        {
+          "letter": "D",
+          "text": "Le métal ne se désintégrera jamais complétement"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 15,
+      "text": "En incidence oblique ou ¾ cervicale",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permet une bonne étude des trous de conjugaison"
+        },
+        {
+          "letter": "B",
+          "text": "Permet une bonne étude des trous transversaires"
+        },
+        {
+          "letter": "C",
+          "text": "Permet de rechercher un traumatisme des pédicules"
+        },
+        {
+          "letter": "D",
+          "text": "Nécessite une obliquité du patient et du tube à la fois"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 16,
+      "text": "L'exploration isotopique des nodules de la thyroïde :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nécessite une injection intraveineuse de 2mci de T99m/70KG de poids"
+        },
+        {
+          "letter": "B",
+          "text": "Nécessite un gamma camera avec un détecteur à gaz"
+        },
+        {
+          "letter": "C",
+          "text": "Nécessite un collimateur à trous parallèles"
+        },
+        {
+          "letter": "D",
+          "text": "Nécessite un collimateur stenopeique ou pinhole."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 17,
+      "text": "la vertèbre cervicale type présente à décrire,",
+      "options": [
+        {
+          "letter": "A",
+          "text": "un corps vertébral antérieur et un arc postérieur"
+        },
+        {
+          "letter": "B",
+          "text": "un foramen intervertébral permet le passage de la moelle épinière"
+        },
+        {
+          "letter": "C",
+          "text": "un seul processus épineux souvent bifide"
+        },
+        {
+          "letter": "D",
+          "text": "des pédicules situés de part et d'autre du processus épineux"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 18,
+      "text": "L'exploration TDM d'un goitre plongeant exige :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une Acquisition Topograme cranio- cervicale"
+        },
+        {
+          "letter": "B",
+          "text": "Une Acquisition Topograme cervico-thoracique"
+        },
+        {
+          "letter": "C",
+          "text": "Une Acquisition Paquet axiale en e- et et c+"
+        },
+        {
+          "letter": "D",
+          "text": "Un Filtre et fenêtre tissulaires pour étude tissulaire et médiatinale."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 19,
+      "text": "Le sulfate de baryum :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est utilisé exclusivement par voie orale"
+        },
+        {
+          "letter": "B",
+          "text": "Contre indiqué en cas de perforation digestive"
+        },
+        {
+          "letter": "C",
+          "text": "Produit de contraste en colo scanner"
+        },
+        {
+          "letter": "D",
+          "text": "Son numéro atomique Z est 56"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 20,
+      "text": "Un patient comateux arrive au service des urgences avec traumatisme sévère du rachis cervicale :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "préférer une incidence de profil du rachis cervicale avec rayon vertical"
+        },
+        {
+          "letter": "B",
+          "text": "préférer une incidence de profil du rachis cervicale avec rayon horizontale."
+        },
+        {
+          "letter": "C",
+          "text": "patient en décubitus dorsal."
+        },
+        {
+          "letter": "D",
+          "text": "Centrage : à mi distance entre l'angle de la mandibule et l'épaule."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 21,
+      "text": "La tomographie par émission de positons(TEP),",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est une Imagerie d'absorption du rayon gamma"
+        },
+        {
+          "letter": "B",
+          "text": "Est une Imagerie d'émission du rayon gamma"
+        },
+        {
+          "letter": "C",
+          "text": "On injecte au patient un radio pharmaceutique émetteur β-"
+        },
+        {
+          "letter": "D",
+          "text": "On injecte au patient un radio pharmaceutique émetteur β+"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 22,
+      "text": "En imagerie scintigraphique on parle de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Foyer froid"
+        },
+        {
+          "letter": "B",
+          "text": "Foyer chaud"
+        },
+        {
+          "letter": "C",
+          "text": "Plage hypo -dense"
+        },
+        {
+          "letter": "D",
+          "text": "Plage hyper-dense"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 23,
+      "text": "Les caractéristiques d'un guide d'angiographie",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Il doit être plus court que la sonde"
+        },
+        {
+          "letter": "B",
+          "text": "Il est le plus souvent hydrophile"
+        },
+        {
+          "letter": "C",
+          "text": "Il doit limiter le risque de lésion pariétale"
+        },
+        {
+          "letter": "D",
+          "text": "Il n'est pas radio opaque"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 24,
+      "text": "La mise en évidence d'une pleurésie suite à un traumatisme s'effectue par.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "incidence antéro-postérieure debout devant le portique"
+        },
+        {
+          "letter": "B",
+          "text": "incidence postéro-antérieure debout devant le portique."
+        },
+        {
+          "letter": "C",
+          "text": "incidence de Valsalva"
+        },
+        {
+          "letter": "D",
+          "text": "TDM thoracique en fenêtre parenchymateuse ou lung"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 25,
+      "text": "Le diagnostic d'une perforation digestive :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se traduit par un croissant gazeux sous les coupoles"
+        },
+        {
+          "letter": "B",
+          "text": "Se traduit par un croissant gazeux dans les culs de sac pleural"
+        },
+        {
+          "letter": "C",
+          "text": "Peut être mis en évidence par un cliché thoracique debout"
+        },
+        {
+          "letter": "D",
+          "text": "Peut être mis en évidence par un cliché abdomen debout"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 26,
+      "text": "Les principales indications d'uroscanner sont :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reflux vesico-ureterale"
+        },
+        {
+          "letter": "B",
+          "text": "Hématurie"
+        },
+        {
+          "letter": "C",
+          "text": "Maladie lithiasique"
+        },
+        {
+          "letter": "D",
+          "text": "Hydronephrose"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 27,
+      "text": "L'exploration TDM du pancréas nécessite.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un Jeûne de 6 h à 8h."
+        },
+        {
+          "letter": "B",
+          "text": "deux à trois verres d'eau juste avant le début de l'examen"
+        },
+        {
+          "letter": "C",
+          "text": "Ingestion de la baryte avant l'examen"
+        },
+        {
+          "letter": "D",
+          "text": "Acquisition au temps portale (70 s) après injection de produit de contraste"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 28,
+      "text": "Dans la cavité- abdomino- pelvienne :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le rein gauche est plus haut situe que le rein droit"
+        },
+        {
+          "letter": "B",
+          "text": "Les uretères sont des conduits sous-péritonéaux."
+        },
+        {
+          "letter": "C",
+          "text": "La vessie est un organe intra-péritonéal."
+        },
+        {
+          "letter": "D",
+          "text": "Le foie est séparé en 2 lobes par le ligament falciforme."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 29,
+      "text": "Infection urinaire contre indique la réalisation de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "URO-scanner"
+        },
+        {
+          "letter": "B",
+          "text": "UIV"
+        },
+        {
+          "letter": "C",
+          "text": "UCR"
+        },
+        {
+          "letter": "D",
+          "text": "Scintigraphie rénale"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 30,
+      "text": "Le retard d'excrétion du produit de contraste en urographie intraveineuse nécessite :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Des clichés de compression"
+        },
+        {
+          "letter": "B",
+          "text": "Des cliches en temps portal"
+        },
+        {
+          "letter": "C",
+          "text": "Des cliches tardifs"
+        },
+        {
+          "letter": "D",
+          "text": "Des cliches en temps précoce"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 31,
+      "text": "La meilleure technique classique d'exploration du grêle :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "TOGD"
+        },
+        {
+          "letter": "B",
+          "text": "Transit du grêle"
+        },
+        {
+          "letter": "C",
+          "text": "TDM"
+        },
+        {
+          "letter": "D",
+          "text": "Lavement baryté"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 32,
+      "text": "L'exploration de l'intestin grêle est souvent difficile à cause de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sa longueur de quelques mètres"
+        },
+        {
+          "letter": "B",
+          "text": "La durée d'examen"
+        },
+        {
+          "letter": "C",
+          "text": "Allergie au sulfate de baryum"
+        },
+        {
+          "letter": "D",
+          "text": "Vomissement à l'ingestion du sulfate de baryum"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 33,
+      "text": "Pour l'incidence Profil du rachis lombaire en station verticale",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Patient couché en profil strict"
+        },
+        {
+          "letter": "B",
+          "text": "Bras croisés sur la poitrine, mains sur les épaules"
+        },
+        {
+          "letter": "C",
+          "text": "Apnée pendant le moment d'acquisition"
+        },
+        {
+          "letter": "D",
+          "text": "Pas d'apnée"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 34,
+      "text": "L'os parietal :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est un os plat"
+        },
+        {
+          "letter": "B",
+          "text": "Est un os court"
+        },
+        {
+          "letter": "C",
+          "text": "Appartient à la voute"
+        },
+        {
+          "letter": "D",
+          "text": "Appartient à la base du crane"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 35,
+      "text": "Le radius",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est un os interne de l'avant bras"
+        },
+        {
+          "letter": "B",
+          "text": "Est un os externe de l'avant-bras"
+        },
+        {
+          "letter": "C",
+          "text": "Est un os long avec deux extrémités"
+        },
+        {
+          "letter": "D",
+          "text": "possède une apophyse horizontale : le Coroné"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 36,
+      "text": "Le Poumon droit comprend :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "trois lobes (supérieur, moyen, inférieur)"
+        },
+        {
+          "letter": "B",
+          "text": "deux lobes (supérieur et inférieur)"
+        },
+        {
+          "letter": "C",
+          "text": "deux scissures"
+        },
+        {
+          "letter": "D",
+          "text": "deux faces, une base et un sommet"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 37,
+      "text": "L'administration des produits radioactifs en scintigraphie pulmonaire peut se faire par voie :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lymphatique"
+        },
+        {
+          "letter": "B",
+          "text": "inhalation"
+        },
+        {
+          "letter": "C",
+          "text": "Cutanée"
+        },
+        {
+          "letter": "D",
+          "text": "Vasculaire"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 38,
+      "text": "Le cliche de compression urétérale en urographie intraveineuse peut être indiqué en cas de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "tuberculose rénale"
+        },
+        {
+          "letter": "B",
+          "text": "Image d'addition calicielle"
+        },
+        {
+          "letter": "C",
+          "text": "Cavités pylo-calicielles mal remplis"
+        },
+        {
+          "letter": "D",
+          "text": "absence au retard d'élimination."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 39,
+      "text": "Pour explorer la tubérosité du biceps",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le coude replie en profil interne"
+        },
+        {
+          "letter": "B",
+          "text": "Main en pronation"
+        },
+        {
+          "letter": "C",
+          "text": "Le coude replié en Profil externe"
+        },
+        {
+          "letter": "D",
+          "text": "L'axe épicondyle/épi trochlée est parallèle au plan de la table"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 40,
+      "text": "Par quel mécanisme l'iode 123 s'accumule-t-il dans la glande thyroïde ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une voie métabolique"
+        },
+        {
+          "letter": "B",
+          "text": "Une fixation passive."
+        },
+        {
+          "letter": "C",
+          "text": "Un remplissage mécanique"
+        },
+        {
+          "letter": "D",
+          "text": "Un phénomène inflammatoire"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 4,
+      "reviewNotes": []
+    }
+  ],
+  "examTitle": "Concours pour le recrutement des techniciens de santé - Session du 02/10/2022",
+  "specialty": "Technicien de radiologie",
+  "warnings": [],
+  "year": 2022
+}

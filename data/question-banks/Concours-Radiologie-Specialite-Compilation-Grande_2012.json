@@ -1,0 +1,432 @@
+{
+  "sourceFile": "Concours-Radiologie-Specialite-Compilation-Grande.pdf",
+  "language": "fr",
+  "questions": [
+    {
+      "number": 1,
+      "text": "Parmi les positions suivantes, laquelle correspond à celle du patient dans l'incidence du rachis lombaire en oblique anté/postérieur :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Malade debout, le coté opposé s'écarte du plan d'appui en faisant un angle 70°"
+        },
+        {
+          "letter": "B",
+          "text": "Malade debout, le côté opposé s'écarte du plan d'appui en faisant un angle de 30° à 45°"
+        },
+        {
+          "letter": "C",
+          "text": "Malade debout, le côté à radiographier s'écarte du plan d'appui en faisant un angle de 30° à 45°"
+        },
+        {
+          "letter": "D",
+          "text": "Malade debout, le côté à radiographier s'écarte du plan d'appui en faisant un angle de 70°"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null
+    },
+    {
+      "number": 2,
+      "text": "Parmi les critères de réussite suivants, lequel ne correspond pas au cliché de l'incidence de face du rachis cervical :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Position médiane de la ligne des épineuses"
+        },
+        {
+          "letter": "B",
+          "text": "Position médiane de la trachée"
+        },
+        {
+          "letter": "C",
+          "text": "L'axe sagittal passe le milieu de l'odontoïde et de l'épine de l'axis"
+        },
+        {
+          "letter": "D",
+          "text": "Position symétrique du maxillaire inférieur"
+        },
+        {
+          "letter": "E",
+          "text": "Bonne visibilité des espaces intervertébraux"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null
+    },
+    {
+      "number": 3,
+      "text": "Lequel des centrages correspond à celui de l'incidence du coccyx de face en décubitus :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "R.D incliné de 20° à 30° vers les pieds sur la symphyse pubienne"
+        },
+        {
+          "letter": "B",
+          "text": "R.D incliné de 20° à 30° vers les têtes sur la symphyse pubienne"
+        },
+        {
+          "letter": "C",
+          "text": "R.D Incliné de 10° à 20° vers la tête sur la symphyse pubienne"
+        },
+        {
+          "letter": "D",
+          "text": "R.D incliné de 10° à 20° vers les pieds sur la symphyse pubienne"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null
+    },
+    {
+      "number": 4,
+      "text": "Pour dégager les arcs postérieurs des côtes, le patient prend la position :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Face en antéropostérieure"
+        },
+        {
+          "letter": "B",
+          "text": "Oblique en antéro-postérieur"
+        },
+        {
+          "letter": "C",
+          "text": "Face en postéro-antérieur"
+        },
+        {
+          "letter": "D",
+          "text": "Oblique en postéro-antérieur"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null
+    },
+    {
+      "number": 5,
+      "text": "Pour dégager les arcs moyens des côtes, le patient prend la position :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Face en antéro-postérieur"
+        },
+        {
+          "letter": "B",
+          "text": "Oblique en antéro-postérieur"
+        },
+        {
+          "letter": "C",
+          "text": "Face en postéro-antérieur"
+        },
+        {
+          "letter": "D",
+          "text": "Oblique en postéro-antérieur"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null
+    },
+    {
+      "number": 6,
+      "text": "On désigne par les fausses côtes :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les 6 ème, 7 ème, 8 ème, 9 ème, et 10 ème côtes"
+        },
+        {
+          "letter": "B",
+          "text": "Les 7 ème, 8 ème, et 9 ème côtes"
+        },
+        {
+          "letter": "C",
+          "text": "Les 7 ème, 8 ème, 9 ème, 10 ème et 11 ème côtes"
+        },
+        {
+          "letter": "D",
+          "text": "La 11ème et 12ème côtes"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null
+    },
+    {
+      "number": 7,
+      "text": "Pour explorer l'omoplate de face :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ON soulève l'épaule non à radiographier d'un angle de 20°"
+        },
+        {
+          "letter": "B",
+          "text": "On soulève l'épaule à radiographier d'un angle de 45°"
+        },
+        {
+          "letter": "C",
+          "text": "On soulève l'épaule à radiographier d'un angle de 20°"
+        },
+        {
+          "letter": "D",
+          "text": "On soulève l'épaule non à radiographier d'un angle de 45°"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null
+    },
+    {
+      "number": 8,
+      "text": "Pour explorer le bec Olécrânien, on centre :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 à 4cm au dessous de l'apophyse coronoïde"
+        },
+        {
+          "letter": "B",
+          "text": "3 à 4cm au dessus de la pointe de l'olécrane"
+        },
+        {
+          "letter": "C",
+          "text": "Sur la pointe de l'olécrane"
+        },
+        {
+          "letter": "D",
+          "text": "3 à 4cm au dessous de la pointe de l'olécrane"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null
+    },
+    {
+      "number": 9,
+      "text": "Lesquels des critères de réussite suivants correspondent aux critères de réussite de l'incidence de coude de face :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sommet de l'olécrane au milieu de la fossette coronoïdienne"
+        },
+        {
+          "letter": "B",
+          "text": "L'interligne cubito-humérale visible"
+        },
+        {
+          "letter": "C",
+          "text": "Sommet de l'olécrane au milieu de la fossette olécrânienne"
+        },
+        {
+          "letter": "D",
+          "text": "L'interligne condyle- tête radiale visible"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null
+    },
+    {
+      "number": 10,
+      "text": "Pour dégager l'articulation radio-scaphoïdienne, on choisie la/ les incidence(s) radiologique(s) suivantes :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Schreeck 1"
+        },
+        {
+          "letter": "B",
+          "text": "Schreeck 2"
+        },
+        {
+          "letter": "C",
+          "text": "Poignet de profil"
+        },
+        {
+          "letter": "D",
+          "text": "Oblique interne de poignet"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null
+    },
+    {
+      "number": 11,
+      "text": "Une épaule traumatisée nécessite :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Face de l'épaule en rotation externe"
+        },
+        {
+          "letter": "B",
+          "text": "Face de l'épaule en rotation neutre"
+        },
+        {
+          "letter": "C",
+          "text": "Profil de l'épaule de haut en bas"
+        },
+        {
+          "letter": "D",
+          "text": "Incidence de Bernajeau"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null
+    },
+    {
+      "number": 12,
+      "text": "Parmi les incidences radiologiques suivantes, lesquelles faut 'il réaliser chez un patient présentant une fracture de l'apophyse coronoïde du cubitus :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Profil du coude main en demi pronation"
+        },
+        {
+          "letter": "B",
+          "text": "Profil du coude main en pronation"
+        },
+        {
+          "letter": "C",
+          "text": "Face du coude main en supination"
+        },
+        {
+          "letter": "D",
+          "text": "Face du coude main en pronation"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null
+    },
+    {
+      "number": 13,
+      "text": "Le cliché pulmonaire en incidence de Muller (décubitus latéral) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est moins irradiant"
+        },
+        {
+          "letter": "B",
+          "text": "Réalisé chez les patients en mauvais état général"
+        },
+        {
+          "letter": "C",
+          "text": "Mobiliser un épanchement pleural"
+        },
+        {
+          "letter": "D",
+          "text": "Facilite le diagnostic de la tuberculose"
+        },
+        {
+          "letter": "E",
+          "text": "Nécessite un portique vertical"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": true,
+      "correctAnswers": null,
+      "reviewNotes": [
+        "Page jump in original numbering from Q16 directly to Q21. Sequential mapping maintained here."
+      ]
+    },
+    {
+      "number": 14,
+      "text": "Sur le cliché pulmonaire de face en expiration forcée :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les clavicules sont asymétriques"
+        },
+        {
+          "letter": "B",
+          "text": "Les coupoles diaphragmatiques sont hautes"
+        },
+        {
+          "letter": "C",
+          "text": "Les bases pulmonaires sont surexposées"
+        },
+        {
+          "letter": "D",
+          "text": "Le médiastin est élargi"
+        },
+        {
+          "letter": "E",
+          "text": "Voir un pneumothorax"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null
+    },
+    {
+      "number": 15,
+      "text": "Le sulfate de baryum :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contre indiqué en cas de suspicion de perforation"
+        },
+        {
+          "letter": "B",
+          "text": "Toujours associé à la gastrografine"
+        },
+        {
+          "letter": "C",
+          "text": "Contre indiqué en cas d'occlusion par invagination intestinale chez le nourrisson"
+        },
+        {
+          "letter": "D",
+          "text": "Ne nécessite pas de préparation digestive"
+        },
+        {
+          "letter": "E",
+          "text": "Occasionne des allergies"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null
+    },
+    {
+      "number": 16,
+      "text": "La gastrografine :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est utilisée exclusivement par voie orale"
+        },
+        {
+          "letter": "B",
+          "text": "Son Z est inférieur à celui du baryum"
+        },
+        {
+          "letter": "C",
+          "text": "Elle peut provoquer des phénomènes de diarrhées"
+        },
+        {
+          "letter": "D",
+          "text": "Elle est inoffensive pour le péritoine"
+        },
+        {
+          "letter": "E",
+          "text": "Peut être associée au sulfate de baryum"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null
+    }
+  ],
+  "examTitle": "Concours de recrutement des IDE 2ème Grade - Session du 03 Mars 2012",
+  "specialty": "Technicien de Radiologie",
+  "year": 2012
+}

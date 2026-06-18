@@ -6,7 +6,8 @@
     "start": "bun run src/index.ts",
     "dev": "bun --watch run src/index.ts",
     "deploy": "bun run src/deploy.ts",
-    "extract:qcm": "bun run scripts/extract-qcm.ts"
+    "extract:qcm": "bun run scripts/extract-qcm.ts",
+    "export:pdf": "cross-env PYTHONIOENCODING=utf-8 python scripts/export-pdf.py"
   },
   "dependencies": {
     "@google/genai": "^2.8.0",
@@ -15,6 +16,7 @@
   "devDependencies": {
     "@biomejs/biome": "2.5.0",
     "@types/bun": "^1.3.14",
+    "cross-env": "^10.1.0",
     "typescript": "^6.0.3"
   }
 }

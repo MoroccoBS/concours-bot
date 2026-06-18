@@ -1,0 +1,128 @@
+{
+  "sourceFile": "Concours-Radiologie-CHU-Casablanca-2013-Session-Novembre.pdf",
+  "language": "fr",
+  "questions": [
+    {
+      "number": 1,
+      "text": "Établir l'organigramme d'une Région médicale.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Direction Régionale de la Santé"
+        },
+        {
+          "letter": "B",
+          "text": "Délégations provinciales / préfectorales"
+        },
+        {
+          "letter": "C",
+          "text": "Réseaux d'établissements de santé et médico-sociaux"
+        },
+        {
+          "letter": "D",
+          "text": "[Question ouverte / Schéma d'organigramme]"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": true,
+      "correctAnswers": null,
+      "pageStart": 5,
+      "reviewNotes": [
+        "Question ouverte demandant la réalisation d'un organigramme."
+      ]
+    },
+    {
+      "number": 2,
+      "text": "Citer la mission de la Délégation régionale du Ministère de la Santé.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mise en œuvre de la politique nationale de santé au niveau de la région"
+        },
+        {
+          "letter": "B",
+          "text": "Gouvernance et coordination des ressources sanitaires régionales"
+        },
+        {
+          "letter": "C",
+          "text": "Suivi de la carte sanitaire régionale"
+        },
+        {
+          "letter": "D",
+          "text": "[Question ouverte / Rédactionnel]"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": true,
+      "correctAnswers": null,
+      "pageStart": 5,
+      "reviewNotes": [
+        "Question ouverte (rédactionnelle)."
+      ]
+    },
+    {
+      "number": 3,
+      "text": "Citer les laboratoires nationaux qui sont sous la tutelle du Ministère de la Santé.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Institut National d'Hygiène (INH)"
+        },
+        {
+          "letter": "B",
+          "text": "Laboratoire National de Contrôle des Médicaments (LNCM)"
+        },
+        {
+          "letter": "C",
+          "text": "Centre National de Radioprotection (CNRP)"
+        },
+        {
+          "letter": "D",
+          "text": "[Question ouverte / Liste de laboratoires]"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": true,
+      "correctAnswers": null,
+      "pageStart": 5,
+      "reviewNotes": [
+        "Question ouverte (rédactionnelle)."
+      ]
+    },
+    {
+      "number": 4,
+      "text": "Identifier la différence entre l'hôpital SEGMA et l'hôpital autonome.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le statut juridique (Service de l'Etat Géré de Manière Autonome vs Etablissement Public Autonome)"
+        },
+        {
+          "letter": "B",
+          "text": "La personnalité morale et l'autonomie financière"
+        },
+        {
+          "letter": "C",
+          "text": "Le mode de gouvernance (Conseil d'administration propre pour les CHU)"
+        },
+        {
+          "letter": "D",
+          "text": "[Question ouverte / Rédactionnel]"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": true,
+      "correctAnswers": null,
+      "pageStart": 5,
+      "reviewNotes": [
+        "Question ouverte (rédactionnelle)."
+      ]
+    }
+  ],
+  "examTitle": "Examen de recrutement des Infirmiers - Epreuve commune - 18 octobre 2014",
+  "specialty": null,
+  "warnings": [
+    "Epreuve commune contenant 4 questions ouvertes."
+  ],
+  "year": 2014
+}

@@ -1,0 +1,1130 @@
+{
+  "sourceFile": "Concours-Radiologie-National-2023.pdf",
+  "language": "fr",
+  "questions": [
+    {
+      "number": 1,
+      "text": "L’examen radiographique du rachis :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "remplace l’examen clinique"
+        },
+        {
+          "letter": "B",
+          "text": "complète l’examen clinique"
+        },
+        {
+          "letter": "C",
+          "text": "ne remplace pas l’examen clinique"
+        },
+        {
+          "letter": "D",
+          "text": "ne complète pas l’examen clinique."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 2,
+      "text": "L’examen radiologique du rachis s’exécute en principe en :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "décubitus dorsal chez les traumatisés"
+        },
+        {
+          "letter": "B",
+          "text": "en station verticale chez les traumatisés"
+        },
+        {
+          "letter": "C",
+          "text": "décubitus dorsal chez les rhumatoïdes"
+        },
+        {
+          "letter": "D",
+          "text": "en station verticale chez les rhumatoïdes."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 3,
+      "text": "Un examen normal du rachis cervical comporte :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 clichés"
+        },
+        {
+          "letter": "B",
+          "text": "3 clichés"
+        },
+        {
+          "letter": "C",
+          "text": "4 clichés"
+        },
+        {
+          "letter": "D",
+          "text": "5 clichés."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 4,
+      "text": "En urgence, la radiographie du rachis cervical la plus importante est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Face"
+        },
+        {
+          "letter": "B",
+          "text": "Profil"
+        },
+        {
+          "letter": "C",
+          "text": "OPG et OPD"
+        },
+        {
+          "letter": "D",
+          "text": "OAG et OPG."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 5,
+      "text": "L’incidence de profil du rachis cervical est indiqué pour :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "étudier les éléments squelettiques du rachis cervical"
+        },
+        {
+          "letter": "B",
+          "text": "étudier la courbure rachidienne"
+        },
+        {
+          "letter": "C",
+          "text": "étudier le diamètre antéropostérieur du canal cervical"
+        },
+        {
+          "letter": "D",
+          "text": "rechercher des ostéophytes."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 6,
+      "text": "Le matériel nécessaire pour réaliser l’incidence rachis cervical de profil :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "statif vertical/Potter"
+        },
+        {
+          "letter": "B",
+          "text": "cône localisateur"
+        },
+        {
+          "letter": "C",
+          "text": "format du film 18*24 ou 24*30 en long"
+        },
+        {
+          "letter": "D",
+          "text": "diaphragme."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 7,
+      "text": "La D.F.P dans l’incidence rachis cervical de profil est 1m50 pour :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "réduire l’agrandissement"
+        },
+        {
+          "letter": "B",
+          "text": "atténuer le flou cinétique"
+        },
+        {
+          "letter": "C",
+          "text": "atténuer le flou géométrique"
+        },
+        {
+          "letter": "D",
+          "text": "toutes ces réponses sont justes."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 8,
+      "text": "Dans l’incidence rachis cervical de profil, le RD :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "descendant centré sur la partie moyenne de la face postérieure du cou"
+        },
+        {
+          "letter": "B",
+          "text": "ascendant de 15°a 20°, vise C4, centré sur le cartilage thyroïde"
+        },
+        {
+          "letter": "C",
+          "text": "horizontal, vise C4 à mi-hauteur entre l’angle de la mâchoire et l’épaule"
+        },
+        {
+          "letter": "D",
+          "text": "horizontal centré sur la partie moyenne de la face postérieure du cou."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 9,
+      "text": "Les critères de réussite de l’incidence profil du rachis cervical :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Superposition des angles de la mandibule"
+        },
+        {
+          "letter": "B",
+          "text": "Superposition des apophyses articulaires droites et gauches"
+        },
+        {
+          "letter": "C",
+          "text": "dédoublement des mûrs postérieurs"
+        },
+        {
+          "letter": "D",
+          "text": "Dégagement impératif de C7."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 10,
+      "text": "Parmi les variantes de l’incidence rachis cervical de profil :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Profil en D.D avec R.D.H"
+        },
+        {
+          "letter": "B",
+          "text": "Profil en D.V : avec R.D.H"
+        },
+        {
+          "letter": "C",
+          "text": "Profil en D.L avec R.D.V"
+        },
+        {
+          "letter": "D",
+          "text": "toutes les réponses sont justes."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 11,
+      "text": "Le centrage pour l’incidence rachis cervical de face :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "RD descendant de 15°à 20° centré sur le cartilage thyroïde"
+        },
+        {
+          "letter": "B",
+          "text": "RD ascendant de 15°à 20° centré sur la fourchette sternale"
+        },
+        {
+          "letter": "C",
+          "text": "RD descendant de 15°à 20° centré sur la fourchette sternale"
+        },
+        {
+          "letter": "D",
+          "text": "RD ascendant de 15°à 20° centré sur le cartilage thyroïde."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 12,
+      "text": "Les critères de réussite de l’incidence du rachis cervical de face sont :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Position médiane de la ligne des épineuses"
+        },
+        {
+          "letter": "B",
+          "text": "Position médiane de la trachée"
+        },
+        {
+          "letter": "C",
+          "text": "Position symétrique du maxillaire inférieur"
+        },
+        {
+          "letter": "D",
+          "text": "Bonne visibilité des disques intervertébraux de C1C2 à C7D1."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 13,
+      "text": "Le pourtour de trou de conjugaison est constitué de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En haut : les apophyses articulaires et leurs interlignes interapophysaires"
+        },
+        {
+          "letter": "B",
+          "text": "En avant : l’articulation unco-vertébrale"
+        },
+        {
+          "letter": "C",
+          "text": "En bas : le pédicule de la vertèbre sous-jacent"
+        },
+        {
+          "letter": "D",
+          "text": "En arrière : le pédicule de la vertèbre sus-jacent."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 14,
+      "text": "L’identification des trous de conjugaison du rachis cervical en oblique :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "O.P.D : on voit les T.G gauches"
+        },
+        {
+          "letter": "B",
+          "text": "O.P.G : on voit les T.G droites"
+        },
+        {
+          "letter": "C",
+          "text": "O.A.G : on voit les T.G gauches"
+        },
+        {
+          "letter": "D",
+          "text": "O.A.D : on voit les T.G droites."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 15,
+      "text": "Les incidences des épreuves dynamiques de profil du rachis cervical sont aux nombre de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "deux"
+        },
+        {
+          "letter": "B",
+          "text": "trois"
+        },
+        {
+          "letter": "C",
+          "text": "quatre"
+        },
+        {
+          "letter": "D",
+          "text": "plus que quatre"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 16,
+      "text": "Radiographie du rachis lombaire, incidence de face :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "gros foyer"
+        },
+        {
+          "letter": "B",
+          "text": "petit foyer"
+        },
+        {
+          "letter": "C",
+          "text": "D.F.P = 1 m"
+        },
+        {
+          "letter": "D",
+          "text": "D.F.P = 1.50 m"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 17,
+      "text": "Le centrage dans l’incidence du rachis lombaire de face est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sur la ligne médiane à deux travers de doigt au dessous de la ligne bi-crête"
+        },
+        {
+          "letter": "B",
+          "text": "sur la ligne médiane à deux travers de doigt au dessous de la ligne bi-crête"
+        },
+        {
+          "letter": "C",
+          "text": "au milieu de la ligne bi-crête"
+        },
+        {
+          "letter": "D",
+          "text": "sur la ligne médiane à deux travers de doigt au dessus de la ligne joignant les EIAS."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": true,
+      "correctAnswers": null,
+      "pageStart": 3,
+      "reviewNotes": [
+        "Options A and B are identical in the source text."
+      ]
+    },
+    {
+      "number": 18,
+      "text": "L’incidence indiquée pour l’étude des disques intervertébraux du rachis lombaire de face :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incidence en antéro-postérieur en décubitus dorsal"
+        },
+        {
+          "letter": "B",
+          "text": "Incidence en postéro-antérieur debout ou couché"
+        },
+        {
+          "letter": "C",
+          "text": "Incidence de débrouillage dite de Desèze"
+        },
+        {
+          "letter": "D",
+          "text": "aucune incidence."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 19,
+      "text": "Le centrage pour l’incidence du rachis lombaire de profil :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "à quatre travers de doigt au dessous de la crête iliaque et à quatre travers de doigts en avant du plan dorsal"
+        },
+        {
+          "letter": "B",
+          "text": "à quatre travers de doigt au dessus de la crête iliaque et à quatre travers de doigts en avant du plan dorsal"
+        },
+        {
+          "letter": "C",
+          "text": "à deux travers de doigt au dessous de la crête iliaque et à quatre travers de doigts en avant du plan dorsal"
+        },
+        {
+          "letter": "D",
+          "text": "à deux travers de doigt au dessus de la crête iliaque et à quatre travers de doigts en avant du plan dorsal."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 20,
+      "text": "Dans l’incidence oblique du rachis lombaire :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "l’OPD étale les pédicules, les massifs articulaires et les isthmes du côté gauche"
+        },
+        {
+          "letter": "B",
+          "text": "l’OPD étale les pédicules, les massifs articulaires et les isthmes du côté droit"
+        },
+        {
+          "letter": "C",
+          "text": "l’OPG étale les pédicules, les massifs articulaires et les isthmes du côté gauche"
+        },
+        {
+          "letter": "D",
+          "text": "l’OPG étale les pédicules, les massifs articulaires et les isthmes du côté droit."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 21,
+      "text": "Le centrage pour l’incidence oblique du rachis lombaire :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "R.D.H. centré à 5 travers de doigts au dessus de la crête iliaque du coté éloigné du plan d’examen"
+        },
+        {
+          "letter": "B",
+          "text": "R.D.H. centré à 5 travers de doigts au dessous de la crête iliaque du coté éloigné du plan d’examen"
+        },
+        {
+          "letter": "C",
+          "text": "R.D.H. centré à 3 travers de doigts au dessus de la crête iliaque du coté éloigné du plan d’examen"
+        },
+        {
+          "letter": "D",
+          "text": "R.D.H. centré à 3 travers de doigts au dessous de la crête iliaque du coté éloigné du plan d’examen."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 22,
+      "text": "Dans l’image de l’oblique lombaire les arcs apparaissent comme des petits chiens de la chapelle. Anatomo-radiologiquement les différentes parties des petits chiens sont :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Œil : apophyse transverse"
+        },
+        {
+          "letter": "B",
+          "text": "Oreille : apophyse articulaire supérieure"
+        },
+        {
+          "letter": "C",
+          "text": "Museau : pédicule"
+        },
+        {
+          "letter": "D",
+          "text": "Cou : isthme."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 23,
+      "text": "Le cône localisateur est indispensable pour les incidences suivantes :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "charnières lombo-sacrées, Incidence de profil"
+        },
+        {
+          "letter": "B",
+          "text": "Incidence de profil de la CCO"
+        },
+        {
+          "letter": "C",
+          "text": "Incidence de débrouillage dite de Desèze"
+        },
+        {
+          "letter": "D",
+          "text": "Incidence de profil du rachis lombaire."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 24,
+      "text": "Le centrage pour l’incidence de profil du sacrum :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "R.D.H. centré de 8 à 10 cm au dessous de la crête iliaque et, de 4 à 8 cm en avant de la face postérieure du sacrum"
+        },
+        {
+          "letter": "B",
+          "text": "R.D.H. centré de 8 à 10 cm au dessus de la crête iliaque et, de 4 à 8 cm en avant de la face postérieure du sacrum"
+        },
+        {
+          "letter": "C",
+          "text": "R.D.H. centré de 2 travers de doigts au dessous de la crête iliaque et, de 4 travers de doigts en avant de la face postérieure du sacrum"
+        },
+        {
+          "letter": "D",
+          "text": "R.D.H. centré de 2 travers de doigts au dessus de la crête iliaque et, de 4 à 8 cm en avant de la face postérieure du sacrum."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 25,
+      "text": "Le gros foyer est indispensable dans les incidences suivantes :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incidence sacrum de profil"
+        },
+        {
+          "letter": "B",
+          "text": "Incidence rachis lombaire de profil"
+        },
+        {
+          "letter": "C",
+          "text": "incidence rachis cervical de profil"
+        },
+        {
+          "letter": "D",
+          "text": "incidence rachis cervical de face."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 5,
+      "reviewNotes": []
+    },
+    {
+      "number": 26,
+      "text": "La D.F.P=1.50 m est utilisée dans les incidences suivantes :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "incidence rachis cervical de profil"
+        },
+        {
+          "letter": "B",
+          "text": "incidence oblique du rachis lombaire"
+        },
+        {
+          "letter": "C",
+          "text": "Incidence de débrouillage dite de Desèze"
+        },
+        {
+          "letter": "D",
+          "text": "Incidence sacrum de face."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 5,
+      "reviewNotes": []
+    },
+    {
+      "number": 27,
+      "text": "Pendant la prise du cliché oblique des cotes :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le coté à radiographier est en contact du plan d’examen,"
+        },
+        {
+          "letter": "B",
+          "text": "Le coté à radiographier s’écarte du plan d’examen,"
+        },
+        {
+          "letter": "C",
+          "text": "Le cliché est pris en inspiration forcée et bloqué,"
+        },
+        {
+          "letter": "D",
+          "text": "Le cliché est pris en expiration forcée."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 5,
+      "reviewNotes": []
+    },
+    {
+      "number": 28,
+      "text": "Le centrage de l’incidence de face en antéropostérieur du rachis cervical :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "RD descendant de 15° à 20°"
+        },
+        {
+          "letter": "B",
+          "text": "RD ascendant de 15° à 20°"
+        },
+        {
+          "letter": "C",
+          "text": "RD vise C4"
+        },
+        {
+          "letter": "D",
+          "text": "RD vise la pomme d’Adam."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 5,
+      "reviewNotes": []
+    },
+    {
+      "number": 29,
+      "text": "La position du patient lors de l’incidence de profil du rachis lombaire en station verticale est comme suit :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Debout en profil strict"
+        },
+        {
+          "letter": "B",
+          "text": "Pieds nus bien stables et symétriques"
+        },
+        {
+          "letter": "C",
+          "text": "Bras croisés sur la poitrine"
+        },
+        {
+          "letter": "D",
+          "text": "Mains sur les épaules."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 5,
+      "reviewNotes": []
+    },
+    {
+      "number": 30,
+      "text": "Les critères de réussite de l’incidence de face du sacrum :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ligne des épineuses bien médiane"
+        },
+        {
+          "letter": "B",
+          "text": "Superposition pointe de coccyx et de la symphyse pubienne"
+        },
+        {
+          "letter": "C",
+          "text": "Bonne visualisation des contours de sacrum et des trous sacrés"
+        },
+        {
+          "letter": "D",
+          "text": "Visualisation de l’ensemble des structures depuis la colonne lombo-sacré jusqu’au coccyx."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 6,
+      "reviewNotes": []
+    },
+    {
+      "number": 31,
+      "text": "Le centrage dans l’incidence sacrum de face :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "RD ascendant"
+        },
+        {
+          "letter": "B",
+          "text": "RD descendant"
+        },
+        {
+          "letter": "C",
+          "text": "centré à deux travers de doigts au dessous de la symphyse pubienne sur la ligne médiane"
+        },
+        {
+          "letter": "D",
+          "text": "centré à deux travers de doigts au dessus de la symphyse pubienne sur la ligne médiane."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 6,
+      "reviewNotes": []
+    },
+    {
+      "number": 32,
+      "text": "Les techniques radiologiques du sternum :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incidence de face seulement"
+        },
+        {
+          "letter": "B",
+          "text": "Incidence de profil seulement"
+        },
+        {
+          "letter": "C",
+          "text": "Incidences de face et de profil"
+        },
+        {
+          "letter": "D",
+          "text": "Aucune réponse."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 6,
+      "reviewNotes": []
+    },
+    {
+      "number": 33,
+      "text": "Pour la protection du patient et de personnel des rayonnements ionisants, vous devez :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Maintenir vous-même les sujets à examiner"
+        },
+        {
+          "letter": "B",
+          "text": "Revenir derrière un paravent plombé pendant la prise des clichés"
+        },
+        {
+          "letter": "C",
+          "text": "Vous tenir n'importe ou dans la salle pendant la prise des clichés"
+        },
+        {
+          "letter": "D",
+          "text": "Travailler avec un diaphragme grand ouvert"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": [
+        "B"
+      ],
+      "pageStart": 6,
+      "reviewNotes": []
+    },
+    {
+      "number": 34,
+      "text": "Les critères de réussite de l'incidence de la face de l'épaule- Rotation neutre :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Articulation gléno-humérale dégagée"
+        },
+        {
+          "letter": "B",
+          "text": "Superposition de la clavicule et de l'épine de la scapula"
+        },
+        {
+          "letter": "C",
+          "text": "Tubercule mineur projeté de face au centre de la tête humérale"
+        },
+        {
+          "letter": "D",
+          "text": "Tubercule majeur projeté de profil vers l’extérieur"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "pageStart": 6,
+      "reviewNotes": []
+    },
+    {
+      "number": 35,
+      "text": "l'incidence de Schreck 1 :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sert à étudier le semi-lunaire ( Lunatum)"
+        },
+        {
+          "letter": "B",
+          "text": "Met en évidence le scaphoide de profil"
+        },
+        {
+          "letter": "C",
+          "text": "A comme critère de réussite le scaphoide de face"
+        },
+        {
+          "letter": "D",
+          "text": "Rayon Directeur : descendant de 20 à 30°, centré à deux travers de doigts sous l’articulation acromio-claviculaire"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": [
+        "C"
+      ],
+      "pageStart": 7,
+      "reviewNotes": []
+    },
+    {
+      "number": 36,
+      "text": "La position du malade lors la réalisation de l'incidence de face dorso-palmaire du poignet :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "main en pronation"
+        },
+        {
+          "letter": "B",
+          "text": "main en supination"
+        },
+        {
+          "letter": "C",
+          "text": "doigts relâchés en extension"
+        },
+        {
+          "letter": "D",
+          "text": "doigts contractés en flexion"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": [
+        "A",
+        "C"
+      ],
+      "pageStart": 7,
+      "reviewNotes": []
+    },
+    {
+      "number": 37,
+      "text": "L'angioscanner thoracique pour embolie pulmonaire :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ne nécessite pas d'injection de produit de contraste"
+        },
+        {
+          "letter": "B",
+          "text": "Le produit utilisé est le gadolinium."
+        },
+        {
+          "letter": "C",
+          "text": "L'acquisition sera réalisée précocement (25 secondes environ après l'injection)"
+        },
+        {
+          "letter": "D",
+          "text": "Les clichés fournis au patient seront limités aux fenêtres médiastinales."
+        },
+        {
+          "letter": "E",
+          "text": "L'apnée quand elle est possible n'est pas obligatoire."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": [
+        "D"
+      ],
+      "pageStart": 7,
+      "reviewNotes": []
+    },
+    {
+      "number": 38,
+      "text": "L'angioscanner hépatique pour caractérisation d'un nodule du foie :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est un scanner réalisé pour avoir une cartographie de la vascularisation du foie."
+        },
+        {
+          "letter": "B",
+          "text": "Est un scanner réalisé en deux temps, sans injection et après injection au temps artériel."
+        },
+        {
+          "letter": "C",
+          "text": "Est un scanner réalisé au moins en trois temps."
+        },
+        {
+          "letter": "D",
+          "text": "60 à 80 secondes après injection correspondent au temps artériel."
+        },
+        {
+          "letter": "E",
+          "text": "L'injecteur automatique n'est pas obligatoire"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": [
+        "A",
+        "B"
+      ],
+      "pageStart": 7,
+      "reviewNotes": []
+    },
+    {
+      "number": 39,
+      "text": "Concernant les rayons X et la grossesse :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'exposition aux rayons X est formellement contre-indiquée dans la grossesse débutante."
+        },
+        {
+          "letter": "B",
+          "text": "Les examens à rayons X seront réalisés en 2° phase du cycle."
+        },
+        {
+          "letter": "C",
+          "text": "l'exposition aux rayons X au 3° trimestre augmente le risque de malformation fetale."
+        },
+        {
+          "letter": "D",
+          "text": "Devant une urgence extrême en 3° trimestre, le recours à un examen à rayons X sera réalisé à défaut d'autre exploration répondant aux questions posées."
+        },
+        {
+          "letter": "E",
+          "text": "Le fait de mettre une blouse plombée sur le pelvis permet une protection efficace et suffisante."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": [
+        "A",
+        "D"
+      ],
+      "pageStart": 8,
+      "reviewNotes": []
+    },
+    {
+      "number": 40,
+      "text": "Concernant la séquence STIR En IRM :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cette séquence est basée sur la technique d'inversion-récupération"
+        },
+        {
+          "letter": "B",
+          "text": "Cette séquence permet l'étude des mouvements de molécules d'eau."
+        },
+        {
+          "letter": "C",
+          "text": "Il s'agit d'une séquence de suppression du signal de l'eau:"
+        },
+        {
+          "letter": "D",
+          "text": "Elle est utilisée pour aider au diagnostic de pathologie tumorale du rachis"
+        },
+        {
+          "letter": "E",
+          "text": "Elle est souvent associée à la séquence T1 après injection."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": [
+        "A"
+      ],
+      "pageStart": 8,
+      "reviewNotes": []
+    }
+  ],
+  "examTitle": "Concours 05 10 2023",
+  "specialty": "Radiologie",
+  "warnings": [],
+  "year": 2023
+}

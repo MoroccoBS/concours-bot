@@ -1,0 +1,337 @@
+{
+  "sourceFile": "Concours-Radiologie-Specialite-Compilation-2008-2012.pdf",
+  "language": "fr",
+  "questions": [
+    {
+      "number": 1,
+      "text": "Les hôpitaux régionaux sont :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Des établissements publics administratifs"
+        },
+        {
+          "letter": "B",
+          "text": "Des établissements érigés en service de l'Etat géré de manière autonome"
+        },
+        {
+          "letter": "C",
+          "text": "Des établissements gérés « en régie »"
+        },
+        {
+          "letter": "D",
+          "text": "Des établissements gérés d'une manière indéfinie"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 2,
+      "text": "Les structures d'appui au réseau de soins de santé de base sont constituées entre autres par :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le centre de santé"
+        },
+        {
+          "letter": "B",
+          "text": "Le centre de référence de la planification familiale"
+        },
+        {
+          "letter": "C",
+          "text": "Le dispensaire"
+        },
+        {
+          "letter": "D",
+          "text": "Le centre de diagnostic polyvalent"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 3,
+      "text": "Dans le cadre du système national de santé, les structures de l'offre de soins des mutuelles relèvent du :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Secteur privé"
+        },
+        {
+          "letter": "B",
+          "text": "Secteur Etatique"
+        },
+        {
+          "letter": "C",
+          "text": "Secteur semi public"
+        },
+        {
+          "letter": "D",
+          "text": "Secteur non formel"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 4,
+      "text": "L'hôpital provincial a une capacité moyenne de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "200 à 500 lits"
+        },
+        {
+          "letter": "B",
+          "text": "400 à 500 lits"
+        },
+        {
+          "letter": "C",
+          "text": "500 à 700 lits"
+        },
+        {
+          "letter": "D",
+          "text": "700 à 1000 lits"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 5,
+      "text": "La maladie du SIDA peut se transmettre par :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La toux et l'éternuement"
+        },
+        {
+          "letter": "B",
+          "text": "Les mains salles"
+        },
+        {
+          "letter": "C",
+          "text": "Les injections"
+        },
+        {
+          "letter": "D",
+          "text": "Le couvert utilisé par un malade atteint du sida après le repas"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": true,
+      "reviewNotes": [
+        "Extracted and simplified raw handwritten options layout for standard format compatibility"
+      ]
+    },
+    {
+      "number": 6,
+      "text": "Le programme national d'immunisation cible uniquement la population des :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enfants âgés de 0 à 2 ans"
+        },
+        {
+          "letter": "B",
+          "text": "Enfants âgés de 0 à 5 ans"
+        },
+        {
+          "letter": "C",
+          "text": "Enfants âgés de 0 à 5 ans et les femmes âgées de 15 à 45 ans"
+        },
+        {
+          "letter": "D",
+          "text": "Enfants âgés de 0 à 2 ans et les femmes âgées de 15 à 45 ans"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 7,
+      "text": "Le taux de mortalité maternelle est de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "227 / 100.000 naissances vivantes"
+        },
+        {
+          "letter": "B",
+          "text": "238 / 100.000 naissances vivantes"
+        },
+        {
+          "letter": "C",
+          "text": "247 / 100.000 naissances vivantes"
+        },
+        {
+          "letter": "D",
+          "text": "258 / 100.000 naissances vivantes"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 8,
+      "text": "Le taux de mortalité infantile est de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "27 / 1000 naissances vivantes"
+        },
+        {
+          "letter": "B",
+          "text": "37 / 1000 naissances vivantes"
+        },
+        {
+          "letter": "C",
+          "text": "47 / 1000 naissances vivantes"
+        },
+        {
+          "letter": "D",
+          "text": "57 / 1000 naissances vivantes"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 9,
+      "text": "Le centre hospitalier universitaire est un :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hôpital en régie"
+        },
+        {
+          "letter": "B",
+          "text": "Service d'Etat géré de manière autonome"
+        },
+        {
+          "letter": "C",
+          "text": "Hôpital autonome"
+        },
+        {
+          "letter": "D",
+          "text": "Etablissement qui jouit de la personnalité morale"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 10,
+      "text": "Dans la politique du Ministère de la Santé 2008/2012, on vise à réduire le taux de mortalité infantile à :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15 / 1000 naissances vivantes"
+        },
+        {
+          "letter": "B",
+          "text": "16 / 1000 naissances vivantes"
+        },
+        {
+          "letter": "C",
+          "text": "17 / 1000 naissances vivantes"
+        },
+        {
+          "letter": "D",
+          "text": "18 / 1000 naissances vivantes"
+        },
+        {
+          "letter": "E",
+          "text": "20 / 1000 naissances vivantes"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 11,
+      "text": "La stratégie du Ministère de la Santé 2008/2012 comprend :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 axes stratégiques"
+        },
+        {
+          "letter": "B",
+          "text": "5 axes stratégiques"
+        },
+        {
+          "letter": "C",
+          "text": "6 axes stratégiques"
+        },
+        {
+          "letter": "D",
+          "text": "7 axes stratégiques"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 12,
+      "text": "Parmi les structures de l'offre de soins suivantes, laquelle représente la première source de financement du système national de santé :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'Etat"
+        },
+        {
+          "letter": "B",
+          "text": "Les ménages (familles)"
+        },
+        {
+          "letter": "C",
+          "text": "Les entreprises publiques"
+        },
+        {
+          "letter": "D",
+          "text": "Les collectivités locales"
+        },
+        {
+          "letter": "E",
+          "text": "La coopération internationale"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 13,
+      "text": "L'assurance maladie obligatoire (AMO) couvre :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15 % de la population marocaine"
+        },
+        {
+          "letter": "B",
+          "text": "20 % de la population marocaine"
+        },
+        {
+          "letter": "C",
+          "text": "25 % de la population marocaine"
+        },
+        {
+          "letter": "D",
+          "text": "30 % de la population marocaine"
+        },
+        {
+          "letter": "E",
+          "text": "35 % de la population marocaine"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    }
+  ],
+  "examTitle": "Concours de Recrutement des Infirmiers Diplômés d'Etat du Deuxième Grade - Session du 21 Juin 2008",
+  "specialty": "Technicien de Radiologie / Items communs",
+  "warnings": [],
+  "year": 2008
+}

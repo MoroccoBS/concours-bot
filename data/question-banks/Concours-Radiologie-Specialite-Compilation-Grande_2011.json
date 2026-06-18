@@ -1,0 +1,380 @@
+{
+  "sourceFile": "Concours-Radiologie-Specialite-Compilation-Grande.pdf",
+  "language": "fr",
+  "questions": [
+    {
+      "number": 1,
+      "text": "Le cliché d'ASP de face en décubitus dorsal avec rayon directeur vertical :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permet de voir la vessie lorsqu'elle est en réplétion"
+        },
+        {
+          "letter": "B",
+          "text": "Permet de voir les images hydro-aériques"
+        },
+        {
+          "letter": "C",
+          "text": "Doit comprendre les coupoles diaphragmatiques"
+        },
+        {
+          "letter": "D",
+          "text": "Permet de dégager tout les types de calcules rénaux"
+        },
+        {
+          "letter": "E",
+          "text": "Nécessite une préparation"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": [
+        "A",
+        "C"
+      ]
+    },
+    {
+      "number": 2,
+      "text": "Les images hydro-aérique :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sont mise en évidence par incidences avec RDV"
+        },
+        {
+          "letter": "B",
+          "text": "Sont peu nombreuses au niveau du colon"
+        },
+        {
+          "letter": "C",
+          "text": "Sont plus haute que large au niveau du grêle"
+        },
+        {
+          "letter": "D",
+          "text": "En cas d'occlusion mécanique, elle siègent toujours en amont de l'obstacle"
+        },
+        {
+          "letter": "E",
+          "text": "Peuvent exister sur le grêle et le colon à la fois"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": [
+        "B",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "number": 3,
+      "text": "Un cliché d'ASP debout avec RDH peut renseigner :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sur le fonctionnement rénal"
+        },
+        {
+          "letter": "B",
+          "text": "Sur la présence d'épanchement gazeux"
+        },
+        {
+          "letter": "C",
+          "text": "L'augmentation de volume du foie, de la rate ou d'un rein"
+        },
+        {
+          "letter": "D",
+          "text": "Le siège des ulcères gastro-duodénaux"
+        },
+        {
+          "letter": "E",
+          "text": "Les muscles psoas sont effacés"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": [
+        "B",
+        "C"
+      ]
+    },
+    {
+      "number": 4,
+      "text": "La radiographie pulmonaire de face en expiration forcée :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se réalise normalement malade debout en antéro-postérieur"
+        },
+        {
+          "letter": "B",
+          "text": "Se réalise en haute tension"
+        },
+        {
+          "letter": "C",
+          "text": "Le médiastin paraît étroit"
+        },
+        {
+          "letter": "D",
+          "text": "Les parenchymes pulmonaires paraissent opaques de façon bilatérale"
+        },
+        {
+          "letter": "E",
+          "text": "Les clavicules ne sont pas symétriques par rapport les lignes des épineuses"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": [
+        "B",
+        "D"
+      ]
+    },
+    {
+      "number": 5,
+      "text": "Un cliché pulmonaire en décubitus dorsale (haute tension) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est réalisé seulement lorsque le patient ne supporte pas la position debout"
+        },
+        {
+          "letter": "B",
+          "text": "On centre sur la fourchette sternale"
+        },
+        {
+          "letter": "C",
+          "text": "La silhouette cardio-vasculaire apparait plus important par rapport à la position postéro-antérieure (même DFP)"
+        },
+        {
+          "letter": "D",
+          "text": "Le thorax osseux est bien dégagé"
+        },
+        {
+          "letter": "E",
+          "text": "Une diminution de la visibilité des structures fines et peu dense"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": [
+        "A",
+        "C",
+        "E"
+      ]
+    },
+    {
+      "number": 6,
+      "text": "L'UIV est contre indiquée :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chez les patients présentant une allergie à la pénicilline"
+        },
+        {
+          "letter": "B",
+          "text": "Chez les patients qui ont eu des antécédents d'accident grave malgré la prémédication anti allergiques"
+        },
+        {
+          "letter": "B",
+          "text": "Chez les patients qui ont eu des antécédents d'accident grave malgré la prémédication anti allergiques"
+        },
+        {
+          "letter": "C",
+          "text": "Chez les patients ayants un taux d'urée à 0,60 g"
+        },
+        {
+          "letter": "D",
+          "text": "Chez les patients présentant une insuffisance hépato-rénale grave"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": true,
+      "correctAnswers": [
+        "B",
+        "D"
+      ],
+      "reviewNotes": [
+        "Options are duplicates of letter B on some parts of the question sheet, needs logical verification."
+      ]
+    },
+    {
+      "number": 7,
+      "text": "La compression urétérale est contre indiquée :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En cas d'hématurie"
+        },
+        {
+          "letter": "B",
+          "text": "Lithiase vésicale"
+        },
+        {
+          "letter": "C",
+          "text": "Adénome prostatique"
+        },
+        {
+          "letter": "D",
+          "text": "Anévrysme de l'aorte abdominale"
+        },
+        {
+          "letter": "E",
+          "text": "Colopathie"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": [
+        "C",
+        "D"
+      ]
+    },
+    {
+      "number": 8,
+      "text": "L'U.C.G est contre indiquée :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chez l'enfant"
+        },
+        {
+          "letter": "B",
+          "text": "En cas d'infection urinaire"
+        },
+        {
+          "letter": "C",
+          "text": "Insuffisance rénale"
+        },
+        {
+          "letter": "D",
+          "text": "Tumeur vésicale"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": [
+        "B"
+      ]
+    },
+    {
+      "number": 9,
+      "text": "La prémédication antiallergique :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est systématique"
+        },
+        {
+          "letter": "B",
+          "text": "Contre indiquée chez les hypertendus"
+        },
+        {
+          "letter": "C",
+          "text": "Obligatoire chez l'asthmatique"
+        },
+        {
+          "letter": "D",
+          "text": "Permet une protection sure"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": [
+        "C"
+      ]
+    },
+    {
+      "number": 10,
+      "text": "Les uretères sont étudiés par :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Des clichés localisés"
+        },
+        {
+          "letter": "B",
+          "text": "Des obliques"
+        },
+        {
+          "letter": "C",
+          "text": "Une décompression"
+        },
+        {
+          "letter": "D",
+          "text": "Des clichés tardifs"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": [
+        "A",
+        "B",
+        "D"
+      ]
+    },
+    {
+      "number": 11,
+      "text": "Les sommets pulmonaires sont étudiés :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Par le cliché de face en expiration forcée"
+        },
+        {
+          "letter": "B",
+          "text": "Par le cliché de face en inspiration forcée"
+        },
+        {
+          "letter": "C",
+          "text": "Cliché de face en hyper-lordose"
+        },
+        {
+          "letter": "D",
+          "text": "Cliché en décubitus latérale"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": [
+        "C"
+      ]
+    },
+    {
+      "number": 12,
+      "text": "La vraie face du rein droit est obtenue par :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un ASP de face"
+        },
+        {
+          "letter": "B",
+          "text": "Un OAD à 30°"
+        },
+        {
+          "letter": "C",
+          "text": "Un OPD à 30°"
+        },
+        {
+          "letter": "D",
+          "text": "Un profile"
+        },
+        {
+          "letter": "E",
+          "text": "Un OPG à 30°"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "correctAnswers": [
+        "C",
+        "E"
+      ]
+    }
+  ],
+  "examTitle": "Examen d'Aptitude Professionnelle pour l'accès au grade d'infirmier Diplômé d'Etat 1er Grade (Echelle 10) - Session du 12 Juin 2011 - 2ème épreuve",
+  "specialty": "Technicien de Radiologie",
+  "year": 2011
+}

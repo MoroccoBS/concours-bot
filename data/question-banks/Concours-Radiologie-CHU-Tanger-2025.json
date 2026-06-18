@@ -1,0 +1,729 @@
+{
+  "sourceFile": "Concours-Radiologie-CHU-Tanger-2025.pdf",
+  "language": "fr",
+  "questions": [
+    {
+      "number": 1,
+      "text": "Concernant la radiographie pulmonaire standard, un paramètre essentiel du cliché est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'injection systématique d'un produit de contraste"
+        },
+        {
+          "letter": "B",
+          "text": "Une bonne position du patient avec apnée inspiratoire profonde"
+        },
+        {
+          "letter": "C",
+          "text": "Un centrage correct : Le faisceau central est dirigé au niveau de la 7° vertèbre cervicale"
+        },
+        {
+          "letter": "D",
+          "text": "Une exposition optimisée pour éviter le flou de mouvement"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 2,
+      "text": "Dans une radiographie de profil de la cheville :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le patient est debout"
+        },
+        {
+          "letter": "B",
+          "text": "Le profil est externe ou péronier"
+        },
+        {
+          "letter": "C",
+          "text": "Le pied est à 90° avec la jambe"
+        },
+        {
+          "letter": "D",
+          "text": "Le rayon directeur est vertical"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 3,
+      "text": "Dans la radiographie du rachis cervical de profil :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le patient peut être assis ou debout"
+        },
+        {
+          "letter": "B",
+          "text": "Le rayon directeur est centré sur C6"
+        },
+        {
+          "letter": "C",
+          "text": "La tête est en légère inflexion"
+        },
+        {
+          "letter": "D",
+          "text": "On doit voir de C1 à C7"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 4,
+      "text": "La prémédication antiallergique :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permet une protection sure"
+        },
+        {
+          "letter": "B",
+          "text": "Est systématique"
+        },
+        {
+          "letter": "C",
+          "text": "Contre indiqué chez les hypertendus"
+        },
+        {
+          "letter": "D",
+          "text": "Obligatoire chez les l'asthmatique"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 5,
+      "text": "Quelle est la principale image radiologique d'une pneumonie lobaire sur une radiographie thoracique ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hyperclarté homogène d'un lobe"
+        },
+        {
+          "letter": "B",
+          "text": "Opacité alvéolaire systématisée à un lobe"
+        },
+        {
+          "letter": "C",
+          "text": "Présence d'un pneumothorax"
+        },
+        {
+          "letter": "D",
+          "text": "Dilatation des bronches"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 6,
+      "text": "La radiographie de profil de l'épaule de Lamy :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est appelée également le profil axial de la coiffe"
+        },
+        {
+          "letter": "B",
+          "text": "Est une incidence postéro-antérieure"
+        },
+        {
+          "letter": "C",
+          "text": "La position du patient est la même que pour le profil de NEER"
+        },
+        {
+          "letter": "D",
+          "text": "L'omoplate doit être vue dans sa totalité"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 7,
+      "text": "La loi qui régit l'utilisation des rayonnements ionisants à des fins médicales au Maroc est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Loi n° 005-71"
+        },
+        {
+          "letter": "B",
+          "text": "Loi n° 142-12"
+        },
+        {
+          "letter": "C",
+          "text": "Loi n° 30-09"
+        },
+        {
+          "letter": "D",
+          "text": "Loi n° 65-00"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 8,
+      "text": "Concernant la radiothérapie, Quelle est la (ou les) proposition (s) exacte (s) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Il s'agit d'un traitement locorégional"
+        },
+        {
+          "letter": "B",
+          "text": "Elle peut être associé à la chimiothérapie"
+        },
+        {
+          "letter": "C",
+          "text": "Elle n'est jamais indiquée seule"
+        },
+        {
+          "letter": "D",
+          "text": "Elle a le même mécanisme d'action que la chimiothérapie"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 9,
+      "text": "Quelle est la principale cible de la radiothérapie :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le cytoplasme cellulaire"
+        },
+        {
+          "letter": "B",
+          "text": "L'ADN"
+        },
+        {
+          "letter": "C",
+          "text": "La membrane cellulaire"
+        },
+        {
+          "letter": "D",
+          "text": "Le vaisseau sanguin"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 10,
+      "text": "En radiothérapie les rayons sont délivrés par :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Des gamma caméras"
+        },
+        {
+          "letter": "B",
+          "text": "Des accélérateurs linéaires"
+        },
+        {
+          "letter": "C",
+          "text": "Des machines de radiofréquence"
+        },
+        {
+          "letter": "D",
+          "text": "Des machines de cryothérapie"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 11,
+      "text": "Quelle pathologie osseuse présente un aspect radiologique de \"verre dépoli\" ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ostéoporose"
+        },
+        {
+          "letter": "B",
+          "text": "Maladie de Paget"
+        },
+        {
+          "letter": "C",
+          "text": "Dysplasie fibreuse"
+        },
+        {
+          "letter": "D",
+          "text": "Métastases osseuses"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 12,
+      "text": "L'examen de référence pour diagnostiquer une embolie pulmonaire est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Radiographie thoracique"
+        },
+        {
+          "letter": "B",
+          "text": "Scanner thoracique sans injection"
+        },
+        {
+          "letter": "C",
+          "text": "Angioscanner thoracique"
+        },
+        {
+          "letter": "D",
+          "text": "IRM thoracique"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 13,
+      "text": "L'uroscanner :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est indiqué devant une pathologie tumorale vésicale"
+        },
+        {
+          "letter": "B",
+          "text": "Est indiqué devant une obstruction urinaire"
+        },
+        {
+          "letter": "C",
+          "text": "Les coupes sans injection de produit de contraste sont obligatoires"
+        },
+        {
+          "letter": "D",
+          "text": "Est contre-indiqué en cas de créatinine sanguine à 20 mg/l"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 14,
+      "text": "Parmi les principales missions du Centre National de Radioprotection (CNRP), on trouve :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le suivi dosimétrique des travailleurs exposés"
+        },
+        {
+          "letter": "B",
+          "text": "L'importation des produits radioactifs"
+        },
+        {
+          "letter": "C",
+          "text": "La sûreté et la sécurité nucléaires et radiologiques"
+        },
+        {
+          "letter": "D",
+          "text": "Le contrôle réglementaire, inspection et suivi des établissements"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 15,
+      "text": "Quel est le principal risque de surexposition aux rayons X pour le personnel de radiologie ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Maladies infectieuses"
+        },
+        {
+          "letter": "B",
+          "text": "Cataracte radio-induite"
+        },
+        {
+          "letter": "C",
+          "text": "Hypertension artérielle"
+        },
+        {
+          "letter": "D",
+          "text": "Ostéoporose"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 16,
+      "text": "Le gadolinium en IRM est utilisé pour :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Raccourcir le temps T1"
+        },
+        {
+          "letter": "B",
+          "text": "Allonger le temps T2"
+        },
+        {
+          "letter": "C",
+          "text": "Rehausser les tissus vascularisés"
+        },
+        {
+          "letter": "D",
+          "text": "Émettre des rayons X"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 17,
+      "text": "En IRM, le temps d'écho (TE) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Temps entre une impulsion de 180° et le recueil de l'écho de spin"
+        },
+        {
+          "letter": "B",
+          "text": "TE détermine le moment précis où le signal est mesuré"
+        },
+        {
+          "letter": "C",
+          "text": "TE conditionne la pondération T1 d'une séquence"
+        },
+        {
+          "letter": "D",
+          "text": "Plus on allonge le TE, plus la séquence est pondérée en T1"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 18,
+      "text": "La saturation de graisse en IRM :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est une méthode qui utilise la grande différence de fréquence de résonance des protons présents dans la graisse par rapport à ceux de la molécule d'eau"
+        },
+        {
+          "letter": "B",
+          "text": "Est une méthode utilisable uniquement en pondération T2"
+        },
+        {
+          "letter": "C",
+          "text": "Permet de mieux mettre en évidence les prises de produit de contraste en pondération T2"
+        },
+        {
+          "letter": "D",
+          "text": "Très sensible aux inhomogénéités de champ"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 19,
+      "text": "L'agence Marocaine de Sûreté et de Sécurité Nucléaires et Radiologiques (AMSSNuR) est placée sous la tutelle du :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ministère de la santé et de la protection sociale"
+        },
+        {
+          "letter": "B",
+          "text": "Ministère de l'environnement"
+        },
+        {
+          "letter": "C",
+          "text": "Chef de gouvernement"
+        },
+        {
+          "letter": "D",
+          "text": "Ministère de l'intérieur"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 20,
+      "text": "La scintigraphie est classée parmi les examens :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Anatomiques"
+        },
+        {
+          "letter": "B",
+          "text": "Fonctionnels"
+        },
+        {
+          "letter": "C",
+          "text": "Morphologiques"
+        },
+        {
+          "letter": "D",
+          "text": "Radiothérapeutiques"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 21,
+      "text": "Les caractéristiques de MAG3 utilisé en scintigraphie rénale :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eliminer par filtration glomérulaire"
+        },
+        {
+          "letter": "B",
+          "text": "Eliminer principalement par sécrétion tubulaire"
+        },
+        {
+          "letter": "C",
+          "text": "Possède une clairance plasmatique moins élevée"
+        },
+        {
+          "letter": "D",
+          "text": "Possède une clairance plasmatique élevée"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 22,
+      "text": "Les indications de la scintigraphie pulmonaire :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Diagnostic d'embolie pulmonaire"
+        },
+        {
+          "letter": "B",
+          "text": "Diagnostic la tuberculose pulmonaire"
+        },
+        {
+          "letter": "C",
+          "text": "Bilan d'opérabilité en pathologie pulmonaire (emphysème, cancers)"
+        },
+        {
+          "letter": "D",
+          "text": "Bilan de certaines malformations cardiovasculaires (en pédiatrie)"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 23,
+      "text": "Un angioscanner :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est indiqué devant une pathologie tumorale"
+        },
+        {
+          "letter": "B",
+          "text": "Est indiqué devant une pathologie vasculaire"
+        },
+        {
+          "letter": "C",
+          "text": "Les coupes sans injections de produit de contraste sont obligatoires"
+        },
+        {
+          "letter": "D",
+          "text": "Est contre-indiqué en cas de créatinine sanguine à 20 mg/l"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 24,
+      "text": "Le scanner dosimétrique :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est un scanner diagnostique"
+        },
+        {
+          "letter": "B",
+          "text": "Permet la simulation de la radiothérapie"
+        },
+        {
+          "letter": "C",
+          "text": "Nécessite obligatoirement l'injection du produit de contraste"
+        },
+        {
+          "letter": "D",
+          "text": "Permet la réalisation de la dosimétrie"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 25,
+      "text": "L'incidence du défilé claviculaire :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Patient debout ou en décubitus dorsal"
+        },
+        {
+          "letter": "B",
+          "text": "Membre supérieur le long du corps"
+        },
+        {
+          "letter": "C",
+          "text": "Inclinaison craniopodale du rayon directeur de 20°"
+        },
+        {
+          "letter": "D",
+          "text": "Centrage à un travers de doigts sous le milieu de la clavicule"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 26,
+      "text": "L'incidence du genou de face en charge à 30° de flexion (Schuss) est indiquée pour dégager :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'échancrure intercondylienne"
+        },
+        {
+          "letter": "B",
+          "text": "Les épines tibiales"
+        },
+        {
+          "letter": "C",
+          "text": "Les interlignes fémorotibiaux"
+        },
+        {
+          "letter": "D",
+          "text": "Les interlignes fémoropatellaires"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 27,
+      "text": "Concernant le tube à rayons X :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cathode est le pôle négatif du tube"
+        },
+        {
+          "letter": "B",
+          "text": "L'anode est le pôle positif du tube"
+        },
+        {
+          "letter": "C",
+          "text": "La cathode est la cible des électrons"
+        },
+        {
+          "letter": "D",
+          "text": "L'anode est la source des électrons"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 28,
+      "text": "Concernant les produits de contraste en Rayons X :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le mode d'action principal est l'effet Compton"
+        },
+        {
+          "letter": "B",
+          "text": "L'atténuation dépend du nombre atomique Z"
+        },
+        {
+          "letter": "C",
+          "text": "Le Kedge est le même pour tous les atomes à 33 keV"
+        },
+        {
+          "letter": "D",
+          "text": "Le gadolinium est un bon absorbant des Rayons X"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 29,
+      "text": "Le lavement baryté chez l'enfant :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est réalisé sous sédation"
+        },
+        {
+          "letter": "B",
+          "text": "A un intérêt diagnostique et thérapeutique"
+        },
+        {
+          "letter": "C",
+          "text": "Est indiqué en cas de suspicion de perforation digestive"
+        },
+        {
+          "letter": "D",
+          "text": "Est indiqué en cas d'un épanchement liquidien intra-péritonéal abondant, confirmé par l'échographie"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 30,
+      "text": "La présence des images hydroaériques sur un ASP debout avec RDH (région du diaphragme visible) est secondaire à :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une occlusion mécanique"
+        },
+        {
+          "letter": "B",
+          "text": "Des lithiases rénales"
+        },
+        {
+          "letter": "C",
+          "text": "Une cholécystite aigue"
+        },
+        {
+          "letter": "D",
+          "text": "Un trouble de résorption (diarrhée)"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    }
+  ],
+  "examTitle": "Examen de recrutement des infirmiers et techniciens de santé 1er Grade - Option : Technicien de radiologie 2ème épreuve",
+  "specialty": "Technicien de radiologie",
+  "year": 2025
+}

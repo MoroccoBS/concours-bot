@@ -1,0 +1,984 @@
+{
+  "sourceFile": "Concours-Radiologie-EAP-2017-Grade-1.pdf",
+  "language": "fr",
+  "questions": [
+    {
+      "number": 1,
+      "text": "La radioprotection repose sur 3 principes fondamentaux qui sont :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La justification, l'optimisation et la limitation ;"
+        },
+        {
+          "letter": "B",
+          "text": "La justification, le plomb et la distance ;"
+        },
+        {
+          "letter": "C",
+          "text": "L'optimisation, le dosimètre et la distance ;"
+        },
+        {
+          "letter": "D",
+          "text": "La limitation, l'optimisation et le dosimètre."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 2,
+      "text": "Le principe de justification signifie que :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les avantages diagnostiques (ou thérapeutiques) potentiels doivent dépasser les risques engendrés par l'exposition ;"
+        },
+        {
+          "letter": "B",
+          "text": "Les avantages diagnostiques (non thérapeutiques) potentiels doivent dépasser les risques engendrés par l'exposition ;"
+        },
+        {
+          "letter": "C",
+          "text": "Les avantages diagnostiques (ou thérapeutiques) potentiels ne doivent pas dépasser les risques engendrés par l'exposition ;"
+        },
+        {
+          "letter": "D",
+          "text": "Les avantages diagnostiques (non thérapeutiques) potentiels ne doivent pas dépasser les risques engendrés par l'exposition."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 3,
+      "text": "Les effets déterministes des rayonnements ionisants sont des effets :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aléatoires ;"
+        },
+        {
+          "letter": "B",
+          "text": "Obligatoires ;"
+        },
+        {
+          "letter": "C",
+          "text": "Stochastiques ;"
+        },
+        {
+          "letter": "D",
+          "text": "Non stochastiques."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 4,
+      "text": "On parle d'exposition interne lorsque les substances radioactives ont pénétré dans l'organisme soit par :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inhalation (gaz, aérosols) ;"
+        },
+        {
+          "letter": "B",
+          "text": "Ingestion (objets ou mains contaminées portées à la bouche) ;"
+        },
+        {
+          "letter": "C",
+          "text": "Voie oculaire ;"
+        },
+        {
+          "letter": "D",
+          "text": "Voie percutanée."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 5,
+      "text": "Le Gray est définit comme :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le nombre de désintégrations par seconde ;"
+        },
+        {
+          "letter": "B",
+          "text": "L'énergie du rayonnement reçu ;"
+        },
+        {
+          "letter": "C",
+          "text": "L'effet de l'irradiation reçue ;"
+        },
+        {
+          "letter": "D",
+          "text": "L'unité de la dose absorbée."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "reviewNotes": [
+        "The text has a minor French typo 'définit' instead of 'défini'."
+      ]
+    },
+    {
+      "number": 6,
+      "text": "Les rayonnements gamma et X :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sont des rayonnements directement ionisants ;"
+        },
+        {
+          "letter": "B",
+          "text": "Sont des rayonnements indirectement ionisants ;"
+        },
+        {
+          "letter": "C",
+          "text": "Ayant un pouvoir de pénétration important ;"
+        },
+        {
+          "letter": "D",
+          "text": "Ayant un pouvoir de pénétration faible."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 7,
+      "text": "Le port d'un dosimètre individuel par un technicien de radiologie au niveau d'un service de radiologie est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Obligatoire ;"
+        },
+        {
+          "letter": "B",
+          "text": "Facultatif ;"
+        },
+        {
+          "letter": "C",
+          "text": "Irrégulièrement et quotidiennement ;"
+        },
+        {
+          "letter": "D",
+          "text": "Régulièrement et quotidiennement."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 8,
+      "text": "Le dosimètre porté par le technicien de radiologie dans le service de médecine nucléaire est un dosimètre :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Actif ;"
+        },
+        {
+          "letter": "B",
+          "text": "Passif ;"
+        },
+        {
+          "letter": "C",
+          "text": "Electronique ;"
+        },
+        {
+          "letter": "D",
+          "text": "Films-badges."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 9,
+      "text": "Les effets stochastiques des rayonnements ionisants sont des effets :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aléatoires ;"
+        },
+        {
+          "letter": "B",
+          "text": "Non déterministes ;"
+        },
+        {
+          "letter": "C",
+          "text": "N'ont pas de seuil connu ;"
+        },
+        {
+          "letter": "D",
+          "text": "Tardifs."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 10,
+      "text": "L'unité de la dose équivalente absorbée :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le Becquerel ;"
+        },
+        {
+          "letter": "B",
+          "text": "Le Gray ;"
+        },
+        {
+          "letter": "C",
+          "text": "Le Sievert ;"
+        },
+        {
+          "letter": "D",
+          "text": "Le curie."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 11,
+      "text": "Intérêt de l'incidence de Hirtz :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recherche des fractures surtout latérales ;"
+        },
+        {
+          "letter": "B",
+          "text": "Mettre en évidence les étages de la base du crâne projetés sur la voûte, de structure relativement homogène ;"
+        },
+        {
+          "letter": "C",
+          "text": "Recherche d'une éventuelle déviation de la cloison nasale ;"
+        },
+        {
+          "letter": "D",
+          "text": "L'arc mandibulaire qui se superpose à l'étage antérieur, devra être chassé en avant si on désire dégager les sinus frontaux."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 12,
+      "text": "Critère de réussite de l'incidence « crâne de profil » : superposition des deux hémicrânes en particulier :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les deux conduits auditifs externes ;"
+        },
+        {
+          "letter": "B",
+          "text": "Les toits des orbites ;"
+        },
+        {
+          "letter": "C",
+          "text": "Les apophyses clinoïdes ;"
+        },
+        {
+          "letter": "D",
+          "text": "Les branches montantes des maxillaires."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 13,
+      "text": "Dans le cas d'un traumatisme crânien :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Surélever et mobiliser la tête sans avoir besoin d'éliminer un traumatisme du rachis cervical ;"
+        },
+        {
+          "letter": "B",
+          "text": "Surélever et mobiliser la tête du patient avec prudence sans avoir besoin d'éliminer un traumatisme du rachis cervical ;"
+        },
+        {
+          "letter": "C",
+          "text": "Ne pas surélever ou mobiliser la tête du patient avant d'avoir éliminé un traumatisme du rachis cervical ;"
+        },
+        {
+          "letter": "D",
+          "text": "Ne pas surélever mais mobiliser la tête du patient sans avoir besoin d'éliminer un traumatisme du rachis cervical."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 14,
+      "text": "L'incidence de choix à réaliser pour mettre en évidence une sinusite est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gosserez ;"
+        },
+        {
+          "letter": "B",
+          "text": "Profil ;"
+        },
+        {
+          "letter": "C",
+          "text": "Le défilé maxillaire ;"
+        },
+        {
+          "letter": "D",
+          "text": "Blondeau."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 15,
+      "text": "Rochers dans les orbites mis en évidence les structures suivantes :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Os frontal ;"
+        },
+        {
+          "letter": "B",
+          "text": "Os zygomatique ;"
+        },
+        {
+          "letter": "C",
+          "text": "Mandibule ;"
+        },
+        {
+          "letter": "D",
+          "text": "Crista galli."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 16,
+      "text": "La charnière cervico-occipitale, incidence de face, bouche ouverte :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "RD vertical, vise la ligne médiane, tangent au bord supérieur des incisives inférieures"
+        },
+        {
+          "letter": "B",
+          "text": "RD vertical, vise la ligne médiane, tangent au bord inférieur des incisives supérieures"
+        },
+        {
+          "letter": "C",
+          "text": "RD vertical, vise la ligne médiane, tangent au bord inférieur des incisives inférieures"
+        },
+        {
+          "letter": "D",
+          "text": "RD vertical, vise la ligne médiane, tangent au bord supérieur des incisives supérieur"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "reviewNotes": [
+        "Option D contains a typo 'incisives supérieur' instead of 'supérieures'."
+      ]
+    },
+    {
+      "number": 17,
+      "text": "Rachis cervical, Incidence de face :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "RD incliné en cranio-podal de 10 à 15° vise le milieu du cou ;"
+        },
+        {
+          "letter": "B",
+          "text": "RD incliné en podo-cranial de 10 à 15°, vise le milieu du cou ;"
+        },
+        {
+          "letter": "C",
+          "text": "RD incliné en podo-cranial de 20 à 25°, vise le milieu du cou ;"
+        },
+        {
+          "letter": "D",
+          "text": "RD incline en cranio-podal de 20 à 25°, vise le milieu du cou."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 18,
+      "text": "Le rachis lombaire incidence de profil en charge :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "RD horizontal, deux travers de doigts au-dessus des crêtes iliaques et environ quatre travers de doigt en avant du plan postérieur."
+        },
+        {
+          "letter": "B",
+          "text": "RD vertical, deux travers de doigts au-dessus des crêtes iliaques et environ quatre travers de doigt en avant du plan postérieur."
+        },
+        {
+          "letter": "C",
+          "text": "RD horizontal, deux travers de doigts au-dessus des crêtes iliaques et environ quatre travers de doigt en arrière du plan postérieur."
+        },
+        {
+          "letter": "D",
+          "text": "RD vertical, deux travers de doigts au-dessus des crêtes iliaques et environ quatre travers de doigt en arrière du plan postérieur."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 19,
+      "text": "La charnière lombosacrée incidence de face :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les membres inférieurs sont légèrement fléchis ;"
+        },
+        {
+          "letter": "B",
+          "text": "Les membres supérieurs croisés sur le thorax ;"
+        },
+        {
+          "letter": "C",
+          "text": "Inclinaison podo-craniale de 20 à 30° ;"
+        },
+        {
+          "letter": "D",
+          "text": "Quatre travers de doigts sous les crêtes iliaques, sur la ligne médiane."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 20,
+      "text": "Le coccyx incidence de face :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inclinaison cranio-podale de 20 à 30°, vise le bord supérieur de la symphyse pubienne ;"
+        },
+        {
+          "letter": "B",
+          "text": "Inclinaison cranio-podale de 10 à 20°, vise le bord inférieur de la symphyse pubienne ;"
+        },
+        {
+          "letter": "C",
+          "text": "Inclinaison podo-cranial de 10 à 20°, vise le bord supérieur de la symphyse pubienne ;"
+        },
+        {
+          "letter": "D",
+          "text": "Toutes les réponses sont fausses."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 21,
+      "text": "Critère de réussite de l'incidence « bassin de face » :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'axe du sacrum et de la symphyse pubienne sont sur la même verticale."
+        },
+        {
+          "letter": "B",
+          "text": "Le grand trochanter est barré par la corticale médiale de la diaphyse fémorale."
+        },
+        {
+          "letter": "C",
+          "text": "Bon dégagement de l'articulation sacro-iliaque."
+        },
+        {
+          "letter": "D",
+          "text": "Aspect symétrique du foramen obturé."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 22,
+      "text": "Les critères de réussite de l'articulation coxo-fémorale de face :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Col fémoral bien déroulé."
+        },
+        {
+          "letter": "B",
+          "text": "Grand trochanter bien dégagé sans dédoublement de sa corticale médiale."
+        },
+        {
+          "letter": "C",
+          "text": "Petit trochanter barré par la corticale médiale de la diaphyse fémorale."
+        },
+        {
+          "letter": "D",
+          "text": "Foramen obturé fermé: superposition des branches iliopubienne et ischiopubienne."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 23,
+      "text": "Le centrage du Faux profil de Lequesne :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Racine de la cuisse, 10cm au dessus du plan de la table ;"
+        },
+        {
+          "letter": "B",
+          "text": "Milieu de pli inguinal ;"
+        },
+        {
+          "letter": "C",
+          "text": "Milieu du pli inguinal controlatéral ;"
+        },
+        {
+          "letter": "D",
+          "text": "Quatre travers de doigts en dessous du milieu du pli inguinal."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 24,
+      "text": "Le centrage de la cheville de face :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ligne médiane, à 2 cm au-dessus de la pointe de la malléole médiale."
+        },
+        {
+          "letter": "B",
+          "text": "Ligne médiane, à 2 cm au-dessus de la pointe de la malléole latérale."
+        },
+        {
+          "letter": "C",
+          "text": "Ligne médiane, sur la pointe de la malléole médiale."
+        },
+        {
+          "letter": "D",
+          "text": "Ligne médiane, sur la pointe de la malléole latérale."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 25,
+      "text": "Avant-pied- incidence oblique :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Membre inférieur en extension ;"
+        },
+        {
+          "letter": "B",
+          "text": "Face plantaire du pied contre la plaque ;"
+        },
+        {
+          "letter": "C",
+          "text": "Soulever le bord latéral par une cale de 45° ;"
+        },
+        {
+          "letter": "D",
+          "text": "Les orteils sont bien séparés (interposition de compresses si nécessaire)."
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": true,
+      "reviewNotes": [
+        "This question starts page 4 and does not explicitly have the 'Q25' label, but it is sequential between Q24 and Q26."
+      ]
+    },
+    {
+      "number": 26,
+      "text": "Critères de réussite du poignet de face :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alignement du radius avec le 3ème métacarpien ;"
+        },
+        {
+          "letter": "B",
+          "text": "Visualisation des interlignes carpométacarpiens ;"
+        },
+        {
+          "letter": "C",
+          "text": "Bon dégagement de l'interligne radio-ulnaire inférieur ;"
+        },
+        {
+          "letter": "D",
+          "text": "Visualisation de l'extrémité inférieure des deux os de l'avant-bras, la totalité des carpes et des métacarpiens."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 27,
+      "text": "Radiographie du canal carpien, le rayon directeur est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "incliné de 10° à 20° (inclinaison plus marquée si l'extension est limitée)."
+        },
+        {
+          "letter": "B",
+          "text": "incliné de 20° à 30° (inclinaison plus marquée si l'extension est limitée)."
+        },
+        {
+          "letter": "C",
+          "text": "incliné de 20° à 35° (inclinaison plus marquée si l'extension est limitée)."
+        },
+        {
+          "letter": "D",
+          "text": "incliné de 25° à 40° (inclinaison plus marquée si l'extension est limitée)."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 28,
+      "text": "Radiographie de l'olécrane : (la guerrière et pierquin) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rayon directeur vertical ou légèrement incliné, d'arrière en avant et centré à 2 ou 3 cm au-dessus de la pointe de l'olécrane."
+        },
+        {
+          "letter": "B",
+          "text": "Rayon directeur vertical ou légèrement incliné, d'arrière en avant et centré à 3 ou 4 cm au-dessus de la pointe de l'olécrane."
+        },
+        {
+          "letter": "C",
+          "text": "Rayon directeur incliné de 10°, d'arrière en avant et centré à 2 ou 3 cm au-dessus de la pointe de l'olécrane."
+        },
+        {
+          "letter": "D",
+          "text": "Rayon directeur incliné de 10°, d'arrière en avant et centré à 3 ou 4 cm au-dessus de la pointe de l'olécrane."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 29,
+      "text": "Incidence de Bloom-Obata est indiquée dans les cas :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "de luxation postérieure de l'épaule ;"
+        },
+        {
+          "letter": "B",
+          "text": "des malades porteurs d'un appareil de contention ;"
+        },
+        {
+          "letter": "C",
+          "text": "de fracture de l'omoplate et de l'extrémité supérieure de l'humérus"
+        },
+        {
+          "letter": "D",
+          "text": "de luxation acromio-claviculaire."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 30,
+      "text": "Clavicule défilée en antéro-postérieure (Incidence de Porcher) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "RD centré sur le milieu de la clavicule, avec une inclinaison de 15° vers la tête."
+        },
+        {
+          "letter": "B",
+          "text": "RD centré sur le milieu de la clavicule, avec une inclinaison de 15° vers les pieds."
+        },
+        {
+          "letter": "C",
+          "text": "RD centré sur le milieu de la clavicule, avec une inclinaison de 25° vers la tête."
+        },
+        {
+          "letter": "D",
+          "text": "RD centré sur le milieu de la clavicule, avec une inclinaison de 25° vers les pieds."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 31,
+      "text": "L'intérêt de la compression en mammographie :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Réduction du diffus ;"
+        },
+        {
+          "letter": "B",
+          "text": "Réduction du flou cinétique ;"
+        },
+        {
+          "letter": "C",
+          "text": "Réduction du flou géométrique ;"
+        },
+        {
+          "letter": "D",
+          "text": "Diminution de la dose."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 32,
+      "text": "Les incidences standards ou de routine les plus utilisées en mammographie :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incidence de face ;"
+        },
+        {
+          "letter": "B",
+          "text": "Incidence oblique externe ;"
+        },
+        {
+          "letter": "C",
+          "text": "Incidence oblique interne ;"
+        },
+        {
+          "letter": "D",
+          "text": "Incidence du prolongement axillaire."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 33,
+      "text": "Les incidences complémentaires en mammographie :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incidences de marquage ;"
+        },
+        {
+          "letter": "B",
+          "text": "Incidences « Décalées » ;"
+        },
+        {
+          "letter": "C",
+          "text": "Incidences localisées ;"
+        },
+        {
+          "letter": "D",
+          "text": "Incidences trans-thoracique."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 34,
+      "text": "Les contres indication de l'UIV :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'hématurie ;"
+        },
+        {
+          "letter": "B",
+          "text": "L'insuffisance rénale ;"
+        },
+        {
+          "letter": "C",
+          "text": "L'insuffisance cardiaque ;"
+        },
+        {
+          "letter": "D",
+          "text": "Malformation congénitales."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false,
+      "reviewNotes": [
+        "The text has 'contres indication' (typo for contre-indications) and 'Malformation' singular for plural."
+      ]
+    },
+    {
+      "number": 35,
+      "text": "Le produit de contraste utilisé en UIV rend visible toutes les phases de fonctionnement de pareil urinaire en permettant :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'opacification de la surrénal ;"
+        },
+        {
+          "letter": "B",
+          "text": "L'opacification des cavités excrétrices ;"
+        },
+        {
+          "letter": "C",
+          "text": "La détermination de la nature de l'infection urinaire ;"
+        },
+        {
+          "letter": "D",
+          "text": "L'étude de la miction."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": true,
+      "reviewNotes": [
+        "The text has 'pareil urinaire' which is likely a major typo in the original test for 'l'appareil urinaire'."
+      ]
+    },
+    {
+      "number": 36,
+      "text": "En UIV, le 2ème temps qui consiste à l'injection du produit de contraste permet le contrôle de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La néphrographie vasculaire ;"
+        },
+        {
+          "letter": "B",
+          "text": "La néphrographie tubulaire ;"
+        },
+        {
+          "letter": "C",
+          "text": "La ligne de Hodson ;"
+        },
+        {
+          "letter": "D",
+          "text": "L'étude de l'urètre et de la vidange vésicale."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 37,
+      "text": "Les critères de qualités de l'ASP réalisé en UIV :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le centrage et le format doivent englober le pôle supérieur des reins en haut et l'articulation coxo-fémorale en bas ;"
+        },
+        {
+          "letter": "B",
+          "text": "La tonalité du cliché doit permettre de distinguer les opacités calciques osseuses ;"
+        },
+        {
+          "letter": "C",
+          "text": "La tonalité du cliché doit permettre de distinguer les opacités liquidiennes des muscles et viscère ;"
+        },
+        {
+          "letter": "D",
+          "text": "Toutes les réponses sont fausses."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 38,
+      "text": "L'étude mictionnelle qui constitue le 3ème temps de l'UIV commence :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30 min à 1h après le début de l'examen ;"
+        },
+        {
+          "letter": "B",
+          "text": "1h à 2h après le début de l'examen ;"
+        },
+        {
+          "letter": "C",
+          "text": "2h à 3h après le début de l'examen ;"
+        },
+        {
+          "letter": "D",
+          "text": "Le besoin mictionnel qui fixe son début."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 39,
+      "text": "En cystographie rétrograde, parmi les clichés réalisés :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cliché en cours de réplétion ;"
+        },
+        {
+          "letter": "B",
+          "text": "Cliché de profil en cours de réplétion ;"
+        },
+        {
+          "letter": "C",
+          "text": "Cliché de face en réplétion complète ;"
+        },
+        {
+          "letter": "D",
+          "text": "Cliché ¾ en réplétion complète."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 40,
+      "text": "La cystographie sus-pubienne : il s'agit de ponctionner une vessie :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vide à 2 cm au-dessus de la symphyse pubienne au niveau de la ligne médiane ;"
+        },
+        {
+          "letter": "B",
+          "text": "Pleine à 2 cm au-dessus de la symphyse pubienne au niveau de la ligne médiane ;"
+        },
+        {
+          "letter": "C",
+          "text": "Vide à 2 cm au-dessous de la symphyse pubienne au niveau de la ligne médiane ;"
+        },
+        {
+          "letter": "D",
+          "text": "Pleine à 2 cm au-dessous de la symphyse pubienne au niveau de la ligne médiane."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    }
+  ],
+  "examTitle": "Examen d'aptitude professionnelle pour l'accès au grade d'infirmier diplômé d'état 1er grade",
+  "specialty": "Technicien de radiologie",
+  "year": 2017
+}

@@ -1,0 +1,248 @@
+{
+  "sourceFile": "Concours-Radiologie-Specialite-Compilation-2008-2012.pdf",
+  "language": "fr",
+  "questions": [
+    {
+      "number": 1,
+      "text": "Le cliché d'abdomen sans préparation (A.S.P) de face couché avec rayon vertical permet de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Voir des lithiases radio opaques"
+        },
+        {
+          "letter": "B",
+          "text": "Un adénome prostatique"
+        },
+        {
+          "letter": "C",
+          "text": "Un épanchement gazeux intra-abdominal"
+        },
+        {
+          "letter": "D",
+          "text": "Des images hydro-aériques"
+        },
+        {
+          "letter": "E",
+          "text": "Des calcifications"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 2,
+      "text": "La présence d'images hydro-aériques sur un A.S.P debout avec R.H est secondaire à :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une cholécystite aigue"
+        },
+        {
+          "letter": "B",
+          "text": "Une occlusion mécanique"
+        },
+        {
+          "letter": "C",
+          "text": "Un iléus biliaire"
+        },
+        {
+          "letter": "D",
+          "text": "Un trouble de résorption (Diarrhée)"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 3,
+      "text": "Le cliché standard pulmonaire de face en B.T :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ne nécessite pas l'inspiration forcée"
+        },
+        {
+          "letter": "B",
+          "text": "Est réalisé à 70KV-8mAs"
+        },
+        {
+          "letter": "C",
+          "text": "Le médiastin est bien étudié"
+        },
+        {
+          "letter": "D",
+          "text": "La D.F.P est de 80cm"
+        },
+        {
+          "letter": "E",
+          "text": "Peut étudier le gril costal"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 4,
+      "text": "Le cliché pulmonaire en incidence de Muller (décubitus latéral) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est moins irradiant"
+        },
+        {
+          "letter": "B",
+          "text": "Est réalisé chez les patients en mauvais état général"
+        },
+        {
+          "letter": "C",
+          "text": "Mobilise un épanchement pleural"
+        },
+        {
+          "letter": "D",
+          "text": "Facilite le diagnostic de la tuberculose"
+        },
+        {
+          "letter": "E",
+          "text": "Nécessite un portique vertical"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 5,
+      "text": "Sur le cliché pulmonaire de face en expiration forcée :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les clavicules sont asymétriques"
+        },
+        {
+          "letter": "B",
+          "text": "Les coupoles diaphragmatiques sont hautes"
+        },
+        {
+          "letter": "C",
+          "text": "Les bases pulmonaires sont surexposées"
+        },
+        {
+          "letter": "D",
+          "text": "Le médiastin est élargi"
+        },
+        {
+          "letter": "E",
+          "text": "Voir un pneumothorax"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 6,
+      "text": "Parmi les incidences radiologiques suivantes, lesquelles permettent d'étudier seulement les deux premières vertèbres cervicales :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incidence du rachis cervical de face"
+        },
+        {
+          "letter": "B",
+          "text": "Incidence du rachis cervical de profil"
+        },
+        {
+          "letter": "C",
+          "text": "Incidence du rachis cervical en obliques antéropostérieur droit et gauche"
+        },
+        {
+          "letter": "D",
+          "text": "Incidence de la charnière cervico-occipital de face"
+        },
+        {
+          "letter": "E",
+          "text": "Incidence de la charnière cervico-occipital de profil"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 7,
+      "text": "Pour dégager l'articulation radio-scaphoïdienne, on choisie la/ les incidence(s) radiologique(s) suivantes :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Schreeck 1"
+        },
+        {
+          "letter": "B",
+          "text": "Schreeck 2"
+        },
+        {
+          "letter": "C",
+          "text": "Poignet de profil"
+        },
+        {
+          "letter": "D",
+          "text": "Oblique interne de poignet"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 8,
+      "text": "Une épaule traumatisée nécessite :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Face de l'épaule en rotation externe"
+        },
+        {
+          "letter": "B",
+          "text": "Face de l'épaule en rotation neutre"
+        },
+        {
+          "letter": "C",
+          "text": "Profil de l'épaule de haut en bas"
+        },
+        {
+          "letter": "D",
+          "text": "Incidence de Bernageau"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 9,
+      "text": "Parmi les incidences radiologiques suivantes, lesquelles faut il réaliser chez un patient présentant une fracture de l'apophyse coronoïde du cubitus :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Profil du coude main en demi pronation"
+        },
+        {
+          "letter": "B",
+          "text": "Profil de coude main en pronation"
+        },
+        {
+          "letter": "C",
+          "text": "Face du coude main en supination"
+        },
+        {
+          "letter": "D",
+          "text": "Face du coude main en pronation"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    }
+  ],
+  "examTitle": "Concours de Recrutement des Infirmiers Diplômés d'Etat du Deuxième Grade - Session du 13 Février 2010",
+  "specialty": "Technicien de Radiologie",
+  "warnings": [
+    "Question 16 was omitted because it only has 2 options and schema requires 4-5."
+  ],
+  "year": 2010
+}

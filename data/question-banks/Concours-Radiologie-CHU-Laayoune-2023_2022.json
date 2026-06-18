@@ -1,0 +1,163 @@
+{
+  "sourceFile": "Concours-Radiologie-CHU-Laayoune-2023.pdf",
+  "language": "fr",
+  "questions": [
+    {
+      "number": 1,
+      "text": "Quels sont les facteurs de risque de néphropathie aux PCI ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le diabète"
+        },
+        {
+          "letter": "B",
+          "text": "L'hyperuricémie"
+        },
+        {
+          "letter": "C",
+          "text": "L'insuffisance rénale"
+        },
+        {
+          "letter": "D",
+          "text": "L'âge avancé"
+        },
+        {
+          "letter": "E",
+          "text": "Un rein unique"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 6,
+      "reviewNotes": []
+    },
+    {
+      "number": 2,
+      "text": "Concernant les produits de contraste en Rayons X :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le mode d'action principal est l'effet Compton"
+        },
+        {
+          "letter": "B",
+          "text": "L'atténuation dépend du nombre atomique Z"
+        },
+        {
+          "letter": "C",
+          "text": "Le K edge est le même pour tous les atomes à 33 keV"
+        },
+        {
+          "letter": "D",
+          "text": "L'atténuation présente un pic puis décroît en fonction de la concentration en produit contraste"
+        },
+        {
+          "letter": "E",
+          "text": "Ultravist est un bon absorbant des Rayons X"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 6,
+      "reviewNotes": []
+    },
+    {
+      "number": 3,
+      "text": "Les propriétés du tungstène, qui en font un métal de choix pour la composition de l'anode et de la cathode, sont :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "D'avoir un numéro atomique élevé"
+        },
+        {
+          "letter": "B",
+          "text": "D'avoir un numéro atomique peu élevé"
+        },
+        {
+          "letter": "C",
+          "text": "D'avoir une faible tendance à se vaporiser"
+        },
+        {
+          "letter": "D",
+          "text": "D'avoir un point de fusion bas"
+        },
+        {
+          "letter": "E",
+          "text": "D'avoir une faible capacité d'absorption de la chaleur"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 6,
+      "reviewNotes": []
+    },
+    {
+      "number": 4,
+      "text": "Parmi les propositions suivantes, lesquelles exactes ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La matrice et la résolution spatiale sont liées"
+        },
+        {
+          "letter": "B",
+          "text": "Le contraste dépend de la matrice"
+        },
+        {
+          "letter": "C",
+          "text": "La résolution spatiale dépend du contraste"
+        },
+        {
+          "letter": "D",
+          "text": "Le contraste peut être codé en bits"
+        },
+        {
+          "letter": "E",
+          "text": "Le format DICOM est le standard en imagerie médicale"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": null,
+      "pageStart": 6,
+      "reviewNotes": []
+    },
+    {
+      "number": 5,
+      "text": "Parmi les principes suivants de la radioprotection, quel est celui qui n'est pas applicable aux patients ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Justification"
+        },
+        {
+          "letter": "B",
+          "text": "Optimisation"
+        },
+        {
+          "letter": "C",
+          "text": "Limitation des doses"
+        },
+        {
+          "letter": "D",
+          "text": "[Option non visible / coupée en bas de page]"
+        }
+      ],
+      "confidence": 0.7,
+      "needsReview": true,
+      "correctAnswers": null,
+      "pageStart": 6,
+      "reviewNotes": [
+        "Le bas de la page 6 est coupé, l'option D n'est pas lisible."
+      ]
+    }
+  ],
+  "examTitle": "Concours de Recrutement Des Techniciens de Santé et des Infirmiers 1er Grade",
+  "specialty": "TECHNICIEN DE RADIOLOGIE",
+  "warnings": [],
+  "year": 2022
+}

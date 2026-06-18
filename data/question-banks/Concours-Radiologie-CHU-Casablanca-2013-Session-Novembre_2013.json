@@ -1,0 +1,128 @@
+{
+  "sourceFile": "Concours-Radiologie-CHU-Casablanca-2013-Session-Novembre.pdf",
+  "language": "fr",
+  "questions": [
+    {
+      "number": 1,
+      "text": "Classez les hôpitaux du Maroc en fonction de leur niveau hiérarchique ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hôpitaux provinciaux et préfectoraux (SEGMA)"
+        },
+        {
+          "letter": "B",
+          "text": "Hôpitaux régionaux"
+        },
+        {
+          "letter": "C",
+          "text": "Centres hospitaliers universitaires (CHU)"
+        },
+        {
+          "letter": "D",
+          "text": "[Question ouverte / Rédactionnel]"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": true,
+      "correctAnswers": null,
+      "pageStart": 4,
+      "reviewNotes": [
+        "Question ouverte (rédactionnelle)."
+      ]
+    },
+    {
+      "number": 2,
+      "text": "Citez les fonctions de l'infirmier chef d'équipe ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fonctions de gestion et de planification"
+        },
+        {
+          "letter": "B",
+          "text": "Fonctions d'organisation et d'encadrement des soins"
+        },
+        {
+          "letter": "C",
+          "text": "Fonctions de contrôle et d'évaluation de l'équipe"
+        },
+        {
+          "letter": "D",
+          "text": "[Question ouverte / Rédactionnel]"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": true,
+      "correctAnswers": null,
+      "pageStart": 4,
+      "reviewNotes": [
+        "Question ouverte (rédactionnelle)."
+      ]
+    },
+    {
+      "number": 3,
+      "text": "Citez les composantes du Réseau des soins de santé de base ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Centres de santé urbains et ruraux"
+        },
+        {
+          "letter": "B",
+          "text": "Dispensaires ruraux"
+        },
+        {
+          "letter": "C",
+          "text": "Unités mobiles"
+        },
+        {
+          "letter": "D",
+          "text": "[Question ouverte / Rédactionnel]"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": true,
+      "correctAnswers": null,
+      "pageStart": 4,
+      "reviewNotes": [
+        "Question ouverte (rédactionnelle)."
+      ]
+    },
+    {
+      "number": 4,
+      "text": "Expliquez les modes de couverture par le réseau de soins de santé de base ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mode fixe"
+        },
+        {
+          "letter": "B",
+          "text": "Mode mobile"
+        },
+        {
+          "letter": "C",
+          "text": "Mode itinérant et visites à domicile"
+        },
+        {
+          "letter": "D",
+          "text": "[Question ouverte / Rédactionnel]"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": true,
+      "correctAnswers": null,
+      "pageStart": 4,
+      "reviewNotes": [
+        "Question ouverte (rédactionnelle)."
+      ]
+    }
+  ],
+  "examTitle": "Concours de recrutement des IDE 2ème Grade - Epreuve commune - Session Novembre 2013",
+  "specialty": null,
+  "warnings": [
+    "Epreuve commune contenant 4 questions ouvertes."
+  ],
+  "year": 2013
+}

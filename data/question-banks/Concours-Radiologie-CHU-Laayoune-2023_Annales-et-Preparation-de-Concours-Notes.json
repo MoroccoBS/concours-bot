@@ -1,0 +1,70 @@
+{
+  "sourceFile": "Concours-Radiologie-CHU-Laayoune-2023.pdf",
+  "language": "fr",
+  "questions": [
+    {
+      "number": 1,
+      "text": "Présence du NHA sur un ASP debout avec RDH est secondaire à :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "cholecystique aiguë"
+        },
+        {
+          "letter": "B",
+          "text": "occlusion mécanique"
+        },
+        {
+          "letter": "C",
+          "text": "un iléus biliaire"
+        },
+        {
+          "letter": "D",
+          "text": "Trouble de Résorption"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": true,
+      "correctAnswers": null,
+      "pageStart": 3,
+      "reviewNotes": [
+        "Question extraite de notes manuscrites (Page 3, numéro original 23)."
+      ]
+    },
+    {
+      "number": 2,
+      "text": "Un examen TDM lombaire, la reconstruction de l'image se fait :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "coupes axiales"
+        },
+        {
+          "letter": "B",
+          "text": "sagittale"
+        },
+        {
+          "letter": "C",
+          "text": "coronales"
+        },
+        {
+          "letter": "D",
+          "text": "aucune"
+        }
+      ],
+      "confidence": 0.9,
+      "needsReview": true,
+      "correctAnswers": null,
+      "pageStart": 3,
+      "reviewNotes": [
+        "Question extraite de notes manuscrites (Page 3)."
+      ]
+    }
+  ],
+  "examTitle": "Annales et Préparation de Concours (Notes Manuscrites)",
+  "specialty": "Technicien de Radiologie",
+  "warnings": [
+    "Contenu extrait de notes de révision manuscrites très fragmentées."
+  ],
+  "year": null
+}

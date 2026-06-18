@@ -7,6 +7,10 @@ import {
   Type,
 } from "@google/genai";
 
+// ---------------------------------------------------------------------------
+// Types
+// ---------------------------------------------------------------------------
+
 type ExtractedQuestion = {
   number: number;
   text: string;
@@ -32,11 +36,26 @@ type ExtractionResult = {
   warnings?: string[];
 };
 
-// const DEFAULT_MODEL = "gemini-3.1-flash-lite";
-const DEFAULT_MODEL = "gemini-3.5-flash";
+/** Returned by the AI when a PDF contains multiple distinct exams. */
+type MultiExamResult = {
+  isCompilation: true;
+  exams: ExtractionResult[];
+};
+
+// ---------------------------------------------------------------------------
+// Constants
+// ---------------------------------------------------------------------------
+
+// const DEFAULT_MODEL = "gemini-3.5-flash";
+const DEFAULT_MODEL = "gemini-3.1-flash-lite";
 const outputDir = resolve("data", "question-banks");
 
-const schema = {
+// ---------------------------------------------------------------------------
+// JSON Schemas sent to Gemini
+// ---------------------------------------------------------------------------
+
+/** Schema for a single exam result (used as a sub-schema too). */
+const examSchema = {
   type: Type.OBJECT,
   required: ["sourceFile", "language", "questions"],
   properties: {
@@ -101,9 +120,31 @@ const schema = {
   },
 };
 
+/**
+ * Top-level schema sent to the AI.
+ * The AI always returns a MultiExamResult.
+ * For single-exam PDFs it returns isCompilation=false and exams with one entry.
+ */
+const topLevelSchema = {
+  type: Type.OBJECT,
+  required: ["isCompilation", "exams"],
+  properties: {
+    isCompilation: { type: Type.BOOLEAN },
+    exams: {
+      type: Type.ARRAY,
+      minItems: "1",
+      items: examSchema,
+    },
+  },
+};
+
+// ---------------------------------------------------------------------------
+// CLI
+// ---------------------------------------------------------------------------
+
 function usage(): never {
   console.error(
-    "Usage: bun run extract:qcm -- <pdf-path> [--model gemini-3.1-flash-lite] [--out data/question-banks/file.json]",
+    "Usage: bun run extract:qcm -- <pdf-path> [--model gemini-2.5-flash] [--out data/question-banks/file.json]",
   );
   process.exit(1);
 }
@@ -124,9 +165,14 @@ function parseArgs() {
   return {
     pdfPath: resolve(pdfPath),
     model,
+    // outPath only applies for single-exam PDFs
     outPath: outPath ? resolve(outPath) : undefined,
   };
 }
+
+// ---------------------------------------------------------------------------
+// Validation
+// ---------------------------------------------------------------------------
 
 function validateResult(result: ExtractionResult): string[] {
   const warnings: string[] = [];
@@ -155,6 +201,55 @@ function validateResult(result: ExtractionResult): string[] {
   return warnings;
 }
 
+// ---------------------------------------------------------------------------
+// Output filename helpers
+// ---------------------------------------------------------------------------
+
+/**
+ * Produce a filesystem-safe slug from an arbitrary string.
+ * Keeps alphanumeric chars and hyphens, collapses runs of separators.
+ */
+function slugify(text: string): string {
+  return text
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "") // strip diacritics
+    .replace(/[^\w\s-]/g, " ")
+    .trim()
+    .replace(/[\s_]+/g, "-")
+    .replace(/-+/g, "-");
+}
+
+/**
+ * Build the output filename for one exam entry in a compilation.
+ * We prefer year, then examTitle fragment, then a 1-based index.
+ */
+function compilationFileName(
+  pdfBase: string,
+  exam: ExtractionResult,
+  index: number,
+): string {
+  const suffix =
+    exam.year?.toString() ??
+    (exam.examTitle ? slugify(exam.examTitle).slice(0, 40) : null) ??
+    `part${index + 1}`;
+  return `${pdfBase}_${suffix}.json`;
+}
+
+// ---------------------------------------------------------------------------
+// Write helpers
+// ---------------------------------------------------------------------------
+
+async function writeBank(
+  filePath: string,
+  result: ExtractionResult,
+): Promise<void> {
+  await writeFile(filePath, `${JSON.stringify(result, null, 2)}\n`);
+}
+
+// ---------------------------------------------------------------------------
+// Main
+// ---------------------------------------------------------------------------
+
 async function main() {
   const { pdfPath, model, outPath } = parseArgs();
   const apiKey = process.env.GEMINI_API_KEY;
@@ -162,6 +257,10 @@ async function main() {
     throw new Error("Missing GEMINI_API_KEY in the environment.");
   }
 
+  const pdfName = basename(pdfPath);
+  const pdfBase = parse(pdfPath).name;
+
+  console.log(`Uploading ${pdfName}…`);
   const ai = new GoogleGenAI({ apiKey });
   const uploaded = await ai.files.upload({
     file: pdfPath,
@@ -172,26 +271,37 @@ async function main() {
     throw new Error("Gemini file upload did not return a usable URI.");
   }
 
+  console.log(`Extracting with model ${model}…`);
   const response = await ai.models.generateContent({
     model,
     contents: [
       createPartFromUri(uploaded.uri, uploaded.mimeType),
       {
         text: [
-          "Extract the concours exam into clean QCM JSON.",
-          "Keep the original French/Arabic medical wording. Do not translate.",
-          "Ignore headers, footers, instructions, phone numbers, logos, and answer-sheet boxes.",
-          "Questions are usually labelled Q1, Q2, etc. Options are usually A, B, C, D, sometimes E.",
-          "If the PDF does not contain an answer key, omit correctAnswers.",
-          "Use needsReview=true when text is uncertain, options are incomplete, numbering jumps, or image quality is poor.",
-          `Set sourceFile to ${JSON.stringify(basename(pdfPath))}.`,
+          "You are extracting QCM exam questions from a PDF into structured JSON.",
+          "",
+          "IMPORTANT: First check whether the PDF is a COMPILATION that contains MULTIPLE",
+          "distinct exams (e.g., different years, different sessions, or clearly separated",
+          "exam blocks). If it is, set isCompilation=true and return one entry in 'exams'",
+          "per distinct exam. If it is a single exam, set isCompilation=false and return",
+          "exactly one entry in 'exams'.",
+          "",
+          "For each exam entry:",
+          "- Keep the original French/Arabic medical wording. Do not translate.",
+          "- Ignore headers, footers, instructions, phone numbers, logos, and answer-sheet boxes.",
+          "- Questions are usually labelled Q1, Q2, etc. Options are usually A, B, C, D, sometimes E.",
+          "- RESET question numbering to start from 1 for each distinct exam.",
+          "- If the PDF does not contain an answer key, omit correctAnswers.",
+          "- Use needsReview=true when text is uncertain, options are incomplete,",
+          "  numbering jumps, or image quality is poor.",
+          "- Set examTitle, specialty, and year when clearly visible in the document.",
+          `- Set sourceFile to ${JSON.stringify(pdfName)} for every exam entry.`,
         ].join("\n"),
       },
     ],
     config: {
       responseMimeType: "application/json",
-      responseSchema: schema,
-
+      responseSchema: topLevelSchema,
       thinkingConfig: {
         thinkingLevel: ThinkingLevel.HIGH,
       },
@@ -203,23 +313,81 @@ async function main() {
     throw new Error("Gemini returned an empty response.");
   }
 
-  const result = JSON.parse(text) as ExtractionResult;
-  const validationWarnings = validateResult(result);
-  if (validationWarnings.length > 0) {
-    result.warnings = [...(result.warnings ?? []), ...validationWarnings];
+  const parsed = JSON.parse(text) as MultiExamResult;
+
+  // -------------------------------------------------------------------------
+  // Normalise: handle both compilation and single-exam responses uniformly
+  // -------------------------------------------------------------------------
+  const exams: ExtractionResult[] = parsed.exams ?? [];
+  if (exams.length === 0) {
+    throw new Error("Gemini returned no exam entries.");
   }
+
+  const isCompilation = parsed.isCompilation && exams.length > 1;
 
   await mkdir(outputDir, { recursive: true });
-  const defaultOutPath = join(outputDir, `${parse(pdfPath).name}.json`);
-  const destination = outPath ?? defaultOutPath;
-  await writeFile(destination, `${JSON.stringify(result, null, 2)}\n`);
 
-  console.log(
-    `Extracted ${result.questions.length} questions from ${basename(pdfPath)} -> ${destination}`,
-  );
-  if (result.warnings?.length) {
-    console.warn(`Warnings:\n- ${result.warnings.join("\n- ")}`);
+  if (!isCompilation) {
+    // -----------------------------------------------------------------------
+    // Single exam — same behaviour as before
+    // -----------------------------------------------------------------------
+    const result = exams[0];
+    const validationWarnings = validateResult(result);
+    if (validationWarnings.length > 0) {
+      result.warnings = [...(result.warnings ?? []), ...validationWarnings];
+    }
+
+    const destination = outPath ?? join(outputDir, `${pdfBase}.json`);
+    await writeBank(destination, result);
+
+    console.log(
+      `✅ Extracted ${result.questions.length} questions → ${destination}`,
+    );
+    if (result.warnings?.length) {
+      console.warn(`Warnings:\n- ${result.warnings.join("\n- ")}`);
+    }
+    return;
   }
+
+  // -------------------------------------------------------------------------
+  // Compilation — write one file per sub-exam
+  // -------------------------------------------------------------------------
+  console.log(
+    `📚 Compilation detected: ${exams.length} exams found inside ${pdfName}`,
+  );
+
+  const writtenFiles: string[] = [];
+
+  for (let i = 0; i < exams.length; i++) {
+    const exam = exams[i];
+    const validationWarnings = validateResult(exam);
+    if (validationWarnings.length > 0) {
+      exam.warnings = [...(exam.warnings ?? []), ...validationWarnings];
+    }
+
+    const fileName = compilationFileName(pdfBase, exam, i);
+    const destination = join(outputDir, fileName);
+    await writeBank(destination, exam);
+    writtenFiles.push(destination);
+
+    const label = exam.year
+      ? `${exam.year}`
+      : exam.examTitle
+        ? `"${exam.examTitle.slice(0, 50)}"`
+        : `part ${i + 1}`;
+    console.log(
+      `  [${i + 1}/${exams.length}] ${label} — ${exam.questions.length} questions → ${destination}`,
+    );
+
+    if (exam.warnings?.length) {
+      console.warn(`  Warnings:\n  - ${exam.warnings.join("\n  - ")}`);
+    }
+  }
+
+  const totalQuestions = exams.reduce((n, e) => n + e.questions.length, 0);
+  console.log(
+    `\n✅ Done. ${totalQuestions} questions across ${exams.length} exams written to ${outputDir}`,
+  );
 }
 
 main().catch((error) => {

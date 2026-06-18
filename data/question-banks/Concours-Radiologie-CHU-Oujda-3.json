@@ -1,0 +1,684 @@
+{
+  "sourceFile": "Concours-Radiologie-CHU-Oujda-3.pdf",
+  "language": "fr",
+  "questions": [
+    {
+      "number": 7,
+      "text": "L'orthopantomographie :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est réalisée en position debout ou assise"
+        },
+        {
+          "letter": "B",
+          "text": "Incidence impossible à réaliser en décubitus"
+        },
+        {
+          "letter": "C",
+          "text": "La mandibule repose sur un étrier où elle est calée"
+        },
+        {
+          "letter": "D",
+          "text": "La contention peut comporter un guide buccal et un serre-tête"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 8,
+      "text": "Profil d'Arcelin :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est une incidence de profil chirurgical de la hanche"
+        },
+        {
+          "letter": "B",
+          "text": "Patient en décubitus, membre inférieur à radiographier en flexion."
+        },
+        {
+          "letter": "C",
+          "text": "La cuisse opposée est fléchie à 90° sur le bassin, la jambe fléchie sur cuisse."
+        },
+        {
+          "letter": "D",
+          "text": "La cassette est appliquée contre l'aile iliaque du côté à radiographier."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 9,
+      "text": "Critères de réussite d'une incidence oblique du rachis cervical :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bon dégagement des trous de conjugaison à tous les niveaux."
+        },
+        {
+          "letter": "B",
+          "text": "Superposition des apophyses articulaires droite et gauche."
+        },
+        {
+          "letter": "C",
+          "text": "Dégagement de toutes les interfignes articulaires."
+        },
+        {
+          "letter": "D",
+          "text": "Bonne visualisation des pédicules du côté examiné."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 10,
+      "text": "Les critères de réussite d'une radiographie du bassin de face :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Superposition de l'axe du sacrum et de la symphyse pubienne."
+        },
+        {
+          "letter": "B",
+          "text": "Dégagement externe complet du grand trochanter."
+        },
+        {
+          "letter": "C",
+          "text": "Petit trochanter coupé par la corticale de la diaphyse fémorale."
+        },
+        {
+          "letter": "D",
+          "text": "Trous obturateurs symétriques."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 11,
+      "text": "Radiographie du rachis cervical « bouche ouverte » :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incidence de face antéro-postérieure."
+        },
+        {
+          "letter": "B",
+          "text": "Permet la visualisation du processus odontoïde et de l'atlas."
+        },
+        {
+          "letter": "C",
+          "text": "Rayon directeur est horizontal."
+        },
+        {
+          "letter": "D",
+          "text": "Réalisée en décubitus en cas de traumatisme important."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 12,
+      "text": "Incidence de Lamy :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incidence de profil de l'épaule."
+        },
+        {
+          "letter": "B",
+          "text": "Réalisée chez un sujet en position debout en oblique antérieure de 45 à 60° du côté examiné."
+        },
+        {
+          "letter": "C",
+          "text": "Le bras est pendant, coude fléchi et légèrement porté en arrière."
+        },
+        {
+          "letter": "D",
+          "text": "Rayon directeur est horizontal."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 13,
+      "text": "Radiographie de face de la clavicule :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rayon directeur est postéro-antérieur."
+        },
+        {
+          "letter": "B",
+          "text": "Rayon directeur est horizontal."
+        },
+        {
+          "letter": "C",
+          "text": "Visualisation de la clavicule dans sa totalité."
+        },
+        {
+          "letter": "D",
+          "text": "Visualisation des articulations acromio-claviculaire et sterno-claviculaire."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 14,
+      "text": "Les critères de réussite d'une incidence du genou de profil :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Superposition des condyles fémoraux."
+        },
+        {
+          "letter": "B",
+          "text": "Bords interne et externe de la patella superposés."
+        },
+        {
+          "letter": "C",
+          "text": "Patella se projetant sur les condyles."
+        },
+        {
+          "letter": "D",
+          "text": "Interlignes fémoro-tibial et fémoro-patellaire bien dégagés."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 15,
+      "text": "Incidence de Gosserez-Troheux :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incidence ne permettant l'analyse que des os propres du nez."
+        },
+        {
+          "letter": "B",
+          "text": "Montre l'ensemble du massif facial."
+        },
+        {
+          "letter": "C",
+          "text": "Réalisée chez un patient assis."
+        },
+        {
+          "letter": "D",
+          "text": "Peut être réalisée chez un patient en décubitus dorsal."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 16,
+      "text": "Incidence Blondeau :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est une incidence qui permet d'analyser les sinus antérieurs et postérieurs."
+        },
+        {
+          "letter": "B",
+          "text": "Equidistance des conduits auditifs externes par rapport à la cassette."
+        },
+        {
+          "letter": "C",
+          "text": "Centrage à la base du nez."
+        },
+        {
+          "letter": "D",
+          "text": "Appui au nez."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 17,
+      "text": "En IRM, le TR :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est le temps de répétition."
+        },
+        {
+          "letter": "B",
+          "text": "Est le temps écoulé entre deux impulsions de 180°."
+        },
+        {
+          "letter": "C",
+          "text": "Détermine le niveau de repousse de l'aimantation longitudinale à la fin de chaque cycle."
+        },
+        {
+          "letter": "D",
+          "text": "Si le TR est court, la courbe de repousse de l'aimantation longitudinale ne récupère pas son niveau initial à la fin de chaque cycle."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 18,
+      "text": "En IRM, le temps d'écho (TE) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Temps écoulé entre l'impulsion de 90° et le recueil de l'écho de spin."
+        },
+        {
+          "letter": "B",
+          "text": "A TE/2, l'impulsion 180° est émise."
+        },
+        {
+          "letter": "C",
+          "text": "Détermine le moment précis où le signal est mesuré."
+        },
+        {
+          "letter": "D",
+          "text": "Plus on raccourcit le TE, plus la séquence est pondérée en T2."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 19,
+      "text": "La séquence Flair :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est une séquence en inversion-récupération pondérée T2."
+        },
+        {
+          "letter": "B",
+          "text": "Le signal de l'eau libre est « supprimé »."
+        },
+        {
+          "letter": "C",
+          "text": "Séquence utilisée dans l'exploration médullaire."
+        },
+        {
+          "letter": "D",
+          "text": "Séquence utile pour la recherche de l'oedème et de la gliose."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 20,
+      "text": "En IRM, l'artefact de mouvement :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est un des artefacts les plus fréquemment rencontrés."
+        },
+        {
+          "letter": "B",
+          "text": "Se constitue lorsqu'il y a translation dans l'espace du segment étudié au cours de l'acquisition."
+        },
+        {
+          "letter": "C",
+          "text": "Il a pour conséquence la dispersion du signal avec image nette de la structure en mouvement."
+        },
+        {
+          "letter": "D",
+          "text": "Peut être périodique et apériodique."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 21,
+      "text": "La Fibrose néphrogénique systémique :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Atteinte cutanée puis systémique des articulations, du coeur et des poumons."
+        },
+        {
+          "letter": "B",
+          "text": "Peut-être responsable du décès du patient."
+        },
+        {
+          "letter": "C",
+          "text": "Secondaire à l'injection de chélates de gadolinium lors d'examens IRM."
+        },
+        {
+          "letter": "D",
+          "text": "Survient chez des patients insuffisants rénaux avec une clairance de la créatinine < 30ml/min."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 22,
+      "text": "La tomosynthèse :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Imagerie mammaire tridimensionnelle (3D)."
+        },
+        {
+          "letter": "B",
+          "text": "Imagerie mammaire bidimensionnelle (2D)."
+        },
+        {
+          "letter": "C",
+          "text": "Acquisition des images, d'un sein compressé, se fait sous différents angles."
+        },
+        {
+          "letter": "D",
+          "text": "Reconstruction des images en haute résolution (1 mm d'épaisseur) étagées sur tout le sein."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 23,
+      "text": "Les critères de qualité d'un cliché de face en mammographie :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Muscle pectoral doit être visible jusqu'à hauteur du mamelon."
+        },
+        {
+          "letter": "B",
+          "text": "Le sillon sous-mammaire doit être visible sur le cliché."
+        },
+        {
+          "letter": "C",
+          "text": "Mamelon en position médiane."
+        },
+        {
+          "letter": "D",
+          "text": "Lame graisseuse rétro glandulaire bien dégagée."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 24,
+      "text": "En mammographie, la compression du sein permet de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Diminuer l'épaisseur du sein."
+        },
+        {
+          "letter": "B",
+          "text": "Limiter les superpositions en refoulant les tissus voisins."
+        },
+        {
+          "letter": "C",
+          "text": "Augmenter le contraste."
+        },
+        {
+          "letter": "D",
+          "text": "Améliorer la définition des contours."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 25,
+      "text": "En IRM, les antennes en réseau phasé :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Constituent un ensemble de plusieurs antennes de surface de petit diamètre, disposées côte à côte."
+        },
+        {
+          "letter": "B",
+          "text": "Constituent un ensemble de plusieurs antennes de surface de petit diamètre, disposées face à face."
+        },
+        {
+          "letter": "C",
+          "text": "Permettent un très bas signal sur bruit."
+        },
+        {
+          "letter": "D",
+          "text": "Permettent un petit champ d'exploration."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 26,
+      "text": "En IRM :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le blindage des ondes de radiofréquence est assuré par la cage de Faraday."
+        },
+        {
+          "letter": "B",
+          "text": "Le blindage de champ magnétique a pour rôle de rapprocher les lignes de champ au plus près de l'aimant."
+        },
+        {
+          "letter": "C",
+          "text": "Le blindage passif de champ magnétique est un ensemble de poutrelles d'acier ou de fer doux entourant l'aimant."
+        },
+        {
+          "letter": "D",
+          "text": "Le blindage des ondes de radiofréquence est non assuré par la cage de Faraday."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 27,
+      "text": "Urographie intra-veineuse :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permet de rechercher un reflux vésico-urétéral passif et actif chez l'enfant."
+        },
+        {
+          "letter": "B",
+          "text": "Permet une étude morphologique et fonctionnelle des cavités excrétrices."
+        },
+        {
+          "letter": "C",
+          "text": "Est contre-indiquée en cas d'insuffisance rénale."
+        },
+        {
+          "letter": "D",
+          "text": "Est actuellement supplantée par l'uroscanner."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 28,
+      "text": "Cholangiographie post-operatoire par drain de Kehr :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vérification de la perméabilité des voies biliaires après chirurgie."
+        },
+        {
+          "letter": "B",
+          "text": "Le Cliché sans préparation est obligatoire et permet de recherche des calcifications au niveau de l'hypochondre droit."
+        },
+        {
+          "letter": "C",
+          "text": "L'injection du produit de contraste est suivie en scopie."
+        },
+        {
+          "letter": "D",
+          "text": "L'injection du produit de contraste est rapide."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 29,
+      "text": "Un uroscanner :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est indiqué devant une pathologie tumorale vésicale."
+        },
+        {
+          "letter": "B",
+          "text": "Est indiqué devant une obstruction urinaire."
+        },
+        {
+          "letter": "C",
+          "text": "Les coupes sans injection de produit de contraste sont obligatoires."
+        },
+        {
+          "letter": "D",
+          "text": "Est contre-indiquée en cas de créatinine sanguine à 20 mg/l."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 30,
+      "text": "En cas d'insuffisance rénale aigue :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'injection du produit de contraste iodé est contre-indiquée."
+        },
+        {
+          "letter": "B",
+          "text": "Une hypohydratation avant et après l'injection de produit de contraste iodé doit être réalisée."
+        },
+        {
+          "letter": "C",
+          "text": "Les médicaments néphrotoxiques doivent être arrêtés pendant au moins 48 heures."
+        },
+        {
+          "letter": "D",
+          "text": "Un intervalle d'au moins 3 jours entre deux injections de produit de contraste iodé s'impose."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 31,
+      "text": "La vaccination au Maroc commence :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Immédiatement après la naissance."
+        },
+        {
+          "letter": "B",
+          "text": "A une semaine de la naissance."
+        },
+        {
+          "letter": "C",
+          "text": "A six semaines de la naissance."
+        },
+        {
+          "letter": "D",
+          "text": "A dix semaines de la naissance."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 32,
+      "text": "Le programme de vaccination au Maroc vise à prévenir les maladies suivantes :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'hépatite virale C."
+        },
+        {
+          "letter": "B",
+          "text": "L'hépatite virale B."
+        },
+        {
+          "letter": "C",
+          "text": "La rubéole."
+        },
+        {
+          "letter": "D",
+          "text": "La varicelle."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 33,
+      "text": "La prophylaxie correspond aux :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mesures entreprises pour traiter les cas."
+        },
+        {
+          "letter": "B",
+          "text": "Mesures entreprises pour éviter la survenue de la maladie."
+        },
+        {
+          "letter": "C",
+          "text": "Mesures entreprises pour éviter la contagion de la maladie."
+        },
+        {
+          "letter": "D",
+          "text": "Actions entreprises pour la prise en charge psychologique de l'entourage du malade."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    },
+    {
+      "number": 34,
+      "text": "L'indice synthétique de fécondité au Maroc en 2013 est de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un enfant par femme."
+        },
+        {
+          "letter": "B",
+          "text": "Deux enfants par femme."
+        },
+        {
+          "letter": "C",
+          "text": "Trois enfants par femme."
+        },
+        {
+          "letter": "D",
+          "text": "Quatre enfants par femme."
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": false
+    }
+  ],
+  "examTitle": "Concours CHU Mohammed VI Oujda",
+  "specialty": "Radiologie",
+  "warnings": [
+    "Questions 1 to 6 are missing from the scanned document."
+  ],
+  "year": null
+}

@@ -1,0 +1,768 @@
+{
+  "sourceFile": "Concours-Radiologie-EAP-2019-Epreuve1.pdf",
+  "language": "fr",
+  "questions": [
+    {
+      "number": 1,
+      "text": "L'os pariétal :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est un os plat ;"
+        },
+        {
+          "letter": "B",
+          "text": "Quadrangulaire ;"
+        },
+        {
+          "letter": "C",
+          "text": "Pair ;"
+        },
+        {
+          "letter": "D",
+          "text": "Symétrique."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 2,
+      "text": "L'os ethmoïdal :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est un os court ;"
+        },
+        {
+          "letter": "B",
+          "text": "Impaire ;"
+        },
+        {
+          "letter": "C",
+          "text": "Médian ;"
+        },
+        {
+          "letter": "D",
+          "text": "Symétrique."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 3,
+      "text": "L'os maxillaire :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Est un os plat ;"
+        },
+        {
+          "letter": "B",
+          "text": "Pneumatique ;"
+        },
+        {
+          "letter": "C",
+          "text": "Pair ;"
+        },
+        {
+          "letter": "D",
+          "text": "Asymétrique."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 4,
+      "text": "La selle turcique correspond au(x) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apophyses ptérygoïdes ;"
+        },
+        {
+          "letter": "B",
+          "text": "Corps du sphénoïde ;"
+        },
+        {
+          "letter": "C",
+          "text": "Petites ailes du sphénoïde ;"
+        },
+        {
+          "letter": "D",
+          "text": "Grandes ailes du sphénoïde."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 5,
+      "text": "Face latérale de l'os coxal comprend :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La face latérale de l'ilion ;"
+        },
+        {
+          "letter": "B",
+          "text": "L'acétabulum ;"
+        },
+        {
+          "letter": "C",
+          "text": "La fosse iliaque externe ;"
+        },
+        {
+          "letter": "D",
+          "text": "La face interne du trou obturé."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 6,
+      "text": "Le calcanéum s'articule avec :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'astragale et le scaphoïde ;"
+        },
+        {
+          "letter": "B",
+          "text": "Le cuboïde et le scaphoïde ;"
+        },
+        {
+          "letter": "C",
+          "text": "L'astragale et le cuboïde ;"
+        },
+        {
+          "letter": "D",
+          "text": "Le cuboïde et le 1er cunéiforme."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 7,
+      "text": "La réduction des doses par les procédures radiologiques se fait par :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'exclusion des examens non nécessaires ;"
+        },
+        {
+          "letter": "B",
+          "text": "Le positionnement du patient en utilisant éventuellement des moyens de contention ;"
+        },
+        {
+          "letter": "C",
+          "text": "La collimation du faisceau strictement à la région à examiner ;"
+        },
+        {
+          "letter": "D",
+          "text": "L'utilisation des dispositifs de compression."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 8,
+      "text": "Les rayonnements électromagnétiques X et γ (photons) interagissent avec la matière selon :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'effet photoélectrique ;"
+        },
+        {
+          "letter": "B",
+          "text": "L'effet Compton ;"
+        },
+        {
+          "letter": "C",
+          "text": "L'effet de matérialisation ;"
+        },
+        {
+          "letter": "D",
+          "text": "Toutes les réponses sont fausses."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 20,
+      "text": "L'incidence du processus coronoïde (incidence en flexion) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le patient est assis, coude fléchi à 90° ;"
+        },
+        {
+          "letter": "B",
+          "text": "Epaule, coude, poignet étant sur la même horizontale ;"
+        },
+        {
+          "letter": "C",
+          "text": "L'avant-bras et la main reposant sur leur bord ulnaire ;"
+        },
+        {
+          "letter": "D",
+          "text": "Rayon directeur centré à mi-distance entre l'épicondyle latéral et médial."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": true,
+      "pageStart": 4,
+      "reviewNotes": [
+        "Numbering jumps from 8 to 20 because page 2 of the original exam document is missing."
+      ]
+    },
+    {
+      "number": 21,
+      "text": "Incidence de la face du bras :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le patient debout, dos plaque, en légère oblique postérieur du coté à radiographier ;"
+        },
+        {
+          "letter": "B",
+          "text": "Membre supérieur en extension et légère abduction ;"
+        },
+        {
+          "letter": "C",
+          "text": "Main en pronation ;"
+        },
+        {
+          "letter": "D",
+          "text": "Rayon directeur horizontal vise le milieu du bras."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 22,
+      "text": "Parmi les critères de réussite de l'incidence de face de l'épaule -rotation indifférente ou neutre - :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le sillon intertuberculaire de projette en dedans ;"
+        },
+        {
+          "letter": "B",
+          "text": "Bon dégagement des interlignes gléno-huméral et acromio-huméral ;"
+        },
+        {
+          "letter": "C",
+          "text": "Superposition de la clavicule et de l'acromion ;"
+        },
+        {
+          "letter": "D",
+          "text": "Superposition des bords antérieur et postérieur de la glène."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 23,
+      "text": "L'incidence de profil -axilaire de l'épaule :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rayon directeur est incliné de 10° vers le coude ;"
+        },
+        {
+          "letter": "B",
+          "text": "Rayon directeur est incliné de 45° vers le coude ;"
+        },
+        {
+          "letter": "C",
+          "text": "Rayon directeur est centré à 5 cm en dedans de l'acromion ;"
+        },
+        {
+          "letter": "D",
+          "text": "Rayon directeur est centré à 1 cm en dedans de l'acromion."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 24,
+      "text": "L'incidence de profil de coiffe ou Lamy :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rayon directeur horizontal ;"
+        },
+        {
+          "letter": "B",
+          "text": "Rayon directeur incliné de 30° vers les pieds ;"
+        },
+        {
+          "letter": "C",
+          "text": "Centré sur la fossette sous-acromiale ;"
+        },
+        {
+          "letter": "D",
+          "text": "Centré sur le moignon de l'épaule."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 25,
+      "text": "L'incidence de trois quarts de la cheville avec étude de la malléole externe :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rotation externe de 45° de la cheville ;"
+        },
+        {
+          "letter": "B",
+          "text": "Rayon directeur vertical ;"
+        },
+        {
+          "letter": "C",
+          "text": "Rayon directeur incliné de 15° vers la tête ;"
+        },
+        {
+          "letter": "D",
+          "text": "Centré à un centimètre au-dessus de la malléole interne sur la ligne médiane à égale distance des deux malléoles."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 26,
+      "text": "L'incidence complémentaire du pied : interligne tarsométatarsien ou de Lisfranc :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le patient en décubitus ;"
+        },
+        {
+          "letter": "B",
+          "text": "Pied en flexion plantaire reposant sur la cassette par sa face dorsale ;"
+        },
+        {
+          "letter": "C",
+          "text": "Talon incliné de 25° vers l'extérieur à partir de la verticale ;"
+        },
+        {
+          "letter": "D",
+          "text": "Rayon directeur vertical centré sur le calcanéum."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 27,
+      "text": "Parmi les critères de réussite de l'incidence ¾ alaire bassin :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les limites des trous obturateurs sont superposées ;"
+        },
+        {
+          "letter": "B",
+          "text": "Les épines iliaques antérieure et postérieure sont superposées ;"
+        },
+        {
+          "letter": "C",
+          "text": "L'aile iliaque est parfaitement exposée ;"
+        },
+        {
+          "letter": "D",
+          "text": "La cotyle est vue de profil."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 28,
+      "text": "Le profil urétral de la hanche :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le côté à radiographier est soulevé de 45° ;"
+        },
+        {
+          "letter": "B",
+          "text": "Le côté opposé est soulevé de 45° ;"
+        },
+        {
+          "letter": "C",
+          "text": "Rayon directeur verticale vise le milieu du pli inguinal ;"
+        },
+        {
+          "letter": "D",
+          "text": "Rayon directeur verticale vise le milieu du pli inguinal côté opposé."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 29,
+      "text": "L'incidence de la rotule de face (incidence de Didier ou de Chaumet) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rayon directeur ascendant de 30° ;"
+        },
+        {
+          "letter": "B",
+          "text": "Rayon directeur descendant de 30° ;"
+        },
+        {
+          "letter": "C",
+          "text": "Rayon directeur centré au milieu du creux poplité ;"
+        },
+        {
+          "letter": "D",
+          "text": "Rayon directeur centré au 2 cm au-dessus du creux poplité."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 30,
+      "text": "Technique de réalisation d'une radiographie thoracique standard :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le cliché thoracique doit être réalisé avec une distance focale (foyer-film) de 1 m ;"
+        },
+        {
+          "letter": "B",
+          "text": "On utilise la haute tension (120 à 140 kV) ;"
+        },
+        {
+          "letter": "C",
+          "text": "Temps de pose bref (1/100 sec) ;"
+        },
+        {
+          "letter": "D",
+          "text": "Inspiration profonde."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 31,
+      "text": "Le cliché réalisé afin de dégager les sommets pulmonaires :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le cliché en expiration ;"
+        },
+        {
+          "letter": "B",
+          "text": "Le cliché en lordose ;"
+        },
+        {
+          "letter": "C",
+          "text": "Le cliché en Valsalva ;"
+        },
+        {
+          "letter": "D",
+          "text": "Le cliché en décubitus latéral avec rayon horizontal."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 32,
+      "text": "La radiographie pulmonaire en incidence de Muller :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Réalisée en décubitus latéral ;"
+        },
+        {
+          "letter": "B",
+          "text": "Prise en expiration ;"
+        },
+        {
+          "letter": "C",
+          "text": "Permet de préciser le caractère vasculaire ou tissulaire d'une opacité médiastinale ;"
+        },
+        {
+          "letter": "D",
+          "text": "Permet d'apprécier la mobilité des coupoles."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 33,
+      "text": "Parmi les critères de qualité du cliché thoracique de face :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La symétrie ;"
+        },
+        {
+          "letter": "B",
+          "text": "La pénétration ;"
+        },
+        {
+          "letter": "C",
+          "text": "Le centrage ;"
+        },
+        {
+          "letter": "D",
+          "text": "L'inspiration profonde."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 34,
+      "text": "Les critères d'orientation du cliché thoracique de face :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La poche à air gastrique du côté gauche ;"
+        },
+        {
+          "letter": "B",
+          "text": "La coupole diaphragmatique gauche est plus élevée par rapport à celle droite ;"
+        },
+        {
+          "letter": "C",
+          "text": "Le bouton aortique du cœur est au côté gauche ;"
+        },
+        {
+          "letter": "D",
+          "text": "Aucun critère d'orientation n'est possible."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 35,
+      "text": "La préparation du patient au transit œsogastroduodénal :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A jeun 8 heures avant l'examen ;"
+        },
+        {
+          "letter": "B",
+          "text": "Vérifier qu'aucun examen baryté récent n'a été pratiqué ;"
+        },
+        {
+          "letter": "C",
+          "text": "Suppression de médicaments opaques (bismuth) et des pansements gastriques 3 jours avant l'examen ;"
+        },
+        {
+          "letter": "D",
+          "text": "Aucune préparation n'est nécessaire."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 36,
+      "text": "Les signes annonciateurs d'une réaction allergique au produit de contraste :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un prurit ;"
+        },
+        {
+          "letter": "B",
+          "text": "Une urticaire généralisée ;"
+        },
+        {
+          "letter": "C",
+          "text": "Un angiœdème ;"
+        },
+        {
+          "letter": "D",
+          "text": "Une oppression thoracique."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 37,
+      "text": "L'hystérosalpingographie :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permet l'exploration de la cavité utérine et les trompes ;"
+        },
+        {
+          "letter": "B",
+          "text": "Indiquée pour un bilan d'infertilité primaire ou secondaire ;"
+        },
+        {
+          "letter": "C",
+          "text": "Nécessite l'utilisation de la baryte ;"
+        },
+        {
+          "letter": "D",
+          "text": "Est réalisée impérativement après la fin de la période menstruelle et avant la période pré-ovulatoire fertile."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 38,
+      "text": "Un traceur en médecine nucléaire :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Émet des R γ susceptibles de détection ;"
+        },
+        {
+          "letter": "B",
+          "text": "Est utilisé seul ;"
+        },
+        {
+          "letter": "C",
+          "text": "Est une préparation de structures organiques caractéristiques d'une fonction physiologique ou métabolique ;"
+        },
+        {
+          "letter": "D",
+          "text": "Sert à acheminer le marqueur vers l'organe à explorer."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 39,
+      "text": "Parmi les modalités d'acquisitions scintigraphiques :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acquisition statique ;"
+        },
+        {
+          "letter": "B",
+          "text": "Acquisition du corps entier ;"
+        },
+        {
+          "letter": "C",
+          "text": "Acquisition tomographique ;"
+        },
+        {
+          "letter": "D",
+          "text": "Acquisition dynamique."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 40,
+      "text": "La technique DSP en radiothérapie :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Consiste à placée la tumeur à l'isocentre de l'appareil de traitement ;"
+        },
+        {
+          "letter": "B",
+          "text": "Consiste à positionner l'isocentre de l'appareil au point cutané par lequel pénètre l'axe du faisceau d'irradiation ;"
+        },
+        {
+          "letter": "C",
+          "text": "N'est applicable qu'aux faisceaux uniques de protons ou d'électrons ;"
+        },
+        {
+          "letter": "D",
+          "text": "La mieux adaptée à l'irradiation des tumeurs profondes par 2 à 4 faisceaux coaxiaux."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "pageStart": 2,
+      "reviewNotes": []
+    }
+  ],
+  "examTitle": "Examen d'aptitude professionnelle pour l'accès au grade principal des cadres relevant du corps des infirmiers et techniciens de santé - 2ème Epreuve",
+  "specialty": "Radiologie",
+  "warnings": [
+    "Page 2 of the original exam document (containing questions 9 to 19) is missing from the provided screenshots."
+  ],
+  "year": 2019
+}

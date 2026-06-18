@@ -1,0 +1,1718 @@
+{
+  "sourceFile": "Concours-Radiologie-CERF-2018-RP-Correction.pdf",
+  "language": "fr",
+  "questions": [
+    {
+      "number": 1,
+      "text": "Parmi les propositions suivantes concernant les Rayons X, cochez les réponses exactes",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ils sont analogues à la lumière"
+        },
+        {
+          "letter": "B",
+          "text": "ils ont une masse importante"
+        },
+        {
+          "letter": "C",
+          "text": "ils sont chargés électriquement"
+        },
+        {
+          "letter": "D",
+          "text": "ils proviennent de perte d’énergie d’électrons"
+        },
+        {
+          "letter": "E",
+          "text": "ils sont émis depuis l’anode du tube"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "A",
+        "D",
+        "E"
+      ],
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 2,
+      "text": "Parmi les propositions suivantes concernant les raies caractéristiques des Rayons X, cochez les réponses exactes",
+      "options": [
+        {
+          "letter": "A",
+          "text": "elles proviennent d’une désexcitation électronique"
+        },
+        {
+          "letter": "B",
+          "text": "elles proviennent d’une interaction impliquant le noyau"
+        },
+        {
+          "letter": "C",
+          "text": "elles ont des énergies déterminées"
+        },
+        {
+          "letter": "D",
+          "text": "elles présentent un spectre continu"
+        },
+        {
+          "letter": "E",
+          "text": "elles sont improbables en radiologie"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "A",
+        "C"
+      ],
+      "pageStart": 1,
+      "reviewNotes": []
+    },
+    {
+      "number": 3,
+      "text": "Concernant la dose équivalente, cochez la réponse exacte",
+      "options": [
+        {
+          "letter": "A",
+          "text": "elle a pour unité le Gray (Gy)"
+        },
+        {
+          "letter": "B",
+          "text": "elle a pour unité le Sievert (Sv)"
+        },
+        {
+          "letter": "C",
+          "text": "elle est utilisée pour établir les niveaux de référence diagnostiques"
+        },
+        {
+          "letter": "D",
+          "text": "elle est une grandeur mesurable précisément"
+        },
+        {
+          "letter": "E",
+          "text": "elle doit être indiquée dans le compte rendu"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "B"
+      ],
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 4,
+      "text": "Parmi les propositions suivantes concernant la diffusion Compton, cochez les réponses exactes",
+      "options": [
+        {
+          "letter": "A",
+          "text": "elle fait disparaître le photon"
+        },
+        {
+          "letter": "B",
+          "text": "elle est improbable en radiologie"
+        },
+        {
+          "letter": "C",
+          "text": "elle dévie le faisceau primaire"
+        },
+        {
+          "letter": "D",
+          "text": "elle est la cause de l’exposition des travailleurs"
+        },
+        {
+          "letter": "E",
+          "text": "elle diminue l’énergie des rayons X"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "C",
+        "D",
+        "E"
+      ],
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 5,
+      "text": "Parmi les propositions suivantes concernant l'effet photo-électrique, cochez les réponses exactes",
+      "options": [
+        {
+          "letter": "A",
+          "text": "il constitue l'interaction avec la matière la plus probable en radiologie"
+        },
+        {
+          "letter": "B",
+          "text": "il crée une ionisation à coup sûr"
+        },
+        {
+          "letter": "C",
+          "text": "il est plus probable à haute énergie"
+        },
+        {
+          "letter": "D",
+          "text": "il est utilisé dans les détecteurs d’imagerie"
+        },
+        {
+          "letter": "E",
+          "text": "il contribue au contraste"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "B",
+        "D",
+        "E"
+      ],
+      "pageStart": 2,
+      "reviewNotes": []
+    },
+    {
+      "number": 6,
+      "text": "Quels paramètres physiques sont utilisés pour juger de la qualité image ? Cochez les réponses exactes",
+      "options": [
+        {
+          "letter": "A",
+          "text": "le rapport signal kV à bruit"
+        },
+        {
+          "letter": "B",
+          "text": "la fonction de transfert de modulation (FTM)"
+        },
+        {
+          "letter": "C",
+          "text": "la variance du bruit dans l’image"
+        },
+        {
+          "letter": "D",
+          "text": "l’utilisation de mires type TOR 18 FG"
+        },
+        {
+          "letter": "E",
+          "text": "la DQE (Detective Quantum Efficiency)"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 7,
+      "text": "Pour diminuer l’irradiation du patient en scopie quelles mesures doit-on adopter ? Cochez les réponses exactes",
+      "options": [
+        {
+          "letter": "A",
+          "text": "centrer en scopie pulsée"
+        },
+        {
+          "letter": "B",
+          "text": "travailler avec le champ de vue le plus grand possible"
+        },
+        {
+          "letter": "C",
+          "text": "utiliser la scopie continue"
+        },
+        {
+          "letter": "D",
+          "text": "utiliser les diaphragmes électroniques (post-diaphragmes)"
+        },
+        {
+          "letter": "E",
+          "text": "éloigner le patient du tube et le rapprocher du détecteur"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "B",
+        "E"
+      ],
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 8,
+      "text": "Parmi les affirmations suivantes sur les protège-gonades utilisés en radiologie lesquelles sont exactes ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "utilisent un matériau à n° atomique élevé"
+        },
+        {
+          "letter": "B",
+          "text": "diminuent le rayonnement diffusé interne"
+        },
+        {
+          "letter": "C",
+          "text": "diminuent le rayonnement diffusé externe"
+        },
+        {
+          "letter": "D",
+          "text": "sont recommandés lors de la réalisation d’une radiographie de thorax"
+        },
+        {
+          "letter": "E",
+          "text": "sont recommandés lors de la réalisation d’une radiographie de bassin chez la fille"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "A"
+      ],
+      "pageStart": 3,
+      "reviewNotes": []
+    },
+    {
+      "number": 9,
+      "text": "Quels matériaux sont utilisés en filtration additionnelle en sortie de tube ? Cochez les réponses exactes",
+      "options": [
+        {
+          "letter": "A",
+          "text": "le Bismuth"
+        },
+        {
+          "letter": "B",
+          "text": "le Cuivre"
+        },
+        {
+          "letter": "C",
+          "text": "l’Aluminium"
+        },
+        {
+          "letter": "D",
+          "text": "le Plomb"
+        },
+        {
+          "letter": "E",
+          "text": "le sulfate de Baryum"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "B",
+        "C"
+      ],
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 10,
+      "text": "Parmi les éléments suivants, quels sont ceux qui diminuent le rayonnement diffusé ? Cochez les réponses exactes",
+      "options": [
+        {
+          "letter": "A",
+          "text": "l’augmentation de la tension du tube"
+        },
+        {
+          "letter": "B",
+          "text": "l’augmentation de l’intensité du tube"
+        },
+        {
+          "letter": "C",
+          "text": "la compression"
+        },
+        {
+          "letter": "D",
+          "text": "l’utilisation d’un cône localisateur"
+        },
+        {
+          "letter": "E",
+          "text": "la collimation du faisceau de rayons X"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "C",
+        "D",
+        "E"
+      ],
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 11,
+      "text": "Parmi les propositions suivantes, lesquelles définissent la position de l’Académie de Médecine (2006 et 2016) sur la radioprotection ? Cochez les réponses exactes",
+      "options": [
+        {
+          "letter": "A",
+          "text": "le risque de cancers radio-induits à faible dose est sous-estimé par le modèle linéaire sans seuil"
+        },
+        {
+          "letter": "B",
+          "text": "le principe de précaution impose de supprimer tout risque lié à la pratique médicale"
+        },
+        {
+          "letter": "C",
+          "text": "il convient d’évaluer le coût et les risques des différents examens d’imagerie"
+        },
+        {
+          "letter": "D",
+          "text": "la population pédiatrique mérite une attention particulière"
+        },
+        {
+          "letter": "E",
+          "text": "une radioprotection insuffisante est source de complications potentielles pour les patients et les personnels"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "C",
+        "D",
+        "E"
+      ],
+      "pageStart": 4,
+      "reviewNotes": []
+    },
+    {
+      "number": 12,
+      "text": "Parmi les propositions suivantes laquelle est fausse en ce qui concerne le contrôle de la justification des actes ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "il s’appuie sur l’existence de référentiels"
+        },
+        {
+          "letter": "B",
+          "text": "il ne s’applique pas aux examens demandés dans le cadre des urgences"
+        },
+        {
+          "letter": "C",
+          "text": "il engage la responsabilité du radiologue"
+        },
+        {
+          "letter": "D",
+          "text": "il doit être systématique avant tout examen utilisant des rayons X"
+        },
+        {
+          "letter": "E",
+          "text": "il est inscrit dans la législation"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "B"
+      ],
+      "pageStart": 5,
+      "reviewNotes": []
+    },
+    {
+      "number": 13,
+      "text": "Parmi les propositions suivantes, laquelle est fausse en ce qui concerne la demande d’examen scannographique ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "elle doit être formulée par écrit"
+        },
+        {
+          "letter": "B",
+          "text": "elle peut être modifiée par le radiologue"
+        },
+        {
+          "letter": "C",
+          "text": "elle n’est pas nécessaire dans le champ diagnostique de la téléradiologie"
+        },
+        {
+          "letter": "D",
+          "text": "elle doit comporter le nom du clinicien demandeur"
+        },
+        {
+          "letter": "E",
+          "text": "elle peut est formulée sur un support numérique"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "C"
+      ],
+      "pageStart": 5,
+      "reviewNotes": []
+    },
+    {
+      "number": 14,
+      "text": "Parmi les propositions suivantes laquelle est vraie en ce qui concerne la législation sur les personnels ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "un manipulateur ou un médecin classé en catégorie B est susceptible de recevoir annuellement une dose cumulée supérieure à 10 mSv"
+        },
+        {
+          "letter": "B",
+          "text": "en zone contrôlée la dose individuelle cumulée pour un travailleur est susceptible d’être supérieure à 6 mSv"
+        },
+        {
+          "letter": "C",
+          "text": "si elle est enceinte une manipulatrice ne peut plus être affectée à un poste de travail de radiologie conventionnelle ou de scanner"
+        },
+        {
+          "letter": "D",
+          "text": "la dose annuelle cumulée corps entier à ne pas dépasser pour un travailleur est de 50 mSv"
+        },
+        {
+          "letter": "E",
+          "text": "les étudiants et apprentis ne sont pas concernés par les textes règlementaires"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "B"
+      ],
+      "pageStart": 5,
+      "reviewNotes": []
+    },
+    {
+      "number": 15,
+      "text": "En radioprotection, quels sont les domaines qui n’engagent pas la responsabilité du médecin demandeur d’un examen d’imagerie médicale parmi les propositions suivantes ? Cochez les réponses exactes",
+      "options": [
+        {
+          "letter": "A",
+          "text": "domaine de la justification"
+        },
+        {
+          "letter": "B",
+          "text": "domaine de la substitution"
+        },
+        {
+          "letter": "C",
+          "text": "domaine de l’optimisation"
+        },
+        {
+          "letter": "D",
+          "text": "domaine de l’information du patient"
+        },
+        {
+          "letter": "E",
+          "text": "domaine du contrôle de la qualité des équipements"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "C",
+        "E"
+      ],
+      "pageStart": 6,
+      "reviewNotes": []
+    },
+    {
+      "number": 16,
+      "text": "Parmi les propositions suivantes, lesquelles sont vraies concernant le Produit Dose Surface (PDS) utilisé en indicateur de dose en radiologie conventionnelle ? Cochez les réponses exactes",
+      "options": [
+        {
+          "letter": "A",
+          "text": "il doit obligatoirement figurer dans le compte rendu quelle que soit la région anatomique concernée"
+        },
+        {
+          "letter": "B",
+          "text": "il s’exprime en Gray.cm²"
+        },
+        {
+          "letter": "C",
+          "text": "il permet de façon indirecte d’évaluer de façon approximative la dose efficace"
+        },
+        {
+          "letter": "D",
+          "text": "il est utilisé pour l’expression des Niveaux de Référence Diagnostique"
+        },
+        {
+          "letter": "E",
+          "text": "il doit être fourni en fin d’examen par tous les équipements radiologiques récents"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "pageStart": 6,
+      "reviewNotes": []
+    },
+    {
+      "number": 17,
+      "text": "Parmi les propositions suivantes lesquelles sont vraies concernant le risque de cancer radio-induit dans le domaine des « basses doses » qui caractérisent l’imagerie médicale diagnostique ? Cochez les réponses exactes",
+      "options": [
+        {
+          "letter": "A",
+          "text": "aujourd’hui dans la littérature scientifique il n’existe aucune preuve épidémiologique de relation entre l’imagerie médicale diagnostique et un risque accru de cancer chez l’homme"
+        },
+        {
+          "letter": "B",
+          "text": "les « basses doses » incluent toutes les expositions inférieures à 500 mSv"
+        },
+        {
+          "letter": "C",
+          "text": "le risque théorique de cancer radio-induit a été extrapolé à partir des constatations épidémiologiques des expositions hautes doses type Hiroshima"
+        },
+        {
+          "letter": "D",
+          "text": "la dose cumulée des différents examens d’imagerie diagnostique chez un même patient peut dépasser le seuil des basses doses"
+        },
+        {
+          "letter": "E",
+          "text": "les modèles mathématiques d’évaluation du risque radique ne sont pas les mêmes chez l’adulte et chez l’enfant"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "C",
+        "D",
+        "E"
+      ],
+      "pageStart": 6,
+      "reviewNotes": []
+    },
+    {
+      "number": 18,
+      "text": "Parmi les propositions suivantes laquelle est fausse concernant les obligations légales du radiologue dans le domaine de la radioprotection ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "suivre régulièrement une formation spécifique portant sur la radioprotection des patients"
+        },
+        {
+          "letter": "B",
+          "text": "suivre régulièrement une formation spécifique portant sur la radioprotection des personnels"
+        },
+        {
+          "letter": "C",
+          "text": "procéder au contrôle préalable de la justification de tout examen de scannographie dont il a la responsabilité"
+        },
+        {
+          "letter": "D",
+          "text": "porter au quotidien sur son lieu de travail des équipements de dosimétrie opérationnelle"
+        },
+        {
+          "letter": "E",
+          "text": "refuser de réaliser tout examen qui ne lui semble pas justifié même en cas de divergence avec le demandeur d’examen"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "D"
+      ],
+      "pageStart": 7,
+      "reviewNotes": []
+    },
+    {
+      "number": 19,
+      "text": "Parmi les propositions suivantes, lesquelles sont vraies en ce qui concerne la dose efficace délivrée lors d’un examen d’imagerie ? Cochez les réponses exactes",
+      "options": [
+        {
+          "letter": "A",
+          "text": "est un indicateur de dose mesuré par l’équipement de radiologie"
+        },
+        {
+          "letter": "B",
+          "text": "s’exprime en Sievert ou milliSievert"
+        },
+        {
+          "letter": "C",
+          "text": "est un indicateur de dose utilisé dans les Niveaux de Référence Diagnostique (NRD)"
+        },
+        {
+          "letter": "D",
+          "text": "permet de comparer des examens différents en terme de risque radique"
+        },
+        {
+          "letter": "E",
+          "text": "doit figurer sur le compte rendu"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "B",
+        "D"
+      ],
+      "pageStart": 7,
+      "reviewNotes": []
+    },
+    {
+      "number": 20,
+      "text": "Parmi les propositions suivantes, lesquelles sont exactes concernant l’exposition de la population française à l’imagerie médicale diagnostique ? Cochez les réponses exactes",
+      "options": [
+        {
+          "letter": "A",
+          "text": "elle est supérieure à celle des USA"
+        },
+        {
+          "letter": "B",
+          "text": "elle est inférieure à l’irradiation naturelle"
+        },
+        {
+          "letter": "C",
+          "text": "elle induit en France une dose efficace annuelle moyenne par individu estimée à 5 mSv"
+        },
+        {
+          "letter": "D",
+          "text": "elle est en constante augmentation"
+        },
+        {
+          "letter": "E",
+          "text": "elle est majoritairement liée à la médecine nucléaire"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "B",
+        "D"
+      ],
+      "pageStart": 7,
+      "reviewNotes": []
+    },
+    {
+      "number": 21,
+      "text": "Parmi les propositions suivantes, lesquelles sont vraies concernant l’exposition de la population française aux rayonnements ionisant en imagerie médicale diagnostique en 2012 ? Cochez les réponses exactes",
+      "options": [
+        {
+          "letter": "A",
+          "text": "elle représente 20 millions d’actes annuels"
+        },
+        {
+          "letter": "B",
+          "text": "la radiographie du thorax est, hors dentaire, l’acte le plus fréquent"
+        },
+        {
+          "letter": "C",
+          "text": "la radiologie conventionnelle, hors dentaire, représente 18 % de la dose efficace collective"
+        },
+        {
+          "letter": "D",
+          "text": "la radiologie dentaire représente 34 % de tous les actes"
+        },
+        {
+          "letter": "E",
+          "text": "le scanner représente 50 % de la dose efficace collective"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "pageStart": 8,
+      "reviewNotes": []
+    },
+    {
+      "number": 22,
+      "text": "Concernant les effets stochastiques, quelles sont les propositions exactes ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "la gravité des ces effets augmente proportionnellement à la dose selon une fonction linéaire"
+        },
+        {
+          "letter": "B",
+          "text": "la probabilité de survenue de ces effets augmente proportionnellement à la dose selon une fonction linéaire"
+        },
+        {
+          "letter": "C",
+          "text": "ces effets sont liés à une réparation « fautive » non létale de l’ADN des cellules"
+        },
+        {
+          "letter": "D",
+          "text": "la relation linéaire sans seuil permet de calculer le nombre de cancers en excès après exposition des patients aux examens d’imagerie médicale"
+        },
+        {
+          "letter": "E",
+          "text": "il a été observé un important excès d’anomalies génétiques chez les descendants des irradiés d’Hiroshima et de Nagasaki"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "B",
+        "C"
+      ],
+      "pageStart": 8,
+      "reviewNotes": []
+    },
+    {
+      "number": 23,
+      "text": "Concernant les cancers radio-induits, quelles sont les propositions exactes ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ils sont facilement différenciés des cancers « spontanés » en histologie et immunohistochimie"
+        },
+        {
+          "letter": "B",
+          "text": "le pronostic d’une leucémie radio-induite est plus sévère que celui d’une leucémie « commune »"
+        },
+        {
+          "letter": "C",
+          "text": "les cancers thyroïdiens en surnombre des enfants exposés au voisinage de la centrale de Tchernobyl n’ont pas pu bénéficier de traitement par iode radioactif (IRA thérapie) : ceci aurait majoré l’exposition de ces jeunes patients"
+        },
+        {
+          "letter": "D",
+          "text": "le TEP-TDM au 18FDG (traceur radioactif) est un examen indiqué pour le bilan d’extension des cancers supposés radio-induits (selon les recommandations habituelles)"
+        },
+        {
+          "letter": "E",
+          "text": "le traitement d’une leucémie radio-induite est le même qu’une leucémie « commune »"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "D",
+        "E"
+      ],
+      "pageStart": 9,
+      "reviewNotes": []
+    },
+    {
+      "number": 24,
+      "text": "Concernant la projection du risque après exposition ponctuelle d’un adulte à une dose de 0.4 Sv, quelle est la surface sous la courbe [Risque de cancer = f (âge)] la plus importante ? Cochez la réponse exacte",
+      "options": [
+        {
+          "letter": "A",
+          "text": "risque spontané vie entière"
+        },
+        {
+          "letter": "B",
+          "text": "modèle additif de risque"
+        },
+        {
+          "letter": "C",
+          "text": "modèle multiplicatif de risque"
+        },
+        {
+          "letter": "D",
+          "text": "modèle comportant un risque au retour spontané"
+        },
+        {
+          "letter": "E",
+          "text": "les surfaces sont les mêmes car la dose est trop faible pour augmenter le risque"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "C"
+      ],
+      "pageStart": 9,
+      "reviewNotes": []
+    },
+    {
+      "number": 25,
+      "text": "Concernant l’extrapolation aux faibles doses des observations aux fortes doses, quelles sont les propositions exactes ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "cette extrapolation pallie les insuffisances de l’épidémiologie, compte tenu des effectifs qu’il conviendrait d’observer pour mettre en évidence une différence significative (exposés/non exposés)"
+        },
+        {
+          "letter": "B",
+          "text": "pour une dose de 2 mSv, le risque est inférieur dans le modèle hormésis, à celui du modèle linéaire"
+        },
+        {
+          "letter": "C",
+          "text": "cette extrapolation permet de prédire de façon fiable l’excès attendu de cancer pour une dose de 3,5 mSv"
+        },
+        {
+          "letter": "D",
+          "text": "en radioprotection, elle a permis de déterminer les limites de doses pour les travailleurs exposés, afin de leur garantir un risque d’effet stochastique négligeable"
+        },
+        {
+          "letter": "E",
+          "text": "cette extrapolation est difficilement vérifiable par l’observation"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "pageStart": 10,
+      "reviewNotes": []
+    },
+    {
+      "number": 26,
+      "text": "Concernant les obligations du radiologue face au risque stochastique, quelles sont les propositions exactes ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "il doit malgré le faible risque de cancérogénèse indiquer dans son compte rendu les raisons pour lesquelles il a estimé justifié de faire un acte d’imagerie (radiographie standard, tomodensitométrie, radiologie interventionnelle)"
+        },
+        {
+          "letter": "B",
+          "text": "le guide du bon usage des examens d’imagerie de la SFR est un document de base pour évaluer la justification des actes de radiologie"
+        },
+        {
+          "letter": "C",
+          "text": "ces raisons doivent obligatoirement être écrites dans la demande de l’examen (ordonnance, bon d’imagerie, formulaire informatique) art R1333-66 du code de la santé publique"
+        },
+        {
+          "letter": "D",
+          "text": "il doit être particulièrement attentif aux principes de radioprotection en imagerie pédiatrique, tout en réalisant les actes exposant aux RI lorsqu’ils sont justifiés"
+        },
+        {
+          "letter": "E",
+          "text": "la réalisation d’une tomodensitométrie abdominale injectée est formellement contre-indiquée chez la femme enceinte, quel que soit le nombre de semaines d’aménorrhée"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "pageStart": 10,
+      "reviewNotes": []
+    },
+    {
+      "number": 27,
+      "text": "Concernant la dose au scanner, quelles sont les réponses vraies ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "une augmentation de 20 % des kV entraîne une irradiation beaucoup plus importante qu'une augmentation de 20 % des mAS"
+        },
+        {
+          "letter": "B",
+          "text": "la modulation des mAS en XY (dans le plan transversal) se fait à partir du scout view (topogramme)"
+        },
+        {
+          "letter": "C",
+          "text": "la modulation des mAS en XY (dans le plan transversal) est surtout efficace au niveau du cou"
+        },
+        {
+          "letter": "D",
+          "text": "la modulation des mAS en Z (dans le plan longitudinal) est surtout efficace au niveau du thorax"
+        },
+        {
+          "letter": "E",
+          "text": "la modulation des mAs en XY ne peut pas être combinée à une modulation des mAs en Z"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "A",
+        "D"
+      ],
+      "pageStart": 11,
+      "reviewNotes": []
+    },
+    {
+      "number": 28,
+      "text": "Concernant les techniques de réduction de dose au scanner, quelles sont celles accessibles au radiologue à la console ? Cochez les réponses exactes",
+      "options": [
+        {
+          "letter": "A",
+          "text": "la modulation des mAS en XY"
+        },
+        {
+          "letter": "B",
+          "text": "la modulation des kV en XY"
+        },
+        {
+          "letter": "C",
+          "text": "la modulation des kV en Z"
+        },
+        {
+          "letter": "D",
+          "text": "une sélection automatique des mAS"
+        },
+        {
+          "letter": "E",
+          "text": "l’utilisation d’une technique de reconstruction itérative"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "A",
+        "D",
+        "E"
+      ],
+      "pageStart": 11,
+      "reviewNotes": []
+    },
+    {
+      "number": 29,
+      "text": "Concernant la dosimétrie en scanner cardiaque, quelle est (quelles sont) la (les) réponse(s) exactes(s) ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L’exploration des coronaires se fait de préférence en diastole"
+        },
+        {
+          "letter": "B",
+          "text": "La réduction de dose s’effectue par une modulation de kV"
+        },
+        {
+          "letter": "C",
+          "text": "La synchronisation prospective permet une meilleure maîtrise de la dose que la synchronisation rétrospective"
+        },
+        {
+          "letter": "D",
+          "text": "Seule la synchronisation rétrospective permet de s’affranchir des extrasystoles"
+        },
+        {
+          "letter": "E",
+          "text": "Aucune des réponses précédentes n'est vraie"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "A",
+        "C"
+      ],
+      "pageStart": 11,
+      "reviewNotes": []
+    },
+    {
+      "number": 30,
+      "text": "Concernant les paramètres d’exposition au scanner, quelle est la réponse vraie ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "les mAs déterminent l’énergie des rayons X"
+        },
+        {
+          "letter": "B",
+          "text": "les kV déterminent l’énergie des rayons X"
+        },
+        {
+          "letter": "C",
+          "text": "la dose varie avec le carré des mAs"
+        },
+        {
+          "letter": "D",
+          "text": "Il est toujours préférable de travailler avec des kV bas et des mAs élevés"
+        },
+        {
+          "letter": "E",
+          "text": "une dose trop élevée est signalée par un signal sonore à la console"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "B"
+      ],
+      "pageStart": 12,
+      "reviewNotes": []
+    },
+    {
+      "number": 31,
+      "text": "Concernant la modulation angulaire de la dose, quelles sont les propositions exactes ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "elle peut être utilisée pour diminuer l’exposition des cristallins"
+        },
+        {
+          "letter": "B",
+          "text": "elle peut être utilisée pour diminuer l’exposition des seins"
+        },
+        {
+          "letter": "C",
+          "text": "elle peut être utilisée pour diminuer l’exposition du coeur"
+        },
+        {
+          "letter": "D",
+          "text": "elle peut être utilisée pour diminuer l’exposition en radiologie interventionnelle"
+        },
+        {
+          "letter": "E",
+          "text": "elle fait intervenir uniquement une modulation des mAs"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "pageStart": 12,
+      "reviewNotes": []
+    },
+    {
+      "number": 32,
+      "text": "Un scanner abdominal est effectué chez un enfant de 2 ans. Le CTDIvol affiché à la console est de 1,5 mGy pour un fantôme « Body 32 ». Parmi les affirmations suivantes, lesquelles sont vraies ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "C’est une dose conforme aux bonnes pratiques à cet âge"
+        },
+        {
+          "letter": "B",
+          "text": "La dose moyenne absorbée réelle est en réalité environ 2 fois plus élevée"
+        },
+        {
+          "letter": "C",
+          "text": "La dose moyenne absorbée réelle est en réalité environ 2 fois plus faible"
+        },
+        {
+          "letter": "D",
+          "text": "Il existe des Niveau de Référence Diagnostique réglementaires en scanographie pédiatrique"
+        },
+        {
+          "letter": "E",
+          "text": "Il existe une limite de dose réglementaire en pédiatrie"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "pageStart": 12,
+      "reviewNotes": []
+    },
+    {
+      "number": 33,
+      "text": "Parmi ces choix de valeurs de Tension, lesquels vous paraissent adaptés ? Cochez les réponses exactes",
+      "options": [
+        {
+          "letter": "A",
+          "text": "scanographie du thorax à 2 an : 90 kV"
+        },
+        {
+          "letter": "B",
+          "text": "scanographie de l’abdomen à 14 ans : 140 kV"
+        },
+        {
+          "letter": "C",
+          "text": "scanographie du rocher à 10 ans : 80 kV"
+        },
+        {
+          "letter": "D",
+          "text": "scanographie de l’abdomen à 10 ans : 100 kV"
+        },
+        {
+          "letter": "E",
+          "text": "scanographie des sinus à 15 ans : 140 kV"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "A",
+        "D"
+      ],
+      "pageStart": 13,
+      "reviewNotes": []
+    },
+    {
+      "number": 34,
+      "text": "Parmi les propositions suivantes concernant les paramètres d’acquisition en scanner pédiatrique, lesquelles sont vraies ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "le réglage de la tension modifie peu la dose moyenne absorbée"
+        },
+        {
+          "letter": "B",
+          "text": "une augmentation isolée du pitch réduit la dose moyenne absorbée"
+        },
+        {
+          "letter": "C",
+          "text": "l’adaptation du champ de vue (FOV) d’acquisition au diamètre d’un enfant ne modifie pas la dose moyenne absorbée"
+        },
+        {
+          "letter": "D",
+          "text": "le réglage du pitch a un effet sur la résolution spatiale dans l’axe z"
+        },
+        {
+          "letter": "E",
+          "text": "le réglage du temps de rotation du tube a un effet direct et proportionnel sur la dose moyenne absorbée"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "B",
+        "D",
+        "E"
+      ],
+      "pageStart": 13,
+      "reviewNotes": []
+    },
+    {
+      "number": 35,
+      "text": "Les affirmations suivantes concernent la préparation des enfants avant un scanner. Lesquelles sont vraies ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "le sirop de saccharose a un effet antalgique chez le nourrisson"
+        },
+        {
+          "letter": "B",
+          "text": "le gaz MEOPA (O2-N2O) a un effet sédatif rapide"
+        },
+        {
+          "letter": "C",
+          "text": "le gaz MEOPA (O2-N2O) a un effet antalgique utile pour la pose d’une voie veineuse et peut être utilisé à partir de l’âge de 4 ans"
+        },
+        {
+          "letter": "D",
+          "text": "l’emploi de sédatifs chez le nourrisson est presque toujours indispensable"
+        },
+        {
+          "letter": "E",
+          "text": "le jeûne est inutile"
+        }
+      ],
+      "confidence": 0.95,
+      "needsReview": true,
+      "correctAnswers": [
+        "A",
+        "C",
+        "E"
+      ],
+      "pageStart": 13,
+      "reviewNotes": [
+        "Option F from the source document was omitted to respect the schema constraint of max 5 options per question."
+      ]
+    },
+    {
+      "number": 36,
+      "text": "Parmi les affirmations suivantes concernant la mise en place d’une voie d’abord veineuse chez un enfant de 1 ans pour réaliser un scanner abdominal, laquelle est vraie ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "à cet âge, l’emploi de patch d’Emla est inutile"
+        },
+        {
+          "letter": "B",
+          "text": "le site de ponction préféré est le pli du coude"
+        },
+        {
+          "letter": "C",
+          "text": "la voie veineuse est placée sur table, entre les acquisitions sans et avec injection"
+        },
+        {
+          "letter": "D",
+          "text": "l’injecteur automatique est contre-indiqué"
+        },
+        {
+          "letter": "E",
+          "text": "les réactions d’hypersensibilité aux PDC iodés sont exceptionnelles à cet âge"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "E"
+      ],
+      "pageStart": 14,
+      "reviewNotes": []
+    },
+    {
+      "number": 37,
+      "text": "Quel est le nom de l’organisme international de radioprotection créé par la société internationale de radiologie en 1928 pour faire face à l’épidémie de leucémies chez les radiologues qui utilisaient la radioscopie sans faire attention à leur propre protection ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ICRU"
+        },
+        {
+          "letter": "B",
+          "text": "CIPR"
+        },
+        {
+          "letter": "C",
+          "text": "UNSCEAR"
+        },
+        {
+          "letter": "D",
+          "text": "AIEA"
+        },
+        {
+          "letter": "E",
+          "text": "ALARA"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "B"
+      ],
+      "pageStart": 14,
+      "reviewNotes": []
+    },
+    {
+      "number": 38,
+      "text": "Parmi les principes suivants de la radioprotection, quel est celui qui n’est pas applicable aux patients ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Justification"
+        },
+        {
+          "letter": "B",
+          "text": "Optimisation"
+        },
+        {
+          "letter": "C",
+          "text": "Limitation des doses"
+        },
+        {
+          "letter": "D",
+          "text": "Responsabilité"
+        },
+        {
+          "letter": "E",
+          "text": "Substitution"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "C"
+      ],
+      "pageStart": 14,
+      "reviewNotes": []
+    },
+    {
+      "number": 39,
+      "text": "Parmi les responsabilités suivantes, quelle est celle qui n’incombe pas directement au radiologue, dans le cadre établi par le code de la santé publique ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rappel de la justification des actes dans les comptes rendus"
+        },
+        {
+          "letter": "B",
+          "text": "Rappel des paramètres de réalisation des actes dans les comptes rendus (paramètres présents dans l’identificateur DICOM)"
+        },
+        {
+          "letter": "C",
+          "text": "Mesure annuelle de niveaux de référence diagnostique pour un appareillage"
+        },
+        {
+          "letter": "D",
+          "text": "Demande d’autorisation ou de déclaration des appareils émetteurs de rayons X"
+        },
+        {
+          "letter": "E",
+          "text": "Catégorisation des travailleurs A ou B"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "E"
+      ],
+      "pageStart": 15,
+      "reviewNotes": []
+    },
+    {
+      "number": 40,
+      "text": "Parmi les propositions suivantes concernant le guide du bon usage (GBU) des examens d'imagerie, cochez celles qui sont exactes",
+      "options": [
+        {
+          "letter": "A",
+          "text": "fournit des informations sur le niveau de preuve apporté par différents examens pour une indication"
+        },
+        {
+          "letter": "B",
+          "text": "doit être obligatoirement appliqué par les praticiens pour tous leurs patients"
+        },
+        {
+          "letter": "C",
+          "text": "fournit la valeur de dose exacte délivrée par examen"
+        },
+        {
+          "letter": "D",
+          "text": "ne tient pas compte des techniques qui n'exposent pas aux rayonnements ionisants"
+        },
+        {
+          "letter": "E",
+          "text": "fournit une indication sur le niveau d’exposition lié aux différentes techniques d’imagerie"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "A",
+        "E"
+      ],
+      "pageStart": 15,
+      "reviewNotes": []
+    },
+    {
+      "number": 41,
+      "text": "Parmi les propositions suivantes concernant le guide des procédures radiologiques, cochez celle qui est exacte",
+      "options": [
+        {
+          "letter": "A",
+          "text": "répond au principe d’optimisation"
+        },
+        {
+          "letter": "B",
+          "text": "répond au principe de justification"
+        },
+        {
+          "letter": "C",
+          "text": "doit être impérativement respecté quel que soit le poids du patient"
+        },
+        {
+          "letter": "D",
+          "text": "contient les valeurs de dose à ne pas dépasser"
+        },
+        {
+          "letter": "E",
+          "text": "est opposable en cas de contrôle"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "A"
+      ],
+      "pageStart": 15,
+      "reviewNotes": []
+    },
+    {
+      "number": 42,
+      "text": "Parmi les propositions suivantes concernant le niveau de référence diagnostique (NRD) d’un examen de radiodiagnostic donné, cochez les réponses exactes",
+      "options": [
+        {
+          "letter": "A",
+          "text": "il correspond à la moyenne de la dose peau pour cet examen au plan national"
+        },
+        {
+          "letter": "B",
+          "text": "c'est un outil d’optimisation"
+        },
+        {
+          "letter": "C",
+          "text": "c'est une valeur à ne pas dépasser quel que soit le patient"
+        },
+        {
+          "letter": "D",
+          "text": "c'est une valeur affichée à la console de l’appareil"
+        },
+        {
+          "letter": "E",
+          "text": "il renseigne sur l’ordre de grandeur de la dose habituellement délivrée au patient pour un type d’examen donné"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "B",
+        "E"
+      ],
+      "pageStart": 16,
+      "reviewNotes": []
+    },
+    {
+      "number": 43,
+      "text": "Parmi les propositions suivantes concernant les niveaux de références diagnostiques (NRD), cochez les réponses exactes",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ils permettent aux autorités de contrôler la qualité des pratiques médicales"
+        },
+        {
+          "letter": "B",
+          "text": "ils permettent d’évaluer, du point de vue des doses délivrées aux patients, la qualité des équipements et des procédures"
+        },
+        {
+          "letter": "C",
+          "text": "ils doivent être respectés quelle que soit la situation clinique du patient"
+        },
+        {
+          "letter": "D",
+          "text": "ils permettent d'engager des actions correctives en cas de dépassement régulier"
+        },
+        {
+          "letter": "E",
+          "text": "ils peuvent conduire à la suspension de l’activité d’un service en cas de dépassement"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "B",
+        "D"
+      ],
+      "pageStart": 16,
+      "reviewNotes": []
+    },
+    {
+      "number": 44,
+      "text": "Parmi les propositions suivantes caractérisant les effets déterministes des rayonnements ionisants, cochez les réponses exactes",
+      "options": [
+        {
+          "letter": "A",
+          "text": "leur fréquence augmente avec la dose"
+        },
+        {
+          "letter": "B",
+          "text": "ce sont des effets dits « obligatoires »"
+        },
+        {
+          "letter": "C",
+          "text": "leurs effets apparaissent au-delà d’un seuil"
+        },
+        {
+          "letter": "D",
+          "text": "plus la cellule est différenciée, plus elle est radiosensible"
+        },
+        {
+          "letter": "E",
+          "text": "les cancers radio-induits sont de nature déterministe"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "B",
+        "C"
+      ],
+      "pageStart": 16,
+      "reviewNotes": []
+    },
+    {
+      "number": 45,
+      "text": "Quelles propositions sont vraies et caractérisent l’irradiation et l’exposition aiguë ? Cochez les réponses exactes",
+      "options": [
+        {
+          "letter": "A",
+          "text": "la dose létale 50 correspond à une dose de 5 à 10 Gy"
+        },
+        {
+          "letter": "B",
+          "text": "au-delà de 10 Gy, c’est le syndrome neurologique qui prédomine"
+        },
+        {
+          "letter": "C",
+          "text": "pour une dose supérieure à 1 Gy, le syndrome hématopoïétique prédomine avec disparition des lymphocytes"
+        },
+        {
+          "letter": "D",
+          "text": "concernant l’exposition aiguë de la peau, on note un érythème pour une dose comprise entre 3 et 5 Gy"
+        },
+        {
+          "letter": "E",
+          "text": "on n’observe pas de télangiectasie dans la radiodermite chronique"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "pageStart": 17,
+      "reviewNotes": []
+    },
+    {
+      "number": 46,
+      "text": "Parmi les propositions suivantes, laquelle est vraie concernant une exposition in utero à un mois de grossesse par un scanner du pelvis ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "la dose reçue par l’enfant à naître est calculée à partir du seul PDL (produit dose longueur)"
+        },
+        {
+          "letter": "B",
+          "text": "on ne peut pas garantir aux parents que l’enfant sera indemne de malformation"
+        },
+        {
+          "letter": "C",
+          "text": "le risque de cancer entre 1 et 15 ans pour l’enfant à naître est doublé"
+        },
+        {
+          "letter": "D",
+          "text": "le risque spontané d’affection maligne chez l’enfant de 1 à 15 ans est de 3%"
+        },
+        {
+          "letter": "E",
+          "text": "toutes les propositions précédentes sont fausses"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "B"
+      ],
+      "pageStart": 17,
+      "reviewNotes": []
+    },
+    {
+      "number": 47,
+      "text": "Parmi les propositions suivantes concernant l'exposition aux rayonnements ionisants pendant la grossesse, une seule est FAUSSE. Laquelle ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "le problème d’une grossesse irradiée ne se pose que si le fœtus est dans le champ de rayonnement"
+        },
+        {
+          "letter": "B",
+          "text": "le tablier plombé augmente le diffusé interne"
+        },
+        {
+          "letter": "C",
+          "text": "un scanner thoracique correctement réalisé délivre au moins 1 mGy au fœtus"
+        },
+        {
+          "letter": "D",
+          "text": "la collimation permet de réduire la dose au fœtus"
+        },
+        {
+          "letter": "E",
+          "text": "en médecine nucléaire, la dose délivrée au fœtus varie selon l’âge de la grossesse"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "C"
+      ],
+      "pageStart": 17,
+      "reviewNotes": []
+    },
+    {
+      "number": 48,
+      "text": "En radiologie interventionnelle, si la distance entre le faisceau de rayons X et l'opérateur passe de 50 centimètres à 1,50 mètre, le débit de dose au niveau de l'opérateur est divisé par (cochez la réponse exacte)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2"
+        },
+        {
+          "letter": "B",
+          "text": "3"
+        },
+        {
+          "letter": "C",
+          "text": "4"
+        },
+        {
+          "letter": "D",
+          "text": "6"
+        },
+        {
+          "letter": "E",
+          "text": "9"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "E"
+      ],
+      "pageStart": 18,
+      "reviewNotes": []
+    },
+    {
+      "number": 49,
+      "text": "Parmi les propositions suivantes, lesquelles permettent de réduire la dose au patient pendant un geste de radiologie interventionnelle ? Cochez les réponses exactes",
+      "options": [
+        {
+          "letter": "A",
+          "text": "travailler en plus grand champ de détecteur collimaté"
+        },
+        {
+          "letter": "B",
+          "text": "utiliser des filtrations additionnelles"
+        },
+        {
+          "letter": "C",
+          "text": "augmenter la distance entre le patient et le détecteur"
+        },
+        {
+          "letter": "D",
+          "text": "travailler en scopie continue plutôt qu'en scopie pulsée"
+        },
+        {
+          "letter": "E",
+          "text": "travailler en tension (kV) plus élevée"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "A",
+        "B",
+        "E"
+      ],
+      "pageStart": 18,
+      "reviewNotes": []
+    },
+    {
+      "number": 50,
+      "text": "En radiologie interventionnelle, en tenant compte de la nouvelle norme réglementaire d'exposition, un opérateur qui recevrait un équivalent de dose moyen au cristallin de 1 mSv par procédure rapprochée serait autorisé à réaliser au maximum (cochez la réponse exacte)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 procédures rapprochées"
+        },
+        {
+          "letter": "B",
+          "text": "20 procédures rapprochées"
+        },
+        {
+          "letter": "C",
+          "text": "30 procédures rapprochées"
+        },
+        {
+          "letter": "D",
+          "text": "100 procédures rapprochées"
+        },
+        {
+          "letter": "E",
+          "text": "150 procédures rapprochées"
+        }
+      ],
+      "confidence": 0.99,
+      "needsReview": false,
+      "correctAnswers": [
+        "B"
+      ],
+      "pageStart": 18,
+      "reviewNotes": []
+    }
+  ],
+  "examTitle": "Corrigé CERF 2018 RP",
+  "specialty": "Radioprotection",
+  "warnings": [],
+  "year": 2018
+}
