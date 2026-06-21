@@ -6,7 +6,12 @@ import {
 import { concoursScoreStore } from "../store/concoursScoreStore";
 import { pollStore } from "../store/pollStore";
 import { questionBankStore } from "../store/questionBankStore";
-import type { ConcoursUserScore, Poll, PollOption, QuestionBank } from "../types";
+import type {
+  ConcoursUserScore,
+  Poll,
+  PollOption,
+  QuestionBank,
+} from "../types";
 import { buildVoteSelect } from "../utils/buttons";
 import { buildQcmEmbed } from "../utils/embeds";
 import { formatScore } from "../utils/scoring";
@@ -67,9 +72,7 @@ export const concoursCommand = {
     const choices = questionBankStore
       .list()
       .filter((bank) =>
-        `${bank.sourceFile} ${bank.id}`
-          .toLowerCase()
-          .includes(focused),
+        `${bank.sourceFile} ${bank.id}`.toLowerCase().includes(focused),
       )
       .slice(0, 25)
       .map((bank) => ({
@@ -146,7 +149,7 @@ export const concoursCommand = {
       const progress = questionBankStore.getProgress(interaction.channelId);
       const didReset = questionBankStore.reset(interaction.channelId);
       if (progress) {
-        concoursScoreStore.reset(interaction.channelId, progress.bankId);
+        await concoursScoreStore.reset(interaction.channelId, progress.bankId);
       }
       await interaction.reply({
         content: didReset

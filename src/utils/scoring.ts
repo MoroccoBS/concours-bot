@@ -20,7 +20,9 @@ export function calculateRelativeScore(
 }
 
 export function sameAnswers(left: string[], right: string[]): boolean {
-  return calculateRelativeScore(left, right) === 1 && left.length === right.length;
+  return (
+    calculateRelativeScore(left, right) === 1 && left.length === right.length
+  );
 }
 
 export function parseAnswerLetters(input: string): string[] {
@@ -33,5 +35,8 @@ export function parseAnswerLetters(input: string): string[] {
 }
 
 export function formatScore(score: number): string {
-  return Number.isInteger(score) ? String(score) : score.toFixed(2).replace(/0$/, "");
+  if (!Number.isFinite(score)) return "0";
+  return Number.isInteger(score)
+    ? String(score)
+    : score.toFixed(2).replace(/0$/, "");
 }

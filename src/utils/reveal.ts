@@ -54,13 +54,17 @@ export async function doReveal(
 
   // Update concours scores
   if (poll.bankId && poll.correctAnswers?.length) {
-    for (const [userId, letters] of poll.votes.entries()) {
-      concoursScoreStore.addResult(
-        channelId,
-        poll.bankId,
-        userId,
-        calculateRelativeScore(letters, poll.correctAnswers),
-      );
+    try {
+      for (const [userId, letters] of poll.votes.entries()) {
+        concoursScoreStore.addResult(
+          channelId,
+          poll.bankId,
+          userId,
+          calculateRelativeScore(letters, poll.correctAnswers),
+        );
+      }
+    } catch (error) {
+      console.error("Failed to update concours scores:", error);
     }
   }
 
