@@ -1,12 +1,13 @@
 import type { Client } from "discord.js";
+import { concoursScoreStore } from "../store/concoursScoreStore";
 import { pollStore } from "../store/pollStore";
-import { sessionStore } from "../store/sessionStore";
 import { buildRevealEmbed } from "./embeds";
+import { calculateRelativeScore } from "./scoring";
 
 /**
  * Reveals the active poll in `channelId`.
  * Edits the original message with results and disables buttons.
- * Updates session scores if a session is active.
+ * Updates concours scores if the poll came from a selected concours.
  *
  * Returns true if a poll was successfully revealed, false otherwise.
  */
@@ -51,24 +52,18 @@ export async function doReveal(
   const revealEmbed = buildRevealEmbed(poll, userNames);
   await message.edit({ embeds: [revealEmbed], components: [] });
 
-  // Update session scores
-  if (poll.sessionId && poll.correctAnswers?.length) {
-    const session = sessionStore.get(channelId);
-    if (session?.active) {
-      for (const [userId, letters] of poll.votes.entries()) {
-        if (sameAnswers(letters, poll.correctAnswers)) {
-          sessionStore.addScore(channelId, userId);
-        }
-      }
+  // Update concours scores
+  if (poll.bankId && poll.correctAnswers?.length) {
+    for (const [userId, letters] of poll.votes.entries()) {
+      concoursScoreStore.addResult(
+        channelId,
+        poll.bankId,
+        userId,
+        calculateRelativeScore(letters, poll.correctAnswers),
+      );
     }
   }
 
   pollStore.delete(channelId);
   return true;
-}
-
-function sameAnswers(left: string[], right: string[]): boolean {
-  if (left.length !== right.length) return false;
-  const expected = new Set(right);
-  return left.every((letter) => expected.has(letter));
 }

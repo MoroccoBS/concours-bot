@@ -3,13 +3,16 @@ import {
   type ChatInputCommandInteraction,
   SlashCommandBuilder,
 } from "discord.js";
+import { concoursScoreStore } from "../store/concoursScoreStore";
 import { pollStore } from "../store/pollStore";
 import { questionBankStore } from "../store/questionBankStore";
-import type { Poll, PollOption, QuestionBank } from "../types";
+import type { ConcoursUserScore, Poll, PollOption, QuestionBank } from "../types";
 import { buildVoteSelect } from "../utils/buttons";
 import { buildQcmEmbed } from "../utils/embeds";
+import { formatScore } from "../utils/scoring";
 
 const DEFAULT_DURATION = 60;
+const EMBED_DESCRIPTION_LIMIT = 4096;
 
 export const concoursCommand = {
   data: new SlashCommandBuilder()
@@ -50,6 +53,11 @@ export const concoursCommand = {
     )
     .addSubcommand((sub) =>
       sub
+        .setName("scores")
+        .setDescription("Affiche le classement du concours selectionne"),
+    )
+    .addSubcommand((sub) =>
+      sub
         .setName("reset")
         .setDescription("Oublie le concours choisi dans ce salon"),
     ),
@@ -59,13 +67,13 @@ export const concoursCommand = {
     const choices = questionBankStore
       .list()
       .filter((bank) =>
-        `${questionBankStore.label(bank)} ${bank.id}`
+        `${bank.sourceFile} ${bank.id}`
           .toLowerCase()
           .includes(focused),
       )
       .slice(0, 25)
       .map((bank) => ({
-        name: truncateChoice(questionBankStore.label(bank)),
+        name: truncateChoice(bank.sourceFile),
         value: bank.id,
       }));
 
@@ -107,10 +115,11 @@ export const concoursCommand = {
             color: 0x5865f2,
             title: "Concours selectionne",
             description: [
-              `**${questionBankStore.label(bank)}**`,
+              `**${bank.sourceFile}**`,
               `${bank.questions.length} questions disponibles.`,
               "",
               "Utilise `/concours next` pour poster la premiere question.",
+              "Utilise `/concours scores` pour afficher le classement.",
             ].join("\n"),
           },
         ],
@@ -128,11 +137,20 @@ export const concoursCommand = {
       return;
     }
 
+    if (sub === "scores") {
+      await replyWithScores(interaction);
+      return;
+    }
+
     if (sub === "reset") {
+      const progress = questionBankStore.getProgress(interaction.channelId);
       const didReset = questionBankStore.reset(interaction.channelId);
+      if (progress) {
+        concoursScoreStore.reset(interaction.channelId, progress.bankId);
+      }
       await interaction.reply({
         content: didReset
-          ? "✅ Progression du salon reinitialisee."
+          ? "✅ Progression et scores du concours reinitialises."
           : "ℹ️ Aucun concours n'etait selectionne dans ce salon.",
         flags: ["Ephemeral"],
       });
@@ -151,20 +169,24 @@ async function replyWithBankList(interaction: ChatInputCommandInteraction) {
     return;
   }
 
+  const descriptions = chunkLines(
+    banks.map(
+      (bank, index) =>
+        `**${index + 1}. ${bank.sourceFile}**\n` +
+        `ID: \`${bank.id}\` - ${bank.questions.length} questions`,
+    ),
+    EMBED_DESCRIPTION_LIMIT,
+  );
+
   await interaction.reply({
-    embeds: [
-      {
-        color: 0x5865f2,
-        title: "Concours importes",
-        description: banks
-          .map(
-            (bank, index) =>
-              `**${index + 1}. ${bank.sourceFile}**\n` +
-              `ID: \`${bank.id}\` - ${bank.questions.length} questions`,
-          )
-          .join("\n\n"),
-      },
-    ],
+    embeds: descriptions.map((description, index) => ({
+      color: 0x5865f2,
+      title:
+        descriptions.length > 1
+          ? `Concours importes (${index + 1}/${descriptions.length})`
+          : "Concours importes",
+      description,
+    })),
     flags: ["Ephemeral"],
   });
 }
@@ -249,7 +271,11 @@ async function postNextQuestion(interaction: ChatInputCommandInteraction) {
         {
           color: 0x57f287,
           title: "Concours termine",
-          description: formatStatus(bank, progress.covered),
+          description: [
+            formatStatus(bank, progress.covered),
+            "",
+            "Utilise `/concours scores` pour afficher le classement final.",
+          ].join("\n"),
         },
       ],
     });
@@ -278,6 +304,7 @@ async function postNextQuestion(interaction: ChatInputCommandInteraction) {
     endsAt,
     revealed: false,
     questionNumber: question.number,
+    bankId: bank.id,
   };
 
   const reply = await interaction.reply({
@@ -300,12 +327,56 @@ async function postNextQuestion(interaction: ChatInputCommandInteraction) {
   pollStore.setTimer(interaction.channelId, timer);
 }
 
+async function replyWithScores(interaction: ChatInputCommandInteraction) {
+  const progress = questionBankStore.getProgress(interaction.channelId);
+  if (!progress) {
+    await interaction.reply({
+      content:
+        "ℹ️ Aucun concours selectionne dans ce salon. Utilise `/concours select`.",
+      flags: ["Ephemeral"],
+    });
+    return;
+  }
+
+  const bank = questionBankStore.get(progress.bankId);
+  if (!bank) {
+    await interaction.reply({
+      content:
+        "⚠️ La progression existe, mais la banque JSON n'est plus disponible.",
+      flags: ["Ephemeral"],
+    });
+    return;
+  }
+
+  await interaction.deferReply();
+
+  const scores = concoursScoreStore.list(interaction.channelId, bank.id);
+  const userNames = await resolveScoreNames(scores, interaction);
+  const covered = Math.min(progress.covered, bank.questions.length);
+
+  await interaction.editReply({
+    embeds: [
+      {
+        color: 0xf2994a,
+        title:
+          covered >= bank.questions.length
+            ? "Classement final"
+            : "Classement en cours",
+        description: formatScoreboard(scores, userNames, covered),
+        footer: {
+          text: `${covered}/${bank.questions.length} questions couvertes - ${bank.sourceFile}`,
+        },
+      },
+    ],
+  });
+}
+
 function formatStatus(bank: QuestionBank, covered: number): string {
   const total = bank.questions.length;
   const remaining = Math.max(total - covered, 0);
 
   return [
-    `**${questionBankStore.label(bank)}**`,
+    `**${bank.sourceFile}**`,
     `Questions couvertes: **${Math.min(covered, total)}/${total}**`,
     `Restantes: **${remaining}**`,
     "",
@@ -319,6 +390,38 @@ function truncateChoice(text: string): string {
   return text.length > 100 ? `${text.slice(0, 97)}...` : text;
 }
 
+async function resolveScoreNames(
+  scores: ConcoursUserScore[],
+  interaction: ChatInputCommandInteraction,
+): Promise<Map<string, string>> {
+  const names = new Map<string, string>();
+  for (const score of scores) {
+    const member = await interaction.guild?.members
+      .fetch(score.userId)
+      .catch(() => null);
+    names.set(score.userId, member?.displayName ?? `<@${score.userId}>`);
+  }
+  return names;
+}
+
+function formatScoreboard(
+  scores: ConcoursUserScore[],
+  userNames: Map<string, string>,
+  covered: number,
+): string {
+  if (scores.length === 0) return "*Aucun vote corrige pour ce concours.*";
+
+  const medals = ["🥇", "🥈", "🥉"];
+  return scores
+    .map((score, index) => {
+      const rank = medals[index] ?? `**${index + 1}.**`;
+      const name = userNames.get(score.userId) ?? `<@${score.userId}>`;
+      const pct = covered > 0 ? Math.round((score.points / covered) * 100) : 0;
+      return `${rank} ${name} - **${formatScore(score.points)}/${covered}** (${pct}%) - ${score.answered} reponse${score.answered !== 1 ? "s" : ""}`;
+    })
+    .join("\n");
+}
+
 function formatProgressHistory(
   progresses: ReturnType<typeof questionBankStore.listProgress>,
   selectedBankId?: string,
@@ -329,9 +432,29 @@ function formatProgressHistory(
       const bank = questionBankStore.get(progress.bankId);
       if (!bank) return undefined;
       const total = bank.questions.length;
-      return `- ${questionBankStore.label(bank)}: ${Math.min(progress.covered, total)}/${total}`;
+      return `- ${bank.sourceFile}: ${Math.min(progress.covered, total)}/${total}`;
     })
     .filter(Boolean);
 
   return rows.length > 0 ? ["Autres concours suivis:", ...rows].join("\n") : "";
+}
+
+function chunkLines(lines: string[], maxLength: number): string[] {
+  const chunks: string[] = [];
+  let current = "";
+
+  for (const line of lines) {
+    const next = current ? `${current}\n\n${line}` : line;
+    if (next.length <= maxLength) {
+      current = next;
+      continue;
+    }
+
+    if (current) chunks.push(current);
+    current =
+      line.length > maxLength ? `${line.slice(0, maxLength - 3)}...` : line;
+  }
+
+  if (current) chunks.push(current);
+  return chunks;
 }

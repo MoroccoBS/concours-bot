@@ -14,19 +14,8 @@ export interface Poll {
   creatorId: string;
   endsAt: number; // Unix ms
   revealed: boolean;
-  questionNumber?: number; // set when a session is active
-  sessionId?: string;
-}
-
-export interface Session {
-  id: string;
-  channelId: string;
-  creatorId: string;
-  totalQuestions: number;
-  currentQuestion: number; // increments each /qcm
-  scores: Map<string, number>; // userId → correct count
-  startedAt: number;
-  active: boolean;
+  questionNumber?: number;
+  bankId?: string;
 }
 
 export interface QuestionBankOption {
@@ -63,4 +52,10 @@ export interface BankProgress {
   nextIndex: number;
   covered: number;
   updatedAt: number;
+}
+
+export interface ConcoursUserScore {
+  userId: string;
+  points: number;
+  answered: number;
 }

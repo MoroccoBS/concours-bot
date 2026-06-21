@@ -1,0 +1,1449 @@
+{
+  "sourceFile": "CNC Laayoune - Commun 2025.pdf",
+  "language": "fr",
+  "questions": [
+    {
+      "number": 1,
+      "text": "Loi-cadre 06.22 est relative à :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La création de nouveaux hôpitaux"
+        },
+        {
+          "letter": "B",
+          "text": "La création de l'agence nationale du sang et ses dérivés"
+        },
+        {
+          "letter": "C",
+          "text": "La création des groupements territoriaux de la santé"
+        },
+        {
+          "letter": "D",
+          "text": "La création des centres de recherche"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 2,
+      "text": "Loi-cadre n° 06-22 relative au système national de santé a pour but de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Faciliter l'accès de la population aux prestations de santé"
+        },
+        {
+          "letter": "B",
+          "text": "Garantir la souveraineté en matière des médicaments ainsi que la disponibilité"
+        },
+        {
+          "letter": "C",
+          "text": "Réorganiser le parcours de soins et digitaliser le système de santé"
+        },
+        {
+          "letter": "D",
+          "text": "Valoriser et mettre à niveau les ressources humaines travaillant dans le domaine de la santé"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 3,
+      "text": "Le système national de santé est basé sur les principes suivants :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Développement et perfectionnement des moyens"
+        },
+        {
+          "letter": "B",
+          "text": "La bonne gouvernance"
+        },
+        {
+          "letter": "C",
+          "text": "L'égalité d'accès aux soins et aux prestations de santé"
+        },
+        {
+          "letter": "D",
+          "text": "La mutualisation des moyens"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 4,
+      "text": "Les droits et devoirs de la population dans le domaine de la santé sont :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La lutte contre toute forme de discrimination ou de stigmatisation qu'une personne peut subir en raison de sa maladie"
+        },
+        {
+          "letter": "B",
+          "text": "Au respect du droit du patient à l'information relative à sa maladie"
+        },
+        {
+          "letter": "C",
+          "text": "Droit au logement"
+        },
+        {
+          "letter": "D",
+          "text": "La garantie de la protection de l'intégrité physique et morale des personnes"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 5,
+      "text": "L'offre de soins comporte :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'ensemble des infrastructures sanitaires relevant des secteurs publics"
+        },
+        {
+          "letter": "B",
+          "text": "L'ensemble des infrastructures sanitaires Militaire"
+        },
+        {
+          "letter": "C",
+          "text": "L'ensemble des infrastructures sanitaires relevant du secteur privé"
+        },
+        {
+          "letter": "D",
+          "text": "Toutes autres installations de santé, fixes ou mobiles"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 6,
+      "text": "Les établissements de santé relevant du secteur public ou privé doivent obéir aux principes, normes et règles suivants :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les règles de déontologie applicables à chaque profession"
+        },
+        {
+          "letter": "B",
+          "text": "Les règles de bonne pratique clinique"
+        },
+        {
+          "letter": "C",
+          "text": "Les normes et standards de qualité"
+        },
+        {
+          "letter": "D",
+          "text": "L'harmonie et l'équité dans la répartition des ressources"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 7,
+      "text": "La loi n° 07-22 est relative à :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La réorganisation de l'offre de soin"
+        },
+        {
+          "letter": "B",
+          "text": "La création de l'agence nationale du sang et ses dérivés"
+        },
+        {
+          "letter": "C",
+          "text": "La création des groupements territoriaux de la santé"
+        },
+        {
+          "letter": "D",
+          "text": "La création de la Haute Autorité de la santé"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 8,
+      "text": "Quelles sont les missions Des GST ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mission financière"
+        },
+        {
+          "letter": "B",
+          "text": "Mission de formation"
+        },
+        {
+          "letter": "C",
+          "text": "Mission administrative"
+        },
+        {
+          "letter": "D",
+          "text": "Mission de soin"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 9,
+      "text": "En 2023 quel était le Taux de Mortalité Maternelle pour 100 000 naissances vivantes au Maroc ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "70.1"
+        },
+        {
+          "letter": "B",
+          "text": "76.6"
+        },
+        {
+          "letter": "C",
+          "text": "72.2"
+        },
+        {
+          "letter": "D",
+          "text": "80.6"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 10,
+      "text": "En 2023 quelle est l'espérance de vie à la naissance pour l'ensemble de la population en année ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "77,0"
+        },
+        {
+          "letter": "B",
+          "text": "75,3"
+        },
+        {
+          "letter": "C",
+          "text": "78,8"
+        },
+        {
+          "letter": "D",
+          "text": "75,9"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 11,
+      "text": "En 2023, au Maroc quel était le % du Budget Total du Ministère de la Santé et de la Protection Sociale du Budget Total de l'Etat ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8,46"
+        },
+        {
+          "letter": "B",
+          "text": "7,46"
+        },
+        {
+          "letter": "C",
+          "text": "6,42"
+        },
+        {
+          "letter": "D",
+          "text": "5,46"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 12,
+      "text": "En 2023, quelle est la moyenne du Taux d'occupation moyen (TOM) en % au Maroc ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "40.9"
+        },
+        {
+          "letter": "B",
+          "text": "52.9"
+        },
+        {
+          "letter": "C",
+          "text": "54,9"
+        },
+        {
+          "letter": "D",
+          "text": "57.9"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 13,
+      "text": "Quelle est la principale cause de décès au Maroc ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les maladies des appareils circulatoires"
+        },
+        {
+          "letter": "B",
+          "text": "Les maladies respiratoires"
+        },
+        {
+          "letter": "C",
+          "text": "Les tumeurs"
+        },
+        {
+          "letter": "D",
+          "text": "Les maladies du système digestif"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 14,
+      "text": "En 2023, quel est le nombre des établissements hospitaliers au Maroc ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "180"
+        },
+        {
+          "letter": "B",
+          "text": "190"
+        },
+        {
+          "letter": "C",
+          "text": "170"
+        },
+        {
+          "letter": "D",
+          "text": "160"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 15,
+      "text": "En 2023, quelle est la capacité litière totale au Maroc ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "27 539 lits"
+        },
+        {
+          "letter": "B",
+          "text": "26 539 lits"
+        },
+        {
+          "letter": "C",
+          "text": "25 539 lits"
+        },
+        {
+          "letter": "D",
+          "text": "24 539 lits"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 16,
+      "text": "Quel est le nombre de la population légale du Royaume du Maroc selon les résultats du Recensement Général de la Population et de l'Habitat de 2024 ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "38 828 330"
+        },
+        {
+          "letter": "B",
+          "text": "37 828 330"
+        },
+        {
+          "letter": "C",
+          "text": "36 828 330"
+        },
+        {
+          "letter": "D",
+          "text": "35 828 330"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 17,
+      "text": "Quel est le nombre des objectifs du Développement durable (ODD) ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "16 Objectifs"
+        },
+        {
+          "letter": "B",
+          "text": "17 Objectifs"
+        },
+        {
+          "letter": "C",
+          "text": "18 Objectifs"
+        },
+        {
+          "letter": "D",
+          "text": "19 Objectifs"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 18,
+      "text": "Lequel parmi ces objectifs de développement durable celui qui vise à assurer la santé et le bien-être de tous ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ODD 1"
+        },
+        {
+          "letter": "B",
+          "text": "ODD 2"
+        },
+        {
+          "letter": "C",
+          "text": "ODD 3"
+        },
+        {
+          "letter": "D",
+          "text": "ODD 5"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 19,
+      "text": "Au Maroc, le plan de santé 2025 est basé sur :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 valeurs"
+        },
+        {
+          "letter": "B",
+          "text": "6 valeurs"
+        },
+        {
+          "letter": "C",
+          "text": "7 valeurs"
+        },
+        {
+          "letter": "D",
+          "text": "4 valeurs"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 20,
+      "text": "Au Maroc, le plan de santé 2025 est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Décliné en 3 grands piliers de 25 axes et 125 actions"
+        },
+        {
+          "letter": "B",
+          "text": "Décliné en 3 grands piliers de 24 axes et 125 actions"
+        },
+        {
+          "letter": "C",
+          "text": "Décliné en 2 grands piliers de 25 axes et 125 actions"
+        },
+        {
+          "letter": "D",
+          "text": "Décliné en 2 grands piliers de 24 axes et 125 actions"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 21,
+      "text": "Au Maroc, dans le plan de santé 2025 le 2ème pilier a pour objectif de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Organisation et développement de l'offre de soins en vue d'améliorer l'accès aux services de santé"
+        },
+        {
+          "letter": "B",
+          "text": "Renforcement des programmes nationaux de santé et de lutte contre les maladies"
+        },
+        {
+          "letter": "C",
+          "text": "Amélioration de la gouvernance et optimisation de l'allocation et de l'utilisation des ressources"
+        },
+        {
+          "letter": "D",
+          "text": "Développer le réseau hospitalier public"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 22,
+      "text": "Quelles sont les qualités d'un système de santé ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Efficace"
+        },
+        {
+          "letter": "B",
+          "text": "Equitable"
+        },
+        {
+          "letter": "C",
+          "text": "Planifiable et évaluable"
+        },
+        {
+          "letter": "D",
+          "text": "Global"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 23,
+      "text": "L'offre de soins en mode fixe dans le secteur public est composée de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le réseau des établissements médico-sociaux publics (REMSP)"
+        },
+        {
+          "letter": "B",
+          "text": "Le réseau des établissements de soins de santé primaires"
+        },
+        {
+          "letter": "C",
+          "text": "Le réseau intégré des soins d'urgence médicale (RISUM)"
+        },
+        {
+          "letter": "D",
+          "text": "Le réseau hospitalier (RH)"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 24,
+      "text": "Des prestations de soins et services en mode mobile pour répondre aux besoins de la population sont faites au moyen de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Centre de santé rural premier niveau"
+        },
+        {
+          "letter": "B",
+          "text": "Visites à domicile (VAD)"
+        },
+        {
+          "letter": "C",
+          "text": "Caravanes médicales spécialisées (CMS)"
+        },
+        {
+          "letter": "D",
+          "text": "Hôpital de proximité"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 25,
+      "text": "Le réseau des établissements de soins de santé primaires est constitué des établissements suivants :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les hôpitaux de proximité"
+        },
+        {
+          "letter": "B",
+          "text": "Les dispensaires ruraux"
+        },
+        {
+          "letter": "C",
+          "text": "Les centres de santé ruraux et urbains de premier niveau"
+        },
+        {
+          "letter": "D",
+          "text": "Les centres de santé ruraux et urbains de deuxième niveau"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 26,
+      "text": "Le centre de santé rural de deuxième niveau offre les prestations suivantes :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les consultations de médecine générale"
+        },
+        {
+          "letter": "B",
+          "text": "Le suivi de la santé des jeunes et des adolescents y compris la santé scolaire"
+        },
+        {
+          "letter": "C",
+          "text": "Les analyses biologiques de base requises pour le suivi de la santé des femmes enceintes et les maladies chroniques"
+        },
+        {
+          "letter": "D",
+          "text": "Les examens d'échographie obstétricale"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 27,
+      "text": "Les établissements de soins de santé primaires, ruraux et urbains, sont appuyés par des structures spécialisées qui sont :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les centres régionaux d'oncologie"
+        },
+        {
+          "letter": "B",
+          "text": "Les centres de référence pour la santé reproductive (CRSR)"
+        },
+        {
+          "letter": "C",
+          "text": "Les centres de diagnostic et de traitement des maladies respiratoires (CDTMR)"
+        },
+        {
+          "letter": "D",
+          "text": "Les laboratoires de santé publique (laboratoires de diagnostic épidémiologique et d'hygiène du milieu)"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 28,
+      "text": "Un centre de santé urbain de deuxième niveau est destiné pour une population minimale de desserte de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7 000 habitants"
+        },
+        {
+          "letter": "B",
+          "text": "25 000 habitants"
+        },
+        {
+          "letter": "C",
+          "text": "50 000 habitants"
+        },
+        {
+          "letter": "D",
+          "text": "60 000 habitants"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 29,
+      "text": "Parmi les objectifs cités, lesquels ne font pas partie des objectifs de l'ODD3 ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Maladies transmissibles"
+        },
+        {
+          "letter": "B",
+          "text": "Conduites addictives"
+        },
+        {
+          "letter": "C",
+          "text": "Accidents de la route"
+        },
+        {
+          "letter": "D",
+          "text": "Accès à l'eau potable"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 30,
+      "text": "Au Maroc, dans le plan de santé 2025 le pilier 1 comporte les axes suivants :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Renforcer la promotion de la santé des populations à besoins spécifiques"
+        },
+        {
+          "letter": "B",
+          "text": "Organiser l'offre de soins nationale"
+        },
+        {
+          "letter": "C",
+          "text": "Développer le réseau hospitalier public"
+        },
+        {
+          "letter": "D",
+          "text": "Améliorer l'accès au médicament et aux produits de santé"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 31,
+      "text": "La protection sociale, selon la loi relative à la protection sociale comprend :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La protection contre les risques de maladie"
+        },
+        {
+          "letter": "B",
+          "text": "La protection contre les risques liés au vieillissement"
+        },
+        {
+          "letter": "C",
+          "text": "La protection contre le risque de perte d'emploi"
+        },
+        {
+          "letter": "D",
+          "text": "La protection contre les risques de catastrophe naturelle"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 32,
+      "text": "La généralisation de la protection sociale repose sur les principes suivants :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le principe de participation"
+        },
+        {
+          "letter": "B",
+          "text": "Le principe de solidarité"
+        },
+        {
+          "letter": "C",
+          "text": "Le principe de non-discrimination"
+        },
+        {
+          "letter": "D",
+          "text": "Le principe d'anticipation"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 33,
+      "text": "La généralisation de la protection sociale repose sur deux mécanismes de financement :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un mécanisme basé sur la cotisation"
+        },
+        {
+          "letter": "B",
+          "text": "Un mécanisme basé sur la participation"
+        },
+        {
+          "letter": "C",
+          "text": "Un mécanisme basé sur la solidarité"
+        },
+        {
+          "letter": "D",
+          "text": "Un mécanisme basé sur l'exonération"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 34,
+      "text": "L'administration d'un centre hospitalier et de chaque hôpital est organisée en :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 pôles de gestion"
+        },
+        {
+          "letter": "B",
+          "text": "3 pôles de gestion"
+        },
+        {
+          "letter": "C",
+          "text": "4 pôles de gestion"
+        },
+        {
+          "letter": "D",
+          "text": "5 pôles de gestion"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 35,
+      "text": "Parmi les attributions citées, laquelle ne fait pas partie des attributions du pôle des soins infirmiers ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Coordonner l'activité professionnelle des infirmiers"
+        },
+        {
+          "letter": "B",
+          "text": "Valider les listes de garde et d'astreinte des infirmiers"
+        },
+        {
+          "letter": "C",
+          "text": "Élaborer le programme de formation continue des infirmiers"
+        },
+        {
+          "letter": "D",
+          "text": "La gestion financière du pôle"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 36,
+      "text": "Le comité d'établissement dans un hôpital est chargé de se prononcer sur :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le plan d'action annuel"
+        },
+        {
+          "letter": "B",
+          "text": "Le projet de budget de l'hôpital"
+        },
+        {
+          "letter": "C",
+          "text": "Les actions de coopération hospitalière intra-régionale et interrégionale"
+        },
+        {
+          "letter": "D",
+          "text": "Le rapport d'activités et l'analyse de la performance et de la qualité des prestations rendues"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 37,
+      "text": "Les instances de concertation et d'appui dans un hôpital sont :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pôle des affaires administratives"
+        },
+        {
+          "letter": "B",
+          "text": "Le comité d'établissement"
+        },
+        {
+          "letter": "C",
+          "text": "Le comité de suivi et d'évaluation"
+        },
+        {
+          "letter": "D",
+          "text": "Le conseil des médecins, des dentistes et des pharmaciens (CMDP)"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 38,
+      "text": "Le conseil des infirmiers et infirmières (CII) est composé de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Moitié des responsables du pôle des soins infirmiers"
+        },
+        {
+          "letter": "B",
+          "text": "Des infirmier(e)s chefs aux départements et des infirmier(e)s chefs aux services"
+        },
+        {
+          "letter": "C",
+          "text": "Moitié de représentants élus du personnel infirmier, des techniciens et des assistants médicaux"
+        },
+        {
+          "letter": "D",
+          "text": "Un président"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 39,
+      "text": "Attributions du Conseil des infirmiers et infirmières (CII) :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De contribuer à la formation continue"
+        },
+        {
+          "letter": "B",
+          "text": "De donner son avis sur les questions relatives à la prestation des soins infirmiers par l'hôpital"
+        },
+        {
+          "letter": "C",
+          "text": "De proposer un dispositif de surveillance des infections nosocomiales"
+        },
+        {
+          "letter": "D",
+          "text": "D'organiser des campagnes de sensibilisation et d'information au profit des usagers de l'hôpital"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 40,
+      "text": "Les membres du comité de lutte contre les infections nosocomiales (CLIN) sont :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le président du conseil des médecins, médecins dentistes et pharmaciens"
+        },
+        {
+          "letter": "B",
+          "text": "Un ingénieur biomédical"
+        },
+        {
+          "letter": "C",
+          "text": "Le directeur et les chefs de pôles"
+        },
+        {
+          "letter": "D",
+          "text": "Le responsable du laboratoire"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 41,
+      "text": "Les hôpitaux dotés d'une capacité litière entre 120 à 240 lits sont organisés en :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 départements cliniques et 3 services"
+        },
+        {
+          "letter": "B",
+          "text": "6 départements cliniques et 3 services"
+        },
+        {
+          "letter": "C",
+          "text": "6 départements cliniques et 4 services"
+        },
+        {
+          "letter": "D",
+          "text": "7 départements cliniques et 4 services"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 42,
+      "text": "Quelles sont les attributions des infirmiers chefs d'unités de soins et de services :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De veiller au respect des règles d'éthique, de déontologie et de l'application des règles professionnelles"
+        },
+        {
+          "letter": "B",
+          "text": "D'organiser et de superviser le travail des infirmiers"
+        },
+        {
+          "letter": "C",
+          "text": "Veiller à la qualité des soins infirmiers"
+        },
+        {
+          "letter": "D",
+          "text": "Assurer l'encadrement des stagiaires, des infirmiers et des techniciens de santé stagiaires"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 43,
+      "text": "Selon le RIH, quels sont les services qui sont rattachés directement au directeur ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Service d'accueil et d'admission"
+        },
+        {
+          "letter": "B",
+          "text": "Pharmacie hospitalière"
+        },
+        {
+          "letter": "C",
+          "text": "La morgue"
+        },
+        {
+          "letter": "D",
+          "text": "Service maintenance"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 44,
+      "text": "Dans un hôpital public, quels sont les motifs de sortie d'un patient hospitalisé ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sortie par mesure disciplinaire"
+        },
+        {
+          "letter": "B",
+          "text": "Sortie contre avis médical"
+        },
+        {
+          "letter": "C",
+          "text": "Sortie pour cause d'aggravation de l'état du patient"
+        },
+        {
+          "letter": "D",
+          "text": "Sortie volontaire du patient avec accord médical"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 45,
+      "text": "Le nombre des directions centrales au sein du ministère de la santé au Maroc est de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8"
+        },
+        {
+          "letter": "B",
+          "text": "9"
+        },
+        {
+          "letter": "C",
+          "text": "10"
+        },
+        {
+          "letter": "D",
+          "text": "11"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 46,
+      "text": "Chaque direction régionale du ministère de la santé et de la protection sociale est composée de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 services et 2 unités"
+        },
+        {
+          "letter": "B",
+          "text": "5 services et 2 unités"
+        },
+        {
+          "letter": "C",
+          "text": "6 services et 2 unités"
+        },
+        {
+          "letter": "D",
+          "text": "7 services et 2 unités"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 47,
+      "text": "L'organigramme de chaque délégation du ministère de la santé et de la protection sociale est composé des services suivants :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Service Administratif et Économique (SAE)"
+        },
+        {
+          "letter": "B",
+          "text": "Service Maintenance"
+        },
+        {
+          "letter": "C",
+          "text": "Service Ressources financières"
+        },
+        {
+          "letter": "D",
+          "text": "Service du Réseau des Établissements Sanitaires (SRES)"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 48,
+      "text": "Quel est le mode de couverture sanitaire pour les localités situées à plus de 10 km :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mode couverture fixe"
+        },
+        {
+          "letter": "B",
+          "text": "Visite à domicile"
+        },
+        {
+          "letter": "C",
+          "text": "Points de contact ou équipe mobile"
+        },
+        {
+          "letter": "D",
+          "text": "Équipe mobile"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 49,
+      "text": "Dans la classification des hôpitaux publics selon le mode de gestion, on trouve :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hôpital de proximité"
+        },
+        {
+          "letter": "B",
+          "text": "Centres hospitaliers SEGMA"
+        },
+        {
+          "letter": "C",
+          "text": "Établissements publics (CHU)"
+        },
+        {
+          "letter": "D",
+          "text": "Hôpitaux en régie"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 50,
+      "text": "Le réseau des établissements médico-sociaux est composé de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Centres de rééducation physique, d'orthoptie et d'orthophonie"
+        },
+        {
+          "letter": "B",
+          "text": "Centres d'addictologie"
+        },
+        {
+          "letter": "C",
+          "text": "Centres de soins palliatifs"
+        },
+        {
+          "letter": "D",
+          "text": "Centres dits espaces « santé-jeunes »"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 51,
+      "text": "Quels sont les axes stratégiques de la stratégie nationale de santé sexuelle et reproductive 2021-2030 ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Renforcement de l'engagement politique pour un environnement favorable à la SSR"
+        },
+        {
+          "letter": "B",
+          "text": "Les résultats axés sur la performance"
+        },
+        {
+          "letter": "C",
+          "text": "Amélioration de la gouvernance en SSR"
+        },
+        {
+          "letter": "D",
+          "text": "Promotion de la communication autour de la SSR"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 52,
+      "text": "Quelles sont les composantes du Projet d'établissement hospitalier (PEH) ?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Projet médical"
+        },
+        {
+          "letter": "B",
+          "text": "Projet managérial"
+        },
+        {
+          "letter": "C",
+          "text": "Projet soins infirmiers"
+        },
+        {
+          "letter": "D",
+          "text": "Projet d'aménagement"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 53,
+      "text": "La durée moyenne de séjour (DMS) est un indicateur de performance hospitalière qui renseigne sur :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La productivité"
+        },
+        {
+          "letter": "B",
+          "text": "La qualité des soins"
+        },
+        {
+          "letter": "C",
+          "text": "L'attractivité de l'hôpital"
+        },
+        {
+          "letter": "D",
+          "text": "La satisfaction des clients"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 54,
+      "text": "Les comptes nationaux de la santé :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ils sont axés autour des sources de financement"
+        },
+        {
+          "letter": "B",
+          "text": "Fournissent des estimations approximatives"
+        },
+        {
+          "letter": "C",
+          "text": "Approche globale examinant le montant total des dépenses de santé au niveau national"
+        },
+        {
+          "letter": "D",
+          "text": "Incluent toutes les parties jouant un rôle dans le financement"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 55,
+      "text": "Parmi les dimensions de la qualité en santé, on trouve :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'innocuité des soins"
+        },
+        {
+          "letter": "B",
+          "text": "La performance du système"
+        },
+        {
+          "letter": "C",
+          "text": "L'accessibilité aux soins"
+        },
+        {
+          "letter": "D",
+          "text": "La réactivité et l'empathie"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 56,
+      "text": "Les études épidémiologiques sont classées selon :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'élément de départ"
+        },
+        {
+          "letter": "B",
+          "text": "Le temps"
+        },
+        {
+          "letter": "C",
+          "text": "L'objectif de l'étude"
+        },
+        {
+          "letter": "D",
+          "text": "Les moyens d'investigation"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 57,
+      "text": "Une étude transversale est une étude épidémiologique :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prospective"
+        },
+        {
+          "letter": "B",
+          "text": "De prévalence"
+        },
+        {
+          "letter": "C",
+          "text": "S'intéresse aux conditions passées du groupe étudié"
+        },
+        {
+          "letter": "D",
+          "text": "Donne des informations généralisables"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 58,
+      "text": "Un rapport où le numérateur est compris dans le dénominateur pendant un temps donné est une :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Indice"
+        },
+        {
+          "letter": "B",
+          "text": "Ratio"
+        },
+        {
+          "letter": "C",
+          "text": "Taux"
+        },
+        {
+          "letter": "D",
+          "text": "Proportion"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 59,
+      "text": "La prévalence est le nombre de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nouveaux cas survenus dans une population à risque pendant un intervalle de temps"
+        },
+        {
+          "letter": "B",
+          "text": "Nombre de cas existant dans une population donnée à un moment donné"
+        },
+        {
+          "letter": "C",
+          "text": "Taux de nouveaux cas et anciens cas dans une population donnée"
+        },
+        {
+          "letter": "D",
+          "text": "Nombre de cas existant dans une population donnée"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 60,
+      "text": "Le taux de létalité est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le nombre de décès pour des sujets atteints d'une maladie spécifique"
+        },
+        {
+          "letter": "B",
+          "text": "La proportion de décès dans une population pendant une période définie"
+        },
+        {
+          "letter": "C",
+          "text": "La proportion de décès pour sujets atteints d'une maladie spécifique au cours d'une période donnée"
+        },
+        {
+          "letter": "D",
+          "text": "Le nombre de décès pour cause donnée pendant une période donnée"
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    }
+  ],
+  "examTitle": "ConCours 17 - Region Laayoune - Commun",
+  "specialty": "Infirmier Polyvalent",
+  "year": 2025
+}

@@ -7,10 +7,11 @@
     "dev": "bun --watch run src/index.ts",
     "deploy": "bun run src/deploy.ts",
     "extract:qcm": "bun run scripts/extract-qcm.ts",
+    "images:pdf": "cross-env PYTHONIOENCODING=utf-8 python scripts/images-to-pdf.py",
     "export:pdf": "cross-env PYTHONIOENCODING=utf-8 python scripts/export-pdf.py"
   },
   "dependencies": {
-    "@google/genai": "^2.8.0",
+    "@google/genai": "^2.9.0",
     "discord.js": "^14.26.4"
   },
   "devDependencies": {

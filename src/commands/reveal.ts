@@ -58,7 +58,7 @@ export const revealCommand = {
     const correctionAnswers = ["A", "B", "C", "D"].filter(
       (letter) => interaction.options.getBoolean(letter.toLowerCase()) === true,
     );
-    if (correctionAnswers.length > 0) {
+    if (!poll.correctAnswers?.length && correctionAnswers.length > 0) {
       poll.correctAnswers = correctionAnswers;
     }
 

@@ -3,7 +3,6 @@ import {
   SlashCommandBuilder,
 } from "discord.js";
 import { pollStore } from "../store/pollStore";
-import { sessionStore } from "../store/sessionStore";
 import type { Poll, PollOption } from "../types";
 import { buildVoteSelect } from "../utils/buttons";
 import { buildQcmEmbed } from "../utils/embeds";
@@ -94,25 +93,9 @@ export const qcmCommand = {
       { letter: "D", text: "Option D" },
     ];
 
-    // Check for an active session
-    const session = sessionStore.get(interaction.channelId);
     let questionNumber: number;
-    let sessionId: string | undefined;
 
-    if (session?.active) {
-      questionNumber = sessionStore.incrementQuestion(interaction.channelId);
-      sessionId = session.id;
-
-      // Check if session is over
-      if (session.currentQuestion > session.totalQuestions) {
-        await interaction.reply({
-          content: `⚠️ La session est terminée (${session.totalQuestions} questions atteintes). Lance une nouvelle session avec \`/session start\`.`,
-          flags: ["Ephemeral"],
-        });
-        sessionStore.delete(interaction.channelId);
-        return;
-      }
-    } else if (manualQuestionNumber) {
+    if (manualQuestionNumber) {
       questionNumber = manualQuestionNumber;
       pollStore.rememberQuestionNumber(
         interaction.channelId,
@@ -138,7 +121,6 @@ export const qcmCommand = {
       endsAt,
       revealed: false,
       questionNumber,
-      sessionId,
     };
 
     const embed = buildQcmEmbed(poll);

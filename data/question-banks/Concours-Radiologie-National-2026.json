@@ -1,0 +1,768 @@
+{
+  "sourceFile": "Concours-Radiologie-National-2026.pdf",
+  "language": "fr",
+  "questions": [
+    {
+      "number": 1,
+      "text": "La mission principale du technicien de radiologie au sein d'un service d'imagerie consiste à :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Garantir la radioprotection du patient et du personnel lors des examens ;"
+        },
+        {
+          "letter": "B",
+          "text": "Prescrire les examens d'imagerie ;"
+        },
+        {
+          "letter": "C",
+          "text": "Réaliser les examens d'imagerie médicale sur prescription médicale ;"
+        },
+        {
+          "letter": "D",
+          "text": "Interpréter les images radiologiques."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": [
+        "A"
+      ]
+    },
+    {
+      "number": 2,
+      "text": "Selon les principes de radioprotection, le technicien de radiologie doit :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Utiliser la dose maximale pour une meilleure image ;"
+        },
+        {
+          "letter": "B",
+          "text": "Appliquer le principe ALARA ;"
+        },
+        {
+          "letter": "C",
+          "text": "Adapter les paramètres techniques à la morphologie du patient ;"
+        },
+        {
+          "letter": "D",
+          "text": "Utiliser les moyens de protection individuelle et collective disponibles."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": [
+        "B"
+      ]
+    },
+    {
+      "number": 3,
+      "text": "Pour assurer sa propre sécurité, le technicien de radiologie doit :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se placer dans l'axe du faisceau ;"
+        },
+        {
+          "letter": "B",
+          "text": "Utiliser les équipements de protection individuelle ;"
+        },
+        {
+          "letter": "C",
+          "text": "Ignorer les règles de distance ;"
+        },
+        {
+          "letter": "D",
+          "text": "Désactiver les dispositifs de sécurité."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": [
+        "B"
+      ]
+    },
+    {
+      "number": 4,
+      "text": "Le technicien de radiologie est chargé de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Réparer les pannes majeures ;"
+        },
+        {
+          "letter": "B",
+          "text": "Assurer l'entretien de premier niveau et signaler toute anomalie ;"
+        },
+        {
+          "letter": "C",
+          "text": "Modifier les réglages sans protocole ;"
+        },
+        {
+          "letter": "D",
+          "text": "Valider les contrôles qualité réglementaires."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": [
+        "B"
+      ]
+    },
+    {
+      "number": 5,
+      "text": "La collimation a pour objectif principal de :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Augmenter la dose délivrée ;"
+        },
+        {
+          "letter": "B",
+          "text": "Améliorer le contraste et réduire l'irradiation inutile ;"
+        },
+        {
+          "letter": "C",
+          "text": "Élargir le champ d'examen ;"
+        },
+        {
+          "letter": "D",
+          "text": "Supprimer les artéfacts."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": [
+        "B"
+      ]
+    },
+    {
+      "number": 6,
+      "text": "L'augmentation de la distance foyer-détecteur permet :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une augmentation du flou géométrique ;"
+        },
+        {
+          "letter": "B",
+          "text": "Une diminution du flou géométrique ;"
+        },
+        {
+          "letter": "C",
+          "text": "Une augmentation de la dose patient ;"
+        },
+        {
+          "letter": "D",
+          "text": "Une perte de netteté."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": [
+        "A"
+      ]
+    },
+    {
+      "number": 7,
+      "text": "Une rotation du patient non corrigée entraîne principalement :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une surexposition ;"
+        },
+        {
+          "letter": "B",
+          "text": "Une distorsion et une superposition des structures ;"
+        },
+        {
+          "letter": "C",
+          "text": "Une augmentation du contraste ;"
+        },
+        {
+          "letter": "D",
+          "text": "Une asymétrie des structures anatomiques projetées."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": [
+        "B"
+      ]
+    },
+    {
+      "number": 8,
+      "text": "L'incidence de Mahoney est principalement indiquée pour l'exploration :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Des sinus frontaux ;"
+        },
+        {
+          "letter": "B",
+          "text": "Des os propres du nez ;"
+        },
+        {
+          "letter": "C",
+          "text": "Du défilé maxillaire postérieur ;"
+        },
+        {
+          "letter": "D",
+          "text": "Des orbites en incidence axiale."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": [
+        "B"
+      ]
+    },
+    {
+      "number": 9,
+      "text": "L'exploration standard de la pyramide nasale se fait classiquement par :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'incidence de Blondeau ;"
+        },
+        {
+          "letter": "B",
+          "text": "L'incidence de Waters bouche fermée ;"
+        },
+        {
+          "letter": "C",
+          "text": "L'incidence de profil strict ;"
+        },
+        {
+          "letter": "D",
+          "text": "L'incidence de Hirtz."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": [
+        "C"
+      ]
+    },
+    {
+      "number": 10,
+      "text": "En incidence de Gosserez, le rayon directeur est dirigé :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Verticalement de haut en bas ;"
+        },
+        {
+          "letter": "B",
+          "text": "Horizontalement perpendiculaire au détecteur ;"
+        },
+        {
+          "letter": "C",
+          "text": "Obliquement vers le défilé maxillaire ;"
+        },
+        {
+          "letter": "D",
+          "text": "Tangentiellement aux os propres du nez."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 11,
+      "text": "Une mauvaise ouverture de la bouche, en incidence de Gosserez, entraîne principalement :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une surexposition du cliché ;"
+        },
+        {
+          "letter": "B",
+          "text": "Une superposition des structures osseuses ;"
+        },
+        {
+          "letter": "C",
+          "text": "Une rotation de la tête ;"
+        },
+        {
+          "letter": "D",
+          "text": "Une mauvaise visualisation du défilé maxillaire."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 12,
+      "text": "Le cliché de coccyx de face est insuffisant seul pour :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Détecter une fracture déplacée ;"
+        },
+        {
+          "letter": "B",
+          "text": "Évaluer une anomalie morphologique ;"
+        },
+        {
+          "letter": "C",
+          "text": "Apprécier une mobilité anormale du coccyx ;"
+        },
+        {
+          "letter": "D",
+          "text": "Visualiser une calcification."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 13,
+      "text": "Un cliché de face de l'omoplate répond aux critères de réussites lorsque :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La scapula est dégagée de la superposition costale au maximum ;"
+        },
+        {
+          "letter": "B",
+          "text": "La tête humérale est parfaitement centrée ;"
+        },
+        {
+          "letter": "C",
+          "text": "Le rachis dorsal est visible ;"
+        },
+        {
+          "letter": "D",
+          "text": "Les deux épaules sont symétriques."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 14,
+      "text": "L'exploration radiologique du défilé acromio-claviculaire permet principalement :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'étude de la glène ;"
+        },
+        {
+          "letter": "B",
+          "text": "La recherche d'un pincement ou d'ostéophytes acromio-claviculaires ;"
+        },
+        {
+          "letter": "C",
+          "text": "L'exploration de la tête humérale ;"
+        },
+        {
+          "letter": "D",
+          "text": "L'analyse de la coiffe des rotateurs."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": [
+        "B"
+      ]
+    },
+    {
+      "number": 15,
+      "text": "Lors de l'incidence de Lamy, le bras exploré est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le long du corps ;"
+        },
+        {
+          "letter": "B",
+          "text": "En abduction maximale ;"
+        },
+        {
+          "letter": "C",
+          "text": "En légère abduction avec coude fléchi ;"
+        },
+        {
+          "letter": "D",
+          "text": "Derrière le dos."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": [
+        "D"
+      ]
+    },
+    {
+      "number": 16,
+      "text": "Pour l'exploration de l'apophyse coronoïde, la position correcte de l'avant-bras est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Supination ;"
+        },
+        {
+          "letter": "B",
+          "text": "Pronations alternées ;"
+        },
+        {
+          "letter": "C",
+          "text": "Position neutre ;"
+        },
+        {
+          "letter": "D",
+          "text": "Rotation externe."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 17,
+      "text": "Pour une incidence 3/4 alaire, le patient est installé :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En décubitus dorsal, bassin de face ;"
+        },
+        {
+          "letter": "B",
+          "text": "En décubitus dorsal, rotation de 45° du côté sain ;"
+        },
+        {
+          "letter": "C",
+          "text": "En décubitus dorsal, rotation de 45° du côté exploré ;"
+        },
+        {
+          "letter": "D",
+          "text": "En décubitus ventral."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": [
+        "C"
+      ]
+    },
+    {
+      "number": 18,
+      "text": "Parmi les critères de réussite d'un cliché 3/4 obturateur, il y a :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'aile iliaque est dégagée ;"
+        },
+        {
+          "letter": "B",
+          "text": "Le trou obturateur du côté exploré est bien ouvert ;"
+        },
+        {
+          "letter": "C",
+          "text": "Les deux trous obturateurs sont visibles ;"
+        },
+        {
+          "letter": "D",
+          "text": "Le rachis lombaire est centré."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 19,
+      "text": "Sur l'incidence oblique du rachis lombaire, les corrélations anatomo-radiologiques des différentes parties du « petit chien de la chapelle » sont les suivantes :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "L'œil correspond à l'apophyse transverse ;"
+        },
+        {
+          "letter": "B",
+          "text": "L'oreille apophyse correspond à l'articulaire supérieure ;"
+        },
+        {
+          "letter": "C",
+          "text": "Le cou correspond à l'isthme ;"
+        },
+        {
+          "letter": "D",
+          "text": "Le corps correspond à l'apophyse articulaire inférieure."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 20,
+      "text": "En ASP, le signe radiologique le plus évocateur d'une occlusion mécanique de la grêle correspond à :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La présence de niveaux hydro-aériques périphériques ;"
+        },
+        {
+          "letter": "B",
+          "text": "La présence de niveaux hydro-aériques centraux multiples disposés en cadre ;"
+        },
+        {
+          "letter": "C",
+          "text": "Une distension colique isolée ;"
+        },
+        {
+          "letter": "D",
+          "text": "Une absence totale de gaz digestif."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 21,
+      "text": "En mammographie, les principaux intérêts du cliché localisé consistent à :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bien visualiser les foyers de microcalcifications ;"
+        },
+        {
+          "letter": "B",
+          "text": "Limiter les superpositions en refoulant les tissus voisins ;"
+        },
+        {
+          "letter": "C",
+          "text": "Préciser les contours d'une opacité ;"
+        },
+        {
+          "letter": "D",
+          "text": "Améliorer la définition globale des contours."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 22,
+      "text": "Avant la réalisation d'une TDM du crâne, la préparation somatique obligatoire consiste à :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Instaurer un jeûne strict de 6 heures ;"
+        },
+        {
+          "letter": "B",
+          "text": "Procéder au retrait de tous les objets métalliques (bijoux, piercings, prothèses dentaires amovibles) ;"
+        },
+        {
+          "letter": "C",
+          "text": "Réaliser un lavement évacuateur ;"
+        },
+        {
+          "letter": "D",
+          "text": "Effectuer un rasage complet de la tête."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 23,
+      "text": "Les reconstructions tridimensionnelles (3D) en TDM du crâne sont particulièrement utiles dans le contexte suivant :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Suspicion d'AVC ischémique ;"
+        },
+        {
+          "letter": "B",
+          "text": "Traumatismes crânio-faciaux avec fractures complexes ;"
+        },
+        {
+          "letter": "C",
+          "text": "Recherche d'hydrocéphalie ;"
+        },
+        {
+          "letter": "D",
+          "text": "Bilan pré-opératoire de tumeur cérébrale."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 24,
+      "text": "En cas d'injection d'un produit de contraste iodé lors d'une TDM cérébrale, la mesure de préparation indispensable est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La vérification de la fonction rénale ;"
+        },
+        {
+          "letter": "B",
+          "text": "L'administration systématique d'antihistaminiques ;"
+        },
+        {
+          "letter": "C",
+          "text": "Le jeûne de 12 heures ;"
+        },
+        {
+          "letter": "D",
+          "text": "La pose d'une sonde urinaire."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 25,
+      "text": "Avant l'entrée d'un patient en salle d'IRM, l'objet qui doit absolument être retiré est :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les lunettes en plastique ;"
+        },
+        {
+          "letter": "B",
+          "text": "La carte bancaire (puce magnétique) ;"
+        },
+        {
+          "letter": "C",
+          "text": "Les boucles d'oreilles en mousse ;"
+        },
+        {
+          "letter": "D",
+          "text": "Toutes les propositions sont fausses."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false,
+      "correctAnswers": [
+        "D"
+      ]
+    },
+    {
+      "number": 26,
+      "text": "En cas d'injection de gadolinium en IRM, la vérification essentielle à réaliser concerne :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fonction rénale avec un DFG (Débit de Filtration Glomérulaire) généralement supérieur à 30 mL/min ;"
+        },
+        {
+          "letter": "B",
+          "text": "La réalisation de l'examen en position debout ;"
+        },
+        {
+          "letter": "C",
+          "text": "La tension artérielle uniquement ;"
+        },
+        {
+          "letter": "D",
+          "text": "Toutes les propositions sont fausses."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 27,
+      "text": "Pour gérer la claustrophobie d'un patient lors d'un examen IRM, la mesure psychologique prioritaire repose sur :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une explication détaillée de l'examen associée à la mise à disposition d'une poire d'urgence ;"
+        },
+        {
+          "letter": "B",
+          "text": "Une administration systématique de sédatifs avant l'examen ;"
+        },
+        {
+          "letter": "C",
+          "text": "La réalisation de l'examen en position debout ;"
+        },
+        {
+          "letter": "D",
+          "text": "Une augmentation de l'intensité du champ magnétique."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 28,
+      "text": "Le rôle principal des antennes (coils) en IRM consiste à :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Générer le champ magnétique principal de l'appareil ;"
+        },
+        {
+          "letter": "B",
+          "text": "Améliorer le rapport signal sur bruit en recevant le signal localement ;"
+        },
+        {
+          "letter": "C",
+          "text": "Assurer le refroidissement du système IRM ;"
+        },
+        {
+          "letter": "D",
+          "text": "Réduire les artéfacts."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 29,
+      "text": "En scintigraphie osseuse statique correspond à des images acquises :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Immédiatement après l'injection ;"
+        },
+        {
+          "letter": "B",
+          "text": "5 à 10 minutes après l'injection ;"
+        },
+        {
+          "letter": "C",
+          "text": "2 à 4 heures après l'injection ;"
+        },
+        {
+          "letter": "D",
+          "text": "24 heures après l'injection."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    },
+    {
+      "number": 30,
+      "text": "En scintigraphie osseuse, une hyperfixation traduite généralement :",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Une diminution de l'activité osseuse ;"
+        },
+        {
+          "letter": "B",
+          "text": "Une activité osseuse augmentée ;"
+        },
+        {
+          "letter": "C",
+          "text": "Une absence de vascularisation ;"
+        },
+        {
+          "letter": "D",
+          "text": "Une nécrose systématique."
+        }
+      ],
+      "confidence": 1,
+      "needsReview": false
+    }
+  ],
+  "examTitle": "Concours de recrutement des infirmiers et des techniciens de santé session du 18 janvier 2026",
+  "specialty": "Techniciens de santé - Radiologie",
+  "year": 2026
+}

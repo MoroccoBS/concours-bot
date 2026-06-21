@@ -1,13 +1,13 @@
+import { answerCommand } from "./answer";
 import { concoursCommand } from "./concours";
 import { pingCommand } from "./ping";
 import { qcmCommand } from "./qcm";
 import { revealCommand } from "./reveal";
-import { sessionCommand } from "./session";
 
 export const commands = [
+  answerCommand,
   qcmCommand,
   revealCommand,
-  sessionCommand,
   pingCommand,
   concoursCommand,
 ];

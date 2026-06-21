@@ -1,12 +1,16 @@
 import { EmbedBuilder } from "discord.js";
-import type { Poll, Session } from "../types";
+import type { Poll } from "../types";
+import {
+  calculateRelativeScore,
+  formatScore,
+  sameAnswers,
+} from "./scoring";
 
 const COLORS = {
   active: 0x2f80ed,
   blind: 0x9b51e0,
   success: 0x27ae60,
   results: 0x00a8cc,
-  leaderboard: 0xf2994a,
 };
 
 const OPTION_BADGES: Record<string, string> = {
@@ -89,14 +93,21 @@ export function buildRevealEmbed(
     })
     .join("\n\n");
 
-  // Who got it right / wrong
+  // Who got it right / partially right / wrong
   const correct: string[] = [];
+  const partial: string[] = [];
   const wrong: string[] = [];
   if (hasCorrection && poll.correctAnswers) {
     for (const [userId, letters] of poll.votes.entries()) {
       const name = userNames.get(userId) ?? `<@${userId}>`;
-      if (sameAnswers(letters, poll.correctAnswers)) correct.push(name);
-      else wrong.push(name);
+      const score = calculateRelativeScore(letters, poll.correctAnswers);
+      if (sameAnswers(letters, poll.correctAnswers)) {
+        correct.push(name);
+      } else if (score > 0) {
+        partial.push(`${name} (${formatScore(score)} pt)`);
+      } else {
+        wrong.push(name);
+      }
     }
   }
 
@@ -137,6 +148,12 @@ export function buildRevealEmbed(
         value: correct.join(", "),
         inline: true,
       });
+    if (partial.length > 0)
+      embed.addFields({
+        name: `🟡 Partiel (${partial.length})`,
+        value: partial.join(", "),
+        inline: true,
+      });
     if (wrong.length > 0)
       embed.addFields({
         name: `❌ Incorrect (${wrong.length})`,
@@ -148,48 +165,6 @@ export function buildRevealEmbed(
   return embed;
 }
 
-function sameAnswers(left: string[], right: string[]): boolean {
-  if (left.length !== right.length) return false;
-  const expected = new Set(right);
-  return left.every((letter) => expected.has(letter));
-}
-
 function formatAnswers(answers: string[]): string {
   return answers.join(" + ");
-}
-
-// ── Session leaderboard embed ─────────────────────────────────────────────────
-const MEDALS = ["🥇", "🥈", "🥉"];
-
-export function buildLeaderboardEmbed(
-  session: Session,
-  userNames: Map<string, string>,
-  isFinal = false,
-): EmbedBuilder {
-  const done = session.currentQuestion;
-  const total = session.totalQuestions;
-
-  const sorted = [...session.scores.entries()].sort(([, a], [, b]) => b - a);
-
-  const leaderboard =
-    sorted.length > 0
-      ? sorted
-          .map(([userId, score], i) => {
-            const medal = MEDALS[i] ?? `**${i + 1}.**`;
-            const name = userNames.get(userId) ?? `<@${userId}>`;
-            const pct = done > 0 ? Math.round((score / done) * 100) : 0;
-            return `${medal} ${name} — **${score}/${done}** (${pct}%)`;
-          })
-          .join("\n")
-      : "*Aucun vote enregistré encore.*";
-
-  const title = isFinal
-    ? `🏆 Résultats Finaux — Session terminée`
-    : `📊 Scores en cours`;
-
-  return new EmbedBuilder()
-    .setColor(COLORS.leaderboard)
-    .setTitle(title)
-    .setDescription(leaderboard)
-    .setFooter({ text: `${done}/${total} questions posées` });
 }
