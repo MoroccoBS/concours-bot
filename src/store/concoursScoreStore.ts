@@ -50,6 +50,7 @@ async function serializeWrite(
         `Error in score store operation queue for ${channelId}:${bankId}:`,
         error,
       );
+      throw error;
     });
   setQueue(channelId, bankId, nextQueue);
   return nextQueue;
